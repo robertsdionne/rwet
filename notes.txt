@@ -1,0 +1,16 @@
+ctrl+c := stop execution
+ctrl+d := end of file
+
+mkdir rwet
+cd rwet
+pwd
+
+open .
+
+cat
+grep
+tail
+head
+
+username: rwet
+password: rwetrwet
