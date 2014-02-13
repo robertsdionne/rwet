@@ -1,0 +1,23 @@
+Roberts-MacBook-Pro:hw1 robertsdionne$ ./hw1.py -p 1.0 -c -l onomotopoeia5grams.json < ../texts/sea_rose.txt
+spl choo
+
+irlop bleep bleep
+afoodl don nort yadat po gattjom
+nackle nortysc gaili
+-bang do hoo-c
+
+owle nortysch
+kráa g don gooe
+barkla ga g dong po
+ppe nor pongho ho voe nortys
+
+iizhiiłc vovo vovov yada,
+otm nom nomng po hoo choo,
+iue nor yadaep
+li nom nomss yada
+dula yadaee no vov dongl
+
+ako cho hooppety-c
+aper nomh nomia gaashoote
+epingnud bl d dongy
+

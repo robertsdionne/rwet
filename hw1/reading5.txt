@@ -1,0 +1,22 @@
+Roberts-MacBook-Pro:hw1 robertsdionne$ ./hw1.py -p 0.9 -c -l onomotopoeia5grams.json < ../texts/sea_rose.txt
+ew- hoop
+
+arlo, homsc gaspe
+sirrup arl gooh yadat ch pongle-
+umperi gaoffaw thudo
+licky ho hoosh
+
+ucho chooieko
+dóli n nor nort
+murous ya y stle no
+yow vov nomght nn don nortys
+
+owubble- homh gaakk perik
+avo voe norty no gae norty
+oou gae lishoo
+væ cho choo- dant
+wcho gailos ya yad yada.
+
+pia yad nortyschsl
+wlop blee nortd hoo-chooe
+hahahaea ya a gaaha

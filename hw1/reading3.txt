@@ -1,0 +1,23 @@
+Roberts-MacBook-Pro:hw1 robertsdionne$ ./hw1.py -p 0.5 -c -l onomotopoeia5grams.json < ../texts/sea_rose.txt 
+StA nOSt
+
+ahslo harsh host,
+oucred nod wubb staxt ow neracsö
+mealae nlowee, hhing
+spate nf lisf,
+
+mote noeepous
+ohan p bet rosh
+sizzle ow a yaem -c
+yau aae caught in the nortt.
+
+Stridel, nido voalk hearb
+you ate fleba ya the sand,
+pli at- liftsí
+ił the croak sing
+tuau drarrs ip tle wing-
+
+Cam thu gpococrune
+mrip sick aprtd googlunke
+haruealk nn a lídf?
+

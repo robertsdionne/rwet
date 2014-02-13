@@ -15,7 +15,7 @@ def normalize_dictionary_of_counts(dictionary_of_counts):
 
 def main():
   commands = argparse.ArgumentParser(description = 'Extracts n-grams from standard input.')
-  commands.add_argument('-n', '--number', dest = 'number', type = int, default = 2,
+  commands.add_argument('-n', '--number', type = int, default = 2,
       help = 'the number, n, of units in the n-grams')
   unit_group = commands.add_mutually_exclusive_group(required = True)
   unit_group.add_argument('-c', '--characters', action = 'store_true',
@@ -26,21 +26,21 @@ def main():
   arguments = commands.parse_args()
 
   if arguments.characters:
-    delimiter = ''
+    delimiter = u''
   else:
-    delimiter = ' '
+    delimiter = u' '
 
   ngrams = {}
   for i in xrange(1, arguments.number + 1):
     ngrams[i] = {}
   for line in sys.stdin:
     if arguments.characters:
-      units = line.strip()
+      units = line.decode('utf8').strip()
     else:
-      units = line.strip().split()
+      units = line.decode('utf8').strip().split()
     for i in xrange(1, arguments.number + 1):
       igrams = ngrams[i]
-      for j in xrange(0, len(units) - i + 1):
+      for j in xrange(len(units) - i + 1):
         if i > 1:
           prefix = delimiter.join(units[j:j + i - 1])
           suffix = units[j + i - 1]
