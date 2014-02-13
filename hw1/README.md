@@ -8,7 +8,7 @@ Two programs:
 
 ## ngram.py
 
-```
+```bash
 $ ./ngram.py --help
 usage: ngram.py [-h] [-n NUMBER] (-c | -t)
 
@@ -68,7 +68,7 @@ $ cat bigrams.json
 
 ## hw1.py
 
-```
+```bash
 $ ./hw1.py --help
 usage: hw1.py [-h] [-i] -l LANGUAGE_MODEL [-p PROBABILITY] [-u] (-c | -t)
 
