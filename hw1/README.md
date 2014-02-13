@@ -81,3 +81,11 @@ optional arguments:
   -c, --characters      sets the unit to characters
   -t, --tokens          sets the unit to tokens
 ```
+
+### Example
+
+```
+$ echo whoa, who are you to judge me? what mood! | ./hw1.py -l bigrams.json -c > reading.txt
+$ cat reading.txt
+woby, wby aoe dou to jucgy mec dhay moob!
+```
