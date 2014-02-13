@@ -67,7 +67,7 @@ def mutate_line(
 def main():
   commands = argparse.ArgumentParser(description = 'Morphs input text into the style of another.')
   commands.add_argument('-i', '--uniform_probability', action = 'store_true',
-      help = 'whether to invert the probability values when sampling')
+      help = 'whether to ignore the probability values when sampling')
   commands.add_argument('-l', '--language_model', required = True, help = 'the language model')
   commands.add_argument('-p', '--probability', type = float, default = 0.5,
       help = 'the probability of mutating a unit')
