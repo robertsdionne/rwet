@@ -91,9 +91,9 @@ def main():
 
   for line in sys.stdin:
     if arguments.characters:
-      units = line.strip()
+      units = line.decode('utf8').strip()
     else:
-      units = line.strip().split()
+      units = line.decode('utf8').strip().split()
     print mutate_line(language_model, arguments.probability,
         arguments.use_original_context, arguments.uniform_probability, delimiter, units)
 
