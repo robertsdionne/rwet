@@ -8,6 +8,12 @@ Two programs:
 
 ## ngram.py
 
+Ngram.py examines standard input and prints a JSON structure to standard output that
+contains n-gram statistics for the input text. The user chooses a value for n, and the program
+calculates statistics for unigrams, bigrams, ..., up to n-grams. The program serves as an
+intermediate step in homework #1 by enabling the user to save n-gram statistics for use with the
+hw1.py script.
+
 ```bash
 $ ./ngram.py --help
 usage: ngram.py [-h] [-n NUMBER] (-c | -t)
