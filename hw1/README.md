@@ -78,7 +78,7 @@ $ cat bigrams.json
 Hw1.py reads a text from standard input and mutates it using n-gram statistics gathered from another
 text. The user chooses a JSON file containing the n-gram model, a mutation probability p, and
 whether to mutate units of characters or tokens (warning: this choice must match the type of
-statistics stored in the model).
+statistics stored in the model file).
 
 ```bash
 $ ./hw1.py --help
