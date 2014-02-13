@@ -2,6 +2,7 @@
 
 ## ngram.py
 
+```
 $ ./ngram.py --help
 usage: ngram.py [-h] [-n NUMBER] (-c | -t)
 
@@ -13,9 +14,11 @@ optional arguments:
                         the number, n, of units in the n-grams
   -c, --characters      sets the unit to characters
   -t, --tokens          sets the unit to tokens
+```
 
 ## hw1.py
 
+```
 $ ./hw1.py --help
 usage: hw1.py [-h] [-i] -l LANGUAGE_MODEL [-p PROBABILITY] [-u] (-c | -t)
 
@@ -33,3 +36,4 @@ optional arguments:
                         fixes the original text as context for mutations
   -c, --characters      sets the unit to characters
   -t, --tokens          sets the unit to tokens
+```
