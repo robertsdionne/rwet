@@ -1,5 +1,11 @@
 # RWET Homework #1
 
+Two programs:
+* [ngram.py](https://github.com/robertsdionne/rwet/tree/master/hw1#ngrampy)
+    * [example](https://github.com/robertsdionne/rwet/tree/master/hw1#example)
+* [hw1.py](https://github.com/robertsdionne/rwet/tree/master/hw1#hw1py)
+    * [example](https://github.com/robertsdionne/rwet/tree/master/hw1#example-1)
+
 ## ngram.py
 
 ```
