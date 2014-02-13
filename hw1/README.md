@@ -18,7 +18,7 @@ optional arguments:
 
 ### Example
 
-```
+```bash
 $ echo scooby dooby doo | ./ngrams.py -n 2 -c > bigrams.json
 $ cat bigrams.json 
 ```
@@ -84,7 +84,7 @@ optional arguments:
 
 ### Example
 
-```
+```bash
 $ echo whoa, who are you to judge me? what mood! | ./hw1.py -l bigrams.json -c > reading.txt
 $ cat reading.txt
 woby, wby aoe dou to jucgy mec dhay moob!
