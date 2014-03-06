@@ -7,8 +7,8 @@ import re
 import sys
 
 
-S = 7
-N = 14
+S = 7 # number of stanzas
+N = 14 # maximum number of lines per stanza
 
 
 def sanitize_word(word):
@@ -44,9 +44,7 @@ def main():
       first_word = sanitize_word(words[0])
       if len(first_word) > 0:
         first_letter = first_word[0]
-        if first_letter not in starts_with:
-          starts_with[first_letter] = set()
-        starts_with[first_letter].add(line)
+        starts_with.setdefault(first_letter, set()).add(line)
   s = 0
   while s < S:
     first_letter = random.choice(starts_with.keys())
@@ -55,7 +53,7 @@ def main():
     while first_letter in starts_with and n < N:
       if len(starts_with[first_letter]) is 0:
         break
-      line = random.choice(list(starts_with[first_letter]))
+      line = random.choice([x for x in starts_with[first_letter]])
       starts_with[first_letter].remove(line)
       original_words = line.split()
       words = original_words[:]
