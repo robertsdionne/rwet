@@ -6,3 +6,4 @@ Reading and Writing with Electronic Text: http://rwet.decontextualize.com/
 My blog has accompanying documentation: http://robertsdionne.tumblr.com/tagged/rwet
 
 * Homework #1: https://github.com/robertsdionne/rwet/tree/master/hw1#readme
+* Homework #2: https://github.com/robertsdionne/rwet/tree/master/hw2#readme
