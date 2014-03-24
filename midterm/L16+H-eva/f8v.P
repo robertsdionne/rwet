@@ -1,0 +1,90 @@
+## <f8v.P> {}
+# text
+# Last edited on 1998-12-11 12:28:48 by stolfi
+#
+# The first two <t>s below are a single <t> with one leg in each place.
+<f8v.P.1;H>        cthod.soocth-{plant}sol.shol.otol.chol.opcheaiin.opydaiin.saiin-
+<f8v.P.1;C>        !!*od.soo*!!-{plant}sol.shol.otol.chol.opcheaiin.opydaiin.saiin-
+<f8v.P.1;F>        cthod.soocth-{plant}sol.shol.otol.chol.opcheaiin.opydaiin.saiin-
+<f8v.P.1;U>        cthod.soocth-{plant}sol.shol.otol.chol.opchoaiin.opydaiin.saiin-
+#
+<f8v.P.2;H>        shcthal.sar-{plant}chor.sheaiin.shor.chykchy.otaiin.cty-
+<f8v.P.2;C>        shcthol.sar-{plant}chor.shoaiin.shor.chykchy.otaiin.ety-
+<f8v.P.2;F>        shcthal.sar-{plant}chor.sheaiin.shor.chykchy.otaiin.ety-
+<f8v.P.2;U>        shcthal.sar-{plant}chor.sheaiin.shor.shykchy.otaiin.cty-
+#
+<f8v.P.3;H>        qody.cheal.sy-{plant}chory-{plant}chear.shol.chaiin.shaiin.dolar-
+<f8v.P.3;C>        qody.cheal.sy-{plant}chor!-{plant}chear.shol.chaiin.shaiin.dolar-
+<f8v.P.3;F>        qody.cheal.sy-{plant}chory-{plant}chear.shol.chaiin.shaiin.dolar-
+<f8v.P.3;U>        qody.cheal.sy-{plant}chory-{plant}chear.shol.chaiin.shaiin.dolar-
+#
+<f8v.P.4;H>        dshol.shol-{plant}dol-{plant}chean.cthar.shealy.daiin.chary-
+<f8v.P.4;C>        *shol.shol-{plant}dol-{plant}chean.cthar.she!!y.daiin.chary-
+<f8v.P.4;F>        dshol.shol-{plant}dol-{plant}chean.cthar.shealy.daiin.chary-
+<f8v.P.4;U>        dshol.shol-{plant}dal-{plant}chean.cthar.shealy.daiin.chary-
+#
+<f8v.P.5;H>        chol.chol.dar-{plant}otchar.etaiin.cthol.dar-
+<f8v.P.5;C>        chol.chol.dar-{plant}otchar.otaiin.cthol.dar-
+<f8v.P.5;F>        chol.chol.dar-{plant}otchar.etaiin.cthol.dar-
+<f8v.P.5;U>        chol.chol.dar-{plant}otchar.ctaiin.cthol.dar-
+#
+<f8v.P.6;H>        daiin.cthan-{plant}ytchy.chey.kaiin.dain.ar-
+<f8v.P.6;C>        daiin.cthan-{plant}ytchy.chey!kaiin.dain.ar-
+<f8v.P.6;F>        daiin.cthan-{plant}ytchy.chey.kaiin.dain.ar-
+<f8v.P.6;U>        daiin.cthan-{plant}ytchy.choy!kaiin.dain.ar-
+#
+<f8v.P.7;H>        sho.kchol-{plant}dar.shey.cthar.chotain.ry-
+<f8v.P.7;C>        sho.kchol-{plant}dar.shey.cthar.chotain.ry-
+<f8v.P.7;F>        sho.kchol-{plant}dar.shey.cthar.chotain.ry-
+<f8v.P.7;U>        cho.kchol-{plant}dar.shey.cthar.chotain.ry-
+#
+<f8v.P.8;H>        okchol.ksh-{plant}chol.chol.chol.cthaiin.dain-
+<f8v.P.8;C>        okchol!ksh-{plant}chol.chol.chol.cthaiin.dain-
+<f8v.P.8;F>        okchol.ksh-{plant}chol.chol.chol.cthaiin.dain-
+<f8v.P.8;U>        okchol.ksh-{plant}chol.chol.chol.cthaiin.dain-
+#
+<f8v.P.9;H>        shol.orchl-{plant}chokchy.chol.cthor.chaiin-
+<f8v.P.9;C>        shol.orchl-{plant}chokchy.chol.cthor.chaiin-
+<f8v.P.9;F>        shol.orchl-{plant}chokchy.chol.cthor.chaiin-
+<f8v.P.9;U>        chol.orchl-{plant}chokchy.chol.cthor.chaiin-
+#
+<f8v.P.10;H>       scharchy-{plant}oeesody.kchey.pchy.cpharom-
+<f8v.P.10;C>       scharchy-{plant}oeesody.kchey.pchy.cpharom-
+<f8v.P.10;F>       scharchy-{plant}oeesody.kchey.pchy.cpharom-
+<f8v.P.10;U>       scharchy-{plant}oeesody.kchey.pchy.cpharom-
+#
+<f8v.P.11;H>       sorain={plant}
+<f8v.P.11;C>       sorain={plant}
+<f8v.P.11;F>       sorain={plant}
+<f8v.P.11;U>       sorain={plant}
+#
+<f8v.P.12;H>       pchar.cho.rol.dal-{plant}shear.cheeotaiin.chal.daiin-
+<f8v.P.12;C>       pchar.cho.rol.dal-{plant}shear.chchotaiin.chal.daiin-
+<f8v.P.12;F>       pchar.cho.rol.dal-{plant}shear.cheeotaiin.chal.daiin-
+<f8v.P.12;U>       pchar.cho.rol.dal-{plant}shear-chchotaiin.chal.daiin-
+#
+<f8v.P.13;H>       kchor.otchar.oky-{plant}chokain.keoky.otorchy.satar-
+<f8v.P.13;C>       kchor.otchor.oky-{plant}chokain.keoky.otorchy.sytar-
+<f8v.P.13;F>       kchor.otchar.oky-{plant}chokain.keoky.otorchy.satar-
+<f8v.P.13;U>       kchor.otchar.oky-{plant}chokain.keoky.otorchy.satar-
+#
+<f8v.P.14;H>       shor.okol.lokaiin-{plant}shol.kol.char.cthey.tchy.ckham-
+<f8v.P.14;C>       shor.okol.lokoiin-{plant}shol.kol.char.cthey.tchy.ckham-
+<f8v.P.14;F>       shor.okol.lokaiin-{plant}shol.kol.char.cthey.tchy.ckham-
+<f8v.P.14;U>       shor.okol.lokaiin-{plant}shol.kol.char.cthey.tchy.ckham-
+#
+<f8v.P.15;H>       or.chol.cheen.chcky-{plant}chor.cheain.char.cheeky.chor.ry-
+<f8v.P.15;C>       or.chol.cha!n.ch*!y-{plant}chor.cheain.char.che*!y.chor.ry-
+<f8v.P.15;F>       or.chol.chiin.cheky-{plant}chor.cheain.char.cheeky.chor.ry-
+<f8v.P.15;U>       or.chol.cheeb.cheky-{plant}chor.cheain.char.cheeky.chor.ry-
+#
+<f8v.P.16;H>       chor.chear.chear-{plant}oteey.dchor.chodey.cho.raiin-
+<f8v.P.16;C>       chor.cheor.chear-{plant}oteey.dchor.chodey.cho.raiin-
+<f8v.P.16;F>       chor.cheor.chear-{plant}oteey.dchor.chodey.cho.raiin-
+<f8v.P.16;U>       chor.cheor.chear-{plant}oteey.dchor.chodey.cho.raiin-
+#
+<f8v.P.17;H>       dain.chear.daiin={plant}
+<f8v.P.17;C>       dain.chear.daiin={plant}
+<f8v.P.17;F>       dain.chear.daiin={plant}
+<f8v.P.17;U>       dain.chear.daiin={plant}
+#

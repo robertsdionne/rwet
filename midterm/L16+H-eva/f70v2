@@ -1,0 +1,352 @@
+## <f70v2>          {$I=Z $Q=J $P=E}
+# Last edited on 1998-11-02 07:51:57 by stolfi
+#
+# Identification:
+#
+#   Title: "Pisces"
+#   Page: f70v2 = JE (Rene) = p133 (Stolfi) = 135 (Reeds)
+#   Folio: f70
+#   Panels: f70v2
+#   Bifolio: bJ1 = f69+f70
+#   Quire: J (Rene) = X (Beinecke)
+#
+#   This page spans the two outer verso panels of a six-panel fold-out.
+#   The outermost panel is narrower than normal panels.
+#
+#   Newbold calls this 70r.
+#   Figure 26 on page 172 of Levitov's book.
+#
+#   Roe, 8th September 1993
+#   Machine translated from a transcription in Bennett notation of 16/04/90
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: Z (Rene), zod (Stolfi)
+#   Subject: zodiac
+#   Colors: green,blue,red(sparingly,mouths),yellow(stars) (Reeds)
+#
+# Description:
+#
+#   Three concentric rings of text (units "R1" through "R3", inner to
+#   outer), each bounded by a pair of faint, mechanically drawn
+#   circles.
+#
+#   Just outside the innermost ring of text there is a narrow band of
+#   abstract decoration (Greek-like meanders, notched strips,
+#   hatching, etc., and "notched square" motifs), delimited by another
+#   mechanical circle.
+#
+#   One can see a small portion (the Northwest quarter, mostly) of
+#   another mechanical circle, just inside the middle ring of text.
+#   This arc of circle appears to bound, and even clip, the "nymph"
+#   drawings inside it (see below).
+#
+#   In the centre of the diagram there are two fish, the top one
+#   facing West, the bootom one facing East. Each fish has a long,
+#   smooth, pointed snout (vaguely like a tapir's) and horizontal
+#   mouth (the top fish is smiling, the other is sad). The body is
+#   slender like a sturgeon's, with four rows of coarse scales. 
+#   To the body are attached a triangular tail, pectoral and ventral fins
+#   (presumably paired), and two short dorsal fins (one just behind
+#   the head, one 2/3 of the way to the tailfin). The tailfin is lobed
+#   and divided into "feathers", like a bird's tail.
+#   
+#   There is a seven-pointed star above the fish, with a Voynichese
+#   label (unit "C"); and another one below, unlabeled. Between the
+#   two fish there is a word in non-Voynich script, whose strokes
+#   seem thicker and more angular than the Voynichese label above.
+#
+#   Two thin threads connect the fishes' mouths to the top star. The
+#   threads merge just below the star, and connect to it between its
+#   two lower rays. Both threads run clockwise; the lower one passing
+#   below the fishes, thickens shortly after leaving the fish's mouth,
+#   and at its lowest point it sends off a branch that connects to the
+#   highest ray of the bottom star.
+#
+#   Between the inner and middle rings of text there is a broad band
+#   containing 10 human figures or "nymphs", each coming out of a
+#   horizontal cylinder. These cylinders look like sections of
+#   drainage pipe, with flanges at both ends (cf. f78r). All
+#   cylinders, except the one at 11:00, open counterclockwise, and the
+#   nymphs face in the same direction. The nymphs have most of their
+#   legs inserted horizontally into the "pipes", but bend quite
+#   unnaturaly, bacwards or sideways, so that their torso is upright
+#   (i.e. radial, with the head outwards).
+#
+#   Between the middle and the outer text rings are 19 (not 20)
+#   nymphs. All are standing (radially, with the head outwards); all
+#   are in frontal view, or slightly turned towards the clockwise
+#   direction. Each of these nymphs is inside an upright barrel or
+#   basket, reaching up to her waist (with only a couple of
+#   exceptions). In proportion to the nymph, the barrel is about two
+#   feet wide, and has a "lip" a couple of inches wide. All barrels
+#   are decorated with various abstract patterns---stripes, hatchings,
+#   circles, waves, etc.. The base of the barrel is hidden by the text
+#   band. The four nymphs at the top, between 11:00 and 01:00 are
+#   smaller and more cramped than the rest (and so are their barrels).
+#
+#   All figures are naked, and seem to be female: all have (or may
+#   have) full breasts, and many have visible nipples. (But the inner
+#   nymph at 09:00 seems to have nipples below her breasts.)
+#
+#   There is a star (or flower) next to each nymph, supported by a
+#   wire-like tail---sometimes straight, sometimes S-shaped. All inner
+#   nymphs except 10:00, 09:00, 08:00 are holding their stars by the
+#   "tails". All other nymphs have their hands hidden inside the
+#   barrels, and the star tails are coming out of the containers or
+#   cylinders.
+#
+#   Each of the 29 figures is labeled with a ``word'' or phrase of
+#   Voynich text (text units "S1" and "S2", inner and outer bands).
+#   The spacing suggests the label is always placed at the right (i.e.
+#   clockwise) of the corresponding nymph.
+#
+#   The following table summarizes the nymph attributes. The "spos"
+#   column says whether the star is placed clockwise ("cw") or
+#   counterclockwise ("ccw") of the nymph; for inner nymphs that is
+#   also the direction where the tube is open. The "hold" column says
+#   whether the nymph is holding the star (by a ray, or by the tail if
+#   present). The "brst" column tells whether the nymph has visible
+#   female breasts.
+#
+#     band  label place brst spos tail hold notes
+#     ----- ----- ----- ---- ---  ---- ---- ----------------------
+#     inner S1.1  11:30 ?    cw   no   yes  
+#     inner S1.2  00:15 ?    ccw  no   yes  right arm raised     
+#     inner S1.3  01:30 ?    ccw  yes  yes? 
+#     inner S1.4  03:00 yes  ccw  yes  yes  
+#     inner S1.5  04:15 yes  ccw  yes  yes  
+#     inner S1.6  05:30 yes  ccw  no   no   
+#     inner S1.7  06:15 yes  ccw  no   yes  
+#     inner S1.8  07:30 ?    ccw  no   ?    on top of fold  
+#     inner S1.9  09:00 yes  ccw  yes  no   nipples under breasts?
+#     inner S1.10 10:15 ?    ccw  yes  no   
+#
+#     outer S2.1  11:30 no   cw   yes  no   smaller
+#     outer S2.2  11:45 no   cw   yes  no   smaller
+#     outer S2.3  00:15 yes  cw   yes  no   smaller
+#     outer S2.4  00:30 yes  cw   yes  no   smaller   
+#     outer S2.5  01:00 yes  cw   yes  no        
+#     outer S2.6  01:30 yes  cw   yes  no   
+#     outer S2.7  02:00 yes  cw   yes  no   
+#     outer S2.8  02:45 yes  cw   yes  no   
+#     outer S2.9  03:30 yes  cw   yes  no   
+#     outer S2.10 04:15 no   cw   yes  no   male?
+#     outer S2.11 04:45 yes  cw   yes  no   
+#     outer S2.12 05:30 yes  cw   yes  no   
+#     outer S2.13 06:30 yes  cw   yes  no   
+#     outer S2.14 07:00 no   cw   yes  no   
+#     outer S2.15 07:45 yes  cw   yes  no   
+#     outer S2.16 08:30 yes  cw   yes  no   
+#     outer S2.17 09:30 yes  cw   yes  no   
+#     outer S2.18 10:15 yes  cw   yes  no   
+#     outer S2.19 10:45 yes  cw   yes  no   
+#
+# Comments:
+#
+#   STYLE AND LAYOUT
+#
+#   Although the nypmhs are a bit awkwards and deformed, it looks as
+#   if this drawing was done with more care than the other "Zodiac"
+#   diagrams. (However, this impression may be due simply to better
+#   preervation or reproduction.)
+#
+#   The fishes look quite realistic, except for the mouths. However
+#   they may have been "invented" rather than copied from real models.
+#
+#   The barrels in the outer group are not well drawn; the sides are
+#   neither parallel nor radial (i.e.vertical), especially in the one
+#   at 10:45. The perspective is not quite correct ---the top is
+#   tilted too much towards the viewer, and in four cases (05:30,
+#   06:30, 10:15, 10:45) it is drawn as an eye, not an ellipse. The
+#   decoration however curves around the barrel, as it should.
+#
+#   It seems that the artist planned to add another band of decoration
+#   just inside the middle text ring. He/she lightly sketched the
+#   inner bounding circle of that band, and carefully avoided it while
+#   drawing the inner nymphs from 08:00 to 01:00. (By the way, this
+#   explains why the nymph at 07:30 has her face crammed against the
+#   fold.) But the nymphs from 01:00 to 08:00 overflowed that circle
+#   (perhaps because it was too faint in those parts), and the band
+#   was left undecorated.
+#
+#   From the kinks in the circles, and the appearance of figures and
+#   text near the fold, its seems that the fold was already present
+#   when the drawing was made.
+#
+#   THE FISH EMBLEM
+#
+#   The two fish are obviously the astrological symbol for Pisces,
+#   which is February 20th to March 20th.
+#
+#   Rene Zandbergen [23 Feb 96] reports seeing an illustration of the
+#   Pisces symbol [2] very similar to the center picture of f70v2, in
+#   anatomy and proportions.
+#
+#   Rene [14 Mar 1997] notes that whenever there are two things in a
+#   zodiac symbol (Cancer, Libra), or two copies of a diagram (Taurus,
+#   Aries), one is light and the other is dark; but pisces is an
+#   exception. (But "dark" and "light" may be just reproduction noise;
+#   we should look at the original colors.)
+#
+#   THE "MONTH NAME"
+#
+#   The word between the fish could be "(m|n)((a|ci)(v|r)|w)(c|g)" in
+#   Latin script, and is traditionally read "mars". Mars is French for
+#   March. The first letter resembles the last letter of <f116v.P.1>
+#   (the "michiton" line).
+#
+#   THE CENTRAL STARS
+#
+#   Don Latham [25 Apr 1997] notes that the star must be al-rischa
+#   (the rope-knot) from his constellation atlas. [The label is
+#   "otolal" in the best transcription.] Rene [5 Jan 1998] reports
+#   howeer that "alrischa" is a late assignment.
+#
+#   Mark Sulla [26 Apr 1997] adds that 
+#
+#     Hipparchos and Ptolemy called it "sundesmos ton ikhthuon" or
+#     "ton linon". Cicero et al called it "nodus", or "nodus
+#     caelestis" and "nodus piscium" Pliny called it the "commissura
+#     Piscium" The Almagest called it "nodus duorum filorum". The
+#     asterism of the threads was variously called "vincla",
+#     "alligamentum" "linteum" or "luteum". Hevelius subdivided it
+#     into the "linum boream" and "austrinum". [1]
+#
+#   Rene [28 Apr 1997] observes however that the label need not be the
+#   name, it could be some indication of its position: X deg Y min. He
+#   also notes that alrischa belongs with the *constellation* of
+#   Pisces, not the *sign*.
+#
+#   Rene [28 Apr 1997] suggests that Polaris would be a possible
+#   candidate for the star, on account of its distinguished position
+#   in the VMS. Don Latham [] objects, why should Polaris be in
+#   Pisces?
+#
+#   Denis Mardle [28 Apr 97] notes that "otolal" does not seem to
+#   occur in his files, but "otalal" does occur on <f58r.11;F>,
+#   <f68v3.O.1;C>, <f70v2.R1.1;C>, <f71r.15A;K>, <f72v1.R3.1;C>,
+#   <f107r.22;F>.
+#
+#   THE TEXT RINGS
+#
+#   According to Denis Mardle [14 Mar 97], the nymphs in tubes suggest
+#   that the diagram should be read from the inside out.
+#   (Unfortunately most text unit have been numbered the other way...)
+#
+#   Denis also observes [14 Mar 97] that a line through the two stars
+#   in the center points 11:00, and goes through the only inner nymph
+#   who is facing clockwise. Stolfi [here] thinks that the odd nymph
+#   was reversed so as to face the 12:00 gap, and the 12:00 nymph
+#   (with oustretched arm), because that is the "important" place in
+#   that band.
+#
+#   THE NYMPHS
+#  
+#   Stolfi [11 Aug 1998] observes that f70v2 seems to go against the
+#   general trend of the Zodiac section: as one goes from Aries to
+#   Sagittarius, the nymphs get progressivley less clothed and more
+#   exposed. So perhaps f70v2 was drawn after Aries.
+#
+#   Rene [14 Mar 1997] thinks that the nymphs coming out of tubes
+#   strongly suggest birth (whether it be a person or the cosmos). On
+#   the other hand, the disappearance of the barrels in subsequent
+#   diagrams may be simply a result of the artist becoming more hasty.
+#
+#   Rene [14 Mar 1997] suggests also that the nymphs in tubes could
+#   be linked with the alchemical concept of creation of a homunculus.
+#
+#   NYMPH/STAR COUNT
+#
+#   This folio is exceptional in having only 29 nymphs and stars. Rene
+#   [8 May 1996] suggests that the star in the center may be the
+#   missing 30th star. (But then why not count the other central star,
+#   too?) He also mentions Pietro d'Abano, a 14th century occultist,
+#   in whose astrological system each sign was divided into 30 "faces"
+#   or parts.
+#
+#   Robert Firth [note 20] conjectures that the "29" was a mistake,
+#   and the number should have been "30", like all other "months". 
+#   But that is the Pharaonic Egyptian calendar; why would anyone
+#   revive it?  
+#
+#   Stolfi [here] thinks the artist had planned to draw 20 nymphs in the 
+#   outer band, by drawing 4 small ones at the top, then 4 more in each of 
+#   the four quadrants.  This he did in the first three quadrants, going
+#   clockwise; but then he got confused (perhaps by the fold), and drew only 
+#   3 nymphs in the last quadrant, from 09:00 to 12:00.
+#
+#   THE STAR LABELS
+#   
+#   Denis Mardle [27 Mar 97] notes that 16 of the star labels start
+#   with EVA "ok", 8 start with "ot", 2 start with "yt" --- and yet all
+#   are different.  
+#
+#   Denis also notes that S1.13 and S1.14 both occur on Libra, f72v1.
+#   Robert Firth [note 07] observes similarities between the nymph
+#   labels on f72v2 and those in the Biological page f82v.
+#
+#   WHY PISCES?
+#
+#   Guy Thibault [4 Mar 1996] finds it strange that the VMS zodiac
+#   begins with Pisces, instead of Aries as is usual in astrology.
+#   Robert Firth [note 20] observes that the Egyptian year began in
+#   our July, with the heliacal rising of Sirius.
+#
+#   Dan Moonhawk Alford [4 Mar 1996] and Adams Douglas [29 Apr 1997]
+#   note that Pisces is actually astronomically correct (and has been
+#   for many centuries). But Robert asks --- why, alone of all works
+#   of Western astrology, is the Voynich Zodiac true to the stars?
+#
+#   Rayman Maleki [08 Sep 1997] says that a 15th century rebirth of
+#   astrology and medicine gave Pisces astrological control over the
+#   body. Pictures from this time often have a person standing firmly
+#   on the fish. He mentions a drawing of an apothecary shop in Prague
+#   that had two fish as symbol on the sign. 
+#
+#   Rayman [08 Sep 1997] suggests that, alternatively, Pisces may be
+#   the beginning of the planting year. Or the VMS may be a reading
+#   for someone born in Pisces. Rene [17 Jul 1998] proposes as a
+#   possible VMs author a certain George of Trebizond, who "had a firm
+#   belief in astrology and wrote that his fated life was controlled
+#   by his birth in the sign of Pisces." Moreover, he was once jailed
+#   because of his `libido'.
+#
+#   Glen Claston [25 Feb 1998] says that he saw EVA "&169" used as a
+#   power seal symbol related to Pisces, in a book on Honorius in an
+#   occult shop, but the book gave no reference to its origin.
+#   (Honorius was 13th? century but all related symbols in the
+#   paperback were 14th century.)
+#
+#   Rene [21 Apr 1997] and Denis [24 Apr 97] mention a set of
+#   conjuntions of Saturn and Jupiter in 1464, 1524 and 1583 in
+#   Pisces; the 1524 was believed to announce a terrible deluge
+#   because of the watery sign.
+#
+#   ZODIAC, OR SOMETHING ELSE?
+#
+#   Guy Thibault [4 Mar 1996] suggests that the signs could stand for
+#   years in the life of an individual, and each nymph for a month;
+#   and that the "kings' and "queens" could be real historical people.
+#   The 9 nymphs in tubes of this picture could be the 9 months in the
+#   womb. Robert Firth [note 07] proposes a similar idea - that the
+#   "zodiac" is a list of "lucky" and "unlucky" days.
+#
+#   Rene [8 Mar 1996] takes up Guy's suggestion and estimates that the
+#   individual shoudl have been 25-30 years old at the time of
+#   writing, or died at that age. But there are 10, not 9 nymphs in
+#   horizontal tubes, so this period is more likely post-natal than
+#   pre-natal. As for kings and queens, he mentions that Agrippa's
+#   sister became queen of Navarre...
+#
+# References:
+#
+#   [1] "Star Names, their Lore and Meaning", Dover,  Richard Hinckley
+#   Allen, p. 342 (re: Al Rischa).
+#
+#   [2] "The history of private life", volume 2 of 5. The caption says
+#   "`La Manekine' which is in the Cambrai Library" (that should be
+#   Cambrai in France).
+#

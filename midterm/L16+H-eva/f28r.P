@@ -1,0 +1,40 @@
+## <f28r.P> {}
+# text
+# Last edited on 1998-12-07 04:45:11 by stolfi
+#
+<f28r.P.1;H>       pchodar.shod.chocphy.opchol.daiin-{plant}otchol.chy!qo.l!dy-
+<f28r.P.1;C>       pchodar.shod.chocphy.opchor.daiin-{plant}otchol.chy.qo!l.dy-
+<f28r.P.1;F>       pchodar.shod.chocphy.opchol.daiin-{plant}otchol.chy!qo!l!dy-
+#
+<f28r.P.2;H>       otchor.otchor.cthol.ct!y.ctheol.dy-{plant}dchar.chakod.dly-
+<f28r.P.2;C>       otchor.o!chor.cthol.cthy.ctheol.dy-{plant}dchar.chakod.dly-
+<f28r.P.2;F>       otchor.otchor.cthol.cthy.ctheol.dy-{plant}dchar.chakod.dly-
+#
+<f28r.P.3;H>       qotchaiin.shor.cthol.cthol.shor-{plant}chotchy.tchodar-
+<f28r.P.3;C>       qotchaiin.shor.cthol.cthol.shor-{plant}chotchy.tchodar-
+<f28r.P.3;F>       qotchaiin.shor.cthol.cthol.shor-{plant}chotchy.tchodar-
+#
+<f28r.P.4;H>       choty.chtol.otol.chotchy.cthol-{plant}otol.choky.qoty-
+<f28r.P.4;C>       !!oty.chtol.ot.l.chotchy.cthol-{plant}otol.choky.qoty-
+<f28r.P.4;F>       choty.chtol.otol.chotchy.cthol-{plant}otol.choky.qoty-
+#
+<f28r.P.5;H>       oksho.otor.chy.kchor!or.chodaiin-{plant}sho.cthody.okoy-
+<f28r.P.5;C>       oksho.otor.chy.kchor!or.chodaiin-{plant}sho.cthody.okoy-
+<f28r.P.5;F>       oksho.otor!chy.kchor.or.chodaiin-{plant}sho.cthody.okoy-
+#
+<f28r.P.6;H>       qokchol.qodaiin.otcholchy.daiin-{plant}cho.qokol.okam-
+<f28r.P.6;C>       qokchol.qodaiin.otcholchy.daiin-{plant}cho.qokol.okam-
+<f28r.P.6;F>       qokchol.qodaiin.otcholchy.daiin-{plant}cho.qokol.okam-
+#
+<f28r.P.7;H>       sho.otor.shockhy.shocthy.otol!dy-{plant}dshor.dol.dar-
+<f28r.P.7;C>       sho.otor.shog!!y.shocthy.otor.dy-{plant}dshor.dol.dar-
+<f28r.P.7;F>       sho.otor.shockhy.shocthy.otol!dy-{plant}dshor.dol.dar-
+#
+<f28r.P.8;H>       oschotshl.daiin.okchey.kol.daiin-{plant}shol.dsho.otaiin-
+<f28r.P.8;C>       oschotshl.daiin.okchey.kol.daiin-{plant}shol.dsho.otaiin-
+<f28r.P.8;F>       oschotshl.daiin.okchey.kol.daiin-{plant}shol.dsho.otaiin-
+#
+<f28r.P.9;H>       ytchol.deey.yteol.deaiin=
+<f28r.P.9;C>       ytchol.deey.yteol.deaiin=
+<f28r.P.9;F>       ytchol.deey.yteol.deaiin=
+#

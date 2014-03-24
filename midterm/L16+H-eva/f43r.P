@@ -1,0 +1,84 @@
+## <f43r.P> {}
+# text
+# Last edited on 1998-12-27 22:26:19 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+<f43r.P.1;H>       tarodaiin.ytedy.chody.ofchtar.chcphedy.ypar.shol.folor.aiin.cphhy.dar-
+<f43r.P.1;C>       tarodaiin.ytedy.chody.!fchtar.chcphedy.ypar.shol.folor.aiin.cphey.dar-
+<f43r.P.1;F>       tarodaiin.ytedy.chody.ofchtar.chcphedy.ypar.shol.folor.aiin.cphey.dar-
+<f43r.P.1;U>       tarodaiin.ytedy.chody.ofchtar.chcphedy.ypar.shol.folor,aiin.cphey.dar-
+#
+<f43r.P.2;H>       yteody.oteol.ytedy.ar.chety.dar.aiir.okaldy.daral.otchdy.daiin.dal.!s-
+<f43r.P.2;C>       yteody.oteol.ytedy.ar.chety.dar.aiir.okaldy.daral.otchdy.daiin.dal.!s-
+<f43r.P.2;F>       yteody.oteol.ytedy.ar.chety.dar!aiir.okaldy.daral.otchdy.daiin.daiinr-
+<f43r.P.2;G>       yteody.oteol.ytedy.ar.chety.dar!aiin.okaldy.daral.otchdy.daiin.daiinr-
+<f43r.P.2;U>       yteody.oteol.ytedy.ar,chcty.dar,aiir.okaldy.daral.otchdy.daiin.dal,!r-
+#
+<f43r.P.3;H>       yty.yty.oty.she.ody.sh!y.olor.ytch*y.kaiin.chky.qotydy.dar.aiin.ykam-
+<f43r.P.3;C>       yty.yty.oty.she!ody!sh.y!olor.yteedy.kaiin.chky.qotydy.dar!aiin.ykam-
+<f43r.P.3;F>       yty.yty.oty.she.ody.sh!y.olor.ytchdy.kaiin.chky.qotydy.dar.aiin.ykam-
+<f43r.P.3;U>       yty.yty.oty.she,ody.sh!y.olor.ytchdy.kaiin.chky.qotydy.dar,aiin.ykam-
+#
+<f43r.P.4;H>       das!ar.ytey.tedy.kar.or.ar.she!kalchdy.cholty.qotaly.chedy.oty.otam-
+<f43r.P.4;C>       dar!ar.ytey.tedy.kar.ar!ar.she!kalchdy.cholky.qotaly.chedy.oty.otam-
+<f43r.P.4;F>       dar.ar.ytey.tedy.kar.yr!ar.she!kalchdy.cholty.qotaly.chedy.oty.otam-
+<f43r.P.4;G>       das!ar.ytey.tedy.kar.or!ar.she.kalchdy.cholty.qotaly.chedy.oty.otam-
+<f43r.P.4;U>       dar,ar.ytey,tedy,kar.ar,ar.she,kalchdy.cholky.qotaly.chedy.oty.otam-
+#
+<f43r.P.5;H>       ykor.ch*dy.shekody.qotody.qotar.okedy.dar.choetchy.dam.otai!n.ytam-
+<f43r.P.5;C>       yakr.chedy.shekody.qotody.qotar.okedy.dar.choetchy.dam.otai!n.ytam-
+<f43r.P.5;F>       okor.chidy.shekody.qotody.qotar.okedy.dar.ch!etchy.dam.otai!n.ytam-
+<f43r.P.5;G>       akar.chidy.shekady.qotody.qotar.okedy.dar.ch!etchy.dam.otaiin.ytam-
+<f43r.P.5;U>       ykar.chedy.shekody.qotody.qotar.okedy.dar.choetchy.dam.otai!n.ytam-
+#
+<f43r.P.6;H>       kchedy.chedy.daly.cheody.cheol!keepchy=
+<f43r.P.6;C>       kchedy.chedy.daly.cheody.cheol!keepchy=
+<f43r.P.6;F>       kchedy.chedy.daly.cheody.cheol.keepchy=
+<f43r.P.6;G>       kchedy.chedy.dala.cheody.cheol.keepchy=
+<f43r.P.6;U>       kchedy.chedy.daly.cheody.cheol!keepchy=
+#
+<f43r.P.7;H>       pshesy.otey.kshdy.opchdy.kedar.okedy.chdy.shocphhy.dytydy.pchdy.kedy.dam-
+<f43r.P.7;C>       pshesy.otey.kshdy.opchdy.kedar.otedy.chdy.shocphey.dytydy.pchdy.kedy.dam-
+<f43r.P.7;F>       pshesy.otey.kshdy.opchdy.kedar.okedy.chdy.shocphey.dytydy.pchdy.kedy.dam-
+<f43r.P.7;G>       pshesy.otey.kshdy.opchdy.kedar.okedy.chdy.shocph!y.dytydy.pchdy.tedy.dam-
+<f43r.P.7;U>       pshesy.otey.kshdy.opchdy.kedar.okedy.chdy.shocphey.dytydy.pchdy.kedy.dam-
+#
+<f43r.P.8;H>       ytchedy.chedy.cheody.shy.qoiiin.sheeeky.chedy.dai!n.shy.ykol!or.otaiin.old-
+<f43r.P.8;C>       ytchedy.chedy.cheody.shy.qoiiin.sheeeky.chedy.dai!n.shy.ykol!or.otaiin.old-
+<f43r.P.8;F>       ytchedy.chedy.cheody.shy.qoiiin.sheeeky.chedy.dai!n.shy.ykol!ar.akaiin.old-
+<f43r.P.8;G>       ytchedy.chedy.ch!ody.sey.qo!iin.shee!ky.chedy.daiin.shy.ykal!ar.ataiin.a!!-
+<f43r.P.8;U>       ytchedy.chedy.cheody.shy.qoiiin.sheeeky.chedy.dai!n.shy.ykol,or.akaiin.old-
+#
+<f43r.P.9;H>       dshedy.qotedy.dor.cheey.odain=
+<f43r.P.9;C>       dshedy.qotedy.dor.cheey.odain=
+<f43r.P.9;F>       dshedy.qotedy.dor.cheey.odain=
+<f43r.P.9;U>       dshedy.qotedy.dor.cheey.odain=
+#
+<f43r.P.10;H>      pshdar.shed.ody.qotedy.yfchdy.qockhhdy.opchdy.daiin.qokedy.dy!dydy.qotar-
+<f43r.P.10;C>      pshdar.shed.ody.qotedy.yfchdy.qockhedy.opchdy.daiin.qokedy.dy!dydy.qotar-
+<f43r.P.10;F>      pshdar.shed.ody.qotedy.yfchdy.qockhedy.opchdy.daiin.qokedy.dy!dydy.qotar-
+<f43r.P.10;U>      pshdar.shed,ody.qotedy.yfchdy.qockhedy.opchdy.daiin.qokedy.dy,dydy.qotar-
+#
+<f43r.P.11;H>      ytchedy.ty.shol.toldy.shody.otchdy.shdy.otolol.shd.olky.ytol.otary.cheky.dy-
+<f43r.P.11;C>      ytchedy.ty.shol.toldy.shody.otchdy.shdy.otolol.shd.olky.ytol.otary.cheky.dy-
+<f43r.P.11;F>      ytchedy.ty.shol.toldy.shody.otchdy.shdy.otolol.shd.olky.ytol.otary.cheky.dy-
+<f43r.P.11;G>      ytchedy.ty.shol.taldy.shody.otchdy.shdy.otolol.shd.olky.ytol.otary.cheky.dy-
+<f43r.P.11;U>      ytchedy.ty.shol.toldy.shody.otchdy.shdy.otolol.shd,olky.ytol.otary.chcky.dy-
+#
+<f43r.P.12;H>      dor.shol.qokol.shedy.qotedy.qokehdy.qokody.okehdy.otedy.shedy.oty.yty.dy.saiin-
+<f43r.P.12;C>      dor.shol.qokol.shedy.qotedy.qokeedy.qokody.okeedy.otedy.shedy.oty.yty.dy.sa!!!-
+<f43r.P.12;F>      dor.shol.qokol.shedy.qotedy.qokeedy.qokody.okeedy.otedy.shedy.oty.yty!dy.saiin-
+<f43r.P.12;U>      dor.shol.qokol.shedy.qotedy.qokeedy.qokody.okeedy.otedy.shedy.oty.yty,dy.saiin-
+#
+<f43r.P.13;H>      tshed.qosheckhhy.odeedy.qeokehy.qotedy.daiin.shodody.shochol.chckhy.ykedy.dy-
+<f43r.P.13;C>      tshed.qosheckhey.odeedy.qeokeey.qotedy.dash!.shodody.shochol.chckhy.ykeey!dy-
+<f43r.P.13;F>      tshed.qosheckhey.odeedy.qeokeey.qotedy.daiin.shodody.shochol.chckhy.ykedy!dy-
+<f43r.P.13;G>      tshed.qosheckh!y.od*!dy.qeokeey.qotedy.daiin.shodody.shochol.chckhy.ykedy!dy-
+<f43r.P.13;U>      tshed.qosheckhey.odeedy.qeokeey.qotedy.daiin.shodody.shochol.chckhy.ykedy,dy-
+#
+<f43r.P.14;H>      ykeody.checkhy.chotehy.odain.chckhhhy.choko!r.aiin=
+<f43r.P.14;C>      ykeody.checkhy.choteey.odain.chckheey.choko!r!aiin=
+<f43r.P.14;F>      ykeody.checkhy.choteey.odain.chckh!ey.choko.r!aiin=
+<f43r.P.14;U>      ykeody.checkhy.choteey.odain.chckheey.choko!r!aiin=
+#

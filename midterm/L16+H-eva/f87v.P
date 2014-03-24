@@ -1,0 +1,70 @@
+## <f87v.P> {}
+# text
+# Last edited on 1998-12-12 07:27:00 by stolfi
+#
+# &PP = like a "p" with double loop.
+#
+<f87v.P.1;H>       p!!!!!cheey.daiin.cph!odar.shody.dcheody.todor.ochepchody-{plant}oldar-
+<f87v.P.1;F>       p!!!!!cheey.daiin.cph!odar.shody.dcheody.todor.ochepchody-{plant}oldar-
+<f87v.P.1;U>       *{&PP}cheey.daiin.cpheodar.shody.dcheody.todor.ochepchody-{plant}oldar-
+#
+<f87v.P.2;H>       schey.ctheey.qocthsy.s-{plant}dcheoky.scth!-{plant}
+<f87v.P.2;F>       schey.ctheey.qocthsy.s-{plant}dcheoky.scthy-{plant}
+<f87v.P.2;U>       schey.ctheey.qocthsy.s-{plant}dcheoky.scth!-{plant}
+#
+<f87v.P.3;H>       ycheockhy.okey.cthy-{plant}yteeor.ct{&T}os-{plant}
+<f87v.P.3;F>       ycheockhy.okey.cthy-{plant}yteeor.cth!!!os-{plant}
+<f87v.P.3;U>       ycheockhy.okey.cthy-{plant}yteeor.ct!!!!os-{plant}
+#
+<f87v.P.3a;H>      dcheecthey.cthosy-{plant}ykeeor.oky-{plant}
+<f87v.P.3a;F>      dcheecthey.cthosy-{plant}ykeeor.oty-{plant}
+<f87v.P.3a;U>      dcheecthey.cthosy-{plant}ykeeor.oky-{plant}
+#
+<f87v.P.4;H>       ycheey.keeo.sal.ckhy-{plant}soiin.scheom-{plant}
+<f87v.P.4;F>       ycheey.keeo.sal.ckhy-{plant}eoiin.scheom-{plant}
+<f87v.P.4;U>       ycheey.keeo.sal.ckhy-{plant}soiin.scheom-{plant}
+#
+<f87v.P.4a;H>      dcheos.shey.solch!yd-{plant}oteos.cthey-{plant}
+<f87v.P.4a;F>      dcheos.shey.solch!yd-{plant}oteos.cthey-{plant}
+<f87v.P.4a;U>      dcheos.shey.solcheod-{plant}oteos.cthey-{plant}
+#
+<f87v.P.5;H>       qotechoep.cheos.cthey-{plant}qokeod.qokeog-{plant}
+<f87v.P.5;F>       qotechoep.cheos.cthey-{plant}qokeod.qokeom-{plant}
+<f87v.P.5;U>       qotechoep.cheos.cthey-{plant}qokeod.qokeom-{plant}
+#
+<f87v.P.6;H>       shoeey.cthey.qo.cthodol-{plant}yteodai!n.sheol-{plant}
+<f87v.P.6;F>       shoeey.cthey.qo.cthodol-{plant}yteodaiin.sheol-{plant}
+<f87v.P.6;U>       shoeey.cthey.qo.cthodol-{plant}yteodai!n.sheol-{plant}
+#
+<f87v.P.6a;H>      techol.qos!cheody.otol=
+<f87v.P.6a;F>      techol.qoshcheody.otol=
+<f87v.P.6a;U>      techol.qos!cheody.otol=
+#
+<f87v.P.7;H>       opcheey.cthhy.cpheckhy-{plant}cheor.chepcheol-
+<f87v.P.7;F>       opcheey.cthey.cpheckhy-{plant}cheor.chepcheol-
+<f87v.P.7;U>       opcheey.cthey.cpheckhy-{plant}cheor,chepcheol-
+#
+<f87v.P.8;H>       kchor.ol.cheeol.qok!odal-{plant}lseeey.keodam-
+<f87v.P.8;F>       kchor.ol.cheeol.qok.odal-{plant}lseeey.keodam-
+<f87v.P.8;U>       kchor.ol.cheeol.qok,odal-{plant}lseeey.keodam-
+#
+<f87v.P.9;H>       ytcheo.qy.chos.ckheos.cheoy-{plant}s!cheol.s!al.dai!n-
+<f87v.P.9;F>       ytchea.qy.chos.ckh!or.cheay-{plant}s!cheol.s!al.daiin-
+<f87v.P.9;U>       ytcheo,qo.chos.ckheor.cheoy-{plant}s,cheol.s,al.dai!n-
+#
+<f87v.P.10;H>      ksheol.qoar.cfhs.ykaiin-{plant}s!aral.aiim.am-
+<f87v.P.10;F>      ksheol.qoar.cfhs.ykaiin-{plant}s!aral.aiim.am-
+<f87v.P.10;U>      ksheol.qoar.cfhs.ykaiin-{plant}s,aral.aiim.am-
+#
+<f87v.P.11;H>      san.ainy.keol.dair.old-{plant}aiin.atol!g-
+<f87v.P.11;F>      san.a!ny.keol.dair.old-{plant}ai!n.atol!m-
+<f87v.P.11;U>      san.airy.keol,dair.old-{plant}ai!n.atol,m-
+#
+<f87v.P.12;H>      yksho.qos-{plant}ar!ol!or.or-{plant}al.daraiinm-
+<f87v.P.12;F>      yksho.qos-{plant}ar!ol.or.ar-{plant}al.daraiinm-
+<f87v.P.12;U>      yksho.qos-{plant}ar,ol,or.or-{plant}al.daraii!m-
+#
+<f87v.P.12a;H>     saiin.olct{plant}hr=
+<f87v.P.12a;F>     saiin.olct{plant}hr=
+<f87v.P.12a;U>     saiin.olct{plant}hr=
+#

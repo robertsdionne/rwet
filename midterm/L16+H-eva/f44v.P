@@ -1,0 +1,61 @@
+## <f44v.P> {}
+# text
+# Last edited on 1998-12-11 12:42:42 by stolfi
+#
+<f44v.P.1;H>       tsho.qotshy.cthol.dchor.otol.shol.tol.qotshol.otoldy-
+<f44v.P.1;C>       tsho.qotshy.cthol.dchor.otol.shol.tol.qokshol.otoldy-
+<f44v.P.1;F>       tsho.qotshy.cthol.dchor.otol.shol.tol.qotshol.otoldy-
+#
+<f44v.P.2;H>       yolkol.cheol.qokchain.daly.otchol.daiin.shol.qoto!r.a!!r-
+<f44v.P.2;C>       yolkol.cheol.qokchain.daly.otchol.daiin.shol.qoto!r.a!!r-
+<f44v.P.2;F>       yolkol.cheol.qokchain.daly.otchol.daiin.shol.qoto.r!a!!r-
+<f44v.P.2;G>       yolkol.cheol.qokchain.daly.otchol.daiin.shol.qoto.r!aiin-
+#
+<f44v.P.3;H>       tol.okchor.sh!cthy.otol.daiin.cthy.cthy=
+<f44v.P.3;C>       tol.okchor.sh!cthy.otol.daiin.cthy.cthy=
+<f44v.P.3;F>       tol.okchor.sh!cthy.otol.daiin.cthy.cthy=
+<f44v.P.3;G>       tol.okchor.shecthy.otol.daiin.cthy.cthy=
+#
+<f44v.P.4;H>       yokalod.shaiin.shor.shorody.shky.sho.y!tchy.opchod.opy-
+<f44v.P.4;C>       yokalnd.shaiin.shor.shorody.shky.sho.y!tchy.opchod.opy-
+<f44v.P.4;F>       yokalod.shaiin.shor.shorody.shky.sho!y.tchy.opchod.opy-
+<f44v.P.4;G>       yokalod.!!aiin.shor.shorody.shky.sho!y.tchy.opchod.opy-
+#
+<f44v.P.5;H>       oai!n.shol.cthy.cphaiin.ykchor.otchy.qoty.otcheor.cthain-
+<f44v.P.5;C>       oai!n.shol.cthy.cphaiin.tkchor.otchy.qoty.ytchear.ctha!q-
+<f44v.P.5;F>       oai!n.shol.cthy.cphaiin.ykchor.otchy.qoty.ytcheor.cthain-
+<f44v.P.5;G>       oaiin.shol.cthy.cphaiin.ykeeor.otchy.qoty.!tchear.cthain-
+#
+<f44v.P.6;H>       tol.dair.ytaiin.dol.y.kchain.oty!keey.otchol.ytaiin.dy-
+<f44v.P.6;C>       tol.dair.ykaiin.dol!y.kchain.oty.keey.otchol.ytaiin.dy-
+<f44v.P.6;F>       tol.dair.qtaiin.dol!y.kchain.oty!keey.otchol.ytaiin.dy-
+<f44v.P.6;G>       tol.dair.qtaiin.dol!y.tchain.oty!keey.otchol.ytaiin.dy-
+#
+<f44v.P.7;H>       oko.tchaiin.cthol.dy.cheol.ololy=
+<f44v.P.7;C>       oky!tchaiin.cthol.dy.cheol.ololy=
+<f44v.P.7;F>       oko.tchaiin.cthol.dy.cheol.ololy=
+#
+<f44v.P.8;H>       tsheody.cthaiin.odaiin.shol.shey.ct{&T}y-{plant}ytoda.ol-
+<f44v.P.8;C>       tsheody.cthaiin.odaiin.shol.shey.cth!!!y-{plant}ykody.ol-
+<f44v.P.8;F>       tsheody.cthaiin.odaiin.shol.chey.cth!!!y-{plant}ytoda.ol-
+#
+<f44v.P.9;H>       dshor.cthees.lol.keees.ckhy.chcthy.lo-{plant}
+<f44v.P.9;C>       dshor.cthees.lol!keees.ckhy.chcthy.lo-{plant}
+<f44v.P.9;F>       dshor.cthees.lol.keees.ckhy.chcthy.lo-{plant}
+#
+<f44v.P.10;H>      lsho.qokchy.tshy.cphaiin.cthal.kal-{plant}
+<f44v.P.10;C>      sho*!mokchy.tshy.cphaiin.cphal.kal-{plant}
+<f44v.P.10;F>      lsho.qokchy.tchy.cphaiin.cthal.kal-{plant}
+#
+<f44v.P.11;H>      okol.chol.chol.choky.okaiin.cthy.otal-{plant}
+<f44v.P.11;C>      okla.chol.chol.choky.okaiin.cthy.otal-{plant}
+<f44v.P.11;F>      okal.chol.chol.choky.okaiin.cthy.otal-{plant}
+#
+<f44v.P.12;H>      ychey.teol.chaiin.chcthy.ctho.cthol-
+<f44v.P.12;C>      ychey.teol.chaiin.chcthy.ctho.cthol-
+<f44v.P.12;F>      ychey.teol.chaiin.chcthy.ctho.cthol-
+#
+<f44v.P.13;H>      lchor.shor.dairl=
+<f44v.P.13;C>      lchor.shol.dairl=
+<f44v.P.13;F>      lchor.shor.dairl=
+#

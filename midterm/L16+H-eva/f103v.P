@@ -1,0 +1,158 @@
+## <f103v.P> {}
+# text
+# Last edited on 1998-12-19 23:00:32 by stolfi
+#
+<f103v.P.1;H>      pol.dar.olfchey.qoky.dy.qokeey.qokeey.daiin.okeedaky.qotear.shedy.dal-
+<f103v.P.1;F>      pal.dar.olfchey.qoky.dy.qokeey.qokeey.daiin.okeedaky.qotear.shedy.dal-
+<f103v.P.1;J>      pol.dar.olpchey.qoky.dy.qokeey.qokeey.daiin.okeedaky.qotear.shedy.dal-
+#
+<f103v.P.2;H>      daiin.sheey.qokal.shedy.qokeedy.qoteor.shey.qoty.chckhy.qotai!n.chalr-
+<f103v.P.2;F>      daiin.sheey.qokal.shedy.qokeedy.qoteor.shey.qoty.chckhy.qotaiin.cha*r-
+<f103v.P.2;J>      daiin.she!y.qokal.shedy.qokeedy.qoteor.shey.qoty.chckhy.qotaiin.cha*r-
+#
+<f103v.P.3;H>      qok.or.chedy.qokey.dar.chcthy.chor.qoty.shdy.okeedy.qokeey.qokai!n-
+<f103v.P.3;F>      qot***.chedy.qokey.dar.chcthy.char.qoty.shdy.okeedy.qokeey.qokaiin-
+<f103v.P.3;J>      qok.or.chedy.qokey.dar.chcthy.char.qoty.shdy.okeedy.qokeey.qokaiin-
+#
+<f103v.P.4;H>      y.cheey.qokeey.okeey.lkees.ol.qoteedy.ykeedy=
+<f103v.P.4;F>      *.cheey.qokeey.okeey.lkees.ol.qoteedy.okeedy=
+<f103v.P.4;J>      y!cheey.qokeey.okeey.lkees.ol.qoteedy.okeedy=
+#
+<f103v.P.5;H>      pcheor.olkeey.cheky.qokshdy.qokaiin.okechdy.qopchdy.qotedy.qokai!n.oly-
+<f103v.P.5;F>      pcheor.ol*eey.cheky.qokshdy.qokaiin.okechdy.qopchdy.qotedy.qokaiin.oly-
+<f103v.P.5;J>      pcheor.olkeey.cheky.qokshdy.qokaiin.okechdy.qopchdy.qotedy.qokaiin.oly-
+#
+<f103v.P.6;H>      doi!n.shey.qokeedy.cheol.qoeeor.lshor.qoky.shedy.qokaiin.chedy.qokam-
+<f103v.P.6;F>      daiin.shey.qokeedy.cheol.qoeeor.lshor.qoky.shedy.qokaiin.chedy.qokam-
+<f103v.P.6;J>      dai!n.shey.qokeedy.cheol.qoeeor.lshor.qoky.shedy.qokaiin.chedy.qoka!-
+#
+<f103v.P.7;H>      daiin.shey.chol.chey.oteey.lkeeor.okaiin.shedy.shedy.qokaiin.ol.chedydy-
+<f103v.P.7;F>      daiin.shey.chol.chey.oteey.lkeeor.okaiin.shed!.shedy.qokaiin.ol!chedydy-
+#
+<f103v.P.8;H>      sai!n.shey.olsheey.dair.chekeeal.okeey=
+<f103v.P.8;F>      saiin.shey.olsheey.dair.che!kaal.okeey=
+#
+<f103v.P.9;H>      pchal.shal.shorchdy.okeor.okai!n.shedy.pchedy.qotchedy.qotar.ol.lkar-
+<f103v.P.9;F>      pchal.shal.shorchdy.okeor.okaiin.shedy.pchedy.qotchedy.qotar.ol.lkar-
+#
+<f103v.P.10;H>     or.cheey.qokeeshy.okeey.loiin.oithy.otedy.lor.aiin.sheor.qotai!n.olldy-
+<f103v.P.10;F>     or.cheey.qokeeshy.oteey.daiin.octhy.otedy.lor.aiin.sheor.qotaiin.olldy-
+#
+<f103v.P.11;H>     qokeedy.olkeeshy.qoky.qokal.shed=
+<f103v.P.11;F>     qokeedy.olke!shy.qoky.qokal.shed=
+#
+<f103v.P.12;H>     sal.sheal.shedy.okeedy.qokeey.lol.shedy.pchor.pchedy.pol.sheedy.opalam-
+<f103v.P.12;F>     sal.sheal.shedy.okeedy.qokeey.lol.shedy.pchor.pchedy.pol.sheedy.opalam-
+#
+<f103v.P.13;H>     dai!n.cseey.olshy.otey.olshedy.qotshdy.okeey.lr.ai!n.okan.olshey=
+<f103v.P.13;F>     daiin.sheey.olshy.otey.olshedy.qotshdy.okeey.lr!aiin.otan.olshey=
+#
+<f103v.P.14;H>     teeol.sheol.sho.qokeedy.shedy.qokey.oshedy.oteedy.qokai!n.otar.aiin.otam-
+<f103v.P.14;F>     teeol.sheol.sho.qokeedy.shedy.qokey.oshedy.oteedy.qokaiin.otar.aiin.otam-
+#
+<f103v.P.15;H>     tchedal.shey.lcheey.lchdy.char.olchey.lcheody.tedy.otai!n.otai!n.otaly-
+<f103v.P.15;F>     tchedal.shey.lcheey.lchdy.char.olchey.lcheody.tedy.otaiin.otaiin!odaly-
+#
+<f103v.P.16;H>     doiin.sheekchy.okeeshy.qol.shedy.otai!n.olkedy=
+<f103v.P.16;F>     daiin.sheekchy.okeeshy.qol.shedy.otaiin.olkedy=
+#
+<f103v.P.17;H>     qokeedy.chedy.qoteey.oteedy.lkedy.shedy.qokal.ol.char.otal.opchedy-
+<f103v.P.17;F>     qokeedy.chedy.qoteey.oteedy.lkedy.shedy.qokal.ol!ch!r.otal.opchedy-
+#
+<f103v.P.18;H>     yshear.ol.oqaiin.chckhy.lchedy.chedy.olaiin.oteedy.qokeedal.larorol-
+<f103v.P.18;F>     yshear.ol.oqaiin.chckhy.lchedy.chedy.olaiin.oteedy.qokeedal.larorol-
+#
+<f103v.P.19;H>     daiin.chey.lkeey.chalkar.cheeey.l!chealaiin.or=
+<f103v.P.19;F>     daiin.chey.lkeey.chalkar.chee!y!l.chealaiin.or=
+#
+<f103v.P.20;H>     pol.char.otar.okai!n.shaikhy.oteal.okai!n.qotal.shedy.qokeey.lolai!n-
+<f103v.P.20;F>     pol.char.otar.okaiin.shackhy.oteal.okaiin.qotal.shedy.qokeey.lolaiin-
+#
+<f103v.P.21;H>     tokai!n.shal.qokeed.oteedy.sheoky.shaikhhy.tar.teor.otam.oll-
+<f103v.P.21;F>     tokaiin.shal.qokeed.ateedy.sheoky.shackhey.tar.teor.otam.oll-
+#
+<f103v.P.22;H>     olshey.qokshy.qotal.sheey.oloiin.oleeedy.qokai!n.shedy.qokey-
+<f103v.P.22;F>     olshey.qokshy.qotal.sheey.olaiin.oleeedy.qokaiin.shedy.qokey-
+#
+<f103v.P.23;H>     ycheody.l.ar.cheey.or.aiiin.oteey.otal.otear.ar.ar.keey.qoty-
+<f103v.P.23;F>     ycheody.l!ar.cheey.or!aii!n.oteey.otal.otear.ar.ar.keey.qoty-
+#
+<f103v.P.24;H>     ykeey.lchey.qokeey.ror.aiin.olan.otan.otai!n.otai!n.ar.y.kai!n-
+<f103v.P.24;F>     ykeey.lchey.qokeey.ror.aiin.olan.otan.otaiin.otaiin.ar!y.kaiin-
+#
+<f103v.P.25;H>     sai!n.olkeeey.qokan.oteedy.qotai!n.otal.oty.opar.aram.oteeam-
+<f103v.P.25;F>     saiin.olkeeey.qokan.oteedy.qotaiin.otal.oty.opar.aram.oteeam-
+<f103v.P.25;U>     saiin.olkeeey.qokan.oteedy.qotai!n.otal.oty.opar.aram.oteeam-
+#
+<f103v.P.26;H>     yteey.qokeey.sheety.oteey.lshedy.oteaiin=
+<f103v.P.26;F>     yteey.qokeey.sheety.oteey.lshedy.oteaiin=
+<f103v.P.26;U>     yteey.qokeey.sheety.oteey,lshedy.oteaiin=
+# ???...
+#
+<f103v.P.27;H>     pcheody.arar.!!!!!!okeey!lchedy.oteal.lpar.otedy.qotar.otar!yly-
+<f103v.P.27;F>     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%oteal.lpar.otedy.qotar.otar!yly-
+<f103v.P.27;U>     pcheody.arar.akeey.okeey,lchedy.oteal.lpar.otedy.qotar.otar,yly-
+#
+#
+<f103v.P.28;H>     daiin.checkhy.ykeey.shckhy.oteal.shey.okai!n.chey.okeedy.por.aiin.y-
+<f103v.P.28;F>     daiin.checkhy.ykeey.shckhy.oteal.shey.okaiin.chey.okeedy.por!aiin!y-
+<f103v.P.28;U>     daiin.checkhy.ykeey.shckhy.oteal,shey.okai!n.chey.okeedy.por,aiin,y-
+#
+<f103v.P.28a;H>    olchee!y.chey.lkchdy.sho.chcthy.sal.ar!aiin.qokeey=
+<f103v.P.28a;F>    olcheeey.chey.lkchdy.sho.chcthy.sal.ar!aiin.qokeey=
+<f103v.P.28a;U>    olcheeey.chey.lkchdy.sho.chcthy.sal,ar,aiin.qokeey=
+#
+<f103v.P.29;H>     pchear.okai!n.opchedy.pchol.fchedy.otedy.poly.lchedy.fchedey.rar-
+<f103v.P.29;F>     pchear.okaiin.opchedy.pchol.fchedy.otedy.poly.lchedy.fchedey.rar-
+#
+<f103v.P.30;H>     okeey.l.chey.qokeey.oqokeey.chedy.qckhhy.daiin.chckhy.sar.olai!ny-
+<f103v.P.30;F>     okeey!l.chey.qokeey.oqokeey.chedy.qckhey.daiin.chckhy.sar.olaiiny-
+#
+<f103v.P.31;H>     qokeeey.chey.qotey.chokaiin.shal.chedy.olkam=
+<f103v.P.31;F>     qokeeey.chey.qotey.chokaiin.shal.chedy.olkam=
+#
+<f103v.P.32;H>     yshey.lkeey.qokai!n.okey.okaiin.cheody.otey.shdpchy.opchey.oly-
+<f103v.P.32;F>     yshey.lkeey.qokaiin.okey.okaiin.cheody.otey.shdpchy.opchey.oly-
+#
+<f103v.P.33;H>     daiin.sheey.ol.chey.qok!shey.qokaiin.checkhy.otedy.lshey.lchdy-
+<f103v.P.33;F>     daiin.sheey.ol.chey.qok.shey.qokaiin.checkhy.otedy.lshey.lchdy-
+#
+<f103v.P.34;H>     qol.shey.ykeey.okeey.lsheey.sheckhy.chtain.oty.okedy.otaly-
+<f103v.P.34;F>     qol.shey.ykeey.okeey.lsheey.shckhy.chtaiin.oty.okedy.otaly-
+#
+<f103v.P.35;H>     saiin.shey.qokeey.oshey.olshedy=
+<f103v.P.35;F>     saiin.shey.qokeey.oshey.olshedy=
+# ???...
+#
+<f103v.P.36;H>     ol.shey.qokai!n.ol.shey.qokeshe.l!sheok.shdy.qcphhy.chety.dar-
+<f103v.P.36;F>     ol!shey.qotaiin.ol.sh*y.qokeshe.l!sheok.shdy.qcphey.chety.dar-
+<f103v.P.36;U>     ol!shey.qoka!in.ol.shey.qokeshe.l,sheok.shdy.qcphey.chety,dar-
+#
+<f103v.P.36a;H>    oteey.lchees.ol.chey.chey.chol.keechy=
+<f103v.P.36a;F>    oteey.lchees.ol.chey.chey.chol.keechy=
+<f103v.P.36a;U>    oteey.lchees.ol.chey.chey.chol.keechy=
+#
+<f103v.P.37;H>     polshor.keeol!shey.okey.lcharar.shol.okeedar.sher.oiin.oty.lchdy-
+<f103v.P.37;F>     polshor.keeol.shey.okey.lcharar.shol.okeedar.sher!aiin.oty.lchdy-
+#
+<f103v.P.38;H>     yteey.sheal.shey.qoai!n.ol.keey.qokai!n.shckhy.lchedy.rai!n-
+<f103v.P.38;F>     yteey.sheal.shey.qoaiin.ol.keey.qokaiin.shckhy.lchedy.raiin-
+#
+<f103v.P.39;H>     daiin.shey.lshey.lshey.qoar.shar.al.otar.shedy.ithy.lchdy.ras-
+<f103v.P.39;F>     daiin.shey.lshey.lshey.qoar.shar.al.otar.shedy.cthy.lchdy.rar-
+#
+<f103v.P.40;H>     yshey.shey.kai!n.chey.rar.arol.chsaly=
+<f103v.P.40;F>     yshey.shey.kaiin.chey.rar.arol.chealy=
+#
+<f103v.P.41;H>     orai!n.chckhey.qokaiin.shckhy.shtal.opchy.lkeedy.chdy.lchedy-
+<f103v.P.41;F>     oraiin.chckhey.qokaiin.shckhy.shtal.opchy.lkeedy.chdy.lchedy-
+#
+<f103v.P.42;H>     qkai!n.shey.ar.ar.oky.rai!n.chckhy.shedy.qokeory.lteedy.ro-
+<f103v.P.42;F>     qkaiin.shey.ar.ar.oky.raiin.chckhy.shedy.qokeory.lteedy.ro-
+#
+<f103v.P.43;H>     okey.ol.cheey.lcheey.lkai!n.shckhy.sheckhy.orain.otar.oly-
+<f103v.P.43;F>     okey.ol.cheey.lcheey.lkaiin.shckhy.shckhy.oraiin.otar.oly-
+#
+<f103v.P.44;H>     tai!n.shol.qokai!n.chckhy.rorol.chdy.raly.oraiin.chary=
+<f103v.P.44;F>     taiin.shol.qokaiin.chckhy.rorol.chdy.raly.oraiin.chary=
+#

@@ -1,0 +1,95 @@
+## <f43v.P> {}
+# text
+# Last edited on 1998-12-19 19:00:08 by stolfi
+#
+<f43v.P.1;H>       pds!a!iry.dalteoshy.da.ly.sheet.or.arodl.lkeo.r!araiin.otedy!o.poldy-
+<f43v.P.1;C>       pdshaiiry.dalteoshy.do!ly.sheet.or.arodl.lkeo!r.araiin.otedy.o!poldy-
+<f43v.P.1;F>       pds!a!iry.dalteoshy.do!ly.sheet.or.arodl.lkeo.r!araiin.otedy.o!poldy-
+<f43v.P.1;G>       pds!a!iry.dalteoshy.da!ly.sheet.or.arodl.lkeo.r!araiin.otedy.o!poldy-
+<f43v.P.1;U>       pds!a!iry.dalteoshy.da!ly.sheet.or.arodl.lkeo.r,araiin.otedy.o!poldy-
+#
+<f43v.P.2;H>       shedy.octhy.otedy.chedy.dar.ches!ckhy.okeody.oky.okaldy.kchdy.okar-
+<f43v.P.2;C>       shedy.octhy.otedy.chedy.dar.ches!!tey.okeody.oky.okaldy.kchdy.okar-
+<f43v.P.2;F>       shedy.octhy.otedy.chedy.dar.ches.ckhy.okeody.oky.okaldy.kchdy.okar-
+<f43v.P.2;U>       shedy.octhy.otedy.chedy.dar.ches!!tey.okeody.oky.okaldy.kchdy.okar-
+#
+<f43v.P.3;H>       tody.teedy.qot.chocthy.chky.oky.chdy.okedy.ykaiin.chey.ody.dary-
+<f43v.P.3;C>       tody.te!dy.qot.chocthy.chky.oky.chdy.okedy.ykaiin.chey.ody.dary-
+<f43v.P.3;F>       tody.te!dy.qot.chocthy.chky.oky.chdy.okedy.ykaiin.chey.ody.dary-
+<f43v.P.3;G>       tody.teedy.qot.chocthy.chky.oky.chdy.okedy.ykaiin.chey.ody.dary-
+<f43v.P.3;U>       tody.te!dy.qot,chocthy.chky.oky,chdy.okedy.ykaiin.chey.ody.dary-
+#
+<f43v.P.4;H>       dshey.ykeedy.chees.aiin.chy.qocthedy.chey.qokar.checkhy.okam-
+<f43v.P.4;C>       dshey.ykeedy.chees.ai!n.shy.qocthedy.chey.qokar.checkhy.okam-
+<f43v.P.4;F>       dshey.ykeedy.chees.ai!n.chy.qocthedy.chey.qokar.checkhy.okam-
+<f43v.P.4;G>       derey.ykeedy.chees.aiin.chy.qocthedy.chey.qokar.checkhy.okam-
+<f43v.P.4;U>       dshey.ykeedy.chees,ai!n.chy.qocthedy.chey.qokar.checkhy.okam-
+#
+<f43v.P.5;H>       qokchedy.or.alody.otedol.chcthdy.chtey=
+<f43v.P.5;C>       qokchedy.or!alody.otedol.chcthdy.chtey=
+<f43v.P.5;U>       qokchedy.or.alody.otedol.chcthdy.chtey=
+<f43v.P.5;F>       qokchedy.or,alody.otedol.chcthdy.chtey=
+#
+<f43v.P.6;H>       tol!kchdy.okedy.qokedol.shedy.okedal.shedy.pchdol.otey.d!!alorai!n-
+<f43v.P.6;C>       tol.keedy.okedy.qokedal.shedy.okedal.shedy.pchdol.otey.cfhalorai!n-
+<f43v.P.6;F>       tol!kchdy.okedy.qokedol.shedy.okedal.shedy.pchdol.otey.d!!alorai!n-
+<f43v.P.6;G>       tol!kchdy.okedy.qokedol.shedy.okedal.shedy.pchdal.otey.d!!aloraiin-
+<f43v.P.6;U>       tol!kchdy.okedy.qokedol.shedy.okedal.shedy.pchdol.otey.d!!alorai!n-
+#
+<f43v.P.7;H>       ytshedy.ykeody.oykeedy.chedy.tedy.chcthy.otam.ot.ytaiin.otas-
+<f43v.P.7;C>       ytshedy.ykeody.oykeedy.chedy.tedy.chcthy.otam.ot.ytaiin.otar-
+<f43v.P.7;F>       ytshedy.ykeody.oykeedy.chedy.tedy.chcthy%%%%%%%%%%%%%%%%%%%%-
+<f43v.P.7;U>       ytshedy.ykeody.oykeedy.chedy.tedy.chcthy.otam.ot.ytaiin.otar-
+#
+<f43v.P.8;H>       shetcheodchs.ochedy.oteody.chedy.chody.daiin.sheody.ykar.chef-
+<f43v.P.8;C>       shetcheodchs.ochedy.oteody.chedy.chody.daiin.sheody.ykar.chef-
+<f43v.P.8;F>       %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%daiin.sheody.ykar.chef-
+<f43v.P.8;U>       shetcheodchs.ochedy.oteody.chedy.chody.daiin.sheody.ykar.chef-
+#
+<f43v.P.9;H>       yteedy.olos.aiin.ockhy=
+<f43v.P.9;C>       yteedy.olos.aiin.ockhy=
+<f43v.P.9;F>       yteedy.olos.aiin.ockhy=
+<f43v.P.9;G>       !teedy.olos.aiin.ocfhy=
+<f43v.P.9;U>       ytchdy.olos.aiin.ockhy=
+#
+<f43v.P.10;H>      tar.chor.ar.aldar.chdy.daldar.chepy.yteedy.!!ypchey.pchedy.yfor-
+<f43v.P.10;C>      tar.chor.ar.aldar.chdy.daldar.chepy.yteedy.s.ypchey.pchedy.yfor-
+<f43v.P.10;F>      tar!chor.ar.aldar.chdy.daldar.chepy.yteedy.s!ypchey.pchedy.yfor-
+<f43v.P.10;G>      tar!chor.ar.aldar.chdy.daldar.chefy.yteedy.s!yfchey.pchedy.yfor-
+<f43v.P.10;U>      tar!chor.ar.aldar.chdy.daldar.chepy.yteedy.s.ypchey,pchedy.yfor-
+#
+<f43v.P.11;H>      y.sheey.or.air.yteey.cheody.ar.sheo.qody.chckhy.chdy.choty.shecthy-
+<f43v.P.11;C>      y!sheey.or!air.yteey.cheody.ar.sheo.qody.chckhy.chdy.choty.shecthy-
+<f43v.P.11;F>      y!shyey.or!air.yteey.cheody.ar.sheo.qody.chckhy.chdy.choty.shecthy-
+<f43v.P.11;G>      y!sheey.or!air.yteey.cheody.ar.shea.qody.chckhy.chdy.choty.shecthy-
+<f43v.P.11;U>      y!shyey.or,air.yteey.cheody.ar,sheo.qody.chckhy.chdy.choty.shecthy-
+#
+<f43v.P.12;H>      y.shee.kedy.dar.chey.qotedy.ekaiin.chedy.cthey.oteol.or.aiin.odain-
+<f43v.P.12;C>      y!shee.kedy.dar.chey.qotedy.etaiin.chedy.cthey.oteol.oraiin.odai!n-
+<f43v.P.12;F>      y!shee.kedy.dar.chey.qotedy.ykaiin.chedy.cthey.oteol.oraiin.odai!n-
+<f43v.P.12;G>      y!shee.tedy.dar.chey.qotedy.ekaiin.chedy.cthey.oteol.oraiin.adaiin-
+<f43v.P.12;U>      y!shee,kedy.dar.shey.qotedy.otaiin.chedy.cthey.oteol.oraiin.odai!n-
+#
+<f43v.P.13;H>      dshedy.tedy.ckhedy.chekcheey.dy.keody.otedy.cheetam.okedar.am!am-
+<f43v.P.13;C>      dshedy.tedy.ckhedy.chekcheey.dy!keody.otedy.cheetam.okedar.am!am-
+<f43v.P.13;F>      dshedy.tedy.ckhedy.chekcheey.dy.keody.otedy.cheetam.okedar.am!am-
+<f43v.P.13;G>      dshedy.tedy.ckhedy.chekcheey.dy.keody.otedy.cheetam.okadar.am!am-
+<f43v.P.13;U>      dshedy.tedy.ckhedy.chekcheey.dy,keody.otedy.cheetam.okedar.am,am-
+#
+<f43v.P.14;H>      dykeedai!n.chedy.okeedy.chedal.olkey.cheky.choal.chedy.oteo!r!om-
+<f43v.P.14;C>      dykeedai!n.chedy.okeedy.chedal.olkey.cheky.choal.chedy.oteo!r!om-
+<f43v.P.14;F>      dykeedai!n.chedy.okeedy.chedal.olkey.cheky.choyl.chedy.oteo.r!om-
+<f43v.P.14;G>      dykeedaiin.chedy.okeedy.chedal.olkey.cheky.choal.chedy.oteo.r!om-
+<f43v.P.14;U>      dykchdai!n.chedy.okeedy.chedal.olkey.cheky.choal,chedy.oteo!r,om-
+#
+<f43v.P.15;H>      {plant}oteod.qolkeey.kaldy.chy.darod*.qokeey.kol.dary.taros-
+<f43v.P.15;C>      {plant}oteod.qolkeey.kaldy.chy.darody.qokeey.kol.dary.taros-
+<f43v.P.15;F>      {plant}oteod.qolkeey.taldy.chy.darody.qokeey.kol.dary.taros-
+<f43v.P.15;G>      {plant}oteod.qoekeey.taldy.chy.darody.qokeey.kol.dary.taros-
+<f43v.P.15;U>      {plant}oteod.qolkeey,taldy.chy.darody.qokeey.kol,dary!taros-
+#
+<f43v.P.16;H>      {plant}ol.eees.aiin.oloaiin.oteos.qoky.chey=
+<f43v.P.16;C>      {plant}ol.eees.aiin.oloaiin.oteos.qoky.chey=
+<f43v.P.16;F>      {plant}ol.eees.aiin.oloaiin.oteos.qoky.chey=
+<f43v.P.16;U>      {plant}ol.eees.aiin.oloaiin.oteor.qoky.chey=
+#

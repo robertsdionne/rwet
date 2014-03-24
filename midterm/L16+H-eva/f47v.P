@@ -1,0 +1,65 @@
+## <f47v.P> {}
+# text
+# Last edited on 1998-12-19 19:01:37 by stolfi
+#
+<f47v.P.1;H>       psheot.cheor.cholsho.chopchy.sal-{plant}sary-{plant}
+<f47v.P.1;C>       psheot.cheor.cholsho.chopchy.sal-{plant}sary-{plant}
+<f47v.P.1;F>       pcheot.cheor.cholsho.chopchy.sal-{plant}sary-{plant}
+#
+<f47v.P.2;H>       dsheey.shy.cphy.otchey.daiidy.chory-{plant}daiiy-
+<f47v.P.2;C>       dsheey.shy.cphy.otchey.daiijy.chory-{plant}dainy-
+<f47v.P.2;F>       dcheey.shy.cphy.otchey.daindy.chory-{plant}dainy-
+<f47v.P.2;G>       dcheey.shy.cphy.otchey.daindy.chory-{plant}daiin-
+#
+<f47v.P.3;H>       shol.char.oteol.dor.otchol.chkchy-{plant}daiin-
+<f47v.P.3;C>       shol.char.oteol.dor.otchol.chkchy-{plant}daiin-
+<f47v.P.3;F>       shol.char.oteol.dor.otchol.chkchy-{plant}daiin-
+#
+<f47v.P.4;H>       qotol.sheey.kol.sho.keechy.qoty-{plant}cthy-
+<f47v.P.4;C>       qotol.sheey.kol.sho.keechy.qoty-{plant}cthy-
+<f47v.P.4;F>       qotol.sheey.kol.sho.teechy.qoty-{plant}cthy-
+#
+<f47v.P.5;H>       dsholy.shees.chor.ody.shy.sy-{plant}sary-
+<f47v.P.5;C>       dcholy.shees.chor.ody.shy.sy-{plant}sary-
+<f47v.P.5;F>       dsholy.shees.chor.ody.shy.sy-{plant}sary-
+#
+<f47v.P.6;H>       chody.cheor.saiin-{plant}dochod-{plant}chol=
+<f47v.P.6;C>       chody.cheor.saiin-{plant}dochod-{plant}chol=
+<f47v.P.6;F>       chody.cheor.saiin-{plant}dochod-{plant}chol=
+#
+<f47v.P.7;H>       pchodaiin.dair.dcthy-{plant}
+<f47v.P.7;C>       pchodaiin.dair.dcthy-{plant}
+<f47v.P.7;F>       pchodaiin.dair.dcthy-{plant}
+#
+<f47v.P.8;H>       daiin.cheotar.chodaly.sal-{plant}
+<f47v.P.8;C>       daiin.cheotar.chodaly.sal-{plant}
+<f47v.P.8;F>       daiin.cheotar.chodaly.sal-{plant}
+#
+<f47v.P.9;H>       qotcheea.chety.chol.chol.dai!n-{plant}
+<f47v.P.9;C>       qotcheeo.chety.chol.chol.dai!n-{plant}
+<f47v.P.9;F>       qotcheey.chety.chol.chol.daiin-{plant}
+#
+<f47v.P.10;H>      chotcho.l!tchey.o.tcho.tchy.dy-{plant}chol.chody.dar-
+<f47v.P.10;C>      chotcho.l!tchey.y!tcho!tchy.dy-{plant}chol.chody.dar-
+<f47v.P.10;F>      chotcho!l.tchey.o!tcho.tchy.dy-{plant}chol.chody.dar-
+<f47v.P.10;G>      chotcho!l.tchey.o!tcha.tchy.dy-{plant}chol.chody.dar-
+#
+<f47v.P.11;H>      oteey.cho.chdy.chy.key.chyky-{plant}dchy.daiin.chy-
+<f47v.P.11;C>      oteey.cho.chdy.chy.key.chyky-{plant}dchy.daiin.chy-
+<f47v.P.11;F>      oteey.cho.chdy!chy.key.chyky-{plant}dchy.daiin.chy-
+<f47v.P.11;G>      oteey.cho.chdy%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-
+#
+<f47v.P.12;H>      cho.cho.keesy.chy.chy.cheky-{plant}chochy.daiin-
+<f47v.P.12;C>      cho.cho!keesy.chy.chy.cheky-{plant}chochy.daiin-
+<f47v.P.12;F>      chy.cho!keesy.chy.chy.cheky-{plant}chochy.daiin-
+<f47v.P.12;G>      %%%%%%%%%%%%%%chy.chy.cheky-{plant}chochy.daiin-
+#
+<f47v.P.13;H>      dshy.daiin.chdlcty.chaiin-{plant}dcheey.otal!d-
+<f47v.P.13;C>      dshy.daiin.cholety.chaiin-{plant}dcheey.otal.d-
+<f47v.P.13;F>      dshy.daiin.chdlety.chaiin-{plant}dcheey.otal!d-
+<f47v.P.13;G>      dshy.daiin.chdl!ty.chaiin-{plant}dcheey.otal!d-
+#
+<f47v.P.14;H>      chol.ctche!y=
+<f47v.P.14;C>      chol.cthee!y=
+<f47v.P.14;F>      chol.cthchey=
+#

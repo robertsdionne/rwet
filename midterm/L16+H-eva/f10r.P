@@ -1,0 +1,52 @@
+## <f10r.P> {}
+# text
+# Last edited on 1998-12-11 12:29:08 by stolfi
+#
+<f10r.P.1;H>       pchocthy.shor.octhody.chorchy.pchodol.chopchal.ypch.kom-
+<f10r.P.1;C>       pchocthy.shor.octhody.chorchy.pchodol.chopchol.ypch!kom-
+<f10r.P.1;F>       pchocthy.shor.octhody.chorchy.pchodol!chopchal.yrch.kom-
+#
+<f10r.P.2;H>       dchey.cthoor.char.chty.os.chair.oty!tchol.oky.daiin.etyd-
+<f10r.P.2;C>       dchey.cthoor.char.chty.oe!chair.oty!tchol.oky.daiin.etyd-
+<f10r.P.2;F>       dchey.cthoor.char.chty.os.chair.oty.tchol.oky.daiin.etyd-
+#
+<f10r.P.3;H>       qotor.otchy.daiin.chocthy.qotchy.chol.or.yty.dy.dy-
+<f10r.P.3;C>       qotor.otchy.daiin.chocthy.qotchy.chol.or.yty.dy.dy-
+<f10r.P.3;F>       qotor.otchy.daiin.chocthy.qotchy.chol.or.yty.dy.dy-
+#
+<f10r.P.4;H>       sor.chaiin.chcthy.ctho.ckhy.or.aiin.chtchor.doiir.ody-
+<f10r.P.4;C>       sor.chaiin.chcthy.ctho!ckhy.or.aiin.chtchor.doiir.ody-
+<f10r.P.4;F>       sor.chaiin.chcthy.ctho.ckhy.or.aiin.chtchor.doiir.ody-
+#
+<f10r.P.5;H>       qokchy.qotchol.chol.cthy=
+<f10r.P.5;C>       qokchy.qotchol.chol.cthy=
+<f10r.P.5;F>       qokchy.qotchol.chol.cthy=
+#
+<f10r.P.6;H>       ycheor.cthy.chor.cthaiin.qoctholy.dy-{plant}chy.taiin.shy-
+<f10r.P.6;C>       ycheor.cthy.chor.cthaiin.qoctholy.dy-{plant}chy.taiin.shy-
+<f10r.P.6;F>       ycheor.cthy.chor.cthaiin.qoctholy.dy-{plant}chy.taiin.shy-
+#
+<f10r.P.7;H>       dchy.qokchol.ykchaiin.yty.daiin.cth-{plant}dain.dair.am-
+<f10r.P.7;C>       dchy.qokchol.ykchaiin.yky.daiin.cth-{plant}dain.dair.am-
+<f10r.P.7;F>       dchy.qokchol.ykchaiin.yty.daiin.cth-{plant}dain.dair.am-
+#
+<f10r.P.8;H>       qotchor.chor.otol.chol.cholor-{plant}chol.daiin.dar-
+<f10r.P.8;C>       qotchor.chor.otol.chol.cholor-{plant}chol.daiin.dar-
+<f10r.P.8;F>       qotchor.chor.otol.chol.cholor-{plant}chol.daiin.dar-
+#
+<f10r.P.9;H>       oykchor.shor.chor.chy.kaiiin.dy-{plant}chodaiin-{plant}
+<f10r.P.9;C>       oykchor.shor.chor.chy.kaiiin.dy-{plant}chodaiin-{plant}
+<f10r.P.9;F>       oykchor.shor.chor.chy.kaiiin.dy-{plant}chodaiin-{plant}
+#
+<f10r.P.10;H>      oqotar.otor.cfhy.cthor.osain-{plant}ytoiin-{plant}
+<f10r.P.10;C>      oqotor.otor.cphy.cthor.osain-{plant}ytoiin-{plant}
+<f10r.P.10;F>      oqotar.otor.cfhy.cthor.osain-{plant}ytoiin-{plant}
+#
+<f10r.P.11;H>      rotcho.shor.qoty.qotor.cthy.d-{plant}otar-{plant}
+<f10r.P.11;C>      rotcho!shor.qoty.qotor.cthy!d-{plant}otar-{plant}
+<f10r.P.11;F>      rotcho.shor.qoty.qotor.cthy!d-{plant}otar-{plant}
+#
+<f10r.P.12;H>      rodaiin.daiin.qotchy.qotor={plant}
+<f10r.P.12;C>      rodaiin.daiin.qotchy.qotor={plant}
+<f10r.P.12;F>      !odaiin.daiin.qotchy.qotor={plant}
+#

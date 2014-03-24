@@ -1,0 +1,129 @@
+## <f58r.P> {}
+# text
+# Last edited on 1998-12-19 19:04:03 by stolfi
+#
+# One 6-pointed star above first line
+#
+<f58r.P.1;H>       {indent}kor.cholfy.shopchy.otoralchy.chofchol.sholy.otaly.dal.m-
+<f58r.P.1;F>       {indent}kor.cholfy.shopchy.otoralchy.chofchol.sholy.otaly.dal!m-
+#
+<f58r.P.2;H>       {indent}dshodal.or.ckhy.olchear.char.tal.ytal.ytar.olchokal-
+<f58r.P.2;F>       {indent}dshodal.or.ckhy.olchear.char.tal.ytal.ytar.olchokal-
+#
+<f58r.P.3;H>       {indent}ykechod.dalal!dam.ytam.choty.otchy.otaly.shoty.s-
+<f58r.P.3;F>       {indent}ykechod.dalal.dam.ytam.choty.otchy.otaly.shoty.s-
+#
+<f58r.P.4;H>       dshor.cholar.aiin.shalom.shaly.dalchy.oteom.dal.sholalam-
+<f58r.P.4;F>       dshor.sholar.aiin.shalom.shaly.dalchy.oteom.dal.sholalam-
+#
+<f58r.P.5;H>       qor.dchairam.otar.otar.char.ar.al.char.arary.ytalar.cham-
+<f58r.P.5;F>       qor.dchairam.otar.otar.char.ar.al.char.arary.ytalar.cham-
+#
+<f58r.P.6;H>       torchey.otaiin.chary.oteory.otal.dalchor.ykeey.choltam-
+<f58r.P.6;F>       torchey.otaiin.chary.oteory.otal.dalchor.ykeey.choltam-
+#
+<f58r.P.7;H>       saiin.chol!keey.dal.shom.shol!teol.ytalody.otey.cheoly.o.tchy-
+<f58r.P.7;F>       saiin.chol.keey.dal.shom.shol.teol.ytalody.otey.cheoly.o!tchy-
+#
+<f58r.P.8;H>       toleeshal.oleeam.dalor.chy.oteodchy.yteochy.otey.kal.dy.alam-
+<f58r.P.8;F>       toleeshal.oleeam.dalor.chy.oteodchy.yteochy.otey.kal.dy.alam-
+#
+<f58r.P.9;H>       sholaiin.chey.yteo!daiin.qoar.aiin.arary.sheey.daiin.ealam-
+<f58r.P.9;F>       sholaiin.chey.yteo.daiin.qoar.aiin.arary.sheey.daiin.ealam-
+#
+<f58r.P.10;H>      tal.ar.am.shar.chepchey.otar.aldy.otal.cheam.qokaiin.ote.ry-
+<f58r.P.10;F>      tal.ar.am.shar.chepchey.otar.aldy.otal.cheam.qokaiin.ote!ry-
+#
+<f58r.P.11;H>      qocphody.qokalam.chairal.qoct!aiin.otalal.dalor.orar-
+<f58r.P.11;F>      qocphody.qokalam.chairal.qocthaiin.otalal.dalor.orar-
+#
+<f58r.P.12;H>      shoar.ar.choldal.otalchal.dal.choldy.okalys.airaldy.shar-
+<f58r.P.12;F>      shoar!ar.choldal.otalchal.dal.choldy.okalys.a!raldy.shar-
+#
+<f58r.P.13;H>      ytar.sheear.cheoldy.ykeol.cheal.cheody.chal.chaiin.ol.oly-
+<f58r.P.13;F>      ytar.sheear.cheoldy.qkeol.cheal.cheody.chal.chaiin.ol.oly-
+#
+<f58r.P.14;H>      sharam.okair.chckaiin.ytchaly.dal.chal.ykal.okalal.oly.chal-
+<f58r.P.14;F>      sharam.okair.chekaiin.qtchaly.dal.chal.ykal.okalal.oly.chal-
+#
+<f58r.P.15;H>      dy.r.chal.qopaiim.cholaly.dy.shedy=
+<f58r.P.15;F>      daiir.shal.qopaim.cholaly.dy.shedy=
+#
+<f58r.P.16;H>      {7pt star}typchey.ar.air.ytashy.qotyshey.pchdy.dshaly.pydaly.choky.opy-
+<f58r.P.16;F>      {7pt star}typchey.ar.air.ytashy.qotyshey.pchdy.dshaly.pydaly.choky.opy-
+#
+<f58r.P.17;H>      ysholshy.qotoly.daiin.ykal.dalchdy.qoky.dal.ytchody.s.olaraly-
+<f58r.P.17;F>      ysholshy.qotoly.daiin.ykal.dalchdy.qoky.dal.ytchody.s!olaraly-
+#
+<f58r.P.18;H>      darar.shol.cholraly.cholaiin.odaiin.chaly.dalar.aiin.okal.otal-
+<f58r.P.18;F>      darar.shol.cholraly.cholaiin.odaiin.chaly.dalar.aiin.okal.otal-
+#
+<f58r.P.19;H>      todal.qotey.chaly.dal.qokaldy.otary.okalal.csees.chal.ochaly-
+<f58r.P.19;F>      todal.qotey.chaly.dal.qokaldy.otary.okalal.shees.chal.achaly-
+#
+<f58r.P.20;H>      ysheockhy.oleeey.oleesey.olaiin.olkeal.daldy.otalar.ar.arodaim-
+<f58r.P.20;F>      ysheockhy.oleeey.oleesey.alaiin.olkeal.daldy.otalar.ar.aroda*m-
+#
+<f58r.P.21;H>      tcheos.ycheor.sheain.okey.qotaily.daiin.chy.cholkar.olkeol.oty-
+<f58r.P.21;F>      tcheos.ycheor.sheain.okey.qotaly.daiin.chy.chol.kar.olkeol.oty-
+#
+<f58r.P.22;H>      dcholy.ytar.chol.dal.qoaiir.chalolky.osal.chotam.chal.olseeg-
+<f58r.P.22;F>      dcholy.qtar.chol.dal.qoainr.chalolky.osal.chotam.chal.olseem-
+#
+<f58r.P.23;H>      shol.aleedy.chotar.okeal.sheody.qokal!char.otal.choky.sar-
+<f58r.P.23;F>      shol.aleedy.chotar.okeal.cheody.qokal.char.otal.choky.sar-
+#
+<f58r.P.24;H>      ta!zain.oteeor.okeal.ar.otalor.cheoekar.cheky.otakar-
+<f58r.P.24;F>      ta*eiin.oteeor.okeal.ar.otalor.cheoekar.cheky.otakar-
+#
+<f58r.P.25;H>      oar.cheekey.oteeoaly.otar.alkar.or.aldar=
+<f58r.P.25;F>      oar.checkhy.oteeoaly.otar.alkar.or!aldar=
+#
+<f58r.P.26;H>      {8pt star}kshar.shoky.opcheear.ofadai!n.opsheolaiin.opydaiin.podaiir-
+<f58r.P.26;F>      {8pt star}kshar.shoky.opcheear.ofadaiin.opsheolaiin.opydaiin.podaiir-
+#
+<f58r.P.27;H>      yteor.oty.chal!tar.ar.sheeetchy.tal.al.chear.chear.char.ar.am-
+<f58r.P.27;F>      yteor.oty.chal.tar.ar.sheeetchy.tal.al.chear.chear.char.ar!am-
+#
+<f58r.P.28;H>      ysheal!kai!r.odalaly.dalal.chy.s.air.shokar.olaldy.okalody-
+<f58r.P.28;F>      ysheal.kaiin.odalaly.dalal.chy.s!air.shokar.olaldy.okalody-
+#
+<f58r.P.29;H>      odalar.cheor.sar.alol.daly.cheom.chor.ar.aldam.chal.cheal.somy-
+<f58r.P.29;F>      odalar.cheor.sar.alol.daly.cheom.chor.ar.aldam.chal.cheal.som*-
+#
+<f58r.P.30;H>      ytor.ar.alom.qokalor.chdy.dair.chody.cheol.okolchy.otaldy-
+<f58r.P.30;F>      ytor.ar.alom.qokalor.chdy.dair.chody.cheol.okolchy.otaldy-
+#
+<f58r.P.31;H>      odshchol.taiin.okalor.chol.olekar.otarchol.chol.kam.qokal-
+<f58r.P.31;F>      odshchol.taiin.okalor.chol.olekar.otarchol.chol.kam.qokal-
+#
+<f58r.P.32;H>      oqotaly.qokaiin.chtaldy.qoky.dar.al.choltaly.qokaldy-
+<f58r.P.32;F>      oqotal%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%taly.qokaldy-
+#
+<f58r.P.32a;H>     schocthhy.dalols.qokalos.cheor.oekeody.qokaly.qokar.dy-
+<f58r.P.32a;F>     schocthey.dalols.qokalos.cheor.oekeody.qokaly.qokar.dy-
+#
+<f58r.P.33;H>      ys.sheol.chokey.dalol.shokalol.qokaly.kaldy.ytaipom-
+<f58r.P.33;F>      ys!sheol.chokey.dalol.shokalol.qokaly.kaldy.ytaipam-
+#
+<f58r.P.34;H>      dtor.sheol.qokor.sharal.ckhol.sholar.aiin.sheoctham-
+<f58r.P.34;F>      dtor.sheol.qokor.sharal.ckhol.sholar.aiin.sheoctham-
+#
+<f58r.P.35;H>      skaiin.shokal.chockhy.qoky.chcthy.ykeeshy.shoekar-
+<f58r.P.35;F>      skaiin.shokal.chockhy.qoky.ch!tey.ykeesey.shoekar-
+#
+<f58r.P.36;H>      opolkeor.olchocfhy.cphol.chypaldy.cholols.chkaiin.olfcham-
+<f58r.P.36;F>      opolkeor.olchocfhy.cphol.chypaldy.cholols.chkaiin.olfcham-
+#
+<f58r.P.37;H>      sysheos.okaly.cheos.otey.ykar.ls.aiin.okaiin.ytol!kal-
+<f58r.P.37;F>      sysheos.okaly.cheos.otey.ykar.ls.aiin.okaiin.ytol.kal-
+#
+<f58r.P.38;H>      dtshol.dytal.okar.olol.sheol.qockhy.qokaly.salol.dalam-
+<f58r.P.38;F>      dtshol.dytal.okar.olol.sheol.qockhy.qokaly.salol.dalam-
+#
+<f58r.P.39;H>      yroleeey.arairaly.pchody.tshaly.alols.ykaly.kar.aram-
+<f58r.P.39;F>      yroleeey.arairaly.pchody.tshaly.alols.ykaly.kar.aram-
+#
+<f58r.P.40;H>      dchol.chokal.saiin.dal.okals!alchey=
+<f58r.P.40;F>      dchol.chokal.saiin.dal.okals.alchey=
+#

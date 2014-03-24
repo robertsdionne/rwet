@@ -1,0 +1,55 @@
+## <f45v.P> {}
+# text
+# Last edited on 1998-12-07 11:06:53 by stolfi
+#
+<f45v.P.1;H>       korary.chko.kol.chey.fsholom.shor.ykchy.dod.opchaiin.olald-
+<f45v.P.1;C>       korary.chko.kol.chey.fsholom.shor.ykchy.dod.opchaiin.nlald-
+<f45v.P.1;F>       korary.chky.kol!chey.fsholom.shor.ykchy.dod.opchaiin.olald-
+<f45v.P.1;G>       torary.chky.kol!chey.fsholom.shor.ykchy.dod.opchaiin.olald-
+#
+<f45v.P.2;H>       okol.chor.daiin.cthy.okchol.chom.okolor.dy-{plant}okchol.s-
+<f45v.P.2;C>       okol.chor.daiin.cthy.okchol.chom.okolon.dy-{plant}okchol.s-
+<f45v.P.2;F>       okol.chor.daiin.cthy.okchol.chom.okolor.dy-{plant}okchol.s-
+#
+<f45v.P.3;H>       qokchy.l.or.cheol.qotol.qotol.chy.ky.ctho.d-{plant}ykar.yd-
+<f45v.P.3;C>       qokchy.l!or.cheol.qotal.qotol.chy!ky.ctho!d-{plant}ykar.yd-
+<f45v.P.3;F>       qokchy.l.or.cheol.qotol.qotol.chy.ky.ctho!d-{plant}ykar!yd-
+<f45v.P.3;G>       qokchy.l!or.cheal.qotal.qotol.chy.ky.ctho!d-{plant}ykar!yd-
+#
+<f45v.P.4;H>       okchy.qockhy.dai!n.dai!l.dair.shy=
+<f45v.P.4;C>       okchy.qockhy.dai!n.dai!l.dair.shy=
+<f45v.P.4;F>       okchy.qockhy.dai!n.dai!l.dair.shy=
+<f45v.P.4;G>       okchy.qockhy.daiin.daiin.dair.shy=
+#
+#
+<f45v.P.5;H>       qotol.choiin.okchar.dar.oty!-{plant}shoto.dol.py-{plant}oty!tam-
+<f45v.P.5;C>       qotol.choiin.okchar.dar.oty!-{plant}shoto.dol.py-{plant}oty.tam-
+<f45v.P.5;F>       qotol.choiin.okchar.dar.oty!-{plant}shoto.dol.py-{plant}oty!tam-
+<f45v.P.5;G>       qotol.choiin.okchar.dar.oty*-{plant}shoto.dol.py-{plant}oty!tam-
+#
+<f45v.P.6;H>       ss.aiin.cphor.qokey.tod-{plant}ytchdy.dy-{plant}dy.cheg-
+<f45v.P.6;C>       ls.aiin.cphor.qokey.tod-{plant}ytchdy.dy-{plant}dy.cheg-
+<f45v.P.6;F>       *.saiin.cphor.qokey.tod-{plant}ytchdy.dy-{plant}dy.chem-
+<f45v.P.6;G>       *.raiin.cphor.qokey.tod-{plant}ytchdy.dy-{plant}dy.chem-
+#
+<f45v.P.7;H>       tchtcho.kchol.dshy.oty.ol-{plant}ytchom=
+<f45v.P.7;C>       tchtcho!kchol.dshy.oty.ol-{plant}ytchom=
+<f45v.P.7;F>       tchtcho.kchol.dshy.oty!ol-{plant}ytchom=
+#
+<f45v.P.8;H>       ykcheor.odal.sho.dy.pchom-{plant}otor.oaiir-{plant}
+<f45v.P.8;C>       yksheor.oeal.sho.dy.pchom-{plant}otor.oaiir-{plant}
+<f45v.P.8;F>       ykcheor.odal.sho.dy.pchom-{plant}otor.oaiin-{plant}
+<f45v.P.8;G>       ykcheor.odal.sho.dy.pchom-{plant}otar.oai!r-{plant}
+#
+<f45v.P.9;H>       ychor.cthy.chol.qokom.sy-{plant}sa.ykchom-{plant}
+<f45v.P.9;C>       ychor.cthy!chol.qokom.sy-{plant}sa.ykchom-{plant}
+<f45v.P.9;F>       ychor.cthy.chol.qokom.sy-{plant}sa.ykchom-{plant}
+#
+<f45v.P.10;H>      dshor.otshy.oky.tsholol-{plant}ytchor.d-{plant}
+<f45v.P.10;C>      dshor.otshy.oky.tsholol-{plant}ytchor.d-{plant}
+<f45v.P.10;F>      dshor.otshy.oky.tsholol-{plant}ytchor!d-{plant}
+#
+<f45v.P.11;H>      or.chor.ytchy.doiin.dcholdy={plant}
+<f45v.P.11;C>      or!chor.ytchy.doiin.dcholdy={plant}
+<f45v.P.11;F>      or!chor.ytchy.daiin.dcholdy={plant}
+#

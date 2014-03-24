@@ -1,0 +1,259 @@
+## <f111v.P> {}
+# text
+# Last edited on 1998-12-11 10:11:13 by stolfi
+#
+<f111v.P.1;H>      koshey.qokal.chckheal.opcheo!dair.al!kai!n.sheokai!n.cheok.okeal.shedy.ralchy-
+<f111v.P.1;T>      koshey.qokal.chckheal.opcheo!dair.al!kai!n.sheokai!n.cheok.okeal.shedy.ralchy-
+<f111v.P.1;F>      koshey.qokal.chckheal.opcheo.dair.al.kaiin.sheokaiin.cheok.okeal.shedy.raly!y-
+<f111v.P.1;G>      koshey.qokal.chckheal.opsheo!dair.al!kai!n.sheokai!n.cheok.okeal!shedy.ralchy-
+#
+<f111v.P.2;H>      sheekeey.cheol.keedy.qokair.shecthy.qokeol.okechedy.qokedy.qopchedy.qokedam.chy-
+<f111v.P.2;T>      sheekeey.cheol.keedy.qokair.shecthy.qokeol.okechedy.qokedy.qopchedy.qokedam.chy-
+<f111v.P.2;F>      she!kchy.cheol.keedy.qokair.shecthy.qokeol.okechedy.qokedy.qope!edy.qokedam.chy-
+<f111v.P.2;G>      sheekeey.cheol.keedy.qokair.shecthy.qokeol.okechedy.qokedy.qopchedy.qokedam!chy-
+#
+<f111v.P.3;H>      dai!n.chedy.shedal.otedy.oteeo.chedy.qokeey.dai!n.chcthar.otar.qotai!n.otaim-
+<f111v.P.3;T>      dai!n.chedy.shedal.otedy.oteeo.chedy.qokeey.dai!n.chcthar.otar.qotai!n.otaim-
+<f111v.P.3;F>      daiin.chedy.chedal.otedy.oteeo.chedy.qokeey.daiin.chcthar.otar.qotaiin.otaim-
+<f111v.P.3;G>      dai!n.chedy.shedal.otedy.oteeo.chedy.qokeey.dai!n.chcthar.otar.qotai!n.otaim-
+#
+<f111v.P.4;H>      daiin.chey.chokedair.air.alol!shedy.qotedy.qokedar.oteedy.okedy.chedy.lkam-
+<f111v.P.4;T>      daiin.chey.chokedair.air.alol!shedy.qotedy.qokedar.oteedy.okedy.chedy.lkam-
+<f111v.P.4;F>      daiin.chey.chokedair.air.alol.shedy.qotedy.qokedar.oteedy.okedy.chedy.lkam-
+<f111v.P.4;G>      daiin.chey.chokedair.air.alol!shedy.qotedy.qokedar.oteedy.okedy.chedy.lkam-
+#
+<f111v.P.5;H>      qokeed.o.aiin.otedy.qokedy.chedy.!!!!!!qokeey.qokeedy.qokeol.shedy.qotedal.lol-
+<f111v.P.5;T>      qokeed.o.aiin.otedy.qokedy.chedy.!!!!!!qokeey.qokeedy.qokeol.shedy.qotedal.lol-
+<f111v.P.5;F>      qokchd.o.aiin.otedy.qokedy.chedy.chedy.qokeey.qokeedy.qokeol.shedy.qotedal.lol-
+<f111v.P.5;G>      qok*!d.o.aiin.otedy.qokedy.chedy.!!!!!!qokeey.qokeedy.qokeol.shedy.qotedal.lol-
+#
+<f111v.P.6;H>      okeeo.okchor.oteedy.cheal.qokeey.lkeey.chol.l!kaiin.oteed.aiin.ar.al.keedy.m-
+<f111v.P.6;T>      okeeo.okchor.oteedy.cheal.qokeey.lkeey.chol.l!kaiin.oteed!aiin.ar!al!keedy!m-
+<f111v.P.6;F>      okeeo.okchor.oteedy.cheal.qokeey.lkeey.chol.l!kaiin.oteed.aiin.ar.al.keedy!m-
+<f111v.P.6;G>      okeeo.okchar.oteedy.cheal.qokchy.lkeey.chol.l.kaiin.oteed.aiin.as.al!keedy!m-
+#
+<f111v.P.7;H>      qokeechey.qokaiin.oteaiin.fcheeo!l.kai!n.okeey.l.lcheedy.otal.kai!n.chedai!n.al-
+<f111v.P.7;T>      qokeechey.qokaiin.oteaiin.pcheeo!l!kai!n.okeey.l!lcheedy.otal.kai!n.chedai!n!al-
+<f111v.P.7;F>      qokeechey.qokaiin.oteaiin.pcheeo!l.kaiin.okeey.l!lcheedy.otal.kaiin.chedaiin.al-
+<f111v.P.7;G>      qokeechey.qokaiin.oteaiin.fcheeo.l!kai!n.okeey.l.lcheedy.otal.kai!n.chedai!n.al-
+#
+<f111v.P.8;H>      sho.otchey.cheol.kechy.chcthey.okai!n.ol.lkeey.qokai!n.checkhy.chedar.am-
+<f111v.P.8;T>      sho.otchey.cheol.kechy.chcthey.okai!n.al.lkeey.qokai!n.checkhy.chedar!am-
+<f111v.P.8;F>      sho.otchey.cheol.kechy.chcthey.okaiin.ol.lkeey.qokaiin.checkhy.chedar.am-
+<f111v.P.8;G>      sho.otchey.cheol.kechy.chcthey.okai!n.al.lkeey.qokai!n.checkhy.chedar.am-
+#
+<f111v.P.9;H>      lshey.shedal.okear.l!kedy.cheol!keey.lkey.okeey.qokeey.qokey.qokai!n.am-
+<f111v.P.9;T>      lshey.shedal.okear!l!kedy.cheol!keey.lkey.okeey.qokeey.qokey.qokai!n.am-
+<f111v.P.9;F>      lshey.shedal.otear.l!kedy.cheol.keey.lk!y.okeey.qokeey.qokey.qokaiin.am-
+<f111v.P.9;G>      lshey.shedal.okear.l.kedy.cheol!keey.lkey.okeey.qokeey.qokey.qokai!n.am-
+#
+<f111v.P.10;H>     soiin.shed.qoksheo.lor.cheo.lol.aiin.shey.qokai!n.chear.qoteol.shcthy.ldy-
+<f111v.P.10;T>     soiin.shed.qoksheo.lor.cheo.lol!aiin.shey.qokai!n.chear.qoteoa.shcthy.ldy-
+<f111v.P.10;F>     saiin.shed.qoksheo.lor.cheo.lol!aiin.shey.qokaiin.chear.qoteol.shcthy.ldy-
+<f111v.P.10;G>     soiin.shed.qoksheo.lor.cheo.lol.aiin.shey.qokai!n.chear.qoteol.shcthy.ldy-
+#
+<f111v.P.11;H>     ylcheey.shear.aiin.sheeor.otai!n.otedy.qokai!n.ched!kai!n.shed!aitai!n.chalg-
+<f111v.P.11;T>     ylcheey.shear.oiin.sheeor.otai!n.otedy.qokai!n.ched!kai!n.shed!aitai!n.shalm-
+<f111v.P.11;F>     ylcheey.shear.aiin.sheeor.otaiin.otedy.qokaiin.ched.kaiin.shed.aitaiin.chalm-
+<f111v.P.11;G>     ylcheey.shear.aiin.sheear.otai!n.otedy.qokai!n.ched!kai!n.shed!aitai!n.chald-
+#
+<f111v.P.12;H>     qear.ai!n.shey.okeeey.qokaiin.checkhy.sho.lchal.sheeay.shckhey.kshar.tar-
+<f111v.P.12;T>     qear!ai!n.shey.okeeey.qokaiin.checkhy.sho.lchal.shee!y.shckhey.kshar!tar-
+<f111v.P.12;F>     qear.aiin.shey.okeeey.qokaiin.checkhy.sho.lchal.shea!y.shckhey.kshar.tar-
+<f111v.P.12;G>     qoar.ai!n.shey.okchey.qokaiin.a!eckhy.sho.lchal.shea!y.shckhey.kshar!tar-
+#
+<f111v.P.13;H>     sheaiin.okaiin.chckhy.cheol.kedy.chetar.okaiin.shal.lchdal.tedy.tar.amd-
+<f111v.P.13;T>     sheaiin.okaiin.shckhy.cheol!kedy.chetar.okaiin.shal.lchdal!tedy.tar!amd-
+<f111v.P.13;F>     sheaiin.okaiin.chckhy.cheol.kedy.chekar.okaiin.shal.lchdal.tedy.tar!amd-
+<f111v.P.13;G>     sheaiin.okaiin.chckhy.cheol.kedy.chetar.okaiin.shal.lchdal.tedy.tar.amd-
+#
+<f111v.P.14;H>     qocheol.qokai!n.chear.ol.ai!n.shedy.qotaiin.qokeechy.olkeey.lkai!n.lal.gm-
+<f111v.P.14;T>     qocheol.qokai!n.chear.ol.oi!n.shedy.qotaiin.qokeechy.olkeey.lkai!n.lal!dm-
+<f111v.P.14;F>     qocheol.qokaiin.chear.ol.aiin.shedy.qotaiin.qokeechy.olkeey.lkaiin.lal.dm-
+<f111v.P.14;G>     qocheol.qokai!n.chear.ol.ai!n.shedy.qotaiin.qokeechy.olkeey.lkai!n.lal.dm-
+#
+<f111v.P.15;H>     rain.sheo.l.otai!n.qokaiin.al.kai!n.chedy.otal.lchedy.qokai!n.chtal.otai!n.l.ls-
+<f111v.P.15;T>     sa!r.shey.!!otai!n.qokaiin.al.kai!n.chedy.otal.lchedy.qokai!n.chtal.otai!n.l!ls-
+<f111v.P.15;F>     sair.shey.l.otaiin.qokaiin.al.kaiin.chedy.otal.lchedy.qokaiin.chtal.otaiin.l!ls-
+<f111v.P.15;G>     sa!s.shey.l.otai!n.qokaiin.al.kai!n.chedy.otal.lchedy.qokai!n.chtal.otai!n.l!*s-
+#
+<f111v.P.16;H>     qokai!n.sheol.qokai!n.chckhey.lchedy.okar.al.qotal.shedy.otai!n.far.aiin.am-
+<f111v.P.16;T>     qokai!n.sheol.qokai!n.shckhey.lchedy.okar!al.qokal.shedy.otai!n.far!aiin!am-
+<f111v.P.16;F>     qokaiin.sheol.qokaiin.chckhey.lchedy.okar!al.qotal.shedy.otaiin.par.aiin.am-
+<f111v.P.16;G>     qokai!n.sheol.qokai!n.chckhey.lchedy.okar.al.qotal.shedy.otai!n.far.aiin.am-
+#
+<f111v.P.17;H>     solkai!n.shey.okaiin.sheey.qokai!n.chkal.chckhy.saiin.ar.lchal.she.otain-
+<f111v.P.17;T>     solkai!n.shey.okaiin.sheey.qokai!n.chkal.chckhy.saiin!ar.lchal.she.otain-
+<f111v.P.17;F>     solkaiin.shey.okaiin.sheey.qokaiin.chkal.chckhy.saiin.ar.lchal.she.otain-
+<f111v.P.17;G>     solkai!n.shey.okaiin.sheey.qokai!n.chkal.chckhy.saiin.as.lchal.she.otain-
+#
+<f111v.P.18;H>     tair.shedy.qochdaiin.okai!n.sheey.kaiin.shey.otai!n.al!kai!n.o.l.r.ol.dai!n-
+<f111v.P.18;T>     tair.shedy.qoeedaiin.okai!n.sheey!kaiin.shey.otai!n.al!kai!n.o.l!r.ol.dai!n-
+<f111v.P.18;F>     tois.shedy.qoeidaiin.ykaiin.sh!ey.kaiin.shey.otaiin.al.kaiin.o!l.r!ol.daiin-
+<f111v.P.18;G>     tnis.shedy.qoeedaiin.okai!n.sh*ey.kaiin.shey.otai!n.al!kai!n.o.l.r.ol.dai!n-
+#
+<f111v.P.19;H>     qokaiin.cheal.tai!n.qokai!n.shey.qokai!n.char.shcthey.qoky.chy.qokaiin-
+<f111v.P.19;T>     qokaiin.cheal.tai!n.qokai!n.shey.qokai!n.char.shcthey.qoky.chy.qokaiin-
+<f111v.P.19;F>     qokaiin.cheal.taiin.qokaiin.shey.qokaiin.char.shcthey.qoky.chy.qokaiin-
+<f111v.P.19;G>     qokaiin.cheal.tai!n.qokai!n.shey.qokai!n.char.shcthey.qoky.chy.qokaiin-
+#
+<f111v.P.20;H>     shai!n.qokal.shar.qotea!l.qotai!n.chedy.qotai!n.shcthy.qokshedy.qotai!n.ar-
+<f111v.P.20;T>     shai!n.qokal.shar.qotea!l.qotai!n.chedy.qotai!n.shcthy.qokshedy.qotai!n!ar-
+<f111v.P.20;F>     shaiin.qokal.shar.qotea!l.qotaiin.chedy.qotaiin.shcthy.qokshedy.qotaiin.ar-
+<f111v.P.20;G>     shai!n.qokal.shar.qoteayl.qotai!n.chedy.qotai!n.shcthy.qokshedy.qotai!n.ar-
+#
+<f111v.P.21;H>     sair.air.ai!n.qol.rar.ai!n.cheey.lkeey.lkai!n.cheokai!n.sheo.qo.qokai!n.chear.alam-
+<f111v.P.21;T>     sair.air.ai!n.qol.rar.ai!n.cheey.lkeey.lkai!n.cheokai!n.sheo.qo.qokai!n.chear.alam-
+<f111v.P.21;F>     sair.air.aiin.qol.rar.aiin.cheey.lkeey.lkaiin.cheakaiin.sheo.qo.qokaiin.cheam.alam-
+<f111v.P.21;G>     sain.air.ai!n.qol.rar.ai!n.cheey.lkeey.lkai!n.cheokai!n.sheo.qo.qokai!n.chear.alam-
+#
+<f111v.P.22;H>     saiin.ychear.olsheey.chet!ai!n.chedy.qokai!n.okai!n.al.chan.okal.chey.lkeeey-
+<f111v.P.22;T>     saiin.ychear.olsheey.chet!ai!n.chedy.qokai!n.okai!n.al.chan.okal!chey.lkee!y-
+<f111v.P.22;F>     saiin.ych!ar.olsheey.chcthaiin.chedy.qokeiin.okaiin.al.chan.okal.chey.lkeeey-
+<f111v.P.22;G>     saiin.ychear.olsheey.chet!ai!n.chedy.qokai!n.okai!n.al.chan.okal.chey.lkeeey-
+#
+<f111v.P.23;H>     qokaiin.sheckhy.qokar.chal!kai!n.chckhedy.lcheol.okaiin.qokai!n.cheol.daiin.lom-
+<f111v.P.23;T>     qokaiin.sheckhy.qokar.chal!kai!n.chckhedy.lcheol.okaiin.qokai!n.cheol.daiin.lam-
+<f111v.P.23;F>     qokaiin.sheckhy.qokar.chal.kaiin.chckhedy.lcheol.okaiin.qokaiin.cheol.daiin.lor-
+<f111v.P.23;G>     qokaiin.sheckhy.qokar.chal!kai!n.chckhedy.lcheol.okaiin.qokai!n.cheol.daiin.lom-
+#
+<f111v.P.24;H>     cheodai!n.qokar.otai!n.chedy.lkai!n.chey.shckhy.qokl.chedy.qokar.chctham-
+<f111v.P.24;T>     cheodai!n.qokar.otai!n.chedy.lkai!n.chey.shckhy.qokl.chedy.qokar.chcthar-
+<f111v.P.24;F>     cheodaiin.qokar.otaiin.chedy.lkaiin.chey.shckhy.qokl.chedy.qokar.chctham-
+<f111v.P.24;G>     cheodai!n.qokar.otai!n.chedy.lkai!n.chey.shckhy.qokl.chedy.qokar.chctham-
+#
+<f111v.P.25;H>     tair.alchedar.shykaiin.chd!y=
+<f111v.P.25;T>     tair.olchedar.shykaiin.chd!y=
+<f111v.P.25;F>     tair.alchedar.shykaiin.chd!y=
+<f111v.P.25;G>     tair.alchedar.shykaiin.chdiy=
+#
+<f111v.P.26;H>     polanar.okshey.qokai!n.chey.kal.keedy.qopchedy.qopchey.ltchs.alpchdar-
+<f111v.P.26;T>     polarar.okshey.qokai!n.chey!kal!keedy.qopchedy.qopchey.ltchs!alpchdar-
+<f111v.P.26;F>     polarar.okshey.qokaiin.chey.kal.keedy.qopchedy.qopchey.ltchs.alpchdar-
+<f111v.P.26;G>     pola*ar.okshey.qokai!n.chey.kal.keedy.qopchedy.qopchey.ltchs.alpchdar-
+#
+<f111v.P.27;H>     ol.sheey.tsheey.ol!kar.sheey.otai!n.ches.shy.qokl.chey.qokl.cheor.ldar.llo-
+<f111v.P.27;T>     ol.sheey.tsheey.al!kar.sheey.otai!n.ches.shy.qokl.chey.qokl!cheor.ldar.llo-
+<f111v.P.27;F>     ol.sheey.tsheey.ol.kar.sheey.otaiin.ches.shy.qokl.chey.qokl.cheor.ldar.llo-
+<f111v.P.27;G>     ol!sheey.tsheey.al!kar.sheey.otai!n.ches.shy.qokl.chey.qokl.chear.ldar.llo-
+#
+<f111v.P.28;H>     qor!ch!ai!n.okai!n.chear.lkai!n=
+<f111v.P.28;T>     qor.che!iin.okai!n.chear.lkai!n=
+<f111v.P.28;F>     qor.cheaiin.okaiin.chear.lkaiin=
+<f111v.P.28;G>     qor!cheii!n.okai!n.chear.lkai!n=
+#
+<f111v.P.29;H>     polkiin.cheopaiin.otai!n.shedy.pchedy.opcheedy.qokai!n.chcfhey.otchey.lldy-
+<f111v.P.29;T>     polkiin.cheopaiin.otai!n.shedy.pchedy.opcheedy.qokai!n.chcfhey.otchey.lldy-
+<f111v.P.29;F>     polkiin.ch!opaiin.otaiin.shedy.pchedy.opcheedy.qokaiin.chcfhey.otchey.lldy-
+<f111v.P.29;G>     palkiin.cheopaiin.otai!n.shedy.pchedy.opcheedy.qokai!n.chckhey.otchey.lldy-
+#
+<f111v.P.30;H>     shokar.okeokai!n.sheekai!n.qokai!n.chechey.qokeey.qetai!n.otai!n.ar.lkai!n.lky-
+<f111v.P.30;T>     shokar.okeokai!n.sheekai!n.qokai!n.chechey.qokeey.qetai!n.otai!n.ar.lkai!n.lky-
+<f111v.P.30;F>     shokar.okeokaiin.sheekaiin.qokaiin.chechey.qokeey.qetaiin.otaiin.ar.lkaiin.lky-
+<f111v.P.30;G>     shokar.okeokai!n.sheekai!n.qokai!n.chechey.qokeey.qotai!n.otai!n.ar.lkai!n.lky-
+#
+<f111v.P.31;H>     pochey.oteai!n.chekai!n.cheal.lai!n.chey.qokai!n.chey.lkai!n.chal.ldy.llm-
+<f111v.P.31;T>     pochey.oteai!n.chekai!n.cheal.lai!n.chey.qokai!n.chey.lkai!n.chal.ldy.llm-
+<f111v.P.31;F>     pochey.oteaiin.chekaiin.cheal.laiin.chey.qokaiin.chey.lkaiin.chal.ldy.llm-
+<f111v.P.31;G>     pochey.oteai!n.chekai!n.cheal.lai!n.chey.qokai!n.chey.lkai!n.chal.ldy.llm-
+#
+<f111v.P.32;H>     tar.chey.tai!n.chkar.alkar.chey.qol.chedy.okai!n.chey.lcheey.char.an-
+<f111v.P.32;T>     tar.chey.tai!n.chkar.alkar.chey.qol.chedy.okai!n.chey.lcheey.char!an-
+<f111v.P.32;F>     tar.chey.taiin.chkar.alkar.chey.qol.chedy.okaiin.chey.lcheey.char!an-
+<f111v.P.32;G>     tar.chey.tai!n.chkas.alkar.chey.qol.chedy.okai!n.chey.lcheey.char!a*-
+#
+<f111v.P.33;H>     yshea!l.qoair.ai!n.oka!!n.sheai!n!y.qokan.chan.aman.cheal.char=
+<f111v.P.33;T>     ysh!ail.!oair!ai!n.oka!!n.sheai!n!y.qokan.chan.aman.cheal.char=
+<f111v.P.33;F>     yshea!l.*oair.aiin.okaiin.sheaiin!y.qokan.chan.aman.cheal!char=
+<f111v.P.33;G>     ysheeil.qoais.ai!n.oka!!n.sheai!n.y.qokan.chan.aman.cheal!char=
+#
+<f111v.P.34;H>     polar.okar.teody.qokai!n.talol.tarol.opchedy.qotar.otar.chtal.sam-
+<f111v.P.34;T>     polar.okar.teody.qokai!n.talol.tarol.opchedy.qotar.otar.chtal.sam-
+<f111v.P.34;F>     polar.okar.teody.qokaiin.talol.tarol.opchedy.qotar.otar.chtal.sam-
+<f111v.P.34;G>     polar.okar.teody.qokai!n.talol.tarol.opchedy.qotar.otar.chtal!sam-
+#
+<f111v.P.35;H>     oai!n.okaiin.chcthy.lkai!n.lchey.lshekai!n.qotal.shedy.chkeey.lkeeed.lkai!n.y-
+<f111v.P.35;T>     oai!n.okaiin.chcthy.lkai!n.lchey.lshekai!n.qotal.shedy.chkeey.lkeeed.lkai!n!y-
+<f111v.P.35;F>     oaiin.okaiin.chcthy.lkaiin.lchey.lshekaiin.qotal.shedy.chkeey.lkee!r.lkaiin!y-
+<f111v.P.35;G>     oai!n.okaiin.chcthy.lkai!n.lchey.lshekai!n.qotal.shedy.chkeey.lkeeed.lkai!n.y-
+#
+<f111v.P.36;H>     shai!n.okaiin.chey.qokar.ar.ar.ai!n.olr.ar.olor=
+<f111v.P.36;T>     shai!n.okaiin.chey.qokar.ar.ar.ai!n.olr.ar.olor=
+<f111v.P.36;F>     shaiin.okaiin.chey.qokar.ar.ar!oiin.alr.ar.olor=
+<f111v.P.36;G>     shai!n.okaiin.chey.qokar.ar.ar.ai!n.alr.ar.olor=
+#
+<f111v.P.37;H>     polchey.lkar!shar.okai!n.qokai!n.shalkl.dy.tor.chey.keedy.lteedy.r!aldl-
+<f111v.P.37;T>     polchey.lkar!shar.ykai!n.qokai!n.shalky.dy.tor!chey.keedy.lteedy.r!aldl-
+<f111v.P.37;F>     polchey.lkar.shar.akaiin.qokaiin.shalkl.dy.tar!chey.keedy.lteedy.r!aldl-
+<f111v.P.37;G>     palchey.lkar.shar.okai!n.qokai!n.shalkl.dy.tar.chey.keedy.lteedy.r.aldl-
+#
+<f111v.P.38;H>     ycheey.o!aiin.checkhey.otai!n.qotl.chear.chedy.qokeey.okeedy.lkeey-
+<f111v.P.38;T>     ycheey.o!aiin.checkhey.otai!n.qotl.chear.chedy.qokeey.okeedy.lkeey-
+<f111v.P.38;F>     ycheey.o!aiin.checkhey.otaiin.qotl.chear.chedy.qokeey.okeedy.lkeey-
+<f111v.P.38;G>     ycheey.o.aiin.checkhey.otai!n.qotl.chear.chedy.qok!ay.okeedy.lkeey-
+#
+<f111v.P.39;H>     dsheey.qokal.chedy.chcthy.qokai!n.chedy.lkeey.shey.qokai!n.chedy.lchdy-
+<f111v.P.39;T>     dsheey.qokal.chedy.chcthy.qokai!n.chedy.lkeey.shey.qokai!n.chedy.lchdy-
+<f111v.P.39;F>     dsheey.qokal.chedy.chcthy.qokaiin.chedy.lkeey.shey.qokaiin.chedy.lchdy-
+<f111v.P.39;G>     dsheey.qokal.chedy.chcthy.qokai!n.chedy.lkeey.shey.qokai!n.chedy.lchdy-
+#
+<f111v.P.40;H>     ykeeey.lkain.chckhy.chokai!n.chckhal.sheckhedy.qokeey.qokeedy.lchsl-
+<f111v.P.40;T>     ykeeey.lkain.chckhy.chokai!n.chckhal.sheckhedy.qokeey.qokeedy.lchsl-
+<f111v.P.40;F>     yke!ey.lkain.chckhy.chokaiin.chckhal.sheckhedy.qokeey.qokeedy.lchsl-
+<f111v.P.40;G>     ykeeey.lkain.chckhy.chokai!n.chckhal.sheckhedy.qokeey.qokeedy.lchsl-
+#
+<f111v.P.41;H>     oteey.l!chedy.teeedy.lkeey.oteedy.okedy.chedy.qokeey.checthy.qotal-
+<f111v.P.41;T>     lteey.l!chedy.teeedy.lkeey.oteedy.okedy.chedy.qokeey.checthy.qotam-
+<f111v.P.41;F>     oteey.l!chedy.teeedy.lkeey.oteedy.okedy.chedy.qokeey.checthy.qotal-
+<f111v.P.41;G>     oteey.l.chedy.teeedy.lkeey.oteedy.okedy.chedy.qokeey.checthy.qotal-
+#
+<f111v.P.42;H>     cheeo.l!keeo.chear.qokeain.okeeor.cheedy.okai!n.chedy.chedy.teedy.lcheam-
+<f111v.P.42;T>     cheeo.l!keey.chear.qokeain.okeeor.cheedy.okai!n.chedy.chedy.teedy.lcheam-
+<f111v.P.42;F>     cheeo.!lkeeo.chear.qokaiin.oke!or.cheedy.okaiin.chedy.chedy.teedy.lcheam-
+<f111v.P.42;G>     cheeo.l.keeo.chear.qokeain.okeeor.cheedy.okai!n.chedy.chedy.teedy.lcheam-
+#
+<f111v.P.43;H>     ycheo.daiin.sheeky.chokeal.sheekar.okaiin.otai!n.chear.alo.l!aiin.chotam-
+<f111v.P.43;T>     ycheo.daiin.sheeky.chokeal.sheekar.okaiin.otai!n.chear.alo!l!aiin.chotam-
+<f111v.P.43;F>     ycheo.daiin.sheeky.chokeal.sheekar.okaiin.otaiin.chear.alo!l!aiin.chotam-
+<f111v.P.43;G>     ycheo.daiin.sheeky.chokeal.sheekar.okaiin.otai!n.chear.alo.l.aiin.chotam-
+#
+<f111v.P.44;H>     dai!n.teeodain.cheeal.olaiin.or=
+<f111v.P.44;T>     dai!n.teeodain.cheeal.olaiin.or=
+<f111v.P.44;F>     daiin.teodaiin.cheeal.olaiin.or=
+<f111v.P.44;G>     dai!n.teeodain.cheevl.olaiin.or=
+#
+<f111v.P.45;H>     pol.laiin.okai!n.sheal.pchedai!n.opchey.polshy.okshey.opchedy.qopchais.alky-
+<f111v.P.45;T>     pol!laiin.okai!n.sheal.pchedai!n.opchey.polshy.okshey.opchedy.qopchair.alky-
+<f111v.P.45;F>     pol.laiin.okaiin.sheal.pchedaiin.opchey.polshy.okshey.opchedy.qopchair.alky-
+<f111v.P.45;G>     pol!laiin.okai!n.sheal.pchedai!n.opchey.polshy.okshey.opchedy.qopchais.alky-
+#
+<f111v.P.46;H>     sol.chey.lkeey.rol!keey.chckhy.okeeey.lchedy.lkeai!n.checthy.qotain.aly-
+<f111v.P.46;T>     sol.chey.lkeey.rol!keey.chckhy.okeeey.lchedy.lkeai!n.checthy.qotain!aly-
+<f111v.P.46;F>     sol.chey.lkeey.rol.keey.chckhy.okeeey.lchedy.lkeaiin.checthy.qotain.aly-
+<f111v.P.46;G>     sol.chey.lkeey.rol!keey.chcthy.okeeey.lchedy.lkeai!n.checthy.qotain.aly-
+#
+<f111v.P.47;H>     sai!n.cheey.qokeey.chey.tai!n.olai!n.okeeedy.chekai!n.chckhey.lchar=
+<f111v.P.47;T>     sai!n.cheey.qokeey.chey!tai!n.olai!n.okeeedy.chekai!n.chckhey.lchar=
+<f111v.P.47;F>     saiin.cheey.qokeey.chey.taiin.olaiin.ykeeedy.chekaiin.chckhey.lchar=
+<f111v.P.47;G>     sai!n.cheey.qokeey.chey.tai!n.olai!n.okeeedy.chekai!n.chckhey.lchar=
+#
+<f111v.P.48;H>     psalar.cheey.qekal.chey!kaiin.tai!n.chal.al.skaiin.akchedy.opchdal.opchy-
+<f111v.P.48;T>     !salar.cheey.qekal.chey!kaiin.tai!n.chal.al.skaiin.okchedy.opchdal.opchy-
+<f111v.P.48;F>     psalar.cheey.qokal.chey.kaiin.taiin.chal.al.skaiin.okchedy.opchdal.opchy-
+<f111v.P.48;G>     psalar.cheey.qekal.chey.kaiin.tai!n.chal.al.skaiin.akchedy.opchdal.opchy-
+#
+<f111v.P.49;H>     so!ry.cheey.chkai!n.chal.lor.sheey.qokai!n.okai!n.chey.qokai!n.okeey-
+<f111v.P.49;T>     sairy.cheey.chkai!n.chal.lor.sheey.qokai!n.okai!n.chey.qokai!n.okeey-
+<f111v.P.49;F>     so!ry.cheey.chkaiin.chal.lor.sheey.qokaiin.okaiin.chey.qokaiin.okeey-
+<f111v.P.49;G>     sd!*y.cheey.chkai!n.chal.lor.sheey.qokai!n.okai!n.chey.qokai!n.okeey-
+#
+<f111v.P.50;H>     shaiin.qoiiin.okai!n.chey.qokeeey.okai!n.chees.ar.ol.loeees.otai!n.or-
+<f111v.P.50;T>     shaiin.qoiiin.okai!n.chey.qokeeey.okai!n.chees.ar.ol.loeees.otai!n.or-
+<f111v.P.50;F>     shaiin.qoii!n.okaiin.chey.qokeeey.okaiin.chees.ar.ol.loeees.otaiin.or-
+<f111v.P.50;G>     shaiin.qoiiin.okai!n.chey.qokeeey.okai!n.chees.ar.ol.loeees.otai!n.or-
+#
+<f111v.P.51;H>     sai!n.cheal.chckhy.okai!n.okal!aiin.choty.chckhy=
+<f111v.P.51;T>     sai!n.cheal.chckhy.okai!n.okal!aiin.choty.chckhy=
+<f111v.P.51;F>     saiin.cheal.chckhy.okaiin.okal!aiin.choty.chckhy=
+<f111v.P.51;G>     sai!n.cheal.chckhy.okai!n.okal.aiin.choty.chyckh=
+#

@@ -1,0 +1,32 @@
+## <f25v.P> {}
+# text
+# Last edited on 1998-12-11 12:33:15 by stolfi
+#
+<f25v.P.1;H>       poeeaiin.qoky.shy.daiin.qopchey.otchey.qofchor.sos-
+<f25v.P.1;C>       **!*aiin.qoky.shy.daiin.qopchey.otchey.qofchor.sos-
+<f25v.P.1;F>       poeeaiin.qoky.shy.daiin.qopchey.otchey.qofchor.sos-
+#
+<f25v.P.2;H>       dchor.cthor.chor.daiin.s.okeeaiin.daiin.ckhey.daiin-
+<f25v.P.2;C>       dchor.cthor.chor.daiin.s.okeeaiin.daiin.ckhey.daiin-
+<f25v.P.2;F>       dchor.cthor.chor.daiin.s.okeeaiin.daiin.ckhey.daiin-
+#
+<f25v.P.3;H>       orcho.kchor.chol.daiin.shcfhor.daiin.dshey.daiity-
+<f25v.P.3;C>       orcho.kchor.chol.daiin.shcfhor.daiin.dshey.daiity-
+<f25v.P.3;F>       orcho.kchor.chol.daiin.shckhor.daiin.dshey.dainty-
+#
+<f25v.P.4;H>       qokaiin.qokcho.shol.daiin.ckhear.ckhol.daiin.chkear-
+<f25v.P.4;C>       qokaiin.qokcho.shol.daiin.ckhear.ckhol.daiin.chkear-
+<f25v.P.4;F>       qokaiin.qokcho.shol.daiin.ckhear.ckhol.daiin.chkear-
+#
+<f25v.P.5;H>       dar.chakeey.dshor.dshey.qochol.dol.cho.daiin.daiin-
+<f25v.P.5;C>       dar.chokeey.dshor.dshey.qochol.dol.cho.daiin.daiin-
+<f25v.P.5;F>       dar.chokeey.dshor.dshey.qochol.dol.cho.daiin.daiin-
+#
+<f25v.P.6;H>       qokcho.r.ochy.qotchy.qokoral.cho-{plant}!!chain.deeaiir.s-
+<f25v.P.6;C>       qokcho.r.ochy.qotchy.qotoral.cho-{plant}*.chain.deeaiir.s-
+<f25v.P.6;F>       qokcho.r!ochy.qotchy.qokoral.cho-{plant}*.chain.deeaiir.s-
+#
+<f25v.P.7;H>       os{&S}o.chkey.daii!ol.daiin.shckhy-{plant}orchaiin=
+<f25v.P.7;C>       o*!!!!!.chkey.daii.ol.daiin.shckh!-{plant}orchaiin=
+<f25v.P.7;F>       osh!!!!.chkey.dain!ol.daiin.shckhy-{plant}orchaiin=
+#

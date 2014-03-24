@@ -1,0 +1,97 @@
+## <f49r.P> {}
+# text
+# Last edited on 1998-12-11 12:46:44 by stolfi
+#
+# Weirdos:
+#
+#  &q" = <q> with a plume over the connector
+#
+<f49r.P.1;H>       po!shol.dy.shor.shol.shtchy.shor!pchor.opchor.shor!kchy-
+<f49r.P.1;C>       py.chol.dy.chor.shol.shtchy.shor.pchor.opchor.shor.kchy-
+<f49r.P.1;F>       py!chol.dy.shor.shol.shtchy.chor.pchor.opchor.shor.kchy-
+<f49r.P.1;G>       pa!shol.dy.shor.shol.shtchy.shor.pchor!opchor.shor.tchy-
+#
+<f49r.P.2;H>       qotor.sho.chotchy.choshy.qopchor.qo.dor.daiin-
+<f49r.P.2;C>       qotor.sho.chotchy.choshy.qopchar.qo.dor.daiin-
+<f49r.P.2;F>       qotor.sho.chotchy.choshy.qopchor.qo.dor.daiin-
+#
+<f49r.P.3;H>       dsho-{plant}dchor.dchor.daiin.dor.cheo.raiin={plant}
+<f49r.P.3;C>       dsho-{plant}dchor.dchor.daiin.dor.cheo.raiin={plant}
+<f49r.P.3;F>       dsho-{plant}dchor.dchor.daiin.dor.cheo.raiin={plant}
+<f49r.P.3;G>       dsho-{plant}dchar.dchor.daiin.dor.cheo.raiin={plant}
+#
+<f49r.P.4;H>       ksho.qodain.chotshy.dodar-{plant}
+<f49r.P.4;C>       ksho.qodain.chotshy.dodar-{plant}
+<f49r.P.4;F>       ksho.qodain.chotshy.dodar-{plant}
+<f49r.P.4;G>       ksha.qodain.chotshy.dodar-{plant}
+#
+<f49r.P.5;H>       chor.sheor.chey.teey.qotan-{plant}
+<f49r.P.5;C>       chor.sheor.chey.teey.qotan-{plant}
+<f49r.P.5;F>       chor.sheor.chey.teey.qotan-{plant}
+#
+<f49r.P.6;H>       olor.shshes.sh!eoty.chol.daiin-
+<f49r.P.6;C>       olor.shee!s.shoeoty.chol!daiin-
+<f49r.P.6;F>       olor.shshes.sh!eoty.chol.daiin-
+#
+<f49r.P.7;H>       qokeor.cheey.qokchy.qotody-{plant}
+<f49r.P.7;C>       qokeor.cheey.qokchy.qotody-{plant}
+<f49r.P.7;F>       qokeor.cheey.qokchy.qotody-{plant}
+#
+<f49r.P.8;H>       chot.chor.chy.cheet.qolsor-
+<f49r.P.8;C>       chot.chor.chy.cheet.qolsor-
+<f49r.P.8;F>       chot!chor.chy.cheet.qolsor-
+#
+<f49r.P.9;H>       o.y.keeey.chey.kshey.choroiin-{plant}
+<f49r.P.9;C>       o!y!keeoy.chey.kshey.choroiin-{plant}
+<f49r.P.9;F>       o!y!keeey.chey.kshey.choroiin-{plant}
+<f49r.P.9;G>       o!yk!eeey.chey.kshey.choraiin-{plant}
+#
+<f49r.P.10;H>      sho.r.choiin.shor.shor.shy-
+<f49r.P.10;C>      cho!r.choiin.shor.shor.shy-
+<f49r.P.10;F>      sho.r.choiin.shor.shor!shy-
+#
+<f49r.P.11;H>      chotcheol.dchol=
+<f49r.P.11;C>      chotcheol.dchol=
+<f49r.P.11;F>      chotcheol.dchol=
+#
+<f49r.P.12;H>      podaiin.cheo.kcho.daiin.chcthy-{plant}
+<f49r.P.12;C>      podaiin.cheo.kcho.daiin.chcthy-{plant}
+<f49r.P.12;F>      podaiin.cheo.kcho.daiin.chcthy-{plant}
+#
+<f49r.P.13;H>      s{&S}od.chol.y.tcheol.daiin.cthodd-{plant}
+<f49r.P.13;C>      sh!!!od.chol.y!tcheol.daiin.cthodd-{plant}
+<f49r.P.13;F>      sh!!!!d.chol!y.tcheol.daiin.cthodd-{plant}
+#
+<f49r.P.14;H>      q{&q"}o.shoqoky.shor.sheor.otol.daiin-{plant}
+<f49r.P.14;C>      q!!!!!o.shoqoky.shor.sheor.otol.daiin-{plant}
+<f49r.P.14;F>      sh!!!!o.shoqoky.shor.sheor.otol.daiin-{plant}
+#
+<f49r.P.15;H>      ochol.chol.chody.dchodaiin.daiin-{plant}
+<f49r.P.15;C>      ochol.chol.chody.dchodaiin.daiin-{plant}
+<f49r.P.15;F>      ochol.chol.chody.dchodaiin.daiin-{plant}
+#
+<f49r.P.16;H>      q{&q"}ocho.cheey.dchey.qotchody-
+<f49r.P.16;C>      q!!!!!ocho.cheey.dchey.qotchody-
+<f49r.P.16;F>      q!!!!!ocho.cheey.dchey.qotchody-
+#
+<f49r.P.17;H>      olol.ol!chey.chey.kchy.qotchol.chosory-{plant}
+<f49r.P.17;C>      olol!ol.chey.chey.kchy.qotchol.chosory-{plant}
+<f49r.P.17;F>      olol.ol!chey.chey.kchy.qotchol.chosory-{plant}
+#
+<f49r.P.18;H>      sheor.cheol.od.cho.dcheeey.qotcho!tchy-
+<f49r.P.18;C>      sheor.cheol.od.cho.dcheeey.qotcho!tchy-
+<f49r.P.18;F>      sheor.cheol.od.cho.dcheeey.qotcho.tchy-
+#
+<f49r.P.19;H>      dcheo.r.cheey.keol!chey.chokchol.chokan-{plant}
+<f49r.P.19;C>      dcheo!r.cheey.keol!chey.chokchol.chokan-{plant}
+<f49r.P.19;F>      dcheo.r.cheey.teol.chey.chokchol.chokan-{plant}
+#
+<f49r.P.20;H>      qotcho.chodr.cho.choshy.chs.oriin-
+<f49r.P.20;C>      qotcho.chodi.cho.chochy.chs.oriin-
+<f49r.P.20;F>      qotcho.chodr.cho.choshy.chs.oriin-
+#
+<f49r.P.21;H>      odchy.chor.ety.shol=
+<f49r.P.21;C>      odcho.chor.ety.shol=
+<f49r.P.21;F>      odchy.chor.ety.shol=
+<f49r.P.21;G>      odchy.chos.ety.shol=
+#

@@ -1,0 +1,62 @@
+## <f102r1.P> {}
+# text
+# Last edited on 1998-12-19 22:55:07 by stolfi
+#
+#
+# "U" transcription by J.Stolfi from unidentified image
+#
+<f102r1.P.1;H>     polaiin.shocthy.qoteol.loiiin.oteeor.cpheodar.shol!daiin-
+<f102r1.P.1;F>     polaiin.shocthy.qoteol.loii!n.oteeor.cpheodar.shol.daiin-
+<f102r1.P.1;U>     polaiin.shocthy.qoteol.loiiin.oteeor.cpheodar.shol,daiin-
+#
+<f102r1.P.2;H>     dsheody.okeeoy.kody.chkeeody.daraiiin.ctheoly.qokcheo.l!olai!n-
+<f102r1.P.2;F>     dsheody.okeeoy.kody.chkeeody.daraii!n.ctheoly.qokch!o!l.olaiin-
+<f102r1.P.2;U>     dsheody.okeeoy.kody.chkeeody.daraiiin.ctheoly.qokcheo!l,olai!n-
+#
+<f102r1.P.3;H>     ytol.sheol.she.olaiin.orai!n.orar!oekeol.chol.ekey.qokol.dain-
+<f102r1.P.3;F>     ytol.sheol.she.olaiin.oraiin.orar.oekeol.chol.ekey.qokol.dain-
+<f102r1.P.3;U>     ytol.sheol.she.olaiin.orai!n.orar!ockhol.chol.ckhy.qokol.dain-
+#
+<f102r1.P.3a;H>    daiin.ykeeol.oldy.okodaiin=
+<f102r1.P.3a;F>    %%%%%%%%%%%%%%%%%%%%%%%%%%=
+<f102r1.P.3a;U>    daiin.ykeeol.oldy.okodaiin=
+#
+# Here goes plant [2,1] - "bunch of carrots"
+#
+<f102r1.P.4;H>     pshodaiin.qoorar.chopy-{plant}chofol.daiin.oteol.qoteol.doly-
+<f102r1.P.4;F>     pshodaiin.qoorar.chopy-{plant}chofol.daiin.oteol.qoteol.doly-
+<f102r1.P.4;U>     pshodaiin.qoorar.chopy-{plant}chofol.daiin.oteol.qoteol.doly-
+#
+<f102r1.P.5;H>     daiin.orsheoldy.qokeol-{plant}oteeody.lshody.keodal.qokshdy.sy-
+<f102r1.P.5;F>     daiin.orsheoldy.qokeol-{plant}oteeody.lshody.keodal.qokshdy.sy-
+<f102r1.P.5;U>     daiin.orsheoldy.qokeol-{plant}oteeody.lshody,keodal.qokshdy.sy-
+#
+<f102r1.P.6;H>     ycheol.sholdy.chol.chol.ykeeol.dol.doleodaiin.dol.cthedy-
+<f102r1.P.6;F>     ycheol.sholdy.chol.chol.ykeeol.dol.doleodain*.dal.cthedy-
+<f102r1.P.6;U>     ycheol.sholdy.chol.chol.ykeeol.dol.doleodain*.dal.cthedy-
+#
+<f102r1.P.7;H>     dcheo.qockhy.sol.sheey.okeody.qokeodol.shockhey.oleeol=
+<f102r1.P.7;F>     dcheo.qockhy.sol.sheey.okeody.qokeodal.shockhey.oleeol=
+<f102r1.P.7;U>     dcheo.qockhy.sol.sheey.okeody.qokeodol.shockhey.oleeol=
+#
+#
+<f102r1.P.8;H>     teesody.qoeol.olcheor.qokey.okshey.qokeol.sheo.fol!cfhhy-
+<f102r1.P.8;F>     teesody.qoeol.olcheor.qokey.okshey.qokeol.sheo.fol.cfhey-
+<f102r1.P.8;U>     teesody.qoeol.olcheor.qokey.okshey.qokeol.sheo.fol,cfhey-
+#
+<f102r1.P.9;H>     doeey.keeol.qokeo.daor.shey.qoteol.okol.chos.sor.oeeaiin-
+<f102r1.P.9;F>     doe!y.keeol.qokeo.daor.shey.qoteol.okal.chos.sor.oeeaiin-
+<f102r1.P.9;U>     doeey.keeol.qokeo.daor.shey.qoteol.okal.chos.sor.oeeaiin-
+#
+<f102r1.P.10;H>    or.chol.daiin.dykeor.sheey.qokeody.dor.os.ykeey.kam-
+<f102r1.P.10;F>    or.chol.daiin.dykeor.sheey.qokeody.dor.os.ykeey.kam-
+<f102r1.P.10;U>    or.chol.daiin.dykeor.sheey.qokeody.dor.or.ykeey,kam-
+#
+<f102r1.P.11;H>    ddor.chordom-{plant}soraiin.ykeey.dy.okeol.doeoeas-{plant}s!aral.dor-
+<f102r1.P.11;F>    ddor.chordam-{plant}soraiin.ykchy.dy.okeol.doeoear-{plant}s!aral.dor-
+<f102r1.P.11;U>    ddor.chordam-{plant}soraiin.ykeey,dy.okeol.doeoear-{plant}s.aral.dor-
+#
+<f102r1.P.12;H>    ydar.arody-{plant}oldaiin.sody.chockhy.oly=
+<f102r1.P.12;F>    ydar.arody-{plant}oldaiin.sody.chockhy.oly=
+<f102r1.P.12;U>    ydar.arody-{plant}oldaiin.sody.chockhy.oly=
+#

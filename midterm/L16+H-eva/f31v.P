@@ -1,0 +1,47 @@
+## <f31v.P> {}
+# text
+# Last edited on 1998-12-07 05:42:38 by stolfi
+#
+<f31v.P.1;H>       podair.sheedy.otedy.oteedy.qotol!cheo.s.arar.oteey.dka!rar.als-
+<f31v.P.1;C>       podair.sheedy.otedy.oteedy.qotol.cheo.s!arar.oteey.dkchrar.als-
+<f31v.P.1;F>       podair.sheedy.otedy.oteedy.qotol.cheo!s.arar.oteey.dka!rar.als-
+#
+<f31v.P.2;H>       ytchos.octhey.okeeos.cheody.okeey.kchody.daiin.cheody.keedy-
+<f31v.P.2;C>       ytchos.ockhey.okeeos.cheody.okeey.keeody.daiin.cheody.keedy-
+<f31v.P.2;F>       ytchos.acthey.okeeos.cheody.okeey.kchody.daiin.cheody.kchdy-
+#
+<f31v.P.3;H>       ykeeo.daiin.shedal.okedy.okey.keody.okchey.sair.okees.o.lkedy-
+<f31v.P.3;F>       ykeeo.daiin.shedal.okedy.okey.keody.okchey.sair.okees!o.lkedy-
+#
+<f31v.P.4;H>       dair.cthedy.qokedy.okeody.chedar.oked.al.ockhedy.okeedy.otas-
+<f31v.P.4;C>       dair.cthedy.qokedy.okeody.chedar.oked!al.ockhedy.okeedy.otaj-
+<f31v.P.4;F>       dair.cthedy.qokedy.okeody.chedar.oked.al.ockhedy.okeedy.otam-
+#
+<f31v.P.5;H>       ykeos.cheeoy.ar.aiin=
+<f31v.P.5;C>       ykeos.cheeoy.or!aiin=
+<f31v.P.5;F>       yteos.cheeoy.ar.aiin=
+#
+<f31v.P.6;H>       pcheeody.qop.chedal.eee!cfhy.chefchol.or.cheef.alaiin.opal.sheo.otar-
+<f31v.P.6;C>       pcheeody.qop.chedal.chilcfhy.chefchol.or.cheef!alaiin.opal.shoo.otar-
+<f31v.P.6;F>       pcheeody.qop.chedal.che!cfhy.chefchol.or.cheef.alaiin.opal.sheo.otar-
+#
+<f31v.P.7;H>       olteedam.ches.chol.keeol.checkhy.okeol.okal.oky.cheokar.okor.ary-
+<f31v.P.7;C>       olkeedam.ches.chol.keeol.checkhy.okeol.okol.oky.cheokar.okor.ary-
+<f31v.P.7;F>       olteedam.ches.chol.keeol.checkhy.okeol.okal.oky.cheokar.okor.ary-
+#
+<f31v.P.8;H>       yk.aiin.chee.ksheey.ychek.eeor.cheor.or.checthy.okecho!ked.lchey.okam-
+<f31v.P.8;C>       yk!aiin.chee!ksheey.ychek!eeor.cheor.or.checthy.okeeeo.ked.lchey.okam-
+<f31v.P.8;F>       yk!aiin.chee.ksheey.ychek.eeor.cheor.or.checthy.okecho.ked.lchey.okam-
+#
+<f31v.P.9;H>       ytecheol.sheoeky.okeos.aiin.acthedy.chkaiin.chetchey.ctheey.okear-
+<f31v.P.9;C>       ytecheol.sheoeky.okeos.aiin.ackhedy.chkaiin.chetchey.ctheey.okear-
+<f31v.P.9;F>       ytecheol.sheoeky.okeos.aiin.acthedy.chkaiin.chetchey.ctheey.okear-
+#
+<f31v.P.10;H>      dar.seoar.al.kar.oeeeos.cheos.aiin.o.ekeey.okeo.kor.oteol.ain-
+<f31v.P.10;C>      dar.choar.al.kar.oeeeos.cheos.aiin.o!ckhey.okeo.kor.okeol.ain-
+<f31v.P.10;F>      dar.choar.al.kar.oeeeos.cheos.aiin.o!cthey.okeo.kor.oteol.ain-
+#
+<f31v.P.11;H>      saiin.ar.ckheos.chedy.okeey.qoear.oraiin.cheom=
+<f31v.P.11;C>      saiin.ar.ckheos.chedy.okeey.qoear.oraiin.cheam=
+<f31v.P.11;F>      saiin.ar.ckheos.chedy.okeey.qoair.oraiin.cheam=
+#

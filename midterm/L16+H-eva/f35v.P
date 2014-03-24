@@ -1,0 +1,88 @@
+## <f35v.P> {}
+# text
+# Last edited on 1998-12-07 06:26:20 by stolfi
+#
+<f35v.P.1;H>       par.chor.chocthy.roaiin.ar-{plant}
+<f35v.P.1;C>       par.chor.chocthy.soaiin.ar-{plant}
+<f35v.P.1;F>       par!chor.chocthy.roaiin.ar-{plant}
+#
+<f35v.P.2;H>       qotchy.otchey.kchor.yty-{plant}
+<f35v.P.2;C>       qotchy.otchey.kchor.yty-{plant}
+<f35v.P.2;F>       qotchy.otchey.kchor.yty-{plant}
+#
+<f35v.P.3;H>       dchor.choty.chyty.daiin-{plant}
+<f35v.P.3;C>       !chor.choky.chyty.daiin-{plant}
+<f35v.P.3;F>       dchor.choty.chyty.daiin-{plant}
+#
+<f35v.P.4;H>       ytchy.qotchy.dchy.cthy-{plant}
+<f35v.P.4;C>       ytchy.qotchy.dchy.cthy-{plant}
+<f35v.P.4;F>       ytchy.qotchy.dchy.cthy-{plant}
+#
+<f35v.P.5;H>       dchokchy.chocthy.chckhor-{plant}
+<f35v.P.5;C>       dchokchy.chocthy.chckhor-{plant}
+<f35v.P.5;F>       dchokchy.chocthy.chckhor-{plant}
+#
+<f35v.P.6;H>       shol.tcheey.chkcheean.chcthaiin-{plant}
+<f35v.P.6;C>       shol.tcheey.chkchee!y.chcthaiin-{plant}
+<f35v.P.6;F>       shol.tcheey.chkcheeen.chcthaiin-{plant}
+#
+<f35v.P.7;H>       tcho!tchor.shol.sho.c!o.kol.daiin-
+<f35v.P.7;C>       tcho!tchor.shol.sho.cho!kol.daiin-
+<f35v.P.7;F>       tcho.tchor.shol.sho.ch!!kol.daiin-
+#
+<f35v.P.8;H>       oaiin.tchor.cho.chotchy.dchol.d-{plant}
+<f35v.P.8;C>       oaiin.tchor.cho.chotchy.dchol.d-{plant}
+<f35v.P.8;F>       oaiin.tchor.cho.chotchy.dchol!d-{plant}
+#
+<f35v.P.9;H>       qokchaiin.cho.ksho.l.choiin-{plant}
+<f35v.P.9;C>       qokchaiin.cho!ksho!l.choiin-{plant}
+<f35v.P.9;F>       qokchaiin.cho.ksho!l.choiin-{plant}
+#
+<f35v.P.10;H>      okcheey.chosar.shory-{plant}
+<f35v.P.10;C>      okcheey.chosar.shory-{plant}
+<f35v.P.10;F>      okcheey.chosar.shory-{plant}
+#
+<f35v.P.11;H>      qotcheeaiin.chodaiin-{plant}
+<f35v.P.11;C>      qotcheeaiin.chodaiin-{plant}
+<f35v.P.11;F>      qotcheeaiin.chodaiin-{plant}
+#
+<f35v.P.12;H>      dchaiin.daiin.daiin.dal.s-{plant}
+<f35v.P.12;C>      dchaiin.daiin.daiin.dal.s-{plant}
+<f35v.P.12;F>      dchaiin.daiin.daiin.dal!s-{plant}
+#
+<f35v.P.13;H>      ol.char.od.ar.chear-{plant}
+<f35v.P.13;C>      ol.char.od!ar.chear-{plant}
+<f35v.P.13;F>      ol.char.od.ar.chear-{plant}
+#
+<f35v.P.14;H>      tcheai!n.shy.tar.dain-{plant}
+<f35v.P.14;C>      tcheaiin.shy.tar.dain-{plant}
+<f35v.P.14;F>      tcheai!n.shy.tar.dain-{plant}
+#
+<f35v.P.15;H>      ykol.cheol.okchy.tch-{plant}
+<f35v.P.15;C>      ykol.cheol.okchy.tch-{plant}
+<f35v.P.15;F>      ykol.cheol.okchy.tch-{plant}
+#
+<f35v.P.16;H>      ydaiin.okeey.daiin-{plant}
+<f35v.P.16;C>      ydaiin.okeey.daiin-{plant}
+<f35v.P.16;F>      ydaiin.okeey.daiin-{plant}
+#
+<f35v.P.17;H>      daiin.dain.chkaly.choly-{plant}
+<f35v.P.17;C>      daiin.dain.chkaly.choly-{plant}
+<f35v.P.17;F>      daiin.dain.chkaly.choly-{plant}
+#
+<f35v.P.18;H>      daiin.qokeeen.chokeeo.r-{plant}
+<f35v.P.18;C>      daiin.qokeee!.chokeeo!r-{plant}
+<f35v.P.18;F>      daiin.qokeeen.chokeea.r-{plant}
+#
+<f35v.P.19;H>      schokey.ykeol.chol.daiin-
+<f35v.P.19;C>      !chokey.ykeol.chol.daiin-
+<f35v.P.19;F>      schokey.ykeol.chol.daiin-
+#
+<f35v.P.20;H>      sodaiin.shy.dchy.ckhy.dan-{plant}
+<f35v.P.20;C>      sodaiin.shy.dchy.ckhy.dan-{plant}
+<f35v.P.20;F>      sodaiin.shy.dchy.ckhy.dan-{plant}
+#
+<f35v.P.21;H>      doiin.chor.chor=
+<f35v.P.21;C>      doiin.chor.chor=
+<f35v.P.21;F>      doiin.chor.chor=
+#

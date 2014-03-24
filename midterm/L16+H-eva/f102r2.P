@@ -1,0 +1,74 @@
+## <f102r2.P> {}
+# text
+# Last edited on 1998-12-19 22:55:37 by stolfi
+#
+# "U" transcription by J.Stolfi from unidentified image
+#
+# Weirdos:
+#
+#   &E = a tall epsilon-like letter.
+#
+<f102r2.P.1;H>     lsais.amg.cheey.cfhey.por.aiin.chefoly-
+<f102r2.P.1;F>     lsais.amm.cheey.cfhey.por.aiin.chefoly-
+<f102r2.P.1;U>     lsais.amg.cheey.cfhey.por,aiin.chefoly-
+#
+<f102r2.P.2;H>     ycheor.olaiin.olsho.qokol.olaiin.oldam-
+<f102r2.P.2;F>     ycheor.olaiin.olsho.qokal.olaiin.oldam-
+<f102r2.P.2;U>     ycheor.olaiin.olsho.qokol.olaiin.oldam-
+#
+<f102r2.P.3;H>     daiin.ckheeol.ol.dor.okol.cheodor.sor.airam-
+<f102r2.P.3;F>     daiin.ckheeol.ol!dor.okol.cheodor.sor.aisam-
+<f102r2.P.3;U>     daiin.ckheeol.ol,dor.okol.cheodor.sor.airam-
+#
+<f102r2.P.4;H>     tor.sheo.or.chey.qo!os.yteor.chol.choky-
+<f102r2.P.4;F>     tor.sheo.or.chey.qo!or.yteor.chol.choky-
+<f102r2.P.4;U>     tor.sheo.or.chey.qo,or.yteor.chol.choky-
+#
+<f102r2.P.5;H>     daiin.okody.qokeody.okeol.dor.chckhy.oteod.s!oss!!!!y=
+<f102r2.P.5;F>     daiin.okody.qokeody.okeol.dor.chckhy.oteod.s!osr!!!!y=
+<f102r2.P.5;U>     daiin.okody.qokeody.okeol.dor.chckhy.oteod.s,or*{&E}y=
+#
+# Middle row of plants goes here.
+#
+<f102r2.P.6;H>     kolor.ol!aiin.opor.she!y.opolkod.odai!n.sheo.qoeol.shey-
+<f102r2.P.6;F>     kolor.ol!aiin.opor.sheeo.opolkod.odaiin.sheo.qoeol.shey-
+<f102r2.P.6;U>     kolor.ol,aiin.ofor.she!o.opolkod.odai!n.sheo.qoeol.shey-
+#
+<f102r2.P.7;H>     dor.oiin.okeody.qokeol.sheoy.qoochey.ckheol.seeey.ske!kyd-
+<f102r2.P.7;F>     d*!!oiin.okeody.qokeol.sheoy.qoochey.ckheol%%%%%%%%%%%%%%-
+<f102r2.P.7;U>     dor,oiin.okeody.qokeol.sheoy.qodchey.ckheol.sheey.skeekyd-
+#
+<f102r2.P.8;H>     shockhy.qockhey.sol.eeey.dol.cheol.doaiin.qkeeey.cthey-
+<f102r2.P.8;F>     %%%%%%%%%%%%%%%%%%%%%eey.dol.cheol.doaiin.qk!eey.cthey-
+<f102r2.P.8;U>     shockhy.qockhey.sol.eeey.dol.cheol,doaiin.qkeeey.cthey-
+#
+<f102r2.P.9;H>     kockhas.okor.ykeey.okeey.qokeey.dol.ol.sheody.okey.dol.cthchy-
+<f102r2.P.9;F>     kockhor.okor.ykeey.oteey.qokeey.dol.ol.sheody.okey.dal.ctheey-
+<f102r2.P.9;U>     kockhos.okor.ykeey.okeey.qokeey.dol.ol.sheody.okey.dal.ctheey-
+#
+<f102r2.P.10;H>    ytchy.o!!!!!!lockhy.okeey.cheody.soiin.dol.ockhy.okeody=
+<f102r2.P.10;F>    ytchy.o!!!!!!lockhy.okeey.cheody.saiin.dol.ockhy.okeody=
+<f102r2.P.10;U>    ytchy.o{&163}lockhy.okeey.cheody.roiin.dol.ockhy.okeody=
+#
+#
+# Each "t" in "cthol.dcthody" is actually one leg of a wide and ornate "t".
+<f102r2.P.11;H>    cthol.dcthody.cthol.soeees.ykeody.qokeey.qotcho.soefchocphy-
+<f102r2.P.11;F>    !t!ol.dc!hody.cthol.so!ees.ykeody.qokeey.qotchy.soefchocphy-
+<f102r2.P.11;U>    cthol.dcthody.cthol,soeees.ykeody.qokeey.qotchy.soefchocphy-
+#
+<f102r2.P.12;H>    ykeockhey.okey.qokeeo.ckhey.qokey.desey.qyoeey.dol.chkey.cheky-
+<f102r2.P.12;F>    ykeockhey.okey.qokeeo.ckhey.qokey.desey.qyoeey.dol.chkey.ch*ky-
+<f102r2.P.12;U>    ykeockhey.okey.qokeeo.ckhhy.qokey.desey.qyoeey.dol.chkey.ch*ky-
+#
+<f102r2.P.13;H>    okol.shey.qockhey.dol.shey.dol.sheey.qokol.daiin.oky.oky-
+<f102r2.P.13;F>    otol.shey.qockhey.dol.shey.dol.sheey.qokol.daiin.oky.oky-
+<f102r2.P.13;U>    otol.shey.qockhey.dol.shey.dol.sheey.qokol.daiin.oky.oky-
+#
+<f102r2.P.14;H>    qokeod.okeol.okeol.ycheo.ckhey.qkeody.qokey.ody.keeody.chody-
+<f102r2.P.14;F>    qokeod.okeal.okeol.ycheo.ckhey.qkeody.qokey.ody.keeedy.chody-
+<f102r2.P.14;U>    qokeod.okeal.okeol.ycheo.ckhey.qkeody.qokey.ody,keeody.chody-
+#
+<f102r2.P.15;H>    ykeey.keeol.cheor.ydeeal.cheody.qkeeo!d.olchey=
+<f102r2.P.15;F>    ykeey.keeol.cheor.ydeeal.cheody.qkeea.d!olchey=
+<f102r2.P.15;U>    ykeey.keeol.cheor.ydeeal.cheody.qkeea!d,olchey=
+#

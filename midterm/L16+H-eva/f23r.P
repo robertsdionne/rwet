@@ -1,0 +1,48 @@
+## <f23r.P> {}
+# text
+# Last edited on 1998-12-07 03:16:27 by stolfi
+#
+<f23r.P.1;H>       pydchdom.chy.fcholdy.oty.otchol.shy.opyaiin.y.yfchy.daiin.ololdy.dal-
+<f23r.P.1;C>       pydchdom.chy.fcholdy.oty.otchol.shy.opyaiin.*!yfchy.daiin.olo!oy.dal-
+<f23r.P.1;F>       pydchdom.chy.fcholdy.oty.otchol.shy.opyaiin.*!yfchy.daiin.ololdy.dal-
+#
+<f23r.P.2;H>       to.ar.chor.daiin.chk!dain.otchy.lolchor.daiin.dam.okchol.dain!g-
+<f23r.P.2;C>       to.ar.chor.daiin.chk!dain.otchy.lolchos.daiin.dam.okchol.dain.g-
+<f23r.P.2;F>       to!ar.chor.daiin.chk.dain.otchy.lolchor.daiin.dam.okchol.dain!m-
+#
+<f23r.P.3;H>       dchar.ykor.y!kaiin.daiin.ctho.g=
+<f23r.P.3;C>       dchar.ykor.y.kaiin.daiin.ctho.m=
+<f23r.P.3;F>       dchar.ykor.y!kaiin.daiin.ctho!m=
+#
+<f23r.P.4;H>       qokoldy.okaiir.ykaiil.g.qokeey.ofchol.dain.yfchor.olfchor.otchald-
+<f23r.P.4;C>       qokoldy.okaiir.ykaiil.m.qokeey.ofchol.dain.yfchor.olfchor.otchald-
+<f23r.P.4;F>       qokoldy.okaiir.ykaiil!m.qokeey.ofchol.dain.yfchor.olfchor.otchald-
+#
+<f23r.P.5;H>       ychor.qokchol.ytom.chol.dair.chol.ar.ol.ol.dol.dain=
+<f23r.P.5;C>       ychor.qokchol.ytym.chol.dain.chol.ar.ol.ol.dol.dain=
+<f23r.P.5;F>       ychor.qokchol.ytam.chol.dain.chol.ar.of.ol.dol.dain=
+#
+<f23r.P.6;H>       tshol.ykor.qokaiin.yky.dar.okol.dchey.daiidal.dam.ytcho.l!dals-
+<f23r.P.6;C>       tshol.ykor.qokaiin.yky.dar.okol.dchey.daiidal.dam.ytcho.l!dals-
+<f23r.P.6;F>       tshol.ykor.qokaiin.yky.dar.okol.dchey.daindal.dam.ytcho!l.dals-
+#
+<f23r.P.7;H>       okar.olchar.shaiin.qokchol.dar.qokchol.dairo.r.ol.daiin.alg-
+<f23r.P.7;C>       okar.olchar.chaiin.qokchol.dar.qokchol.dairo.r.ol.daiin.alm-
+<f23r.P.7;F>       okar.olchar.shaiin.qokchol.dar.qokchol.dairo.r.ol.daiin.alm-
+#
+<f23r.P.8;H>       qokshy.char.daiir.qokaiin.olol.qoaiin.ykchy.s-{plant}diil.okchy-
+<f23r.P.8;C>       qokshy.char.daiir.qokaiin.olol.qoaiin.ykchy.s-{plant}da!l.okchy-
+<f23r.P.8;F>       qokshy.char.daiir.qokaiin.olol.qoaiin.ykchy.s-{plant}da!l.okchy-
+#
+<f23r.P.9;H>       okol.ok.shy.qokol.dy-{plant}dal.dshe.qokeees.y.oly-{plant}daiin.dal-
+<f23r.P.9;C>       okol.ok.shy.qokol!dy-{plant}dal.dsho.qokeees.y.oly-{plant}daiin.dal-
+<f23r.P.9;F>       okol.ok!shy.qokol.dy-{plant}dal.dshe.qokeees!y.oly-{plant}daiin.dal-
+#
+<f23r.P.10;H>      qok.okaiin.chkchy.s-{plant}yteair.odal.chal.dy-{plant}dar.ykain-
+<f23r.P.10;C>      q*k.okaiin.chkchy.s-{plant}yteain.odal.chal!dy-{plant}dar.ykain-
+<f23r.P.10;F>      qyk.okaiin.chkchy.s-{plant}yteain.odal.chal.dy-{plant}dar.ykain-
+#
+<f23r.P.11;H>      ykyka.dalory=
+<f23r.P.11;C>      ykyko.dalory=
+<f23r.P.11;F>      ykyka.dalory=
+#

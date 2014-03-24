@@ -1,0 +1,48 @@
+## <f48r.P> {}
+# text
+# Last edited on 1998-12-08 09:19:19 by stolfi
+#
+<f48r.P.1;H>       pshdaiin.ypchdy.opchey.ckhy.dal.sheo!daiin.sheo!keol.ykeeody.olaiin.o!p!al!dy-
+<f48r.P.1;C>       pshdaiin.ypchdy.opchey.ckhy.dal.sheo!daiin.sheo!keol.ykeeody.olaiin!o.poal.dy-
+<f48r.P.1;F>       pshdaiin.ypchdy.opchey.ckhy.dal.sheo.daiin.sheo.keol.ykeeody.olaiin.o!p!al!dy-
+#
+<f48r.P.2;H>       daiin.yteeol.choody.kechod!shey.qotedy.chtaiin.otchdy.tedain.okain.ckhy-
+<f48r.P.2;C>       daiin.yteeol.cheody.kechod!shey.qotedy.chtaiin.otchdy.tedain.okain.ckhy-
+<f48r.P.2;F>       daiin.yteeol.choody.kechod.shey.qotedy.chtaiin.otchdy.tedain.okain.ckhy-
+<f48r.P.2;G>       daiin.yteeol.choody.k!chod.shey.qotedy.chtaiin.otchdy.tedain.okain.ckhy-
+#
+<f48r.P.3;H>       sheody.she.teo!teey.oteodaiin.ody.qoteo.l.kedy.dol.odal.qotar.opchety.ldy-
+<f48r.P.3;C>       sheody.she.teo!teey.oteodaiin.ody.qoteo.l!kedy.dol.odal.qotar.opchety.ldy-
+<f48r.P.3;F>       sheody.she.teo.teey.oteodaiin.ody.qoteo.l.kedy.dol.odal.qotar.opchety.ldy-
+#
+<f48r.P.4;H>       tol!keol.dai!n.otaiin.ykeedy.chet.ytedy.tedy.qokdy.tshdy.chetedy.ctheety.r-
+<f48r.P.4;C>       tok!keol.dai!n.otaiin.ykeedy.chet.ytedy.tedy.qokdy.tshdy.chetedy.ctheety.r-
+<f48r.P.4;F>       tol.keol.dai!n.otaiin.ykeedy.chet.ytedy.tedy.qokdy.tshdy.chetedy.ctheety.r-
+<f48r.P.4;G>       tol.keol.daiin.otaiin.yteedy.chet.ytedy.tedy.qokdy.tshdy.chetedy.cthe!ty.r-
+#
+<f48r.P.5;H>       ytchy.teol.okeody.cheockhy.olsheey.qoekaiin.octhey.chol.kar.aiin.cthar.od-
+<f48r.P.5;C>       yteey.teol.okeody.cheockhy.olsheey.qoekaiin.octhey.chol!kar.aiin.cthar.od-
+<f48r.P.5;F>       yteey.teol.okeody.cheockhy.olsheey.qoekaiin.octhey.chol.kar.aiin.cthar.od-
+<f48r.P.5;G>       yteey.teol.okeody.cheockhy.olsheey.qoekaiin.octhey.chol.kar.aiin.cthar.ad-
+#
+<f48r.P.6;H>       alshey.lkee!dy.ytchedy.qokedy.lotal.qotol.otal.ched.okey.ykeey.dalmy-
+<f48r.P.6;C>       alshey.lkee!dy.ytchedy.qokedy.lotal.qotol.otal.ched.okey.ykeey.daldy-
+<f48r.P.6;F>       alshey.lkee!dy.ytchedy.qokedy.lotal.qotol.otal.shed.okey.ykeey.da*dy-
+<f48r.P.6;G>       alshey.lkeeedy.ytchedy.qokedy.lotal.qotal.otal.shed.akey.ykeey.da*dy-
+#
+<f48r.P.7;H>       tocthy.qokeol.yteedy.lolkeol.otol!ches.al.or.ykeeodam.okedy.okam-
+<f48r.P.7;C>       tocthy.qokeol.yteedy.lolkeol.otol.ches.al.ar.ykeeodam.okedy.okam-
+<f48r.P.7;F>       tocthy.qokeol.yteedy.lolkeol.otol!ches.al.ar.ykeeodam.okedy.okam-
+<f48r.P.7;G>       tockhy.qokeol.yteedy.lolkeol.otal!ches.al.ar.ykeeodam.okedy.okam-
+#
+# Right-justified: a title?
+<f48r.P.8;H>       otchdain.shol.oteol.oteoly.ykeey.dam.dr-
+<f48r.P.8;C>       otchdain.shol.oteol.oteoly.ykeey.dam.dr-
+<f48r.P.8;F>       otchdain.shol.oteol.oteoly.ykeey.dam!dr-
+#
+# Centered: a title?
+<f48r.P.9;H>       {plant}yteched.ar.alkey.okeoam=
+<f48r.P.9;C>       {plant}yteched.ar.olkey.okeoam=
+<f48r.P.9;F>       {plant}yteched.ar.alkey.okeoam=
+<f48r.P.9;G>       {plant}yt!chej.ar.alkey.okeoam=
+#

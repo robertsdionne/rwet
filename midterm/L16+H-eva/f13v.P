@@ -1,0 +1,44 @@
+## <f13v.P> {}
+# text
+# Last edited on 1998-12-11 13:53:52 by stolfi
+#
+<f13v.P.1;H>       koair.chtoiin.otchy.kchod.otol.otchy.octhos-
+<f13v.P.1;C>       koais.chtoiin.otchy.kchod.otol.otchy.octhos-
+<f13v.P.1;F>       koair.chtoiin.otchy.kchod.otol.otchy.octhos-
+#
+<f13v.P.2;H>       oko.qokol.chodal.otchol.cphol.choty-{plant}
+<f13v.P.2;C>       oko.qokol.chodal.otchol.cphol.choty-{plant}
+<f13v.P.2;F>       oko.qokol.chodal.*tchol.cphol.choty-{plant}
+#
+<f13v.P.3;H>       qokchy.qokod.chy.otchy.cthody-
+<f13v.P.3;C>       qokchy.qokod.chy.otchy.cthody-
+<f13v.P.3;F>       qokchy.qokod.chy.otchy.cthody-
+#
+<f13v.P.4;H>       o!l!s.chey.okos.oaiin.okshy.qock!y-{plant}
+<f13v.P.4;C>       o.l.s.chey.okos.oai!n.okshy.qo*!!!-{plant}
+<f13v.P.4;F>       o!l!s!chey.okos.oaiin.okshy.qockhy-{plant}
+#
+<f13v.P.5;H>       qoky.daiin=
+<f13v.P.5;C>       qoky.daiin=
+<f13v.P.5;F>       qoky.daiin=
+#
+<f13v.P.6;H>       fol!daiin.olcphy.shol-{plant}dy.oty.shor.qotyd-{plant}dairo.d-
+<f13v.P.6;C>       fol!daiin.olcphy.chol-{plant}dy.oty.shor.qotyd-{plant}dairo!d-
+<f13v.P.6;F>       fol.daiin.olcphy.shol-{plant}dy.oty.shor.qotyd-{plant}dairo!d-
+#
+<f13v.P.7;H>       dain.okal.chy.qokchory-{plant}dchy.koky.daiin-{plant}shoin-
+<f13v.P.7;C>       dain.okal.chy.qokchory-{plant}dchy.koky!daiin-{plant}sho!n-
+<f13v.P.7;F>       dain.okal.chy.qokchory-{plant}dchy.koky.daiin-{plant}sho!n-
+#
+<f13v.P.8;H>       otchy.daiin.y.dain.ykol-{plant}okchy.okald.d-{plant}ytaiin-
+<f13v.P.8;C>       otchy.daiin.y.dain.ykol-{plant}okchy.okald.d-{plant}ytaiin-
+<f13v.P.8;F>       otchy.daiin.y!dain.ykol-{plant}okchy.okald.d-{plant}ytaiin-
+#
+<f13v.P.9;H>       tchtod.otal.cthor.ytal-{plant}y.cho.tal-{plant}sho.qocthy-
+<f13v.P.9;C>       tchtod.otal.cthor.ytal-{plant}y.cho.tal-{plant}sho.qocthy-
+<f13v.P.9;F>       tchtod.otal.cthor.ytal-{plant}y!cho!tal-{plant}sho.qocthy-
+#
+<f13v.P.10;H>      y.ol.chy.kchey.kchor.dal={plant}
+<f13v.P.10;C>      y.ol.chy.kchey.kchor.dal={plant}
+<f13v.P.10;F>      y!ol.chy.kchey.kchor.dal={plant}
+#

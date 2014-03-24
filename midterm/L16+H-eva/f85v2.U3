@@ -1,0 +1,38 @@
+## <f85v2.U3> {}
+# Labels on the Northeast rosette and its W,SW,S connections
+# Last edited on 1998-12-27 06:04:03 by stolfi
+#
+# NE rosette, inside text ring, by southern tower
+<f85v2.U3.1;V>     opeol.daly=
+#
+# NE rosette, NE extension, sector #1
+<f85v2.U3.2;V>     okar=
+#
+# NE rosette, NE extension, sector #2
+<f85v2.U3.3;V>     cfhhy=
+#
+# NE rosette, sandbank on eastern side
+<f85v2.U3.4;V>     okar.oedody=
+#
+# road between NE and E rosettes, next to southern castle
+<f85v2.U3.21;V>    ot.edy.oto**=
+#
+# next to road between NE and E rosettes, West side
+<f85v2.U3.22;V>    opshedaiin=
+#
+# next to road between NE and E rosettes, East side
+<f85v2.U3.23;V>    sareecphdy=
+#
+# structure sprouting from NE rosette towards central rosette
+<f85v2.U3.31;V>    ydashgarain=
+#
+# next to road between NE and N rosettes, South side
+<f85v2.U3.41;V>    opokchor.ody=
+<f85v2.U3.41;U>    opokchor.ody=
+#
+# next to road between NE and N rosettes, North side 
+<f85v2.U3.42;V>    okody=
+#
+# road between NE and N rosettes, suspect, closest to castle
+<f85v2.U3.43;V>    opair.ofalcfhy=
+#

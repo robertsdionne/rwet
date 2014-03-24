@@ -1,0 +1,139 @@
+## <f115v.P> {}
+# text
+# Last edited on 1998-12-11 13:46:48 by stolfi
+#
+<f115v.P.1;H>      tchedor.otchedy.qotees.ytai!n.qoty.qotad.op!oloiin.qetdai!n.ol.roiin.om-
+<f115v.P.1;F>      tchedor.otchedy.qotees.ytaiin.qoty.qotar.op.ofaiin.qotdaiin.ol.raiin.om-
+#
+<f115v.P.2;H>      ykeeo!chody.qokeedy.yteedy.qokar.qor.cho!daiin.qokchdy.chdar.okchdy.qokam-
+<f115v.P.2;F>      ykeeo.chody.qokeedy.yteedy.qokar.qor.cho.daiin.qokchdy.chdar.okchdy.qokam-
+#
+<f115v.P.3;H>      dsheol.qokchedy.qokshedy.qotchey.otoiin.qotedy.lkedai!n.dal!chdy.okchedam-
+<f115v.P.3;F>      dsheol.qokchedy.qokshedy.qotchey.otaiin.qotedy.lkedaiin.dal.chdy.okchedam-
+#
+<f115v.P.4;H>      ykcheo!dai!n.lkchedy.otechdy.qotar.ar.al.ytchedy.lched.otchd.chokeedy-
+<f115v.P.4;F>      ykcheo.daiin.lkchedy.otechdy.qotar.ar.al.ytchedy.lched.otchd.chokeedy-
+#
+<f115v.P.5;H>      dair.cheky.qoteey.otar.chl.oleed=
+<f115v.P.5;F>      dair.cheky.qoteey.otar.chl.oleed=
+#
+<f115v.P.6;H>      pchody.odaiin.chcphy.qokchdai!n.qotai!n.qokor.shed.oteody.solkaiin.al-
+<f115v.P.6;F>      pchody.odaiin.chcphy.qokchdaiin.qotaiin.qokor.shed.oteody.salkaiin.al-
+#
+<f115v.P.7;H>      dchedy.tedy.qokeey.roiin.shedy.okor.air.cheoor.olkchedy.chotam=
+<f115v.P.7;F>      dchedy.tedy.qokeey.raiin.shedy.okor.air.cheoor.olkchedy.chotam=
+#
+<f115v.P.8;H>      tchosos.sheol.qotchs.olchees.otchdy.qotol.lpchedy.okar.lkechedy.pchdam-
+<f115v.P.8;F>      tchosos.sheol.qotchs.olchees.otchdy.qotol.lpchedy.okar.lkechedy.pchdam-
+#
+<f115v.P.9;H>      ychees.chdaiin.chotai!n.chol!keedy.qotchy.chody.qotai!n.lkchey.lchey.ror-
+<f115v.P.9;F>      ychees.chdaiin.chotaiin.chol.keedy.qotchy.chody.qotaiin.lkchey.lchey.ros-
+#
+<f115v.P.10;H>     saiin.sho.sheody.okaiin.dalchedy.oteeo.chedy=
+<f115v.P.10;F>     saiin.sho.sheody.okaiin.dalchedy.oteeo.chedy=
+#
+<f115v.P.11;H>     tchdor.shor.ail.chodaiin.chkol.chkchol.qotched.qotchey.dpchedy.qtam-
+<f115v.P.11;F>     tchdor.shor.ail.chodaiin.chkol.chkchol.qotched.qotchey.dpchedy.qtam-
+#
+<f115v.P.12;H>     ysheed.lchedy.lkchedy.soraiin=
+<f115v.P.12;F>     ysheed.lchedy.lkchedy.soraiin=
+#
+<f115v.P.13;H>     pchdarody.pcheed.rar.tcheody.polched.lpchdy.tol.rchees.cphor.orair.kol-
+<f115v.P.13;F>     pchdarody.pcheed.rar.tcheody.polched.lpchdy.tol.rchees.cphor.orair.kol-
+#
+<f115v.P.14;H>     okeeo!kai!n.lkeeey.lkor.sheedy.chockhy.qockheedy.qokechy.lkeey.ldai!n-
+<f115v.P.14;F>     okeeo.kaiin.lkeeey.lkar.sheedy.chockhy.qockheedy.qokechy.lkeey.ldaiin-
+#
+<f115v.P.15;H>     saiin.chol.qotai!n.qokai!n.chl.lr.chdai!n.qoteey.rcheey.rar.rodam-
+<f115v.P.15;F>     saiin.chol.qotaiin.qokaiin.chl.lr.chdaiin.qoteey.rchee!.rar.rodam-
+#
+<f115v.P.16;H>     dai!n.aroteey.qoteol.kar.y.sheo.lkechdy.qokar.qokey.lko.rokeedy.ld-
+<f115v.P.16;F>     daiin.aroteey.qoteol.kar!y.sheo.lkechdy.qokar.qokey.lko.rokeedy.ld-
+#
+<f115v.P.17;H>     okain.chey.keey.lcho.raithy=
+<f115v.P.17;F>     okair.chey.keey.lcho.racthy=
+#
+<f115v.P.18;H>     pchodai!n.chotai!n.choky.lchai!n.lpchdai!n.dal!chedy.qotal!chedy.qopchedy-
+<f115v.P.18;F>     pchodaiin.chotaiin.choky.lchaiin.lpchdaiin.dal.chedy.qotal.chedy.qopchedy-
+#
+<f115v.P.19;H>     yshedy.qokeedy.lxor.xoiin.choto.keeody.qoteody.dai!n.qokchedy.ralom-
+<f115v.P.19;F>     yshedy.qokeedy.lxor.xoiin.choto.keeody.qoteody.daiin.qokchedy.ralom-
+#
+<f115v.P.20;H>     ysheey.qoteey.lkeey.raiin.cheo.lor.otal.otchedy=
+<f115v.P.20;F>     ysheey.qoteey.lkeey.raiin.cheo.lor.otal.otchedy=
+#
+<f115v.P.21;H>     tshedy.sheol!keedy.lkeeshdy.cheeo.lor.eees.aiin.okchedy.qopcheddy.lky-
+<f115v.P.21;F>     tshedy.sheol.keedy.lkeeshdy.cheeo.lor.eees.aiin.okchedy.qopcheddy.lky-
+#
+<f115v.P.22;H>     soiin.shedai!n.qokeedy.chodai!n.otedai!n.qokeedy.qokeedy.qotedy.rosy-
+<f115v.P.22;F>     soiin.shedaiin.qokeedy.chodaiin.otedaiin.qokeedy.qokeedy.qotedy.rosy-
+#
+<f115v.P.23;H>     lshes.sheet.chdy.otedy.shdy.lchedy=
+<f115v.P.23;F>     lshes.sheet.chdy.otedy.shdy.lchedy=
+#
+<f115v.P.24;H>     pcheo.cheeody.qoteeo!tchy.saiin.opchees.chpcheod.rchl.cho.pchdy.qopcham-
+<f115v.P.24;F>     pchey.cheeody.qoteeo.tchy.saiin.opchees.chpcheod.rchl.cho.pchdy.qopcham-
+#
+<f115v.P.25;H>     ykees.aiin.olkeeody.qos.ai!n.cheo!dai!n.chcthy.tchedy.qokeedy.lkeedor-
+<f115v.P.25;F>     ykees.aiin.olkeeody.qos.aiin.cheo.daiin.chcthy.tchedy.qokeedy.lkeedar-
+#
+<f115v.P.26;H>     dcheedy.kchedy.lcheey.ror.al.chokedy.dol.qokeeeos.qol!keedy.qokar.ar-
+<f115v.P.26;F>     dcheedy.kchedy.lcheey.ror.al.chokedy.dol.qokeeeos.qol.keedy.qokar.ar-
+#
+<f115v.P.27;H>     olai!n.cheo.lkai!n.cheey.qot.cheody.lor.aiin.oteed.chkal.kchetam-
+<f115v.P.27;F>     olaiin.cheo.lkaiin.cheey.qot.cheody.lor.aiin.oteed.chkal.kchetam-
+#
+<f115v.P.28;H>     ychey.lcho.lor.chedy.chol.chedy.chdy=
+<f115v.P.28;F>     ychey.lcho.lor.chedy.chol.chedy.chdy=
+#
+<f115v.P.29;H>     polor.sheedy.qoteedy.qokechy.lraly.lshey.sheot.shedy.chteey.lky.raram-
+<f115v.P.29;F>     polor.sheedy.qoteedy.qokechy.lraly.lshey.sheot.shedy.chteey.lky.raram-
+#
+<f115v.P.30;H>     ycheedaiin.ol.chlor.lkchedy.rchedar.oteedal.ar.lky=
+<f115v.P.30;F>     ycheedaiin.ol.chlor.lkchedy.rchedar.oteedal.ar.lky=
+#
+<f115v.P.31;H>     pchdair.opchdy.qopor.iirchal.sheey.qotai!n.chety.rodai!n.opchepy.shokchy-
+<f115v.P.31;F>     pchdair.opchdy.qopor.iirchal.sheey.qotaiin.chety.rodaiin.opchepy.shokchy-
+#
+<f115v.P.32;H>     ykchedy.okar.chedar.rol!sheedy.lkchdy.chddy.chcthedy.cheey.teeo!daiin-
+<f115v.P.32;F>     ykchedy.okar.chedar.rol.sheedy.lkchdy.chddy.chcthedy.cheey.teeo.daiin-
+#
+<f115v.P.33;H>     ychedal.qotchy.chcthy.chdal.lchedy=
+<f115v.P.33;F>     ychedal.qotchy.chcthy.chdal.lchedy=
+#
+<f115v.P.34;H>     taiin.sheckeey.lchckhy.ldar.shdar.qotchdy.qoky.shedy.qokar.chek!y-
+<f115v.P.34;F>     taiin.sheckh!y.lchckhy.ldar.shdar.qotchdy.qoky.shedy.qokar.chckhy-
+#
+<f115v.P.35;H>     shos.shee.oky.cheo.lkai!n.cheeos.al!ches.kcheo.rai!n.checthey.lcham-
+<f115v.P.35;F>     shor.shee.oky.cheo.lkaiin.cheeos.al.ches.kcheo.raiin.checthey.lcham-
+#
+<f115v.P.36;H>     ytar.aiin.qoteey.lkchedy=
+<f115v.P.36;F>     ytar.aiin.qoteey.lkchedy=
+#
+<f115v.P.37;H>     tshar.shor.shckhhy.olkeeo.lkeedol.ltchdy.chkaid!araral.lkeedy-
+<f115v.P.37;F>     tshar.shar.shckhey.olkeeo.lkeedol.ltchdy.chkaid.araral.lkeedy-
+#
+<f115v.P.38;H>     oiiin.chees.otainos.losdy.cheo!keeo.llchs.ol!r.aiiin.chkai!n.sham-
+<f115v.P.38;F>     oaiin.chees.otairos.losdy.cheo.keeo.llchs.ol.r.aii!n.chkaiin.sham-
+#
+<f115v.P.39;H>     dairal.chai!n.ykeedy.qokedy.qokai!n.lkaiin.lkchey.lkai!n.lror-
+<f115v.P.39;F>     dairal.chaiin.ykeedy.qokedy.qokaiin.lkaiin.lkchey.lkaiin.lrar-
+#
+<f115v.P.40;H>     ycheeal!kaiin.shedai!n.or.chor.okas.cheos.qokchy=
+<f115v.P.40;F>     ycheeal.kaiin.shedaiin.or.chor.okas.cheos.qokchy=
+#
+<f115v.P.41;H>     dcheodl.sheo.kol!chey.fchedol.shedy.qotoee!tchy.choiphy.qopchyr-
+<f115v.P.41;F>     dcheodl.sheo.kol.chey.fchedal.shedy.qotoee.t!!y.chocphy.qo*chyr-
+#
+<f115v.P.42;H>     yair.al.sheey.oteeol.keody.rcheey.lkchdy.qokchey.lkar.lkl.rodam-
+<f115v.P.42;F>     yair.al.sheey.oteeol.keody.rcheey.lkchdy.qokchey.lkar.l*l.rodam-
+#
+<f115v.P.43;H>     ysheo.kaiin.qotchdal.lkchdy.lkshedy.qokar.cheos.qokaiin.oky-
+<f115v.P.43;F>     ysheo.kaiin.qotchdal.lkchdy.lkshedy.qokar.cheos.qokaiin.aky-
+#
+<f115v.P.44;H>     ototar.sheey.qokey.qokchey.qokchey.ral.rchos.oty.lchedy-
+<f115v.P.44;F>     ototar.sheey.qokey.qokchey.qokchey.ral.rchos.oty.lchedy-
+#
+<f115v.P.45;H>     ykchedai!n.chody.qokaiin.dary.cholaiim=
+<f115v.P.45;F>     ykchedaiin.chody.qokaiin.dary.cholaiim=
+#

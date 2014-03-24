@@ -1,0 +1,68 @@
+## <f56v.P> {}
+# text
+# Last edited on 1998-12-08 01:57:05 by stolfi
+#
+<f56v.P.1;H>       kcheat.shol.chey.qokoiin.shor.qotcheol.choror-{plant}
+<f56v.P.1;C>       kcheot.shol.chey.qokoiin.shor.qotcheol.choror-{plant}
+<f56v.P.1;F>       kcheat.shol.chey.qokoiin.shor.qotch!ol.choror-{plant}
+#
+<f56v.P.2;H>       shod!shey.qoteeey.qoteey.daiin.qoteey.cthar-{plant}
+<f56v.P.2;C>       shod!shey.qotchey.qoteey.daiin.qoteey.cthar-{plant}
+<f56v.P.2;F>       shod.shey.qoteeey.qoteey.daiin.qoteey.cthar-{plant}
+#
+<f56v.P.3;H>       ochey.chol.chol.qotchey.daiin.choteeey.dal-{plant}
+<f56v.P.3;C>       ochey.chol.chol.qotchey.daiin.choteeey.dal-{plant}
+<f56v.P.3;F>       ochey.chol.chol.qotchey.daiin.choteeey.dal-{plant}
+#
+<f56v.P.4;H>       schy.tchey.daiin.deey.tod-{plant}dai!n-{plant}
+<f56v.P.4;C>       schy.tchey.daiin.deey.taj-{plant}dai!n-{plant}
+<f56v.P.4;F>       schy.tchey.daiin.deey.tad-{plant}daiin-{plant}
+#
+<f56v.P.5;H>       qoteees.sho.kcheey.saiin-{plant}
+<f56v.P.5;C>       qoteees.shk!ocheey.saiin-{plant}
+<f56v.P.5;F>       qoteees.sho.kcheey.saiin-{plant}
+#
+<f56v.P.6;H>       chokchol.chor.ckhos={plant}
+<f56v.P.6;C>       chokchol.chor.ckhoi={plant}
+<f56v.P.6;F>       chokchol.chor.ckhos={plant}
+#
+<f56v.P.7;H>       kchokchy.ckchol.shol.chol.oteey.d-{plant}
+<f56v.P.7;C>       kcholchy.ekchol.shol.chol.otchy.d-{plant}
+<f56v.P.7;F>       kcho.chy.ckheol.chol.chol.oteey!d-{plant}
+#
+<f56v.P.8;H>       ykchor.chokchy.qokcho.tcheey.kol-{plant}
+<f56v.P.8;C>       ykchor.chokchy.qokcho.tcheey.kol-{plant}
+<f56v.P.8;F>       ykchor.chokchy.qokcho.tcheey.kal-{plant}
+#
+<f56v.P.9;H>       shotchot.chokcho.kcho.kaiin.oky-{plant}
+<f56v.P.9;C>       shotchot.chotcho.tcho!taiin.oky-{plant}
+<f56v.P.9;F>       shotchot.chokcho.kcho.kaiin.oky-{plant}
+#
+<f56v.P.10;H>      ol.kchy.ksho.shy.ytol.chotor.ydy-{plant}
+<f56v.P.10;C>      ol!kchy.ksho.shy.ytol.chotor.ydy-{plant}
+<f56v.P.10;F>      ol!kchy.ksho.shy.ytol.chotor.ydy-{plant}
+#
+<f56v.P.11;H>      chotchey.keeol.chey.kchol.tchain-{plant}
+<f56v.P.11;C>      chotchey.keeol.chey.kchol.tchain-{plant}
+<f56v.P.11;F>      chotchey.keeol.chey.kchol.tchain-{plant}
+#
+<f56v.P.12;H>      qokchey.ctheey.lkeey.kcheey.tai!n-{plant}
+<f56v.P.12;C>      qokchey.ctheey.lkeey.kcheey.tai!n-{plant}
+<f56v.P.12;F>      qokchey.ctheey.lkeey.kche!y.taiin-{plant}
+#
+<f56v.P.13;H>      ykor.aiin.chorol.sho.shol.daiin-
+<f56v.P.13;C>      ykor.aiin.chorol.sho!shol.daiin-
+<f56v.P.13;F>      ykor.aiin.chorol.sho.shol.daiin-
+#
+<f56v.P.14;H>      chol.cheo.kchol.chol.choky.chotor-
+<f56v.P.14;C>      chol.cheo!kchol.chol.choky.chotor-
+<f56v.P.14;F>      chol.cheo.kchol.chol.choky.chotor-
+#
+<f56v.P.15;H>      otchol.chol.chol.daiin.chotaiin-
+<f56v.P.15;C>      otchol.chol.chol.daiin.chotaiin-
+<f56v.P.15;F>      otchol.chol.chol.daiin.chotaiin-
+#
+<f56v.P.16;H>      sokchol.chol.chol.daiin=
+<f56v.P.16;C>      sokchol.chol.chol.daiin=
+<f56v.P.16;F>      sokchol.chol.chol.daiin=
+#

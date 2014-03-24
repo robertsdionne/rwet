@@ -1,0 +1,148 @@
+## <f49v.P> {}
+# Normal text
+# Last edited on 1998-12-27 22:34:34 by stolfi
+#
+# "U" transcription by J. stolfi from an unidentified scan.
+#
+<f49v.P.1;H>       {label f-}kshor.shol.cphokchol.chcfhhy-
+<f49v.P.1;C>       !!!!!!!!!!kshor.shol.cphokchol.chcfhey-
+<f49v.P.1;F>       {label f-}kshor.shol.cphokchol.chcfh!y-
+<f49v.P.1;G>       {label f-}kshor.shol.cphokchol.chcfhey-
+<f49v.P.1;U>       {label f-}kshor.shol.cphokchol.chcfhhy-
+#
+<f49v.P.2;H>       {1-}{label o-}qokchy.qokchod.sho.cthy-
+<f49v.P.2;C>       !!!!!!!!!!!!!!qokd!y.qokchod.sho.ckhy-
+<f49v.P.2;F>       {1-}{label o-}qokchy.qokchod.sho.cthy-
+<f49v.P.2;U>       {1-}{label o-}qokchy.qokchod.sho.ckhy-
+#
+<f49v.P.3;H>       {2-}{label r-}chotchy.chcthy.cth!y.koddy-{plant}
+<f49v.P.3;C>       !!!!!!!!!!!!!!ch!tchy.chcthy.cthey.koddy-{plant}
+<f49v.P.3;F>       {2-}{label s-}chotchy.chcthy.cth!y.koddy-{plant}
+<f49v.P.3;U>       {2-}{label r-}chotchy.chcthy.cth!y.koddy-{plant}
+#
+<f49v.P.4;H>       {3-}{label y-}okeod.sho.chotshol.dam-{plant}
+<f49v.P.4;C>       !!!!!!!!!!!!!!okeod.sho.chotshol.dam-{plant}
+<f49v.P.4;F>       {3-}{label y-}okeod!sho.chotshol.dam-{plant}
+<f49v.P.4;U>       {3-}{label y-}okeod!sho.chotshol.dam-{plant}
+#
+<f49v.P.5;H>       {4-}{label e-}shol.sho!daiin.qotchar-{plant}
+<f49v.P.5;C>       !!!!!!!!!!!!!!shol.sho.daiin.qotchar-{plant}
+<f49v.P.5;F>       {4-}{label *-}shol.sho!daiin.qotchar-{plant}
+<f49v.P.5;U>       {4-}{label e-}shol.sho!daiin.qotchar-{plant}
+#
+<f49v.P.6;H>       {5-}{label *-}qotchy.chokchy.choky-{plant}
+<f49v.P.6;C>       !!!!!!!!!!!!!!qoteey.chokchy.choky-{plant}
+<f49v.P.6;F>       {5-}{label *-}qotchy.chokchy.choky-{plant}
+<f49v.P.6;U>       {5-}{label *-}qotchy.chokchy.choky-{plant}
+#
+<f49v.P.7;H>       {label k-}chotchy.chodaiin.dan-{plant}
+<f49v.P.7;C>       !!!!!!!!!!!!otchy.chodaiin.dan-{plant}
+<f49v.P.7;F>       {label k-}chotchy.chodaiin.dar-{plant}
+<f49v.P.7;G>       {label k-}chotchy.chodaiin.dan-{plant}
+<f49v.P.7;U>       {label k-}chotchy.chodaiin.dan-{plant}
+#
+<f49v.P.8;H>       {label s-}qoteees.cheo.daiin.dol-{plant}
+<f49v.P.8;C>       !!!!!!!!!!qoteees.cheo.daiin.dol-{plant}
+<f49v.P.8;F>       {label r-}qoteees.cheo.daiin.dol-{plant}
+<f49v.P.8;G>       {label s-}qoteees.cheo.daiin.dol-{plant}
+<f49v.P.8;U>       {label s-}qoteees.cheo.daiin.dol-{plant}
+#
+<f49v.P.9;H>       {label p-}ochor.sheeod.ksheo!dl-{plant}
+<f49v.P.9;C>       !!!!!!!!!!ochor.sheeod.ksheo.dl-{plant}
+<f49v.P.9;F>       {label p-}ochor.sheeod.ksheo!dl-{plant}
+<f49v.P.9;U>       {label p-}ochor.sheeod.ksheo!dl-{plant}
+#
+<f49v.P.10;H>      {label o-}qo!!!!!.ksho!daiin.shckhy.dar-{plant}
+<f49v.P.10;C>      !!!!!!!!!!qo!!!!!!ksho!daiin.shckhy.dar-{plant}
+<f49v.P.10;F>      {label o-}qo{&o'}!ksho.daiin.shckhy.dar-{plant}
+<f49v.P.10;U>      {label o-}qo{&o'}!ksho!daiin.shckhy.dar-{plant}
+#
+<f49v.P.11;H>      {label &???-}dchol.cthol.daiin.choky-{plant}
+<f49v.P.11;C>      !!!!!!!!!!!!!dchol.cthol.daiin.choky-{plant}
+<f49v.P.11;F>      {label &???-}dchol.cthol.daiin.choky-{plant}
+<f49v.P.11;U>      {label r?-}!!dchol.cthol.daiin.choky-{plant}
+#
+<f49v.P.12;H>      {label y-}ochokeey.ckhey.daiin.dain.chokam-{plant}
+<f49v.P.12;C>      !!!!!!!!!!ochokeey.ckhey.daiin.dain.chokam-{plant}
+<f49v.P.12;F>      {label y-}ochokeey.ckhey.daiin.dain.chokam-{plant}
+<f49v.P.12;G>      {label y-}ochokeey.ckhey.daiin.dain.chokam-{plant}
+<f49v.P.12;U>      {label y-}ochokeey.ckhey.daiin.dain.choka*-{plant}
+#
+<f49v.P.13;H>      {label e-}qokeol.chokeeody.otol.kchos.chol.daiin={plant}
+<f49v.P.13;C>      !!!!!!!!!!qokeol.chokeeody.otol.kchos.chol.daiin={plant}
+<f49v.P.13;F>      {label *-}q!keol.chokeeody.otol.kchos.chol.daiin={plant}
+<f49v.P.13;G>      {label *-}qokeol.chokeeody.otol.kchos.chol.daiin={plant}
+<f49v.P.13;U>      {label *-}qokeol.chokeeody.otol.kchor.chol.daiin={plant}
+#
+<f49v.P.14;H>      {label *-}fcho!chor.shol.tchol.opcheodal.dchsy-{plant}chotchy-
+<f49v.P.14;C>      !!!!!!!!!!fcho.chor.shol.tchol.opcheodal.dchsy-{plant}chotchy-
+<f49v.P.14;F>      {label *-}fcho!chor.shol.tchol.opcheodal.dchsy-{plant}chotchy-
+<f49v.P.14;U>      {label *-}fcho!chor.shol.tchol.opcheodal.dchsy-{plant}chotchy-
+#
+<f49v.P.15;H>      {label ¤-}dcho.d.chol.chokchodaiin.chokchy.tchol-{plant}okcho!kol-
+<f49v.P.15;C>      !!!!!!!!!!dcho.d!chol.chokchodaiin.chokchy.tchol-{plant}okcho!kol-
+<f49v.P.15;F>      {label s-}dcho.d!chol.chokchodaiin.chokchy.tchol-{plant}okcho.kol-
+<f49v.P.15;G>      {label s-}dcho.d.chol.chokchodaiin.chokchy.tchol-{plant}okcho.kol-
+<f49v.P.15;U>      {label s-}dcho.d!chol.chokchodaiin.chokchy.tchol-{plant}okcho.kol-
+#
+<f49v.P.16;H>      {label p-}tchotchey.chokeeo!dol.rcheey.otchodar-{plant}dcho.dchog-
+<f49v.P.16;C>      !!!!!!!!!!tchotchey.chokeeo!dol.rcheey.otchodar-{plant}dcho!dchog-
+<f49v.P.16;F>      {label p-}tchotchey.chokeeo.dol.rcheey.otchodar-{plant}dcho.dchom-
+<f49v.P.16;G>      {label p-}tchotchey.chokeeo!dol.rcheey.otchodar-{plant}dcho.dchom-
+<f49v.P.16;U>      {label p-}tchotchey.chokeeo!dol.rcheey.otchodar-{plant}dcho.dchog-
+#
+<f49v.P.17;H>      {label o-}shocho!!.oaiin.sheo.choty=
+<f49v.P.17;C>      !!!!!!!!!!shochoch.oaiin.sheo.choty=
+<f49v.P.17;F>      {label o-}shocho!!.oaiin.sheo.choty=
+<f49v.P.17;U>      {label o-}shocho!!.oaiin.sheo.choty=
+#
+<f49v.P.18;H>      {label À-}qotcho.cheol.chol.s.cho.chcthey.dcheol-{plant}chotchody-
+<f49v.P.18;C>      !!!!!!!!!!qotcho.cheol.chol!s.cho.chcthey.dcheol-{plant}chotchody-
+<f49v.P.18;F>      {label r-}qotcho.cheol.chol!s.cho.chcthey.dcheol-{plant}chotchody-
+<f49v.P.18;U>      {label r-}qotcho.cheol.chol!s.cho,chcthey.dcheol-{plant}chotchody-
+#
+<f49v.P.19;H>      {label y-}chokeo.sho.cheor.cheo!kchet.chor.d.aiin.dy-{plant}daiin.qokg-
+<f49v.P.19;C>      !!!!!!!!!!chokeo.sho.cheor.cheo!kchet.chor.d!aiin.dy-{plant}daiin.qokg-
+<f49v.P.19;F>      {label y-}chokeo.sho.cheor.cheo.kchet.chor.d!aiin.dy-{plant}daiin.qokm-
+<f49v.P.19;G>      {label y-}chokeo.sho.cheor.cheo!kchet.chor.d!aiin.dy-{plant}daiin.qokm-
+<f49v.P.19;U>      {label y-}chokeo.sho.cheor.cheo!kchet!chor.d!aiin.dy-{plant}daiin.qokg-
+#
+<f49v.P.20;H>      {label e-}oaiin.chy.daiin.chol.chaiin.kshar!dy-{plant}chokchy-
+<f49v.P.20;C>      !!!!!!!!!!oaiin.chy.daiin.chol.chaiin.kshar.dy-{plant}chokchy-
+<f49v.P.20;F>      {label *-}oaiin.chy.daiin.chol.chaiin.kshar!dy-{plant}chokchy-
+<f49v.P.20;U>      {label e-}oaiin.chy.daiin.chol.chaiin.kshar.dy-{plant}chokchy-
+#
+<f49v.P.21;H>      {label &???-}qokeaiin.cheo.chor.choteey.kcheol.dain-{plant}cho.dairin-
+<f49v.P.21;C>      !!!!!!!!!!!!!!okeaiin.cheo.chor.choteey.kcheol.dain-{plant}cho.dairin-
+<f49v.P.21;F>      {label *-}!!!qokeaiin.cheo.chor.choteey.kcheol.dain-{plant}cho.dairin-
+<f49v.P.21;G>      {label *-}!!!qokeaiin.cheo.chor.choteey.kcheol.dain-{plant}cho.daisin-
+<f49v.P.21;U>      {label &140-}qokeaiin.cheo,chor.choteey.kcheol.dain-{plant}cho.daisin-
+#
+<f49v.P.22;H>      {label d-}chokaiin.cho.dls.chariin.daiin.chain.dy-{plant}chetcho.dy-
+<f49v.P.22;C>      !!!!!!!!!!chnkaiin.cho.dls.chariin.daiin.chain.dy-{plant}chetcho.dy-
+<f49v.P.22;F>      {label d-}chokaiin.cho.dls.chariin.daiin.chain.dy-{plant}chetcho.dy-
+<f49v.P.22;U>      {label d-}chokaiin.cho.jls.chariin.daiin.chain.dy-{plant}chetcho.dy-
+#
+<f49v.P.23;H>      {label y-}o!aiin.cheky.r.cho.rchs!!eesy.kchor.sol-{plant}chctho.s-
+<f49v.P.23;C>      !!!!!!!!!!o!aiin.cheky.p.cho.rchs!!chsy.kchor.sol-{plant}chctho!s-
+<f49v.P.23;F>      {label y-}o!aiin.cheky.r.cho.rchsh!eesy.kchor.sol-{plant}chctho.r-
+<f49v.P.23;G>      {label y-}o!aiin.cheky.r.cho.rchsh!!esy.tchor.sol-{plant}chctho.r-
+<f49v.P.23;U>      {label y-}o,aiin.cheky.r.cho.rchse!!esy.kchor.sol-{plant}chctho.s-
+#
+<f49v.P.24;H>      {label s-}qotcheol.chey.chor.chokaly.chor.dal-{plant}chaiin!d-
+<f49v.P.24;C>      !!!!!!!!!!qotcheol.chey.chor.chokaly.chor.dal-{plant}chaiin.d-
+<f49v.P.24;F>      {label *-}qotcheol.chey.chor.chokaly.chor.dal-{plant}chaiin!d-
+<f49v.P.24;G>      {label *-}qotcheol.chey.chor.chokaly.chor.dal-{plant}chaiin!d-
+<f49v.P.24;U>      {label e-}qotcheol.chey.chor.chokaly.chor,dal-{plant}chaiin!d-
+#
+<f49v.P.25;H>      {label k-}chol.chor.ches.chkal!chy.chokeeoky-{plant}chokoran-
+<f49v.P.25;C>      !!!!!!!!!!chol.chor.ches.chkal.chy.chokeeoky-{plant}chokoran-
+<f49v.P.25;F>      {label k-}chol.chor.cher.chkaf!chy.chokeeoky-{plant}chokoran-
+<f49v.P.25;G>      {label k-}chol.chor.cher.chkal!chy.chokeeoky-{plant}chokoran-
+<f49v.P.25;U>      {label k-}chol.chor.ches.chkal!chy.chokeeoky-{plant}chokoran-
+#
+<f49v.P.26;H>      {label y-}ykchokeo.r.cheey.daiin=
+<f49v.P.26;C>      !!!!!!!!!!ykchokeo!r.cheey!!!!!!=
+<f49v.P.26;F>      {label y-}ykchokeo!r.cheey.daiin=
+<f49v.P.26;G>      {label y-}ykchokeo.r.cheey.daiin=
+#

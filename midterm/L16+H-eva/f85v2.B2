@@ -1,0 +1,39 @@
+## <f85v2.B2> {}
+# Labels on South rosette and it N connections
+# Last edited on 1998-12-27 05:45:05 by stolfi
+#
+# Weirdos:
+#
+#   &F = an "f" with an extra loop
+#
+# Labels around windmill - transcribed clockwise from 03:00
+#
+# S rosette, inside text ring, at 03:00
+<f85v2.B2.1;V>     otedy=
+<f85v2.B2.1;U>     otedy=
+#
+# S rosette, inside text ring, at 03:45
+<f85v2.B2.2;U>     otchdam=
+#
+# S rosette, inside text ring, at 04:30
+<f85v2.B2.3;U>     otosaiin=
+#
+# S rosette, inside text ring, at 05:00
+<f85v2.B2.4;U>     otchdy=
+#
+# S rosette, inside text ring, at 06:00
+<f85v2.B2.5;U>     *kedy=
+#
+# S rosette, inside text ring, at 07:30
+<f85v2.B2.6;U>     okchdy=
+#
+# S rosette, inside text ring, at 08:30
+<f85v2.B2.7;V>     ok**lar=
+<f85v2.B2.7;U>     oka!lar=
+#
+# S rosette, inside text ring, at 09:15
+<f85v2.B2.8;V>     of!!!!araiin=
+<f85v2.B2.8;U>     of{&F}araiin=
+#
+# S rosette, center of windmill - is that a label?
+<f85v2.B2.9;U>     **=

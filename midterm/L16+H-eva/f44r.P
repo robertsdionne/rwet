@@ -1,0 +1,55 @@
+## <f44r.P> {}
+# text
+# Last edited on 1998-12-07 10:58:00 by stolfi
+#
+<f44r.P.1;H>       tshodpy.oracphy.koees.ypsholy.shy.otol!oaiin-{plant}
+<f44r.P.1;C>       tshodpy.oracphy.koees.ypsholy.shy.otol.oaiin-{plant}
+<f44r.P.1;F>       tshodpy.oracphy.koees.ypsholy.shy.otol!oaiin-{plant}
+<f44r.P.1;G>       tshodpy.oracphy.ko!ar.ypsholy.shy.otol!oaiin-{plant}
+#
+<f44r.P.2;H>       ydsh.dyeees.yty.oky.okchey.qykchey.dchy.dy-{plant}
+<f44r.P.2;C>       ydsh.dyeees.yty.oky.okchey.qykchey.dchy.dy-{plant}
+<f44r.P.2;F>       ydsh.dyeees.yty.oky.okchey.qykchey.dchy.dy-{plant}
+<f44r.P.2;G>       ydsh.dyiins.yty.oky.okchey.qykchey.dchy.dy-{plant}
+#
+<f44r.P.3;H>       oair.ekokeey.kshotol.otol.daiin.otota.y!kal-{plant}
+<f44r.P.3;C>       oair.ekokeey.kshotol.otal.daiin.ototo!y.kal-{plant}
+<f44r.P.3;F>       oair.ekokeey.kshotol.otal.daiin.otota!y.kal-{plant}
+#
+<f44r.P.4;H>       ychor.ykchey.ykchy.chody.dam=
+<f44r.P.4;C>       ychor.ykchey.ykchy.chody.pam=
+<f44r.P.4;F>       ychor.ykchey.ykchy.chody.dam=
+#
+<f44r.P.5;H>       toy.shy!sho.qoteey.chor.cheeky.sheey.ytey.daiin-{plant}
+<f44r.P.5;C>       toy.shy.sho.qoteey.char.cheeky.sheey.ytey.daiin-{plant}
+<f44r.P.5;F>       toy.shy!sho.qoteey.chor.cheeky.sheey.ytey.daiin-{plant}
+<f44r.P.5;G>       toy.shy!sho.qoteey.chor.che!ty.sheey.ytey.daiin-{plant}
+#
+<f44r.P.6;H>       dshor.ytchol.shy.o.ocheek!!y.qotchy.otchy.dar-{plant}
+<f44r.P.6;C>       dshor.ytchol.shy.o.!cheekchy.qotchy.otchy.dar-{plant}
+<f44r.P.6;F>       dshor.ytchol.chy.o*!cheekchy.qotchy.otchy.dar-{plant}
+<f44r.P.6;G>       dshor.ytchol.chy.o*!check!hy.qotchy.otchy.dar-{plant}
+#
+<f44r.P.7;H>       qotsh.oyd.shol.qotshy.oyty.chom={plant}
+<f44r.P.7;C>       qotsh.oyd.shol.qokshy.oyty.chom={plant}
+<f44r.P.7;F>       qotes.oqd.shol.qotshy.oyty.chom={plant}
+<f44r.P.7;G>       qotor.oqd.shol.qotshy.oyty.chom={plant}
+#
+<f44r.P.8;H>       pshy.opchey.qopchy.ofchey.r!oiry.shol.o!s.ykchy-{plant}
+<f44r.P.8;C>       pshy.opchey.qopchy.ofchey.r.oiry.shol!ols.ykchy-{plant}
+<f44r.P.8;F>       pshy.opchey.qopchy.ofchey.r!oiry.shol.o!s.ykchy-{plant}
+<f44r.P.8;G>       pshy.opchey.qopchy.ofchey.r!airy.shol.o!r.ykchy-{plant}
+#
+<f44r.P.9;H>       otchol.ol.dchckhy.qoky.qotchy.qokchy.qoky.d-{plant}
+<f44r.P.9;C>       otchol.ol.dchckhy.qoky.qotchy.qokchy.qoky.d-{plant}
+<f44r.P.9;F>       otchol.ol!dchckhy.qoky.qotchy.qokchy.qoky!d-{plant}
+#
+<f44r.P.10;H>      qokchor.okchy.qoto.ykol.choky.choky.chol.dam-{plant}
+<f44r.P.10;C>      qokchor.okchy.qoto.ykol.choky.choky.chol.dam-{plant}
+<f44r.P.10;F>      qokchor.okchy.qoto.ykol.choky.choky.chol.dam-{plant}
+<f44r.P.10;G>      qokchor.!kchy.qoto.ykol.choky.choky.chol.dam-{plant}
+#
+<f44r.P.11;H>      ytsho.qockhy.okchody=
+<f44r.P.11;C>      ytsho.qockhy.okchody=
+<f44r.P.11;F>      ytsho.qockhy.okchody=
+#

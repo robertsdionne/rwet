@@ -1,0 +1,27 @@
+## <f69r.P> {}
+# Text paragraph above diagram.
+# Last edited on 1998-12-09 17:32:28 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+# 
+# Weirdos:
+#
+#  &ct = long <c> with a <t> attached to the tip of the ligature,
+#        well above the baseline.
+#
+<f69r.P.1;H>       tcheeos.shey.opaiin.chey.shey.qokeea!shdy.ol.ot.otal.sar-
+<f69r.P.1;F>       tcheeos.shey.opaiin.chey.shey.qokeey.shdy.ol.ot.otal.sar-
+<f69r.P.1;U>       tcheeos.shey.opaiin.chey.shey.qokeey,shdy.ol.ot.otal.sar-
+#
+<f69r.P.2;H>       daiin.shey.okaiin.shkechy.sheey.tey.chy.cthy.otol.cham-
+<f69r.P.2;F>       daiin.shey.okaiin.shk!chy.sheey.tey.chy.cthy.otol.cham-
+<f69r.P.2;U>       daiin.shey.okaiin.shkechy.sheey.tey,chy.cthy.otol.cham-
+#
+<f69r.P.3;H>       sheos!aiin.ct!!!!ar.choetey.okal.chy.ykar.ytchey.cheotam-
+<f69r.P.3;F>       sheos!aiin.ct!!!har.che!tey.okal.chy.ykar.ytchey.cheotam-
+<f69r.P.3;U>       sheos,aiin.*{&ct}ar.choetey.okal.chy.ykar.ytchey.cheotam-
+#
+<f69r.P.4;H>       y!cheo.r!aiin.ychey.otaiin.okchor.yty.chkal.shol=
+<f69r.P.4;F>       y!cheo.r!aiin.ychey!otaiin.okchor.yty.chkal.shol=
+<f69r.P.4;U>       y,cheo!s,aiin.ychey.otaiin.okchor.yty.chkal.shol=
+#

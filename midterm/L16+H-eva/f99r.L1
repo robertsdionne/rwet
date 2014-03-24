@@ -1,0 +1,95 @@
+## <f99r.L1> {}
+# Labels - top row
+# Last edited on 1998-12-10 08:13:46 by stolfi
+#
+# This row of labeled plants is actually two sub-rows.
+# There are 9 labels and 9 roots in the top sub-row, alternating.
+# There are 3 labels and 3 roots (one with leaf) in the bottom sub-row.
+#
+# lid of container
+<f99r.L1.0;H>      okoramog=
+<f99r.L1.0;V>      okaramog=
+<f99r.L1.0;U>      okaroram= 
+#
+<f99r.L1.1;H>      okar!y=
+<f99r.L1.1;V>      okar.y=
+<f99r.L1.1;U>      okar.y=
+#
+# root [1,1] - light
+#
+<f99r.L1.2;H>      darar=
+<f99r.L1.2;V>      darar=
+<f99r.L1.2;U>      darar=
+#
+# root [1,2] - dark
+#
+<f99r.L1.3;H>      oky=
+<f99r.L1.3;V>      oky=
+<f99r.L1.3;U>      oky=
+#
+# root [1,3] - dark
+#
+# Labels obscured by a blot
+<f99r.L1.4;H>      salo=
+<f99r.L1.4;U>      ***!=
+#
+# root [1,4] - dark - partly obscured by blot
+#
+# Two-line label:
+<f99r.L1.5;H>      oro-
+<f99r.L1.5;V>      oro-
+<f99r.L1.5;U>      ora-
+#
+<f99r.L1.5a;H>     ain=
+<f99r.L1.5a;V>     ain=
+<f99r.L1.5a;U>     ain=
+#
+# plant [1,5] - s-shaped roots
+#
+<f99r.L1.6;H>      okor=
+<f99r.L1.6;V>      okar=
+<f99r.L1.6;U>      okor=
+#
+# root [1,6] - light - multiple stumps
+#
+<f99r.L1.7;H>      salol=
+<f99r.L1.7;V>      salol=
+<f99r.L1.7;U>      salol=
+#
+# root [1,7] - striped - with hair
+#
+<f99r.L1.8;H>      skeeal=
+<f99r.L1.8;V>      skeeal=
+<f99r.L1.8;U>      skeeal=
+#
+# root [1,8] - dark, funny shape
+#
+<f99r.L1.9;H>      okary=
+<f99r.L1.9;V>      okary=
+<f99r.L1.9;U>      okary=
+#
+# root [1,9] - light, bulbous, roots horizontal
+#
+# Second sub-row:
+#
+# Label above root [1a,1]
+<f99r.L1.10;H>     okolo=
+<f99r.L1.10;V>     okolo=
+<f99r.L1.10;U>     okalo=
+# 
+# root [1a,1] - dark
+#
+# root [1a,2] - dark, hairy, spotted bug?
+#
+# label above [1a,2] and below [1,6]
+<f99r.L1.11;H>     otalam=
+<f99r.L1.11;V>     otalam=
+<f99r.L1.11;U>     otalam=
+# 
+# root [1a,3] - with bulb, light
+#
+# Label above [1a,3] and below [1,8]
+<f99r.L1.12;H>     otoldy=
+<f99r.L1.12;V>     otaldy=
+<f99r.L1.12;U>     otoldy=
+#

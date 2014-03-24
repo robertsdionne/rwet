@@ -1,0 +1,42 @@
+## <f95r2.P> {}
+# text in paragraphs
+# Last edited on 1998-12-10 07:57:39 by stolfi
+#
+# "U" transcription by J.Stolfi from an unidentified image.
+#
+<f95r2.P.1;H>      kshedy.or.chdy.dalfchy.qodaiin.chckhy!fchy.daraiin.dalal-
+<f95r2.P.1;F>      kshedy.or.chdy.dalfchy.qodaiin.chckhy.fchy.daraiin.dalal-
+<f95r2.P.1;U>      kshedy.or.chdy.dalfchy.qodaiin.chckhy.fchy.daraiin.dalal-
+#
+<f95r2.P.2;H>      daiin.shody.chkai!n.chol.chckhy.otai!n.oty.oteedy.kar.okam-
+<f95r2.P.2;F>      daiin.shody.chkaiin.chol.chckhy.otaiin.oty.oteedy.kar.okar-
+<f95r2.P.2;U>      daiin.shody.chkai!n.chol.chckhy.otai!n.oty.oteedy.kar.okar-
+#
+<f95r2.P.3;H>      todaiin.chor.chckhy.qokol.chkar.ol.otaiin.ofar.okai!n.aram-
+<f95r2.P.3;F>      todaiin.chor.chckhy.qokol.chkar.ol.otaiin.ofar.okaiin.aram-
+<f95r2.P.3;U>      todaiin.chor.chckhy.qokol.chkar.ol.otaiin.ofar.okaiin.aram-
+#
+<f95r2.P.4;H>      daiin.shody.tor.or.okain.chckhey=
+<f95r2.P.4;F>      daiin.shody.tor.or.okain.chckhey=
+<f95r2.P.4;U>      daiin.shody.tor.or.okain.chckhey=
+#
+<f95r2.P.5;H>      tshod.qokal.ody.chcfhol.okal.chedy.dalshdy.qopchdy.kary-
+<f95r2.P.5;F>      tshod.qokal.ody.chcfhol.okal.chedy.dalshdy.qopchdy.kary-
+<f95r2.P.5;U>      tshod.qokal.ody.chcfhol.okal.chedy.dalshdy.qopchdy.kary-
+#
+<f95r2.P.6;H>      y.olkor.ol.shol.qotar.chdy.chdy.qokar.okar.qokar.odaly-
+<f95r2.P.6;F>      y!olkor.ol.shol.qotar.chdy.chdy.qokar.okar.qokar.odaly-
+<f95r2.P.6;U>      y.olkor.ol.shol.qotar.chdy.chdy.qokar.okar.qokar.odaly-
+#
+<f95r2.P.7;H>      dshedy.otol.qokal.dol.or.eeedy.okee!sy.okedy!ted.otam-
+<f95r2.P.7;F>      dshedy.otal.qokal.dol.or.eeedy.okee!dy.okedy.ted.otam-
+<f95r2.P.7;U>      dshedy.otal.qokal.dol.or.eeedy.okeeesy.okedy,ted.otam-
+#
+<f95r2.P.8;H>      tedy.kaiin.y!cheol.okal.chedy.shdy.qokchdy.otar.chctham-
+<f95r2.P.8;F>      tedy.kaiin.y!cheol.okal.chedy.shdy.qokchdy.otar.chctham-
+<f95r2.P.8;U>      tedy!kaiin.y,cheol.okal.chedy.shdy.qokeedy.otar.chctham-
+#
+<f95r2.P.9;H>      poiin.okar.qokol.shsdy.okor.chdaiin.olky=
+<f95r2.P.9;F>      poiin.otar.qokal.shsdy.okar.chdaiin.olky=
+<f95r2.P.9;U>      poiin.otar.qokal.shsdy.okar.chdaiin.olky=
+#

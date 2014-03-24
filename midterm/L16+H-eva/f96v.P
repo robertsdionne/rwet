@@ -1,0 +1,43 @@
+## <f96v.P> {}
+# text
+# Last edited on 1998-12-10 08:04:55 by stolfi
+#
+<f96v.P.1;H>       psheoas.sheeor.qoepsheody.odar.ocpheo-{plant}opar.ysar!asod-
+<f96v.P.1;F>       pshe!as.sheeor.qoepsheody.odar.ocpheo-{plant}opar.ysar.aso*-
+#
+<f96v.P.2;H>       ytear.yteor.olcheey.dteodoiin-{plant}saro-{plant}qoches.ycheom-
+<f96v.P.2;F>       ytear.yteor.olcheey.dteodaiin-{plant}saro-{plant}qoches.ycheom-
+#
+<f96v.P.3;H>       dcheoteos.cpheos.sor.chcthosy-{plant}cth-{plant}ytchey.daiin-
+<f96v.P.3;F>       dcheoteos.cpheos.sar.chcthosy-{plant}cth-{plant}ytch*y.daiin-
+#
+<f96v.P.4;H>       dsheos.sheey.teo.cthy.ctheodody-
+<f96v.P.4;F>       dsheos.sheey.teo.cthy.ctheodody-
+#
+<f96v.P.5;H>       tockhy.cthey.ckheeody.ar.chey!key-{plant}
+<f96v.P.5;F>       tockhy.cthey.ckheeody.ar.chey.key-{plant}
+#
+<f96v.P.6;H>       yteeody.teodar.alchey.sy-{plant}
+<f96v.P.6;F>       yteeody.teodar.alchey.sy-{plant}
+#
+<f96v.P.7;H>       sheodal.chor.ory.ct{&T}ol-{plant}
+<f96v.P.7;F>       sheodal.chor.ary.cth!!!ol-{plant}
+#
+<f96v.P.8;H>       ycheey.ckheol.daiin.s-{plant}
+<f96v.P.8;F>       ycheey.ckheal.daiin!s-{plant}
+#
+<f96v.P.9;H>       !eol.ckheor.cheor.aiin-{plant}
+<f96v.P.9;F>       oeol.ckheor.cheor.aiin-{plant}
+#
+<f96v.P.10;H>      ctheor.oral.chor.ckhey-{plant}
+<f96v.P.10;F>      ctheor.oral.char.ckhey-{plant}
+#
+<f96v.P.11;H>      sar.os.checkhey.socthh-{plant}
+<f96v.P.11;F>      sar.os.checkhey.socth!-{plant}
+#
+<f96v.P.12;H>      sosar.cheekeo.dai!n-{plant}
+<f96v.P.12;F>      sosar.cheekeo.daiin-{plant}
+#
+<f96v.P.13;H>      soy.sar.cheor=
+<f96v.P.13;F>      soy.sar.cheor=
+#

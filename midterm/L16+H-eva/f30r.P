@@ -1,0 +1,56 @@
+## <f30r.P> {}
+# text
+# Last edited on 1998-12-07 05:11:18 by stolfi
+#
+<f30r.P.1;H>       okchesy.chey.shor!chey.fcheody.shey.tchy.cher.d.o.shey-
+<f30r.P.1;C>       okeeesy.chey.shor.chey.fcheody.shey.tchy.ches.d!o.shey-
+<f30r.P.1;F>       okchesy.chey.shor.chey.fcheody.shey.tchy.cher.d!o.shey-
+#
+<f30r.P.2;H>       ychody.chey.chkeey.ksho.keeor.cheor.shey.she.keeodol.sy-{plant}
+<f30r.P.2;C>       ychody.chey.chkeey.ksho.keeor.cheor.shey.she!keeodol.sy-{plant}
+<f30r.P.2;F>       ychody.chey.chkeey.ksho.keeor.cheor.shey.che.keeodol.sy-{plant}
+#
+<f30r.P.3;H>       chodaiin.chory.chey.doiin.saiin.chorain.cheey.keem-{plant}
+<f30r.P.3;C>       chodaiin.chory.chey.doiin.sai!n.chorain.cheey.keeg-{plant}
+<f30r.P.3;F>       chodaiin.chory.chey.doiin.raiin.chorain.cheey.keim-{plant}
+#
+<f30r.P.4;H>       qokechy.qoko.qop!char.soin.chan.qotchaiin-{plant}
+<f30r.P.4;C>       qokechy.qoko.qop.char.soin.chan.qotchaiin-{plant}
+<f30r.P.4;F>       qokechy.qoko.qop!char.soin.chan.qotchaiin-{plant}
+#
+<f30r.P.5;H>       choko.qokochy.deeey.dkeeor.cheol!dain.chory-{plant}
+<f30r.P.5;C>       choko.qokochy.deeey.dkeeor.cheol.dain.chory-{plant}
+<f30r.P.5;F>       choko.qokochy.deeey.dkeeor.cheol!dain.chory-{plant}
+#
+<f30r.P.6;H>       dchorol.sho.chor.cho.r!o.raiin.dor.chseeor.dy-{plant}
+<f30r.P.6;C>       dchorol.sho.chor.cho!r.o!raiin.dor.chseeor.dy-{plant}
+<f30r.P.6;F>       dchorol.sho.chor.cho.r!o.raiin.dor.chseeor!dy-{plant}
+#
+<f30r.P.7;H>       qor.chain.cthorchy=
+<f30r.P.7;C>       qor.chain.cthorchy=
+<f30r.P.7;F>       qor.chain.cthorchy=
+#
+<f30r.P.8;H>       opchol.ol.chesey.scheo.r!chey.okeal-{plant}dcheo.r!chey-
+<f30r.P.8;C>       opchol!ol.chesey.scheo!r.chey.okeal-{plant}dcheo!r.chey-
+<f30r.P.8;F>       opchol.ol.chesey.scheo.r!chey.okeal-{plant}dcheo.r!chey-
+#
+<f30r.P.9;H>       dchey.qochar.chol.keeaiin.chcthey-{plant}chor.cheky-
+<f30r.P.9;C>       dchey.qochar.chol.keeaiin.chcthey-{plant}chor.cheky-
+<f30r.P.9;F>       dchey.qochar.chol.keeaiin.chcthey-{plant}chor.cheky-
+#
+<f30r.P.10;H>      chokchaiin.dchor.chkchean.qotchy-{plant}chctho.r!chody-
+<f30r.P.10;C>      !!okchaiin.dchor.chkchean.qotchy-{plant}chctho!r.chody-
+<f30r.P.10;F>      chokchaiin.dchor.chkchean.qotchy-{plant}chctho.r!chody-
+#
+<f30r.P.11;H>      qotchor.cheor.chey.cheor.chey.soiin-{plant}ydey-{plant}sor.daiin-
+<f30r.P.11;C>      !otchor.cheor.chey.cheor.chey.soeee-{plant}ydey-{plant}sor.daiin-
+<f30r.P.11;F>      qotchor.cheor.chey.cheor.chey.soiin-{plant}ydey-{plant}sor.daiin-
+#
+<f30r.P.12;H>      dcheey.ckhey.ckhey.daiin.chkeaiin.dar-{plant}chor-{plant}y!!chdai!n-
+<f30r.P.12;C>      dcheey.ckhey.ckhey.daiin.chkeaiin.dar-{plant}chor-{plant}cthchda!!!-
+<f30r.P.12;F>      dcheey.ckhey.ckhey.daiin.chkeaiin.dar-{plant}chor-{plant}y!!chdaiin-
+#
+<f30r.P.13;H>      chodaiin.chtchey.chear.shy.keey=
+<f30r.P.13;C>      chodaiin.chtchey.chear.shy!keey=
+<f30r.P.13;F>      chodaiin.chtchey.chear.shy.keey=
+#

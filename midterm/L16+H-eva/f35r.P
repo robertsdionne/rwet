@@ -1,0 +1,64 @@
+## <f35r.P> {}
+# text
+# Last edited on 1998-12-11 12:35:26 by stolfi
+#
+<f35r.P.1;H>       cthoo.r.choly.cthy.choty.char.dy-{plant}
+<f35r.P.1;C>       cthoo!r.choly.cthy.choty.char.dy-{plant}
+<f35r.P.1;F>       cthoo.r!choly.cthy.choty.char.dy-{plant}
+#
+<f35r.P.2;H>       qokeeaiin.chokaiin.qotchy.daiin-{plant}
+<f35r.P.2;C>       qokeeaiin.chokaiin.qotchy.daiin-{plant}
+<f35r.P.2;F>       qokeeaiin.chokaiin.qotchy.daiin-{plant}
+#
+<f35r.P.3;H>       dchaiin.cthey.qotchey.taiin.cthory-{plant}
+<f35r.P.3;C>       dchaiin.cphey.qotchey.taiin.cthory-{plant}
+<f35r.P.3;F>       dchaiin.cthey.qotchey.taiin.cthory-{plant}
+#
+<f35r.P.4;H>       qotchy.shetchy.ckhol.cheey.daiin.dain!l-{plant}
+<f35r.P.4;C>       qotchy.shetchy.ckhol.cheey.daiin.dain.l-{plant}
+<f35r.P.4;F>       qotchy.shetchy.ckhol.cheey.daiin.dain!l-{plant}
+#
+<f35r.P.5;H>       otchor.sho.tcheey.scheey.daiin.dain!or-{plant}
+<f35r.P.5;C>       otchor.sho.tcheey.scheey.daiin.dain.or-{plant}
+<f35r.P.5;F>       otchor.sho.tcheey.scheey.daiin.dain.or-{plant}
+#
+<f35r.P.6;H>       schaiin.char.chan.daiin-{plant}
+<f35r.P.6;C>       schaiin.char.chan.daiin-{plant}
+<f35r.P.6;F>       schaiin.char.chan.daiin-{plant}
+#
+<f35r.P.7;H>       shosaiin.tchor.choky-{plant}
+<f35r.P.7;C>       shosaiin.tchor.choky-{plant}
+<f35r.P.7;F>       shosaiin.tchor.choky-{plant}
+#
+<f35r.P.8;H>       qotchy.ky.kaiin.daiin={plant}
+<f35r.P.8;C>       qokeey.ky!kaiin.daiin={plant}
+<f35r.P.8;F>       qokchy.ky!kaiin.daiin={plant}
+#
+<f35r.P.9;H>       paiin.chear.aiin.chear.shor.chaiin.rn-{plant}
+<f35r.P.9;C>       paiin.chear.aiin.chaer.shor.chaiin!!!-{plant}
+<f35r.P.9;F>       paiin.chear.aiin.chear.shor.chaiin!!!-{plant}
+#
+<f35r.P.10;H>      o.aiin.chaiin.ckhy.r.chl.s.chochy.daiin-{plant}
+<f35r.P.10;C>      o!aiin.chaiin.ckhy.r.chl.s.chochy.daiin-{plant}
+<f35r.P.10;F>      o!aiin.chaiin.ckhy.r!chl.s!chochy.daiin-{plant}
+#
+<f35r.P.11;H>      shcheaiin.chol.cthaiin.lchaiin.lchal.dal-{plant}dair.aldy.n-
+<f35r.P.11;C>      shcheaiin.chol.cthaiin.lchaiin.lchal.dal-{plant}dair.aldy.n-
+<f35r.P.11;F>      shcheaiin.shol.cthaiin.lchaiin.lchal.dal-{plant}dair.aldy.n-
+#
+<f35r.P.12;H>      olor.chy.chaiin.chy.taiin.kchey.koldy-{plant}chetchaiin-
+<f35r.P.12;C>      olor.chy.chaiin.chy.taiin.kchey.koldy-{plant}chetchaiin-
+<f35r.P.12;F>      olor.chy.chaiin.chy.taiin.kchey.koldy-{plant}chetchaiin-
+#
+<f35r.P.13;H>      qokoiin.chaiin.qokchaiin.lshy.lodaly-{plant}oteey.taiin-
+<f35r.P.13;C>      qokoiin.chaiin.qokchaiin.lshy.lodaly-{plant}oteey.taiin-
+<f35r.P.13;F>      qokoiin.chaiin.qokchaiin.lshy.lodaly-{plant}oteey.taiin-
+#
+<f35r.P.14;H>      cthol.chol.aiin.qotchy.otchor.daiin-{plant}shol.qotaiin-
+<f35r.P.14;C>      cthol.chol.aiin.qotchy.otchor.daiin-{plant}shol.qotaiin-
+<f35r.P.14;F>      cthol.chol.aiin.qotchy.otchor.daiin-{plant}shol.qotaiin-
+#
+<f35r.P.15;H>      ochor.s.chiin.daiin.ytain=
+<f35r.P.15;C>      ochor.s.chain.daiin.ytain=
+<f35r.P.15;F>      ochor.s!chiin.daiin.ytain=
+#

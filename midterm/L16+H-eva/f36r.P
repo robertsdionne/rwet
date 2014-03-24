@@ -1,0 +1,40 @@
+## <f36r.P> {}
+# text
+# Last edited on 1998-12-11 12:35:42 by stolfi
+#
+<f36r.P.1;H>       pchafdan.qorain.chcfhal.soiin.cphor.shaiin.cthy.dair-
+<f36r.P.1;C>       !chafdan.qorain.chcfhal.soiin.cphor.shaiin.cthy.dair-
+<f36r.P.1;F>       pchafdan.qorain.chcfhal.soiin.cphor.shaiin.cthy.dair-
+#
+<f36r.P.2;H>       oral.shor.ytaiin.qotaiin.qooldy.chty.chol.dy.tor-
+<f36r.P.2;C>       oral.shor.ytaiin.qotaiin.qooldy.chty.ch!l.dy.tor-
+<f36r.P.2;F>       oral.shor.ytaiin.qotaiin.qooldy.chty.chol!dy.tor-
+#
+<f36r.P.3;H>       qotchy.tchy.daiin.gaiin.dol!sain=
+<f36r.P.3;C>       qotchy.tchy.daiin.gaiin.dol.sain=
+<f36r.P.3;F>       qotchy.tchy.daiin.daiin.dol!sain=
+#
+<f36r.P.4;H>       podaiir.cphy.qoypchol.rom-{plant}c!y-{plant}chy.dchy.fchom.dar-
+<f36r.P.4;C>       podaiir.cphy.qoypchol.som-{plant}shy-{plant}chy.dchy.fchom.dar-
+<f36r.P.4;F>       podaiir.cphy!qoypchol.rom-{plant}chy-{plant}chy.dchy.fchom.dar-
+#
+<f36r.P.5;H>       daiin.qor.chol.ctholy.s-{plant}!!o-{plant}r-{plant}chy.sy-{plant}chytaroiin-
+<f36r.P.5;C>       daiin.qor.chol.ctholy.s-{plant}cho-{plant}r-{plant}chy.sy-{plant}chytaroiin-
+<f36r.P.5;F>       daiin.qor!chol.ctholy.s-{plant}!!o-{plant}r-{plant}chy.sy-{plant}chytaroiin-
+#
+<f36r.P.6;H>       okaiin.cthor.ykaiiin.s-{plant}dain.an-{plant}dan-
+<f36r.P.6;C>       okaiin.cthor.ykaii!n.s-{plant}dain.an-{plant}dan-
+<f36r.P.6;F>       okaiin.cthor.ykaii!n.s-{plant}dain.an-{plant}dan-
+#
+<f36r.P.7;H>       qotol.cthol.okol.dy.okchy-{plant}ytorory-{plant}sold-
+<f36r.P.7;C>       qotol.cthol.okol.dy.okchy-{plant}ytorory-{plant}sold-
+<f36r.P.7;F>       qotol.cthol.okol!dy.okchy-{plant}ytorory-{plant}sold-
+#
+<f36r.P.8;H>       ytchor.cthol.chaiin.yd-{plant}
+<f36r.P.8;C>       ytchor.cthol.chaiin.yd-{plant}
+<f36r.P.8;F>       ytchor.cthol.chaiin.yd-{plant}
+#
+<f36r.P.9;H>       ytodaly.daiin.otaro=
+<f36r.P.9;C>       ytodaly.daiin.otaro=
+<f36r.P.9;F>       ytodaly.daiin.otaro=
+#

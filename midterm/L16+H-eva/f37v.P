@@ -1,0 +1,94 @@
+## <f37v.P> {}
+# text
+# Last edited on 1998-12-11 12:38:11 by stolfi
+#
+<f37v.P.1;H>       kshody.qocthy.qotoldy.chopdain.sol-{plant}
+<f37v.P.1;C>       tshody.qocthy.qotoldy.chopdain.sol-{plant}
+<f37v.P.1;F>       kshody.qocthy.qotoldy.chopdain.sol-{plant}
+#
+<f37v.P.2;H>       dor.chol.cthor.oscho.chor.daiin-{plant}
+<f37v.P.2;C>       dor.chol.cthor.orcho!char.daiin-{plant}
+<f37v.P.2;F>       dor.chol.cthor.oscho!chor.daiin-{plant}
+#
+<f37v.P.3;H>       qokchon.shy.chon.daiin.dy-{plant}
+<f37v.P.3;C>       qok!!on.shy.chon.daiin.dy-{plant}
+<f37v.P.3;F>       qokchon.shy.chon.daiin.dy-{plant}
+#
+<f37v.P.4;H>       dshor.dytory.dshor.daiin-{plant}
+<f37v.P.4;C>       dshor.dytory.dshor.daiin-{plant}
+<f37v.P.4;F>       dshor.dytory.dshor.daiin-{plant}
+#
+<f37v.P.5;H>       dchor.qotol.ykchon.dain-{plant}
+<f37v.P.5;C>       dchor.qotol.ykchon.dain-{plant}
+<f37v.P.5;F>       dchor.qotol.ykchon.dain-{plant}
+#
+<f37v.P.6;H>       yokor.ytchor.saiin.oty-{plant}
+<f37v.P.6;C>       yokos.ytchor.saiin.oty-{plant}
+<f37v.P.6;F>       yokor.ytchor.saiin.oty-{plant}
+#
+<f37v.P.7;H>       qotchor.daiin=
+<f37v.P.7;C>       qotchor.daiin=
+<f37v.P.7;F>       qotchor.daiin=
+#
+<f37v.P.8;H>       qotor.choiin.chetchy.daiin-{plant}
+<f37v.P.8;C>       qotor.choa!n.chetchy.daiin-{plant}
+<f37v.P.8;F>       qotor.choiin.chetchy.daiin-{plant}
+#
+<f37v.P.9;H>       dor.chor.sho.daiiin.daiin-
+<f37v.P.9;C>       dor.chor.sho.daiiin.daiin-
+<f37v.P.9;F>       dor.chor.sho.daiiin.daiin-
+#
+<f37v.P.10;H>      soiin.shey.otoiin.chey.tom-{plant}
+<f37v.P.10;C>      saiin.shoy.okoiin.chey.tom-{plant}
+<f37v.P.10;F>      soiin.shey.otoiin.chey.tom-{plant}
+#
+<f37v.P.11;H>      qotoiin.choror.cthol.daiin-{plant}
+<f37v.P.11;C>      qotaiin.choror.cthol.daiin-{plant}
+<f37v.P.11;F>      qotoiin.choror.cthol-daiin-{plant}
+#
+<f37v.P.12;H>      chor.sholy.sheaiin.dotody-{plant}
+<f37v.P.12;C>      chor.sholy.sheaiin.dotody-{plant}
+<f37v.P.12;F>      chor.shyly.sheaiin.dotody-{plant}
+#
+<f37v.P.13;H>      sotoiiin=
+<f37v.P.13;C>      sotoiiin=
+<f37v.P.13;F>      sotoiiin=
+#
+<f37v.P.14;H>      todain.cphaiin.cphorods-{plant}
+<f37v.P.14;C>      todain.cphaiin.cphorods-{plant}
+<f37v.P.14;F>      todain.cphaiin.cphorods-{plant}
+#
+<f37v.P.15;H>      soiiin.cheoky.daiin.dain-{plant}
+<f37v.P.15;C>      s.iiin.cheoky.daiin.dain-{plant}
+<f37v.P.15;F>      soiiin.cheoky.daiin.dain-{plant}
+#
+<f37v.P.16;H>      qotor.daiin.chotaiin-{plant}
+<f37v.P.16;C>      qotor.daiin.chotaiin-{plant}
+<f37v.P.16;F>      qotor.daiin.chotaiin-{plant}
+#
+<f37v.P.19;H>      sokchor.qokoiiin.ykeeols-{plant}
+<f37v.P.19;F>      sokchor.qokoiiin.ykeeols-{plant}
+#
+<f37v.P.19a;H>     oyteey.daiin.daiin.ody-{plant}
+<f37v.P.19a;F>     oyteey.daiin.daiin.ody-{plant}
+#
+<f37v.P.19b;H>     daiin.ykoiin.qotal.daiin-{plant}
+<f37v.P.19b;C>     daiin.qkaiin.qotal.daiin-{plant}
+<f37v.P.19b;F>     daiin.qkaiin.qotal.daiin-{plant}
+#
+<f37v.P.20;H>      ychock{&K}aey.ykol.daiin.s-{plant}
+<f37v.P.20;C>      ychock!!!!hey.ytol!daiin.s-{plant}
+<f37v.P.20;F>      ychock!!!!hey.ykol.daiin.s-{plant}
+#
+<f37v.P.21;H>      oshctho.do.daiin.cthol!s-{plant}
+<f37v.P.21;C>      oshctho.do.daiin.cthol.s-{plant}
+<f37v.P.21;F>      oshctho-do.daiin.cthol!s-{plant}
+#
+<f37v.P.22;H>      qotol.ytoiin.chocthey-
+<f37v.P.22;C>      qotol.ytoiin.chocthey-
+<f37v.P.22;F>      qotol.ytoiin.chocthey-
+#
+<f37v.P.23;H>      yto.chol.daiin=
+<f37v.P.23;C>      yto.chol.daiin=
+<f37v.P.23;F>      yto.chol.daiin=
+#

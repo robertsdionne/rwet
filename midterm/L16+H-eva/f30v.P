@@ -1,0 +1,48 @@
+## <f30v.P> {}
+# text
+# Last edited on 1998-12-07 05:09:21 by stolfi
+#
+<f30v.P.1;H>       cthscthain.shosaiin.chocthey.sho.chepchy.shor.sheaiin-
+<f30v.P.1;C>       cthsc!hain.shosaiin.chocthey.sho.chepchy.shor.sheaiin-
+<f30v.P.1;F>       cthscthain.shosaiin.chocthey.sho.chepchy.shor.sheaiin-
+#
+<f30v.P.2;H>       qotchor.chy.she.kchor.chory.keor.ol.chy.daiin.ctholdy-
+<f30v.P.2;C>       qotchor.chy.she!kchor.chory.keor!ol.chy.daiin.ctholdy-
+<f30v.P.2;F>       qotchor.chy.she.kchor.chory.keor.ol.chy.daiin.ctholdy-
+#
+<f30v.P.3;H>       chotchol.daiin.cthol.doiin.daiin.chokeor.dal.chtoithy-
+<f30v.P.3;C>       chotchol.daiin.cthol.doiin.daiin.chokeor.dar.chtocthy-
+<f30v.P.3;F>       chotchol.daiin.cthol.doiin.daiin.chokeor.dal.chtocthy-
+#
+<f30v.P.4;H>       otchey.daiin.chor.checkhy.qotchod.daiin-{plant}
+<f30v.P.4;C>       otchey.daiin.chor.checkhy.qotchod.daiin-{plant}
+<f30v.P.4;F>       otchey.daiin.chor.checkhy.qotchod.daiin-{plant}
+#
+<f30v.P.5;H>       dain.shoty.chkol.ytor.cheol!dy-{plant}
+<f30v.P.5;C>       dain.choty.chkol.ytor.cheol.dy-{plant}
+<f30v.P.5;F>       dain.shoty.chkol.ytor.cheof!dy-{plant}
+#
+<f30v.P.6;H>       qokeeor.chokol.chokeody.dair!y-{plant}
+<f30v.P.6;C>       qokeeor.chokol.chokeody.dair.y-{plant}
+<f30v.P.6;F>       qokeeor.chokol.chokeody.dair!y-{plant}
+#
+<f30v.P.7;H>       chokchy.sho.kcho.tcho.ctho.sos-{plant}
+<f30v.P.7;C>       chakchy.sho!kcho!tcho.ctho.sos-{plant}
+<f30v.P.7;F>       chokchy.sho.kcho.tcho.ctho.sos-{plant}
+#
+<f30v.P.8;H>       oyshy.cheotol.cphoaiin.cphey-{plant}
+<f30v.P.8;C>       oyshy.cheotol.cphoaiin.cphey-{plant}
+<f30v.P.8;F>       oyshy.cheotol.cphoaiin.cphey-{plant}
+#
+<f30v.P.9;H>       qotchor.chor.sheey.cheol.sos-
+<f30v.P.9;C>       qotchor.chor.sheey.cheor.sos-
+<f30v.P.9;F>       qotchor.chor.sheey.cheol.sos-
+#
+<f30v.P.10;H>      sho.sheoldy.otcheor.daiin-{plant}
+<f30v.P.10;C>      sho.sheoldy.otcheor.daiin-{plant}
+<f30v.P.10;F>      sho.sheoldy.otcheor.daiin-{plant}
+#
+<f30v.P.11;H>      s!ol.chokcheey.daiin.kchydy={plant}
+<f30v.P.11;C>      shol.chokcheey.daiin.kchydy={plant}
+<f30v.P.11;F>      s!ol.chokcheey.daiin.kchody={plant}
+#

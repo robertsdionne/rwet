@@ -1,0 +1,66 @@
+## <f23v.P> {}
+# text
+# Last edited on 1998-12-08 08:17:15 by stolfi
+#
+# "U" transcription by J. Stolfi from Jacques Guy's scanned image.
+#
+<f23v.P.1;H>       podairol.odaiiily.sho!al!dy.opchol.otol.ol.chcphy.qotchar.s-
+<f23v.P.1;C>       p!**irol.odaiiily.sho.al.dy.opchol.otol.ol.chcphy.qotchar.s-
+<f23v.P.1;F>       podairol.odaiinly.sho.al.dy.opchol!otol.ol.chcphy.qotchar.s-
+<f23v.P.1;U>       podairol.odaiiily.sho.al.dy.opchol.otol.ol.chcphy.qotchar.s-
+#
+<f23v.P.2;H>       qot!!!!!!eo!tor.chy.okchafdy.qokchey.dol-{plant}otchol.chal.otchm-
+<f23v.P.2;C>       qot!!!!!!!*!tor.chy.okchaldy.qokchey.dol-{plant}otchol.chal.otchm-
+<f23v.P.2;F>       qot!!!!!!eo.tor.chy.okchafdy.qokchey.dol-{plant}otchol.chal.otchm-
+<f23v.P.2;U>       qo*{&167}eo!tor.chy.okchaldy.qokchey.dol-{plant}otchol.chal.otchg-
+#
+<f23v.P.3;H>       ycho.okaiin.okeol.eees.ol!daiin.okeeor-{plant}daiin.qotchol!m-
+<f23v.P.3;C>       ycho.okaiin.okeol.eees.ol.daiin.okeeor-{plant}daiin.qotchol!d-
+<f23v.P.3;F>       ycho.okaiin.okeol.eees.of.daiin.okeeor-{plant}daiin.qotchol!d-
+<f23v.P.3;U>       ycho.okaiin.okeol.eees.ol.daiin.okeeor-{plant}daiin.qotchol.g-
+#
+<f23v.P.4;H>       okchey.dair.sholol.ol!dal-{plant}otchor.mar-
+<f23v.P.4;C>       okchey.dair.sholol.ol.dal-{plant}otchor.dar-
+<f23v.P.4;F>       okchey.dair.sholol.ol!dal-{plant}otchor.dar-
+<f23v.P.4;U>       okchey.dair.sholol.ol!dal-{plant}okchor.dar-
+#
+<f23v.P.5;H>       dor.chear.shor.dol.oaldary=
+<f23v.P.5;C>       dor.chear.shor.dol.oaldary=
+<f23v.P.5;F>       dor.chear.shor.dol.oaldary=
+<f23v.P.5;U>       dor.chear.shor.dol.oaldary=
+#
+<f23v.P.6;H>       tshol.shor.shkshy.okol.daiin-{plant}otshor.olsar-
+<f23v.P.6;C>       tshol.shor.shkshy.okol.daiin-{plant}otshor.olsar-
+<f23v.P.6;F>       tshol.shor.shkshy.okol.daiin-{plant}otshor.olsar-
+<f23v.P.6;U>       tshol.shor.shkshy.okol.daiin-{plant}otshor.olsar-
+#
+<f23v.P.7;H>       otor.oiin.sho.shol.qokol.daiin-{plant}sol.daiin.ylg-
+<f23v.P.7;C>       otor.oiin.sho.shol.qokol.daiin-{plant}sol.daiin.yly-
+<f23v.P.7;F>       otor.oiin.sho.shol.qokol.daiin-{plant}sol.daiin.yly-
+<f23v.P.7;U>       otor.oiin.sho.shol.qokol.daiin-{plant}sol.daiin.yly-
+#
+<f23v.P.8;H>       qokaiin.dain.qokor.okal.g.dam-{plant}chor.olol.dam-
+<f23v.P.8;C>       qokaiin.dain.qokor.okal.m.dam-{plant}chor.olol.dam-
+<f23v.P.8;F>       qokaiin.dain.qokor.okal!d.dam-{plant}chor.olol.dam-
+<f23v.P.8;U>       qokaiin.dain.qokor.okal.g.dam-{plant}chor.olol.dam-
+#
+<f23v.P.9;H>       otshy.dal.dar.oldar.ar.or-{plant}qoto.l.chees.g-
+<f23v.P.9;C>       otshy.dal.dar.oldar.ar.or-{plant}qoto!l.chees.m-
+<f23v.P.9;F>       otshy.dal.dar.oldar.ar.or-{plant}qoto.l.chees.m-
+<f23v.P.9;U>       otshy.dal.dar.oldar.ar.or-{plant}qoto.l.chees.g-
+#
+<f23v.P.10;H>      dor.chy.kshol.chol.cthol-{plant}otol.oloiir-
+<f23v.P.10;C>      dor.chy.kshol.chol.cthol-{plant}otol.oloiir-
+<f23v.P.10;F>      dor!chy.kshol.chol.ctho*-{plant}otol.oloiir-
+<f23v.P.10;U>      dor.chy.kshol.chol.cthol-{plant}otol.oloiir-
+#
+<f23v.P.11;H>      y.okaiin.doroiin.olols.oiin-{plant}ol.cheen.ols-
+<f23v.P.11;C>      y!okaiin.doroiin.olols.oiin-{plant}ol.cheen.ols-
+<f23v.P.11;F>      y!okaiin.doraiin.olols.oiin-{plant}ol.cheen.ols-
+<f23v.P.11;U>      y!okaiin.doroiin.olols.oiin-{plant}ol.cheen.ols-
+#
+<f23v.P.12;H>      ol!aiior.ol!oro.eeeoly={plant}
+<f23v.P.12;C>      ol.aiior.ol.oro.eeeoly={plant}
+<f23v.P.12;F>      of!ainos.ol!oro.eeeoly={plant}
+<f23v.P.12;U>      ol.aiior.ol!oro.eeeoly={plant}
+#

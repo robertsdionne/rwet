@@ -1,0 +1,48 @@
+## <f40r.P> {}
+# text
+# Last edited on 1998-12-12 17:22:47 by stolfi
+#
+<f40r.P.1;H>       pchey.keodar.aldydy-{plant}qoky.okal.shdy.olkedy.opches.ar.or!daiin-
+<f40r.P.1;C>       pchey.keodar.aldydy-{plant}qoky.okal.shdy.olkedy.opches.ar.or.daiin-
+<f40r.P.1;F>       pchey.keodar.aldydy-{plant}qoky.okal.shdy.olkedy.opches.ar.or!daiin-
+#
+<f40r.P.2;H>       qokar.okar.okedy.dar-{plant}ykchey.kaiin.okos.chedy.okar.aralos-
+<f40r.P.2;C>       qokar.okar.okedy.dar-{plant}ykchey.kaiin.okos.chedy.okar.aralor-
+<f40r.P.2;F>       qokar.okar.okedy.dar-{plant}ykchey.kaiin.okar.chedy.okar.aralor-
+#
+<f40r.P.3;H>       shy.qokal.chdy.chckhd-{plant}otor.aiis.oky.okolchy.qokar.okam-
+<f40r.P.3;C>       shy.qokal.chdy.chckhd-{plant}otor.aiir.oky.okolchy.qokar.okam-
+<f40r.P.3;F>       shy.qokal.chdy.chckhd-{plant}otor.aiir.oky.okolchy.qokar.okam-
+#
+<f40r.P.4;H>       or.aiin.chekody.das-{plant}qokol.okaiin.okar.oky.okoldy.ol-
+<f40r.P.4;C>       or.aiin.chekody.dar-{plant}qokol.okaiin.okar.oky.okoldy.ol-
+<f40r.P.4;F>       or.aiin.chekody.dar-{plant}qokol.okaiin.okar.oky.okoldy.ol-
+#
+<f40r.P.5;H>       lokar.qokar.okar-{plant}okol.ol.chedy.qokchd.ar.ar.or.dam-
+<f40r.P.5;C>       lokar.qokar.okar-{plant}okol.ol.chedy.qokchd.ar.ar.or.dam-
+<f40r.P.5;F>       lokar.qokar.okar-{plant}okol.ol.chedy.qokchd.ar.ar.or.dam-
+#
+<f40r.P.6;H>       tor.or.ar.shok!or.om-{plant}olshedy.qoka!m.chdy.kar.oraiin-
+<f40r.P.6;C>       tor.or.ar.shok.or.am-{plant}olsh!dy.qoka!m.chdy.kar.oraiin-
+<f40r.P.6;F>       tor.or.ar.shok!or!am-{plant}olshedy.qokaim.chdy.kar.oraiin-
+#
+<f40r.P.7;H>       yaiin.chekaiin.oky-{plant}ycheey=
+<f40r.P.7;C>       yaiin.chekaiin.oky-{plant}ycheey=
+<f40r.P.7;F>       yaiin.chekaiin.oky-{plant}ycheey=
+#
+<f40r.P.8;H>       ksheo.keeey.dar.aim-{plant}kcheo.cfhdy.orain.chefal.daiin.dm-
+<f40r.P.8;C>       !sheo.keeey.dar.aim-{plant}kcheo.cfhdy.orain.chefal.daiin.dg-
+<f40r.P.8;F>       ksheo.kchey.dar.aim-{plant}kcheo.cfhdy.orain.chefal.daiin.dm-
+#
+<f40r.P.9;H>       taiin.ol.olaiin.or-{plant}dain.okaiin.okaiin.okaiin.daram-
+<f40r.P.9;C>       taiin.al.olaiin.ar-{plant}dain.okaiin.okaiin.okaiin.daram-
+<f40r.P.9;F>       taiin.ol.olaiin.or-{plant}dain.okaiin.okaiin.okaiin.daram-
+#
+<f40r.P.10;H>      saiin.olcheey.chdy-{plant}!!!!!ychey.karar.oky.ykedy.okair.ody-
+<f40r.P.10;C>      saiin.olcheey.chdy-{plant}dain.ychey.karar.oky.ykedy.okair.!dy-
+<f40r.P.10;F>      saiin.olcheey.chdy-{plant}!!!!!ychey.kamar.oky.ykedy.okair.ody-
+#
+<f40r.P.11;H>      toar.ykaiin.ory.dal={plant}
+<f40r.P.11;C>      toar.ykaiin.ory.dal={plant}
+<f40r.P.11;F>      toar.ykaiin.ory.dal={plant}
+#

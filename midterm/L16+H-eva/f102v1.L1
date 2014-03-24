@@ -1,0 +1,35 @@
+## <f102v1.L1> {}
+# labels on first row of plants
+# Last edited on 1998-12-11 07:39:11 by stolfi
+#
+#Container?
+<f102v1.L1.0;H>    ker.ron**=
+<f102v1.L1.0;U>    *********=
+#
+# plant [1,1] - dark leaf, roots, light stem
+<f102v1.L1.1;H>    ykeody=
+<f102v1.L1.1;V>    okeody={was <f102v2.X.9;V>}
+<f102v1.L1.1;U>    okeody=
+#
+# plant [1,2] - light "syringe" roots, picture faded
+<f102v1.L1.2;H>    okeody=
+<f102v1.L1.2;V>    okeody={was <f102v2.X.10;V>}
+<f102v1.L1.2;U>    okeody=
+#
+# plant [1,3] - round starbust flower?, arrowhead leaves
+# hairy two-story bulb with bunch of mousetail roots at bottom
+<f102v1.L1.3;H>    doiisaly=
+<f102v1.L1.3;V>    daiisaly={was <f102v2.X.5;V>}
+<f102v1.L1.3;U>    daiisaly=
+#
+# plant [1,4] - half-potato vertically striped root, lobate leaves
+# with bunch of mousetail roots at bottom
+<f102v1.L1.4;H>    ypory=
+<f102v1.L1.4;V>    ypary={was <f102v2.X.29;V>}
+<f102v1.L1.4;U>    ypary=
+#
+# plant [1,5] - long pinnate leaves, "bunch of fingers" root
+<f102v1.L1.5;H>    opchy!tcy!=
+<f102v1.L1.5;V>    opchy!tch!={was <f102v2.X.16;V>}
+<f102v1.L1.5;U>    opchy.tch*=
+#

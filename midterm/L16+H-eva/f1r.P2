@@ -1,0 +1,35 @@
+## <f1r.P2> {}
+# text - parag 2
+# Last edited on 1998-12-11 12:23:26 by stolfi
+#
+# "X" transcription by Denis Mardle 
+# "N" transcription by G. Landini (EVA alphabet page), uncapitalized.
+# "U" transcription by J. Stolfi from scanned image.
+#
+# Weirdos:
+#
+#  &252 = like a V with underbar; or a K on its side; or the chinese
+#   character for "great", upside down, with stroke 2 not protruding.
+#   brushed very thick (in red?), with flaring strokes and "swallowtail" serifs. 
+#
+#  &c' = EVA "c" with a plume, like a "sh" without the final "e".
+# 
+<f1r.P2.7;H>       *{&252}.odar.o.!!!!y.shol.cphoy.oydar.sh!.s.cfhoaiin.shodary-
+<f1r.P2.7;C>       *!!!!!!.odar.*!!!!!y.shol.cphoy.oydar.sh*.s.cfhoaiin.shodasy-
+<f1r.P2.7;F>       !!!!!!!!odar.s!!!!hy.shol.cphoy.oydar.sh!.s.cfhoaiin.shodary-
+<f1r.P2.7;N>       *{&252}.odar.s{&c'}y.shol.cphoy.oydar.sh!.s.cfhoaiin.shodary- 
+<f1r.P2.7;U>       *{&252}.odar.s{&c'}y.shol.cphoy.oydar.sh!.s.cfhoaiin.shodary-
+#
+<f1r.P2.8;H>       yshey.shody.okcho!y.otchol.chocthy.os!chy.dain.chor.kos-
+<f1r.P2.8;C>       *sh!y.chody.okcho!y.otchol.chocthy.os.chy.dain.shor.kos-
+<f1r.P2.8;F>       yshey.shody.okcho.y.otchol.chocthy.os!chy.dain.chor.kos-
+<f1r.P2.8;N>       yshey.shody.okcho!y.otchol.chocthy.os,chy.dain.chor.kos- 
+<f1r.P2.8;U>       yshey.chody.okcho!y.otchol.chocthy.os!chy.dain.chor.kos-
+#
+<f1r.P2.9;H>       daiin.shos.cfhol.shody=
+<f1r.P2.9;C>       daiin.shos.cfhol.shody=
+<f1r.P2.9;F>       daiin.shor.cfhol.shody=
+<f1r.P2.9;N>       daiin.shos.cfhol.shody=
+<f1r.P2.9;X>       daiin.sh**.cfhol.shody=
+<f1r.P2.9;U>       daiin.shos.cfhol.shody=
+#

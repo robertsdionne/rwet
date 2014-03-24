@@ -1,0 +1,77 @@
+## <f46v.P> {}
+# text
+# Last edited on 1998-12-24 21:01:37 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+# Lines 5 and 6 may span a column break at the "-{||}"
+#
+<f46v.P.1;H>       pody.lshed.ypdy.shedy.opchedy.ytedy.oepchol.yfchey.tochsy.okas.ykchdy.daiin-
+<f46v.P.1;C>       !ody.lshed.ypdy.shedy.opchedy.ytedy.oepchol.yfchey.tochsy.okar.ykchdy.daiin-
+<f46v.P.1;F>       pody.lshed.ypdy.shedy.opchedy.ytedy.o!pchol.yfchey.tochsy.okas.ykchdy.daiin-
+<f46v.P.1;G>       pody.lshed.ypdy.shedy.opchedy.ytedy.oepchol.yfchey.tochsy.okas.ykchdy.daiin-
+<f46v.P.1;U>       pody.lshed.ypdy.shedy.opchedy.ytedy.oepchol.yfchey.tochsy.okar.ykchdy.daiin-
+#
+<f46v.P.2;H>       ytasr.aiin.otchdy.okaly.daiin.qokedy.otar.ar.oldy.otedy.s!aim.okey.tody.daiin-
+<f46v.P.2;C>       ytair.aiin.otchdy.okaly.daiin.qokedy.otar.ar.oldy.otedy.s!aim.okey.tody.daiin-
+<f46v.P.2;F>       ytair!aiin.otchdy.okaly.daiin.qokedy.otar.ar.oldy.otedy.s!aim.okey.tody.daiin-
+<f46v.P.2;U>       ytair,aiin.otchdy.okaly.daiin.qokedy.otar.ar.oldy.otedy.s,aim.okey.tody.daiin-
+#
+<f46v.P.3;H>       ytchey.keody.chockhdy.chotal.okal!shdy.sh!dy.qokar.oty.qoty.shedy.chedy.dam-
+<f46v.P.3;C>       yteeey.keody.chockhdy.chotal.okal.shdy.sh!dy.qokar.oty.qoty.shedy.chedy.dam-
+<f46v.P.3;F>       yteeey.keody.chockhdy.chotal.okal!shdy.she!y.qokar.oty.qoty.shedy.chedy.dam-
+<f46v.P.3;G>       ytchey.keody.chockhdy.chotal.okal!shdy.sh*!y.qokar.oty.qoty.shedy.chedy.dam-
+<f46v.P.3;U>       yteeey.keody.chockhdy.chotal.okal!shdy.sheky.qokar.oty.qoty.shedy.chedy.dam-
+#
+<f46v.P.4;H>       ydaiin.chckhy.chdal.olar.chckhdy.chdody.tar.cham.ke!dy.daiin.y!kaiir.shckhef!y-
+<f46v.P.4;C>       ydaiin.chckhy.chdal.olar.chckhdy.chdody.tar.cham.ke!dy.daiin.y!kaiir.shckhef!y-
+<f46v.P.4;F>       ydaiin.chckhy.chdal.olar.chckhdy.chdody.tar.cham.kchdy.daiin.y!kaiin.shckh!f!y-
+<f46v.P.4;G>       ydaiin.chckhy.chdal.olar.chckhdy.chdody.tar.cham.ke!dy.daiin.y!kaiin.shckhcfhy-
+<f46v.P.4;U>       ydaiin.chckhy.chdal.olar.chckhdy.chdody.tar.cham.ke!dy.daiin.y,kaiir.shckhef!y-
+#
+<f46v.P.5;H>       lodaiin.shedy.qokedy.chdy.okedy.dykaly-{||}daiin.chedy.okeedy.s.ar.air.cthy-
+<f46v.P.5;C>       lodaiin.shedy.qokedy.chdy.okedy.dykaly-{||}daiin.chedy.okeedy.s!ar.air.cthy-
+<f46v.P.5;F>       lodaiin.shedy.qokedy.chdy.okedy.dykaly-{||}daiin.chedy.okeedy.s!ar!air.cthy-
+<f46v.P.5;U>       lodaiin.shedy.qokedy.chdy.okedy.dykaly-{||}daiin.chedy.okeedy.r,ar,air.cthy-
+#
+<f46v.P.6;H>       tos.aiir!char.chedy.olaiin.qotedy.sheedy-{||}qokaldy.qokedy.dair.chody.cthhy.m-
+<f46v.P.6;C>       tor.aiir.char.shedy.olaiin.qotedy.sheedy-{||}qokaldy.qokedy.dair.chody.cthey.m-
+<f46v.P.6;F>       tos!aiir!char.chedy.olaiin.qotedy.sheedy-{||}qokaldy.qokedy.dair.eeody.cthey!m-
+<f46v.P.6;G>       tos!ainm.char.chedy.olaiin.qotedy.sheedy-{||}qokaldy.qokedy.dair.eeody.cthey!m-
+<f46v.P.6;U>       tos,aiir!char.shedy.olaiin.qotedy.sheedy-{||}qokaldy.qokedy.dair.eeody.cthey,m-
+#
+# The "-{plant}' break may be a paragraph break.
+<f46v.P.7;H>       dchedy.cheeky.dam.ched.l.chedy.chedy-{plant}okeedchs{&S}y.qokeedy.chete!dar.or.aick!y-
+<f46v.P.7;C>       dchedy.cheeky.dam.ched.l.chedy.chedy-{plant}okeedchs!!!!y.qokeedy.chete!dar.or.aickhy-
+<f46v.P.7;F>       dchedy.cheeky.dam.ched.l!chedy.chedy-{plant}okeedchs!!!!y.qokeedy.chcthedar.or.aickhy-
+<f46v.P.7;G>       dchedy.cheeky.dam.ched.l!chedy.chedy-{plant}oke*chsh!!!!y.qokeedy.chete!dar.or.aickhy-
+<f46v.P.7;U>       dchedy.cheeky.dam,ched,l,chedy.chedy-{plant}okeedchs!!!!y.qokeedy.chcth!dar.or.aick!y-
+#
+<f46v.P.8;H>       yteedy.shedy.checkhdy.chtedy.daim-
+<f46v.P.8;C>       yteedy.shedy.checkhdy.chtedy.daim-
+<f46v.P.8;F>       yteedy.shedy.checkhdy.chtedy.daim-
+<f46v.P.8;G>       yte!dy.shedy.checkhdy.chtedy.daim-
+<f46v.P.8;U>       yteedy.shedy.checkhdy.chtedy.daim-
+#
+<f46v.P.9;H>       sheol.or.chey.okaiin.daim.oty.om-
+<f46v.P.9;C>       sheol.ar.chey.okaiin.daim.oty.om-
+<f46v.P.9;F>       sheol.or.chey.okaiin.daim.oty!om-
+<f46v.P.9;G>       sheol.or.chey.okaiin.daim.oty.om-
+<f46v.P.9;U>       sheol,or.chey.okaiin.daim.oty.om-
+#
+<f46v.P.10;H>      tolshey.otedy.chocpheod.oty.dam-
+<f46v.P.10;C>      tokshey.otedy.!aocpheod.oty.dam-
+<f46v.P.10;F>      tolchey.otedy.choctheod.oty.dam-
+<f46v.P.10;G>      tolshey.otedy.chocpheod.oty.dam-
+<f46v.P.10;U>      tolshey.otedy.choctheod.oty,dam-
+#
+<f46v.P.11;H>      dair.aly.chdam.chcthy.chdam-
+<f46v.P.11;C>      dair.aly.chdar.chcthy.chdam-
+<f46v.P.11;F>      %%%%%%%%%%%%%%%%%%%%%%%%%%%-
+<f46v.P.11;U>      dair.aly.chdam.chcthy.chdam-
+#
+<f46v.P.12;H>      ykar.chedy=
+<f46v.P.12;C>      ykar.chedy=
+<f46v.P.12;F>      ykar.chedy=
+<f46v.P.12;U>      ykar.chedy=
+#

@@ -1,0 +1,55 @@
+## <f50v.P> {}
+# text
+# Last edited on 1998-12-11 12:51:36 by stolfi
+#
+<f50v.P.1;H>       tchy.do.ldar.shotchdy.qokchdy.opchedy.qokol.shor.ofar.far!dam-
+<f50v.P.1;C>       tchy.do.ldar.shotchdy.qokchdy.opchedy.qokol.shor.ofar.far.dam-
+<f50v.P.1;F>       tchy.do.ldar.shotchdy.qokchdy.opchedy.qokol.shor.ofar.far!dam-
+#
+<f50v.P.2;H>       tchodai!n.oeeey.okaiin.shedy.qokaly.chdy.oty.keody.cheey.okai!n-
+<f50v.P.2;C>       tchodai!n.oeeey.okaiin.shedy.qokaly.chdy.oky.keody.cheey.okai!n-
+<f50v.P.2;F>       tchodai!n.oeeey.okaiin.reedy.qokaly.chdy.oty.k!ody.cheey.okai!n-
+<f50v.P.2;G>       tchodaiin.oeeey.okaiin.reedy.qokaly.chdy.oty.k!ody.cheey.okaiin-
+#
+<f50v.P.3;H>       pochedy.qokody.checkhy.shckhy.dalol.ykeeey.qokedy.okai!n.okal-
+<f50v.P.3;C>       pochedy.qokody.checkhy.shckhy.dalol.ykeeey.qokedy.okai!n.okal-
+<f50v.P.3;F>       pochedy.qokody.checkhy.shckhy.dalol.ykeeey.qokedy.okai!n.okal-
+<f50v.P.3;G>       pochedy.qokody.checkhy.shckhy.dalol.ykeeey.qokedy.okaiin.okal-
+#
+<f50v.P.4;H>       dar.qoai!n.olaiin.olr!aiin.ol.okeedy.okchdy.otar.chckhey.or-
+<f50v.P.4;C>       dar.qoai!n.olaiin.ols.aiin.ol.okeedy.okch!y.otar.chckhey.or-
+<f50v.P.4;F>       dar.qoai!n.olaiin.olr!aiin.ol.okeedy.okchdy.otar.chckhey.or-
+<f50v.P.4;G>       dar.qoaiin.olaiin.olr!aiin.ol.okeedy.okchdy.otar.chckhey.or-
+#
+<f50v.P.5;H>       y.chy.tair.chckhy.qekaiin.qodaiin.olcheky.chedy.chkedy.okedy!!d-
+<f50v.P.5;C>       y!chy.tair.chckhy.qekaiin.qodaiin.olcheky.chedy.chkedy.okedy!.d-
+<f50v.P.5;F>       y!chy.tair.chckhy.qekaiin.qodaiin.olcheky.chedy.chkedy.okedyd.d-
+<f50v.P.5;G>       y!chy.tair.chckhy.qokaiin.qodaiin.olcheky.chedy.chkedy.ok*dyd.d-
+#
+<f50v.P.6;H>       daiin.kedair.okal.chody.qokedy.okar.okchey.okedy.otar.chkeey-
+<f50v.P.6;C>       daiin.kedair.okal.chody.qokedy.okar.okchey.okedy.otar.chkeey-
+<f50v.P.6;F>       !aiin.kedair.okal.chody.qokedy.okar.okchey.okedy.ytar.chkeey-
+<f50v.P.6;G>       !aiin.kedair.okal.chody.qokedy.okar.okchey.okedy.otar.chkeey-
+#
+<f50v.P.7;H>       tedaiin.odaiin.or.o!kaiin.ykor.daiin.choky.qotchdy.key.daisam-
+<f50v.P.7;C>       tedaiin.odaiin.or!o.kaiin.ykor.daiin.choky.qotchdy.key.dairam-
+<f50v.P.7;F>       tedaiin.odaiin.or.o!kaiin.ykor.daiin.choky.qotchdy.key.dairam-
+#
+<f50v.P.8;H>       ykar.okair.otor.qokedy.ykchol.kar.chckhy.olkaiin.okain.!!!qod-
+<f50v.P.8;C>       yakr.okair.otar.qokedy.ykchol.kar.chckhy.olkaiin.okain.!!!qod-
+<f50v.P.8;F>       ykar.okair.otor.qokedy.ykchol.kar.chckhy.olkaiin.okain!!!!qod-
+<f50v.P.8;G>       ykar.okair.otor.qokedy.ykchol.kar.chckhy.olkaiin.okainiin.qod-
+#
+<f50v.P.9;H>       ytsheod.ain.sheshy.echedy.kchdy-{plant}otaiin.otaiin.oky-
+<f50v.P.9;C>       ytsheod.ain.sheshy.echedy.kchdy-{plant}otaiin.okaiin.oky-
+<f50v.P.9;F>       ytsheod.ain.sheshy.echedy.kchdy-{plant}otaiin.otaiin.aky-
+#
+<f50v.P.10;H>      dchedy.okaiin.!!!!olchdy.oloeedy-{plant}ykeeod.ar.arod-
+<f50v.P.10;C>      dchedy.okaiin.!!!!olchdy.oloeedy-{plant}ykeeod!ar.arod-
+<f50v.P.10;F>      dchedy.okaiin.!!!!olchdy.oloeedy-{plant}ykeeod!ar.arad-
+<f50v.P.10;G>      dchedy.okaiin.iin.olchdy.oloeedy-{plant}ykeeod!ar.arad-
+#
+<f50v.P.11;H>      lchey.kar.ykchy.kchdy=
+<f50v.P.11;C>      lchey.kar.ykchy.kchdy=
+<f50v.P.11;F>      lchey.kar.ykchy.kchdy=
+#

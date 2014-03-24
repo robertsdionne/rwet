@@ -1,0 +1,85 @@
+## <f85r2.P> {}
+# Paragraphs in sectors 
+# Last edited on 1998-12-10 05:32:50 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image. 
+#
+# Weirdos:
+#  
+#   &-  = dash at mid-letter level.
+#   &zh = like <sh> but with the plume turning forward?
+#
+# West sector, above man with flower in hand (illegible edge)
+#
+<f85r2.P.1;H>      okees.olaiin.qokal.chdy.s!ary-
+<f85r2.P.1;U>      ot******aiin.*.***.**dy.s.*sy-
+#
+<f85r2.P.2;H>      qokshedy.qodain.chckh!y.ykeedy.chedy-
+<f85r2.P.2;U>      **d***dy.*odain.chcthey.okeedy.chedy-
+#
+<f85r2.P.3;H>      ar.aiin.ckhedy.or.ain.olchey.qokal.shedy-
+<f85r2.P.3;U>      ******n.ckhedy.or,ain.olshey.qokal.shedy-
+#
+<f85r2.P.4;H>      qokeody.qoekedy.do!dy.csedy.qodaiin-
+<f85r2.P.4;U>      **keody.**ckhdy.do,dy.chedy.qodaiin-
+#
+<f85r2.P.5;H>      !los.ar.shedy.qokshey.qoseey.or.aiinog-
+<f85r2.P.5;U>      *lor.ar.shedy.qokshey.qoraly.or,aiinam-
+#
+<f85r2.P.5a;H>     {right justified}ol.lcheol.chol.ol.sheoly=
+<f85r2.P.5a;U>     {right justified}ol.lch*al.eeol.al.sheoly=
+#
+# North sector, above man with pointing finger
+#
+<f85r2.P.6;H>      sain.or.or.aiin.opchdy-
+<f85r2.P.6;U>      sain.or.or,aiin.opchdy-
+#
+<f85r2.P.7;H>      qotor.sheedy.shodaiin.olfar.ar!y-
+<f85r2.P.7;U>      qotor.sheedy.shodaiin.olfar,ar,y-
+#
+<f85r2.P.8;H>      dair.sheo.oraiin.chol.daiin-
+<f85r2.P.8;U>      dair.sheo.oraiin.chol,daiin-
+#
+<f85r2.P.9;H>      ockhdor.olkor.shoral-
+<f85r2.P.9;U>      ockhdar.olkar.shoral-
+#
+<f85r2.P.10;H>     {right justified}sosees=
+<f85r2.P.10;U>     {right justified}rosees=
+#
+# East sector, above child with object in hand.
+#
+<f85r2.P.11;H>     pchedeey.olkey.qokedy.sheos.fcheey-
+<f85r2.P.11;U>     pchedeey.olkey.qokedy.sheos.fcheey-
+#
+<f85r2.P.12;H>     otchedy.chotey.qocthey.oteey.ol.oloe!!!!or!ain-
+<f85r2.P.12;U>     otchedy.chotey.qocthey.oteey.ol.olo*{&-}or,ain-
+#
+<f85r2.P.13;H>     daiin.qotaiin.tchedy.otedy.qotchdy.chckhey-
+<f85r2.P.13;U>     daiin.qotaiin.tchedy.otedy.qotchdy.chckhey-
+#
+<f85r2.P.14;H>     qtchedy.qodar.qotedar.qokar.qotchd.qotom-
+<f85r2.P.14;U>     ytchedy.qodar.qotedar.qokar.qotchd.qotam-
+#
+<f85r2.P.15;H>     soiis.aiin.shedaiin.chokcod={left justified}
+<f85r2.P.15;U>     saiir,aiin.shedaiin.chokchg={left justified}
+#
+# South sector, above old man with chain and staff
+#
+<f85r2.P.16;H>     otchs.shedor.chey.sorain-{frame}
+<f85r2.P.16;U>     otchs.shodar.shey.sarain-{frame}
+#
+<f85r2.P.17;H>     or.shedy.tedy.sodaiiin.chy-{frame}
+<f85r2.P.17;U>     or.shedy.tedy.sodaii!n.chy-{frame}
+#
+<f85r2.P.18;H>     ytedar.ch*!s.aiin.arody-
+<f85r2.P.18;U>     ytedar.chees.aiin.asody-
+#
+<f85r2.P.19;H>     ypsh!!!!edy.dar.chedy.or.am-
+<f85r2.P.19;U>     yp*{&zh}edy.dar,shedy.or.am-
+#
+<f85r2.P.20;H>     oteey.qodain.odain.an.chey-
+<f85r2.P.20;U>     oteey.qodain.odain.ar.chey-
+#
+<f85r2.P.21;H>     {right justified}orar.oldar.ain=
+<f85r2.P.21;U>     {right justified}orar.oldar.ain=
+#

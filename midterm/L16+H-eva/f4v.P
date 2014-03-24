@@ -1,0 +1,74 @@
+## <f4v.P> {}
+# text
+# Last edited on 1998-12-11 13:53:15 by stolfi
+#
+<f4v.P.1;H>        pchooiin.ksheo.kchoy.chopchy.dolds-{plant}dlod-
+<f4v.P.1;C>        pchooiin.ksheo.kchoy.chopchy.dolds-{plant}dlod-
+<f4v.P.1;F>        pchooiin.kshea.kchoy.chapchy.dolds-{plant}dlod-
+<f4v.P.1;U>        pchaoiin.kshea.kchoy.chapchy.dolds-{plant}dlod-
+#
+<f4v.P.2;H>        ol.chey.chy.cthy.shkchor.sheo.cheory-{plant}choldy-
+<f4v.P.2;C>        ol.chey.chy.cthy.chkchor.sheo.cheory-{plant}choldy-
+<f4v.P.2;F>        ol!chey.chy.cthy.shkchor.sheo.cheory-{plant}choldy-
+<f4v.P.2;U>        ol!chey.chy.cthy.shkchor.sheo.cheory-{plant}choldy-
+#
+<f4v.P.3;H>        sho.sho.chaiin.shaiin.daiin.qodaiin-{plant}o.ar.am-
+<f4v.P.3;C>        cho.sho.chaiin.shaiin.daiin.qodaiin-{plant}o.ar.am-
+<f4v.P.3;F>        sho.sho.chaiin.shaiin.daiin.qodaiin-{plant}o!ar!am-
+<f4v.P.3;U>        cho.sho.chaiin.shaiin.daiin.qodaiin-{plant}o!ar!am-
+#
+<f4v.P.4;H>        qokshy.qocthy.choteol.daiin.cthey-{plant}choaiin-
+<f4v.P.4;C>        qokchy.qocthy.choteol.daiin.cthey-{plant}choaiin-
+<f4v.P.4;F>        qokshy.qocthy.choteol.daiin.cthey-{plant}choaiin-
+<f4v.P.4;U>        qokchy.qocthy.choteol.daiin.cthey-{plant}choaiin-
+#
+<f4v.P.5;H>        shor.sheey.ct{&T}o.otoiin.shey.qotchoiin-{plant}chodain-
+<f4v.P.5;C>        shor.sheey.**!!!!!.otoiin.shey.qotchoiin-{plant}chodain-
+<f4v.P.5;F>        shor.sheey.cth!!!*.otoiin.shey.qotchoiin-{plant}chodain-
+<f4v.P.5;U>        shor.sheey.ct!!!!o.otaiin.chey.qotchoiin-{plant}chodain-
+#
+<f4v.P.6;H>        ytchoy.shokchy.cph!ody={plant}
+<f4v.P.6;C>        ytchoy.shokchy.cph!ody={plant}
+<f4v.P.6;F>        ytchoy.shokchy.cph.ody={plant}
+<f4v.P.6;U>        ytchoy.shokchy.cph!ody={plant}
+#
+<f4v.P.7;H>        torchy.sheeor.chor.shokchy.cphy!dy-{plant}
+<f4v.P.7;C>        torchy.sheeor.chor.chokchy.!p!y!dy-{plant}
+<f4v.P.7;F>        torchy.sheeor.chor.chokchy.cphy!dy-{plant}
+<f4v.P.7;U>        torshy.cheeor.chor.chokchy.cphy.dy-{plant}
+#
+<f4v.P.8;H>        olaen.chor.cthol.sho.otor.cthory-{plant}
+<f4v.P.8;C>        olain.chor.cthol.sho.otor.cthory-{plant}
+<f4v.P.8;F>        ole!n.chor.cthol.sho.otor.cthory-{plant}
+<f4v.P.8;U>        olain.chor.cthol.sho.otor.cthory-{plant}
+#
+<f4v.P.9;H>        qooko.iiin!cheom.chcthy.shoky.daiin-{plant}
+<f4v.P.9;C>        qooko!iiin.cheod.chcthy.shoky.daiin-{plant}
+<f4v.P.9;F>        qooko.iiin!cheom.chcthy.shoky.daiin-{plant}
+<f4v.P.9;U>        qooko!iiin.cheom.chcthy.shoky.daiin-{plant}
+#
+<f4v.P.10;H>       otaiin.sheo.okeody.chol.chokeody-{plant}
+<f4v.P.10;C>       otaiin.sheo.okeody.chol.chokeody-{plant}
+<f4v.P.10;F>       otaiin.sheo.okeody.chol.chokeody-{plant}
+<f4v.P.10;U>       otaiin.sheo.oteody.chol.choteody-{plant}
+#
+<f4v.P.11;H>       sho.kcheor.shody.shtaiin.qotol.daiin-{plant}
+<f4v.P.11;C>       sho!kcheor.shooy.shtaiin.qotol.daiin-{plant}
+<f4v.P.11;F>       sho.kcheor.shody.shtaiin.qotol.daiin-{plant}
+<f4v.P.11;U>       sho!kcheor.shody.shtaiin.qotol.daiin-{plant}
+#
+<f4v.P.12;H>       qokoy.sho.okeol.s.keey.shar.char.ody-{plant}
+<f4v.P.12;C>       qokoy.sho.okeol.s.keey.shar.char.ody-{plant}
+<f4v.P.12;F>       qokey.sho.okeol.s.keey.shar.char.ody-{plant}
+<f4v.P.12;U>       qokey.sho.okeol.s.keey.shar.char.ody-{plant}
+#
+<f4v.P.13;H>       shody.s.cheor.chokody.shodaiin.qoty-{plant}
+<f4v.P.13;C>       shody.s.cheor.chokody.shodaiin.qoty-{plant}
+<f4v.P.13;F>       shody.s.cheor.chokody.shodaiin.qoty-{plant}
+<f4v.P.13;U>       shody.s.cheor.chokody.shodaiin.qoty-{plant}
+#
+<f4v.P.14;H>       ochody.chy!key.chtody=
+<f4v.P.14;C>       ochody.chy!key.chtody=
+<f4v.P.14;F>       ochody.chy.key.chtody=
+<f4v.P.14;U>       ochodo.chy!tey.chtody=
+#

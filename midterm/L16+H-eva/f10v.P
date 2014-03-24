@@ -1,0 +1,39 @@
+## <f10v.P> {}
+# text
+# Last edited on 1998-12-06 19:45:47 by stolfi
+#
+<f10v.P.1;H>       paiin.daiin.sheo.pcheey.qoty.daiin.cthor.oty!dy.sain-
+<f10v.P.1;C>       paiin.daiin.sheo.pcheey.qoty.daiin.cthor.oty!dy.sain-
+<f10v.P.1;F>       paiin.daiin.sheo.pcheey.qoty.daiin.cthor.oty!dy.sain-
+<f10v.P.1;U>       paiin.daiin.sheo.pcheey.qoty.daiin.cthor.oty.dy.sain-
+#
+<f10v.P.2;H>       dain.daiin.ckhy.chcthor.choiin.qot.chodaiin.cthy.daiin-
+<f10v.P.2;C>       dain.daiin.ckhy.chcthor.choiin.qot.chodaiin.cthy.daiin-
+<f10v.P.2;F>       dain.daiin.ckhy.chcthor.choiin.qot.chodaiin.cthy.daiin-
+<f10v.P.2;U>       dain.daiin.ckhy.chcthor.choiin.qot!chodaiin.cthy.daiin-
+#
+<f10v.P.3;H>       dsho.ytey.kchol.ol!ty.chol.dy=
+<f10v.P.3;C>       dsho.ytey.kchol.ol.ty.chol.dy=
+<f10v.P.3;F>       dsho.ytey.kchol.ol!ty.chol.dy=
+<f10v.P.3;U>       dsho.ytey.kchol.ol!ty.chol.dy=
+#
+<f10v.P.4;H>       qotchy!tor.shoiin.daiin.qotchey.shcthey.ytor.dain-
+<f10v.P.4;C>       qotchy!tor.shoiin.daiin.qotchey.shcthey.ytor.dain-
+<f10v.P.4;F>       qotchy.tor.shoiin.daiin.qotchey.shcthey.ytor.dain-
+<f10v.P.4;U>       qotchy!tor.shoiin.daiin.qotchey.shcthey.ytor.dain-
+#
+<f10v.P.5;H>       sho.ykeey.daiin.qotchy.qotor.chol.daiin.qokchy!ky-
+<f10v.P.5;C>       sho.ykeey.daiin.qotchy.qotor.chol.daiin.qokchy!ky-
+<f10v.P.5;F>       sho.ykeey.daiin.qotchy.qotor.chol.daiin.qokchy.ky-
+<f10v.P.5;U>       sho.ykeey.daiin.qotchy.qotor.chol.daiin.qokchy!ky-
+#
+<f10v.P.6;H>       shoiin.chor.shcthy.qoty.qotoiin.qokol.chor!aiin-
+<f10v.P.6;C>       shoiin.chor.shcthy.qoty.qotoiin.qotol.chor!aiin-
+<f10v.P.6;F>       shoiin.chor.shcthy.qoty.qotoiin.qokol.chor.aiin-
+<f10v.P.6;U>       shoiin.chor.shcthy.qoty.qotoiin.qokol.chor!aiin-
+#
+<f10v.P.7;H>       qokol.chy!ky.chol.cheky.daiin.dain.chckhan=
+<f10v.P.7;C>       qokol.chy!ky.chol.cheky.daiin.dain.chckhan=
+<f10v.P.7;F>       qokol.chy.ky.chol.cheky.daiin.dain.chckhan=
+<f10v.P.7;U>       qokol.chy!ky.chol.cheky.daiin.dain.chckhan=
+#

@@ -1,0 +1,21 @@
+## <f85v2.B3> {}
+# Labels on Southeast rosette and it N,NW,W connections
+# Last edited on 1998-12-27 05:46:41 by stolfi
+#
+# next to road between SE and E rosettes, West side
+<f85v2.B3.21;V>    darchdy=
+#
+# next to road between SE and E rosettes, East side
+<f85v2.B3.22;V>    opodchdal=
+#
+# something sprouting from SE rosette toward central rosette 
+# Cannot identify it in Rene's list --- perhaps <f86r5.B5>
+<f85v2.B3.31;V>    anvd*l=
+#
+# next to road between SE and S rosettes, North side
+<f85v2.B3.41;V>    lyshalg=
+<f85v2.B3.41;U>    lashalg=
+#
+# next to road between SE and S rosettes, South side
+<f85v2.B3.42;U>    okar=
+#

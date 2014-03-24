@@ -1,0 +1,44 @@
+## <f7r.P> {}
+# text
+# Last edited on 1998-12-11 12:28:24 by stolfi
+#
+<f7r.P.1;H>        fchodaiin.shopchey.qko-{plant}shey.qoos.sheey.chorochy-
+<f7r.P.1;C>        fchodaiin.shopchey.qko-{plant}shey.qoos.sheey.charochy-
+<f7r.P.1;F>        fchodaiin.chopchey.qko-{plant}chey.qoos.sheey.chorochy-
+#
+<f7r.P.2;H>        dcheey.keo!r.shor.dold-{plant}dchey.kchey.otchy.cheody-
+<f7r.P.2;C>        dcheey.keo.r.shor.dold-{plant}dchey.kchey.otchy.cheody-
+<f7r.P.2;F>        dcheey.keo!r.chor.dold-{plant}dchey.kchey.otchy.cheody-
+#
+<f7r.P.3;H>        oeeees.cheodaiin.sheey-{plant}ytcheey.qotchy.chald-
+<f7r.P.3;C>        oeeees.cheodaiin.sheey-{plant}ytcheey.qotchy.chald-
+<f7r.P.3;F>        ochees.cheodaiin.sheey-{plant}ytcheey.qotchy.chald-
+#
+<f7r.P.4;H>        qokcho.cho.lochey.daiin-{plant}ychey.kchos-{plant}odaiin-
+<f7r.P.4;C>        qokcho.cho.lochey.daiin-{plant}ychey.kchos-{plant}odaiin-
+<f7r.P.4;F>        qokcho.cho.lochey.daiin-{plant}ychey.kchos-{plant}odaiin-
+#
+<f7r.P.5;H>        oaiir-{plant}otaiin=
+<f7r.P.5;C>        oaiir-{plant}otaiin=
+<f7r.P.5;F>        oains-{plant}otaiin=
+#
+<f7r.P.6;H>        ksholo!chey.qotoees.chkoldy-{plant}otchor.choaiin-
+<f7r.P.6;C>        ksholo!chey.qotoees.chkoldy-{plant}otchor.choaiin-
+<f7r.P.6;F>        ksholo.chey.qotoees.chkoldy-{plant}otchor.choaiin-
+#
+<f7r.P.7;H>        dshoy.cthol.chol.otchol.dain-{plant}shody.shol.chotchy-
+<f7r.P.7;C>        dshoy.cthol.chol.otchol.dain-{plant}shody.shol.chotchy-
+<f7r.P.7;F>        dshoy.cthol.chol.otchol.dain-{plant}shody.shol.chotchy-
+#
+<f7r.P.8;H>        okchey.deeeese.choty.qokchy-{plant}shol.keey.choty.d!ain-
+<f7r.P.8;C>        okchey.deeeese.choty.qotchy-{plant}chol.keey.choky.chain-
+<f7r.P.8;F>        okchey.deeeese.choty.qokchy-{plant}shol.keey.choty.d!ain-
+#
+<f7r.P.9;H>        qokechy.ol!choiin.chol.cphey-{plant}shckhy.chochy.kchod-
+<f7r.P.9;C>        qokechy.ol.choiin.chol.cphey-{plant}shckhy.chochy.kchod-
+<f7r.P.9;F>        qokechy.ol!choiin.chol.cphey-{plant}shckhy.chochy.kchod-
+#
+<f7r.P.10;H>       s!chain.chor.daiin.chckhy={plant}
+<f7r.P.10;C>       s.chain.chor.daiin.chckhy={plant}
+<f7r.P.10;F>       s!chain.chor.daiin.chckhy={plant}
+#

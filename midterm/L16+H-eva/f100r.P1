@@ -1,0 +1,26 @@
+## <f100r.P1> {}
+# panel 100r, middle text
+# Last edited on 1998-12-10 08:56:04 by stolfi
+#
+# The two <t>s in <cthedat> below are actuallya single <t> with one leg ineach spot.
+<f100r.P1.1;H>     pcheol.sheod.qocphee!ckhy.shodol.cth!!daoto.ch.qeos.sheey!.chcths!o.s-
+<f100r.P1.1;C>     pcheol.sheod.qo!p!ee!ckhi!!!!!!l.*!!**.*oto.ch!*eos.sheeil.chcthsho.s-
+<f100r.P1.1;F>     pcheol.sheod.qocphee.ckhy.shodol.!!!tedaoto.ch.!!os.sheey!.chcthsho.s-
+<f100r.P1.1;U>     pchsol.sheod.qocphee!ckhy.shodol.cthedatoto.ch!qeos.sheey!.chcths!o.s-
+#
+<f100r.P1.2;H>     dsheor.cthey.qokeey.oteey.ykeeodai!n.sor!ary.daiin.daiin.deeam!shol-
+<f100r.P1.2;C>     dsheor.cthey.qokeey.oteey.ykeeodai!n.sar!ary.daiin.daiin.deeom.chol-
+<f100r.P1.2;F>     dsheor.cthey.qokeey.oteey.ykeeodaiin.ror.ary.daiin.daiin.deeam.chol-
+<f100r.P1.2;U>     dsheor.cthey.qokeey.oteey.ykeeodai!n.sor!ary,daiin.daiin.deeam.shol-
+#
+<f100r.P1.3;H>     shor.chkeey.qoteey.qokeody.qoteold.qokeol.so.raiin.ota!l.ykecho-{plant}
+<f100r.P1.3;C>     shor.chkeey.qoteey.qokeody.qoteold.qokeol.so.raiin.otchl.ykeeeo-{plant}
+<f100r.P1.3;F>     shor.chkeey.qoteey.qokeody.qoteold.qokeol.so.raiin.ota!l.ykecho-{plant}
+<f100r.P1.3;U>     shor.chkeey.qoteey.qokeody.qoteold.qokeol.so,raiin.ota!l.ykecho-{plant}
+#
+<f100r.P1.4;H>     dcheor.shol.qokeeol.chor.chol.qokeeody.dorean=
+<f100r.P1.4;C>     dcheor.shol.qokeeol.chor.chol.qokeeody.dareen=
+<f100r.P1.4;D>     dcheor.shol.qokeeol.chor.chol.qokeeody.dare!u=
+<f100r.P1.4;F>     dcheor.shol.qokeeol.chor.chol.qokeeody.dariin=
+<f100r.P1.4;U>     dcheor.shol.qokeeol.chor.chol.qokeeody.dara!n=
+#

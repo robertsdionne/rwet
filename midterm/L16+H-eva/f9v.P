@@ -1,0 +1,64 @@
+## <f9v.P> {}
+# text
+# Last edited on 1998-12-06 13:54:43 by stolfi
+#
+<f9v.P.1;H>        fochor.oporody.opy.shor.daiin.qopchypcho.qofol.shol.cfhol.daiin-
+<f9v.P.1;C>        fochor.oporody.opy.shor.daiin.qopchypcho.qofol.shol.cfhol.daiin-
+<f9v.P.1;F>        fochor.oporody.opy.shor.daiin.qopchypcho.qofol.shol.cfhol.daiin-
+<f9v.P.1;U>        fochor.oporody.opy.shor.daiin.qopchypcho.qofol.shol.cphol.daiin-
+#
+<f9v.P.2;H>        dchor.qoaiin.chkaiin.cthor.chol.chor.cphol.dy-{plant}oty.qokaiin.dy-
+<f9v.P.2;C>        dchor.qoaiin.chkaiin.cthor.chol.chor.cphol.dy-{plant}oty.qokaiin.dy-
+<f9v.P.2;F>        dchor.qoaiin.chkaiin.cthor.chol.chor.cphol.dy-{plant}oty.qokaiin.dy-
+<f9v.P.2;U>        dchor.qoaiin.chkaiin.cthor.chol.chor.cphol.dy-{plant}oty.qokaiin.dy-
+#
+<f9v.P.3;H>        ykey.chor.ykaiin.daiin.cthy.otaiin.oky-{plant}oeees.daiin-
+<f9v.P.3;C>        ykey.chor.ykaiin.daiin.cthy.otaiin.oky-{plant}oeees.daiin-
+<f9v.P.3;F>        ykey.chor.ykaiin.daiin.cthy.otaiin.oky-{plant}oeees.daiin-
+<f9v.P.3;U>        ykey.chor.ykaiin.daiin.cthy.otaiin.oky-{plant}oeees.daiin-
+#
+<f9v.P.4;H>        ytey.tchy.kaiin.cthor.otol.oty.toldy={plant}
+<f9v.P.4;C>        ytey!tchy.kaiin.cthor.otol.oty.toldy={plant}
+<f9v.P.4;F>        ytey.tchy.kaiin.cthor.otol.oty.toldy={plant}
+<f9v.P.4;U>        ytey.tchy.taiin.cthor.otol.oty.toldy={plant}
+#
+<f9v.P.5;H>        pchor.ypcheey.qotor.ypchy.olcfholy.te-{plant}ar-{plant}chty.daiiin-{plant}
+<f9v.P.5;C>        pchor.ypcheey.qotor.ypchy.olcpholy.ky-{plant}ar-{plant}chty.daiiin-{plant}
+<f9v.P.5;F>        pchor.ypcheey.qotor.ypchy.olcfholy.to-{plant}ar-{plant}chty.daiiin-{plant}
+<f9v.P.5;U>        pchor.ypchchy.qotor.ypchy.olcfholy.te-{plant}ar-{plant}chty.daiiin-{plant}
+#
+<f9v.P.6;H>        odol.choy.ksheody.chody-{plant}dai!n-{plant}otchy-{plant}cthod.yky-{plant}
+<f9v.P.6;C>        odol.choy.ksheody.chody-{plant}dai!n-{plant}otchy-{plant}cthod-yko-{plant}
+<f9v.P.6;F>        odol.choy.ksheody.chody-{plant}daiin-{plant}otchy-{plant}cthod-yko-{plant}
+<f9v.P.6;U>        odol.choy.ksheody.chody-{plant}dai!n-{plant}otchy-{plant}cthod-yko-{plant}
+#
+<f9v.P.7;H>        qochol.chol.ctchy.daiin-{plant}otal-{plant}dor-{plant}daim-{plant}
+<f9v.P.7;C>        qo.chol.chol.*chy.daiin-{plant}otal-{plant}dor-{plant}daim-{plant}
+<f9v.P.7;F>        qochol.chol.cthey.daiin-{plant}otal-{plant}dor-{plant}daim-{plant}
+<f9v.P.7;U>        qochol.chol.ctchy.daiin-{plant}otal-{plant}dor-{plant}daim-{plant}
+#
+<f9v.P.8;H>        soiin.daiin.qokcho.rokyd-{plant}daly-{plant}
+<f9v.P.8;C>        soiin.daiin.qokcho.rokyd-{plant}daly-{plant}
+<f9v.P.8;F>        soiin.daiin.qokcho.rokyd-{plant}daly-{plant}
+<f9v.P.8;U>        soiin.daiin.qokcho.rokyd-{plant}daly-{plant}
+#
+<f9v.P.9;H>        daiin.chy.tor.chyty.dary-{plant}ytoldy-{plant}
+<f9v.P.9;C>        daiin.chy.tor.chyty.dary-{plant}ytoldy-{plant}
+<f9v.P.9;F>        daiin.chy.tor.chyty.dary-{plant}ytoldy-{plant}
+<f9v.P.9;U>        daiin.chy.tor.chyty.dary-{plant}ytoldy-{plant}
+#
+<f9v.P.10;H>       oty.kchol.chol.chy.kyty-{plant}
+<f9v.P.10;C>       oty.kchol.chol.chy.kyty-{plant}
+<f9v.P.10;F>       oty.kchol.chol.chy!kyty-{plant}
+<f9v.P.10;U>       oty.kchol.chol.chy.kyty-{plant}
+#
+<f9v.P.11;H>       ychor.chshoty.oky.kaiin-{plant}
+<f9v.P.11;C>       ychor.chshoty.oky!kaiin-{plant}
+<f9v.P.11;F>       ychor.chshoty.oky.kaiin-{plant}
+<f9v.P.11;U>       ychor.chshoty.oky!kaiin-{plant}
+#
+<f9v.P.12;H>       chkaiin.ckhy.chor=
+<f9v.P.12;C>       chkaiin.ckhy.chor=
+<f9v.P.12;F>       chkaiin.ckhy.chor=
+<f9v.P.12;U>       chkaiin.ckhy.chor=
+#

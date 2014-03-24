@@ -1,0 +1,45 @@
+## <f99v.L3> {}
+# Labels - row 3
+# Last edited on 1998-12-10 08:32:11 by stolfi
+#
+# There are 6-7 labels and only 5 plants - not clear how to pair them up.
+#
+# Label on container
+<f99v.L3.0;H>      darolaly=
+<f99v.L3.0;U>      ********=
+#
+<f99v.L3.0b;H>     okechy=
+<f99v.L3.0b;V>     okechy=
+<f99v.L3.0b;U>     okechy=
+#
+# root [3,1] - light
+#
+<f99v.L3.1;H>      otal=
+<f99v.L3.1;V>      otal=
+<f99v.L3.1;U>      otal=
+#
+# root [3,2] - dark, beagle-shaped
+#
+# Two labels?
+<f99v.L3.2;H>      cho!r.olekor=
+<f99v.L3.2;V>      cho.r.olekor=
+<f99v.L3.2;U>      cho!r.olekor=
+#
+# root [3,3] - dark, two wide lobes
+#
+<f99v.L3.3;H>      okeodor=
+<f99v.L3.3;V>      okeodar=
+<f99v.L3.3;U>      okeodar=
+#
+# root [3,4] - dark, three lobes
+#
+<f99v.L3.4;H>      olky=
+<f99v.L3.4;V>      olky=
+<f99v.L3.4;U>      olky=
+#
+# root [3,5] - light, two walking legs, dark shading?
+#
+<f99v.L3.5;H>      doldam=
+<f99v.L3.5;V>      doldam=
+<f99v.L3.5;U>      doldam=
+#

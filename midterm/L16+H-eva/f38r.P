@@ -1,0 +1,28 @@
+## <f38r.P> {}
+# text
+# Last edited on 1998-12-07 06:43:11 by stolfi
+#
+<f38r.P.1;H>       tolor.chockhy-{plant}oky.choiin.okshol.oly.oky-
+<f38r.P.1;C>       tolor.chockhy-{plant}oky.choiin.okshol.oly.oky-
+<f38r.P.1;F>       tolor.chockhy-{plant}oky.choiin.okshol.oly.oky-
+#
+<f38r.P.2;H>       okseey.chody!s-{plant}ytoiin.otaiin.otaiin.cthar-
+<f38r.P.2;C>       okshey.chody.s-{plant}ytoiin.otaiin.otaiin.cthar-
+<f38r.P.2;F>       okshey.chody!s-{plant}ytoiin.otaiin.otaiin.cthar-
+#
+<f38r.P.3;H>       qokor.okaiin-{plant}otaiin.qokchol.chokokor-
+<f38r.P.3;C>       qokor.okaiin-{plant}otaiin.qokchol.chokokor-
+<f38r.P.3;F>       qokor.okaiin-{plant}otaiin.qokchol.chokokor-
+#
+<f38r.P.4;H>       ychok.chey.chckh-{plant}chy.chka.r.odaiin.daiin.sy-
+<f38r.P.4;C>       ychok!chey.chckh-{plant}chy.chko!r.odaiin.daiin.sy-
+<f38r.P.4;F>       ychok!chey.chckh-{plant}chy.chka.r!odaiin.daiin.sy-
+#
+<f38r.P.5;H>       okor.chey.kain-{plant}chor.ctho.dain.ckholdy-
+<f38r.P.5;C>       okor.chey.kain-{plant}chor.ctho.dain.ckholdy-
+<f38r.P.5;F>       okor.chey.kain-{plant}chor.ctho.dain.ckholdy-
+#
+<f38r.P.6;H>       ysho.sho.kos-{plant}daiin.okoy.chochor.daiin=
+<f38r.P.6;C>       ysho.sho.kos-{plant}daiin.okoy.chochor.daiin=
+<f38r.P.6;F>       ysho.sho.kos-{plant}daiin.okoy.chochor.daiin=
+#

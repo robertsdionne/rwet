@@ -1,0 +1,80 @@
+## <f24r.P> {}
+# text
+# Last edited on 1998-12-07 04:04:54 by stolfi
+#
+<f24r.P.1;H>       por!or!y.chor.opchar.she.cheol.daiin.or-{plant}
+<f24r.P.1;C>       por.or.y.chor.opchar.she!cheol.daiin.or-{plant}
+<f24r.P.1;F>       por!or!y.chor.opchar.she.cheol.daiin.or-{plant}
+#
+<f24r.P.2;H>       qotaiin.char.odai!n.okaiikhal.oky-{plant}
+<f24r.P.2;C>       qotaiin.eear.odaiin.okai*!!al.oky-{plant}
+<f24r.P.2;F>       qotaiin.char.odai!n.okaickhal.oky-{plant}
+#
+<f24r.P.3;H>       y.cthar.cthal.okol.qotar.ckhy-{plant}
+<f24r.P.3;C>       y!cthar.cthal.okol.qotar.ckhy-{plant}
+<f24r.P.3;F>       y!cthar.cthal.okol.qotar.ckhy-{plant}
+#
+<f24r.P.4;H>       or.chckhaly.cthar.eeor.chees.da-{plant}
+<f24r.P.4;C>       or.chckhal!.cthar.eeor.chees.dy-{plant}
+<f24r.P.4;F>       or.chckhaly.cthar.eeor.chees.da-{plant}
+#
+<f24r.P.5;H>       qodar.cho.r.chey.cthy.cthc!keom-{plant}
+<f24r.P.5;C>       qodar.cho.r.chey.cthy.cthe.keom-{plant}
+<f24r.P.5;F>       qodar.cho.r!chey.cthy.cthy.keom-{plant}
+#
+<f24r.P.6;H>       oeeeos.eteor.otal.qocthol.qoky-{plant}
+<f24r.P.6;C>       oeeeos.cthor.otal.qocthol.qoky-{plant}
+<f24r.P.6;F>       oeeeos.eteor.otal.qocthol.qoky-{plant}
+#
+<f24r.P.7;H>       qekar.chtar.s.cheor.cthol.qodol-{plant}
+<f24r.P.7;C>       q*kar.chtar.s.cheor.cthol.qodol-{plant}
+<f24r.P.7;F>       qekar.chtar.s.cheor.cthol.qodol-{plant}
+#
+<f24r.P.8;H>       ychor.s.om.qoear.daiin.qokeol-{plant}
+<f24r.P.8;C>       !!eor.s.om.qoear.daiin.qokeol-{plant}
+<f24r.P.8;F>       ychor.s.om.qoear.daiin.qokeol-{plant}
+#
+<f24r.P.9;H>       odaiin.ckham.qodaii!khy.dol.dal-{plant}
+<f24r.P.9;C>       odaiin.ckham.qoda*!!!*y.dol.dal-{plant}
+<f24r.P.9;F>       odaiin.ckham.qodai!ckhy.dol.dal-{plant}
+#
+<f24r.P.10;H>      q*or.cfhar.chor.s.am.chotaiin.dy-{plant}
+<f24r.P.10;C>      q*ar.cfhar.chor.s.am.chotaiin.dy-{plant}
+<f24r.P.10;F>      qlor.cphar.chor.s.am.chotaiin.dy-{plant}
+#
+<f24r.P.11;H>      sar.cheoiees.okeer.cheor.qokain-{plant}
+<f24r.P.11;C>      sar.cheoeees.okeom.cheor.qokain-{plant}
+<f24r.P.11;F>      sar.cheoiees.okeer.cheor.qokain-{plant}
+#
+<f24r.P.12;H>      qokchy.qotchy.tol.tod.ckhy-{plant}
+<f24r.P.12;C>      qokchy.qotchy.tol.tod.ckhy-{plant}
+<f24r.P.12;F>      qokchy.qotchy.tol.tod.ckhy-{plant}
+#
+<f24r.P.13;H>      oees.ol.s.che!y.chcth.sar-{plant}
+<f24r.P.13;C>      oees.ol.s.chein.chcth.sar-{plant}
+<f24r.P.13;F>      oees.ol.s.che!y.chcth.sar-{plant}
+#
+<f24r.P.14;H>      qor.cheey.qod.char.cthal-{plant}
+<f24r.P.14;C>      qor.cheey.qod.chor.cthal-{plant}
+<f24r.P.14;F>      qor.cheey.qod.char.cthal-{plant}
+#
+<f24r.P.15;H>      ockhoees.oeees.ol.dal.s-{plant}
+<f24r.P.15;C>      ockhoees.oeees.ol.dal.s-{plant}
+<f24r.P.15;F>      ockhoe!s.oeees.ol.dal.s-{plant}
+#
+<f24r.P.16;H>      sham.okeal.dal.dam.dal-{plant}
+<f24r.P.16;C>      sham.okeal.dal.dam.dal-{plant}
+<f24r.P.16;F>      sham.okeal.dal.dam.dal-{plant}
+#
+<f24r.P.17;H>      sshey.otam.sham.cthom.oky-{plant}
+<f24r.P.17;C>      sshey.otam.sham.cthoj.oky-{plant}
+<f24r.P.17;F>      sshey.otam.sham.cthom.oky-{plant}
+#
+<f24r.P.18;H>      y.cheol.chol.daiin.chol.s-{plant}
+<f24r.P.18;C>      y!cheol.chol.daiin.chol.s-{plant}
+<f24r.P.18;F>      y!cheol.chol.daiin.chol.s-{plant}
+#
+<f24r.P.19;H>      yol.tol.chol.shom.otaiphy={plant}
+<f24r.P.19;C>      yol.kol.chol.shom.otacphy={plant}
+<f24r.P.19;F>      yol.tol.chol.shom.otacphy={plant}
+#

@@ -1,0 +1,64 @@
+## <f31r.P> {}
+# text
+# Last edited on 1998-12-07 05:40:17 by stolfi
+#
+<f31r.P.1;H>       keedey.qofchedy.shees.aiin.qokeefcy.chepa!keo-
+<f31r.P.1;C>       keedey.qofchedy.shees.aiin.qokeepey.chepa.keo-
+<f31r.P.1;F>       keedey.qofchedy.shee.saiin.qokeefch.chepa.keo-
+#
+<f31r.P.2;H>       dcheey.daiin.okeedy.qokees.s.a!iin.shckhey.qef-{plant}
+<f31r.P.2;C>       dcheey.daiin.okeedy.qokees.s!a!iin.shekeey.qef-{plant}
+<f31r.P.2;F>       ycheey.daiin.okeedy.qokees.s.***in.shckhey.qef-{plant}
+#
+<f31r.P.3;H>       qokeey.chey.daiin.qokeey.rair.chekey.saiin.da!-{plant}
+<f31r.P.3;C>       qokeey.chey.daiin.qokeey.sair.chekey.saiin.day-{plant}
+<f31r.P.3;F>       qokeey.chey.daiin.qokeey.rair.chckhy.saiin.da!-{plant}
+#
+<f31r.P.4;H>       !qotar.chy.dar.lk.r.ar.cheey.keeol.ch*d*.qokey-{plant}
+<f31r.P.4;C>       !qotar.chy.dar.lo!r!ar.cheey.keeol.chedy.qokey-{plant}
+<f31r.P.4;F>       lqotar.chy.dir.lk.r.ar.cheey.keeol.chedy.qokey-{plant}
+#
+<f31r.P.5;H>       daiin.sheoody.qokeor=
+<f31r.P.5;C>       daiin.sheeody.qokeor=
+<f31r.P.5;F>       daiin.sheoody.qokeor=
+#
+<f31r.P.6;H>       tshokeody.qokedy.qotedy.chepar.chedy.r.aiin.dal-{plant}
+<f31r.P.6;C>       tshokeody.qokedy.qotedy.chepos.cheda!r.aiin.dal-{plant}
+<f31r.P.6;F>       tshoteody.qokedy.qotedy.chepar.cheda.r!aiin.dal-{plant}
+#
+<f31r.P.7;H>       ykeedar.saiin.checkhey.sheol.qokedy.ykeedy.chedy.ldy-{plant}
+<f31r.P.7;C>       ykeedar.saiin.checkhey.sheol.qokedy.ykeedy.chedy.ldy-{plant}
+<f31r.P.7;F>       ykeedar.saiin.checkhey.sheol.qokedy.ykeedy.chedy.ldy-{plant}
+#
+<f31r.P.8;H>       shedy.qokedy.cheol.cheod.qokeody.cheol.checthy-{plant}
+<f31r.P.8;C>       shedy.qokedy.cheol.cheod.qokeody.cheol.checthy-{plant}
+<f31r.P.8;F>       shedy.qokedy.cheol.cheod.qokeody.cheol.checthy-{plant}
+#
+<f31r.P.9;H>       daiir.sheeo.shcthey.okeol=
+<f31r.P.9;C>       daiir.sheeo.shcthey.okeol=
+<f31r.P.9;F>       daiir.sheeo.shcthey.okeol=
+#
+<f31r.P.10;H>      tol.shso.okedy.okedy.qokedy.qokeedy.dar.shed!shey-{plant}
+<f31r.P.10;C>      tok.shso.okedy.okedy.qokedy.qokeedy.dar.shed!shey-{plant}
+<f31r.P.10;F>      tol!shso.okedy.okedy.qokedy.qokeedy.dar.shed.shey-{plant}
+#
+<f31r.P.11;H>      olsheol.qokchy.dal.chey.deey.kchy.keey.okaii!n.ykeey-{plant}
+<f31r.P.11;C>      olsheol.qokchy.dal.chey.deey.kchy.keey.ykaiiin.ykeey-{plant}
+<f31r.P.11;F>      olsheol.qokchy.dal.chey.deey.kchy.keey.okaii!n.ykeey-{plant}
+#
+<f31r.P.12;H>      qoaiin.yches.okedy.sheey.chedaiin.dar-{plant}
+<f31r.P.12;C>      qoaiin.yches.okedy.sheey.chedaiin.dar-{plant}
+<f31r.P.12;F>      qoaiin.yches.okedy.sheey.chedaiin.dar-{plant}
+#
+<f31r.P.13;H>      olsheor.qoekedy.okedy.ykedy.dals-{plant}
+<f31r.P.13;C>      olsheor.qoekedy.otedy.ykedy.dals-{plant}
+<f31r.P.13;F>      olsheor.qo!kedy.okedy.ykedy.dals-{plant}
+#
+<f31r.P.14;H>      saiir.or.chedy.daiin.okeedy-
+<f31r.P.14;C>      saiir.or.chedy.daiin.oke!dy-
+<f31r.P.14;F>      saiir.or.chedy.daiin.okeedy-
+#
+<f31r.P.15;H>      yshedair.sheol.cheky.okedam=
+<f31r.P.15;C>      yshedair.sheol.cheky.okedam=
+<f31r.P.15;F>      yshedair.sheol.cheky.okedar=
+#

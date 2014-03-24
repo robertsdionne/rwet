@@ -1,0 +1,49 @@
+## <f89v2.L3> {}
+# panel 89v2, bottom group of labels
+# Last edited on 1998-12-11 13:16:33 by stolfi
+#
+# There are 5 labels and 4 plants.
+#
+# "U" transcription by J. Stolfi from scanned image.
+# "V" transcription by John Grove.
+# was previously called <f89v2.b>
+#
+# container
+#
+# This label is higher than the rest:
+<f89v2.L3.0;H>     opaloiiry=
+<f89v2.L3.0;L>     opaloiiry={was <f89v2.b.1;L>}
+<f89v2.L3.0;V>     opaloiiry={was <f89v2.b.1;V>}
+<f89v2.L3.0;U>     opaloiiry=
+#
+<f89v2.L3.1;H>     otar!am=
+<f89v2.L3.1;L>     otar!am={was <f89v2.b.2;L>}
+<f89v2.L3.1;V>     otar!am={was <f89v2.b.2;V>}
+<f89v2.L3.1;U>     otor,am=
+#
+# plant [3,1] - light roots, flower
+#
+<f89v2.L3.2;H>     chtody=
+<f89v2.L3.2;L>     *!t**y={was <f89v2.b.3;L>}
+<f89v2.L3.2;V>     chtedy={was <f89v2.b.3;V>}
+<f89v2.L3.2;U>     chtchy=
+#
+# plant [3,2] - dark roots, flowers, faded picture
+#
+# First line (may be a bleedthrough of "otal" from the other side
+<f89v2.L3.3a;H>    *ds**o=
+<f89v2.L3.3a;U>    *l!oto=
+#
+# Second line
+<f89v2.L3.3b;H>    rad!y=
+<f89v2.L3.3b;L>    r**!y={was <f89v2.b.4;L>}
+<f89v2.L3.3b;U>    sa**y=
+#
+# plant [3,3] - faded, dark roots, flowers
+#
+<f89v2.L3.4;H>     da!reky=
+<f89v2.L3.4;V>     daineky={was <f89v2.b.4;V>}
+<f89v2.L3.4;U>     da!reky=
+#
+# plant [3,4] - faded, dark roots, flowers
+# 

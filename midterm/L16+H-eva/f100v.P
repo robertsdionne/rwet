@@ -1,0 +1,31 @@
+## <f100v.P> {}
+# panel 100v, bottom block of text
+# Last edited on 1998-12-11 14:05:32 by stolfi
+#
+<f100v.P.1;H>      cthdeecthy.sheocphy.qoteody.ckhoor.ar.chor.oteey.daiin.qokomo-
+<f100v.P.1;F>      cthde!!!!y.sheocphy.qoteody.ckhoor.ar.chor.oteey.daiin.qokam!-
+#
+<f100v.P.2;H>      sor.cheey.dair.ol.cheol.qoolkeey.chol.cheey.qokeol.chotols-
+<f100v.P.2;F>      sor.cheey.dair.ol.cheol.qoolkeey.chol.cheey.qokeol.chotols-
+#
+<f100v.P.3;H>      ykeeol.chol.chey.eeoseeo!s.sheeo.okeol.ches.okeor.okeol.dy-
+<f100v.P.3;F>      ykeeol.chol.chey.eeoseeo.s.sheeo.okeol.cher.okeor.okeol.dy-
+#
+<f100v.P.4;H>      chockhey.chol!kcheol.qokeol.okol.chol.chotor.chso.sol!cthy-
+<f100v.P.4;F>      shockhey.shol.kcheol.qokeol.okol.chol.chotor.chso.sol.cthy-
+#
+<f100v.P.5;H>      tocheo.sol.cheo.cheeor.odaidy.ckhod.sh.chod.qokeol.sal-
+<f100v.P.5;F>      tocheo.sol.cheo.cheeor.odaidy.ckhod.sh.chod.qokeol.sal-
+#
+<f100v.P.6;H>      sai!n.cheokeos.chockhy.chocthey.kchody.chockhhor.chckhey.dan-
+<f100v.P.6;F>      saiin.cheokeos.chockhy.chocthey.ke!ody.chockh!or.chckhey.da!-
+#
+<f100v.P.7;H>      ycheoky.shokeesy.qokeey.cho!keol.sor!aloaly.cheor.ol.chockhar-
+<f100v.P.7;F>      ycheoky.shokeesy.qokeey.chookeol.sar.aloaly.cheor.ol.checkhar-
+#
+<f100v.P.8;H>      soral.okor.ol.choy.ly.araroy.okar.cheeeal.cheokeol.orey-
+<f100v.P.8;F>      soral.okor.ol.choy.ly.araroy.okar.che!eal.cheokeol.orey-
+#
+<f100v.P.9;H>      daiin.cheky.chory=
+<f100v.P.9;F>      daiin.cheky.chory=
+#

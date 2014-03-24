@@ -1,0 +1,79 @@
+## <f70r2.P> {}
+# Text, NE side of diagram
+# Last edited on 1998-12-09 18:03:08 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+# "V" transcription by John Grove
+#
+# Lines P.9 on were quite garbled in the "F" transcription -- 
+# it listed only 11 lines instead of the correct 14.
+# 
+<f70r2.P.1;H>      otchey.sheol{crease}.chkey.shep.al.r.ar.chly.sheteal.aram-
+<f70r2.P.1;F>      otchey.sheol{crease}.chkey.shep.al.r.ar.chly.sheteal.aram-
+<f70r2.P.1;U>      otchey.sheol{crease}.chkey.shep.al.r.ar.chly.sheteal.aram-
+<f70r2.P.1;V>      otchey.sheol{crease}.ckh!y.shep.al.s.ar.chly.sheteal.aram-
+# 
+<f70r2.P.2;H>      dair.cheey.s{crease}.ch!otey.dshy.dam.chchet!al.ykem!y-
+<f70r2.P.2;F>      dair.cheey.s{crease}.ch!ote!.dshy.dam.chch!t!al.yk!!ly-
+<f70r2.P.2;U>      dair.cheey.s{crease}.cheotey.dshy.dam.chchet,al.ykedly-
+<f70r2.P.2;V>      dair.cheey.s{crease}.cheotey.dshy.dam.chchit.al.ykem!y-
+# 
+<f70r2.P.3;H>      ykeeo.y.s.al!{crease}!.she!y.cthy.shekey.qokal.aiir.oteom-
+<f70r2.P.3;F>      ykeeo!y.s!all{crease}!.sheey.cthy.shckhy.qokal.aiir.oteom-
+<f70r2.P.3;U>      ykeeo,y.s,al!{crease}d.she!y.cthy.shckhy.qokal.aiir.oteom-
+<f70r2.P.3;V>      ykeeo.y.s.al!{crease}!.she!y.cthy.shckhy.qokal.aiir.otelg-
+# 
+<f70r2.P.4;H>      daiin.okeey{crease}.shoaiin.ckhhey.otal.shshy.tal.dam-
+<f70r2.P.4;F>      daiin.okeey{crease}.shoaiin.o!*eey.otal.shshy.tal.dam-
+<f70r2.P.4;U>      daiin.okeey{crease}.shoaiin.ckheey.otal.shshy,tal,dam-
+<f70r2.P.4;V>      daiin.okeey{crease}.shoaiin.ckhhey.otal.shshy.tal.dam-
+# 
+<f70r2.P.5;H>      tal.cheeod.{crease}dal.chcthy.qetal.ddl.ar.chal.dal-
+<f70r2.P.5;F>      tal.cheeo*.{crease}dal.chcthy.qotal.ddl!or.chal.dal-
+<f70r2.P.5;U>      tal.cheeod.{crease}dal.chcthy.qotal.ddl,ar.chal.dal-
+<f70r2.P.5;V>      tal.cheeog.{crease}dal.chcthy.qetal.ddl!ar.chal.dal-
+# 
+<f70r2.P.6;H>      ytar.ar!{crease}!l.y!ol.al.aloees.ytaiir.otal.dal-
+<f70r2.P.6;F>      ytar.ar!{crease}al.y!ol.al.alo*!s.ytainr.otal!dal-
+<f70r2.P.6;U>      ytar.ar,{crease}al.y,ol.al.aloees.ytaiir.otal,dal-
+<f70r2.P.6;V>      ytar.ar.{crease}*!.y.ol.al.aloees.ytaiir.otal!dal-
+# 
+<f70r2.P.7;H>      daiin{crease}.daiin.she.tal.qokal.chol.ckhhy.dy-
+<f70r2.P.7;F>      daiin{crease}.daiin.she.tal.qokal.chol.ckhey.dy-
+<f70r2.P.7;U>      daiin{crease}.daiin.sho.tal.qokal.chol.ckhey,dy-
+<f70r2.P.7;V>      daiin{crease}.daiin.she.tal.qokal.chol!ikhhy.dy-
+# 
+<f70r2.P.8;H>      yta{crease}!s.alal.dalam.dal.cthol.opar!am-
+<f70r2.P.8;F>      yta{crease}ls.alal.dalam.dal.cthol.opar!am-
+<f70r2.P.8;U>      yta{crease}ls.alal.dalam.dal.cthol.opar,am-
+<f70r2.P.8;V>      yta{crease}!s.alal.dalam.dal.cthol.opar!am-
+# 
+<f70r2.P.9;H>      d{crease}y!shol.shol.shol.shocthhy.dalaly-
+<f70r2.P.9;F>      d{crease}olshol.shol.shol.shocthey.dalaly-
+<f70r2.P.9;U>      d{crease}olshol.shol.shol.shocthey.dalaly-
+# 
+<f70r2.P.9a;H>     {crease}y!okal.chol.kshody.tol.cheey.okal-
+<f70r2.P.9a;F>     {crease}q!okal.chol.kshody.tol.cheey.okal-
+<f70r2.P.9a;U>     {crease}shokal.chol.kshody.tol.cheey.okal-
+<f70r2.P.9a;V>     {crease}chotal.chol.kshody.tol.cheey.okal-{Grove's P.10}
+# 
+<f70r2.P.10;H>     daiin.chotal.qokal.chol.chotals-
+<f70r2.P.10;F>     daiin.chotal.qokal!chol.chotals-
+<f70r2.P.10;U>     daiin.chotal.qokal,chol.chotals-
+<f70r2.P.10;V>     !aiin.chotal.qokal.chol.chotals-{Grove's P.11}
+# 
+<f70r2.P.10a;H>    qokal.shkal.dal.shy.qokal.chdy-
+<f70r2.P.10a;F>    qokal.shkal.dal.shy.qokal.chdy-
+<f70r2.P.10a;U>    qokal.shkal.dal.shy.qokal.chdy-
+<f70r2.P.10a;V>    *okal.shkal.dal.shy.qokal.eedy-{Grove's P.12}
+# 
+<f70r2.P.11;H>     qotal.chey.key.okechy.chdy.cham-
+<f70r2.P.11;F>     qotal.chey.key.okchey.chdy.cham-
+<f70r2.P.11;U>     qotal,chey,key.okeeey.chdy.cham-
+<f70r2.P.11;V>     qotal.chey.key.okechy.chdy.cham-{Grove's P.13}
+# 
+<f70r2.P.11a;H>    okaiin.chcthhy.s.or.ary=
+<f70r2.P.11a;F>    okaiin.chcthey.s.or.ary=
+<f70r2.P.11a;U>    okaiin.chcthey.s.or.ary=
+<f70r2.P.11a;V>    okaiin.chcthey.s.or.ary={Grove's P.14}
+#

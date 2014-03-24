@@ -1,0 +1,81 @@
+## <f39r.P> {}
+# text in paragraphs
+# Last edited on 1998-12-11 12:40:24 by stolfi
+#
+# "U" transcription by J.Stolfi from an unidentified image.
+#
+<f39r.P.1;H>       tedo.chshd.cphhofy.chdain.shey.fsey.dy.orain.cheepaiin.ofy.shey.koly.dy-
+<f39r.P.1;C>       tedo.chshd.cpheofy.chdain.shey.fshy.dy.orain.cheepaiin.ofy.shey.koly.dy-
+<f39r.P.1;F>       tedo.chshd.cphiofy.chdain.shey.fshy.dy.orain.cheepaiin.ofy.shey.kaly.dy-
+<f39r.P.1;U>       tedo,chshd.cphhofy.chdain.shey.fshy!dy.orain.checfaiin.ofy.shey.kaly.dy-
+#
+<f39r.P.2;H>       olchey.cheky.qokedy.shekshey.qolain.chck{&K}shy.chdy.dair.shckhey.dol!d-
+<f39r.P.2;C>       olchey.cheky.qokedy.shekshey.qolain.chek!!!!shy.chdy.dair.shckhey.dol.d-
+<f39r.P.2;F>       olchey.cheky.qokedy.shekshey.qolain.chckh!!!shy.chdy.dair.shckhey.dol!d-
+<f39r.P.2;U>       olchey.cheky.qokedy.shekshey.qolain.chck!!!!shy.chdy.dair.shckh*y.dol!d-
+#
+<f39r.P.3;H>       qokal!chdy.chekaiin.checkhy.dar.shed.qokeedar.eeedy.dar.or.cheey.dy.ckhy-
+<f39r.P.3;C>       qokal.chdy.chekaiin.checkhy.dar.shed.qokeedar.chedy.dar.ar.cheey.dy!ckhy-
+<f39r.P.3;F>       qokal!chdy.chekaiin.checkhy.dar.shed.qokeedar.chedy.dar.or.cheey.dy.ckhy-
+<f39r.P.3;U>       qokal!chdy.chekaiin.checkhy.dar.shed.qokeedar.chedy.dar.or.ch**y.dy,ckhy-
+#
+<f39r.P.4;H>       tohedy.chdy.olaiin.chedy.shckhdchy.chol.or.ordy.chees.aly.okal!cheg-
+<f39r.P.4;C>       tchedy.chdy.olaiin.chedy.shckhdchy.chol.or.ordy.chees.aly.okal.cheg-
+<f39r.P.4;F>       tchedy.chdy.olaiin.chedy.shckhdchy.chol.or.ordy.chees.aly.okal!chem-
+<f39r.P.4;U>       tchedy.chdy.olaiin.chedy.shckhdchy.chol.or.ordy.chees.aly.okal!chem-
+#
+<f39r.P.5;H>       dchdy.chdy.ykaiin=
+<f39r.P.5;C>       dchdy.chdy.ykaiin=
+<f39r.P.5;F>       dchdy.chdy.ykaiin=
+<f39r.P.5;U>       dchdy.chdy.ykaiin=
+#
+<f39r.P.6;H>       pchdaiin.she.dam.qofchedy.shedy.kchdy.dydy.opchekaiin.shockhchy.shdalo.ry-
+<f39r.P.6;C>       pchdaiin.she!dam.qofchedy.shedy.kchdy.dydy.opchekaiin.shockhe!y.shdalo.ry-
+<f39r.P.6;F>       pchdaiin.she!dam.qofchedy.shedy.kchdy.dydy.ofchekaiin.shockhe!y.shdalo.ry-
+<f39r.P.6;U>       pchdaiin.she!dam.qofchedy.shedy.kchdy.dydy.ofchekaiin.shockhe!y.shdalo,ry-
+#
+<f39r.P.7;H>       dchdar.chedy.cholal.qokedar.chdy.chckhdy.dar.ar.al.ydy.eees!aii!n-
+<f39r.P.7;C>       dchdar.chedy.cholal.qokedar.chdy.chckhdy.dar.ar.al.ydy.eees.aiiin-
+<f39r.P.7;F>       dchdar.chedy.cholal.qokedar.chdy.chckhdy.dar.ar.al.ydy.eees!aii!n-
+<f39r.P.7;U>       dchdar.ch*dy.cholal.qokedar.chdy.chckhdy.dar.ar.al.ydy.eees.aii!n-
+#
+<f39r.P.8;H>       lchedy.shedy.qokaiin.chkeey.fchedy.okam.chcfhhy.saiin.chcphy.dairom-
+<f39r.P.8;C>       lchedy.shedy.qokaiin.chkeey.fchedy.okam.chcfhey.saiin.chckhy.dairom-
+<f39r.P.8;F>       lchedy.shedy.qokaiin.chkeey.fchedy.okam.chcfhey.saiin.chcphy.dairom-
+<f39r.P.8;U>       lchedy.shedy.qokaiin.chkeey.fchedy.okam.chcfhey.saiin.chcphy.dairog-
+#
+<f39r.P.9;H>       tchedy.shol.odal.qokaiin.shdaiin=
+<f39r.P.9;C>       tchedy.shol.odal.qokaiin.shdaiin=
+<f39r.P.9;F>       tchedy.shol.odal.qokaiin.shdaiin=
+<f39r.P.9;U>       tchedy.shol.odal.qokaiin.shdaiin=
+#
+<f39r.P.10;H>      pchdar.shedy.ar.aiir.okair.ykeols.shedy.qockhdy.laiin.s{&S}yky-{plant}
+<f39r.P.10;C>      pchdar.shedy.ar.aiir.okair.ykeols.shedy.qockhdy.laiin.sh!!!!ky-{plant}
+<f39r.P.10;F>      pchdar.shedy.ar.aiir.okair.ykeols.shedy.qockhdy.laiin.sh!!!yky-{plant}
+<f39r.P.10;U>      pchdar.shedy.ar.aiir.okair.ykeols.shedy.qockhdy.laiin.sh!!!yky-{plant}
+#
+<f39r.P.11;H>      dshdy.ar.aiin.y.ykar.chdy.ykal.olkaiin.qokaldar.cheol.dar.aiin-{plant}
+<f39r.P.11;C>      dshdy.ar.aiir.y.ykar.chdy.ykal.olkaiin.qokaldar.cheol.dar.aiin-{plant}
+<f39r.P.11;F>      dshdy.ar!aiin.y.ykar.chdy.ykal.olkaiin.qokaldar.cheol.dar.aiin-{plant}
+<f39r.P.11;U>      dshdy.ar,aiin.y.ykar.chdy.ykal.olkaiin.qokaldar.cheol.dar.aiin-{plant}
+#
+<f39r.P.12;H>      tol!chdaiin.chckhy.s!aiin.olor.chl!s.aiin.oky.ches.aiin.dal-{plant}
+<f39r.P.12;C>      tok.chdaiin.chckhy.s!aiin.olor.chl.s!aiin.oky.ches!aiin.dal-{plant}
+<f39r.P.12;F>      tol!chdaiin.chckhy.s!aiin.olor.chl!s.aiin.oky.ches.aiin.dal-{plant}
+<f39r.P.12;U>      tol!chdaiin.chckhy.s,aiin.olor.chl!s.aiin.oky.ches.aiin.dal-{plant}
+#
+<f39r.P.13;H>      ytor.chdar.shey.qokaiin.chor.kar.sheol!kedy.otedy.tedy.s!aiin-{plant}
+<f39r.P.13;C>      ytor.chdar.shey.qokaiin.chor.kar.sheol!kedy.otedy.tedy.s!aiin-{plant}
+<f39r.P.13;F>      ytor.chdar.shey.qokaiin.chor.kar.sheol.kedy.otedy.tedy.s!aiin-{plant}
+<f39r.P.13;U>      ytor.chdar.shey.qokaiin.chor.kar.sheol!kedy.otedy.tedy.s,aiin-{plant}
+#
+<f39r.P.14;H>      daiin.shckhy.chekl.ol.daiin.chedy.ykeey.daiin.otal.chdam.qokam-{plant}
+<f39r.P.14;C>      dackh.shckhy.chekl.ol.daiin.chedy.ykeey.daiin.otal.chdam.qokam-{plant}
+<f39r.P.14;F>      daiin.shckhy.chekl.ol.daiin.chedy.ykeey.daiin.otal.chdam.qokam-{plant}
+<f39r.P.14;U>      daiin.shckhy.chekl.ol.daiin.chedy.ykeey.daiin.otal.chdam.qokam-{plant}
+#
+<f39r.P.15;H>      qolkain.olcheol.daiin.dar.ol.dl!d.iir.a!dor.aiin.ofchee!far=
+<f39r.P.15;C>      qokkain.olcheol.daiin.dar.ol.dl.d!a!r.a.!or.aiin.ofchee!far=
+<f39r.P.15;F>      qolkain.olcheol.daiin.dar.ol.dl!d.iir.a!dor.aiin.ofchee.far=
+<f39r.P.15;U>      qolkain.olcheol.daiin.dar.ol.dl!d.iir.a!dor.aiin.ofchee!far=
+#

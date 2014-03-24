@@ -1,0 +1,138 @@
+## <f66r>           {$I=T $Q=H $P=G $L=B}
+# Last edited on 1998-12-25 04:43:06 by stolfi
+#
+# Identification:
+#
+#   Title: "Three-column table"
+#   Page: f66r = HG (Rene) = p117 (Stolfi)
+#   Folio: f66
+#   Panels: f66r
+#   Bifolio: bH1 = f57+f66
+#   Quire: H (Rene) = VIII (Beinecke)
+#
+#   Brumbaugh Yale Lib Gaz p352
+#   Roe, 3 Sept 93, transcribed from BL microfilm
+#
+# Attributes:
+#
+#   Language: B (Currier)
+#   Hand: ? (Currier)
+#   Subsets: T (Rene), unk (Stolfi)
+#   Subject: unknown (text only)
+#   Colors: ??? (Reeds)
+#
+# Description:
+#
+#   The text is laid out in 3 columns. For each line:
+#
+#     The left-most column contains either a single Voynich ``word'' or is blank.
+#     The middle column contains a single single ``character'' or a ligature.
+#     The right column contains a line of what appears to be normal Voynich text.
+#
+#   The text on the right is laid out in paragraphs i.e. most lines are about the
+#   same length, occasionally there is a shorter line (with blank space to the
+#   right) followed by some vertical blank space before the next paragraph
+#   starts.
+#
+#   In the top right hand corner there is a number "66" in ordinary numerals.
+#
+#   In the bottom left hand corner, there is a picture of a woman
+#   lying down on her back (dead?). To the left of the woman are two
+#   circles and a cylinder. Above her are four words in Voynich text.
+#   To the far left are four words in a different hand and a different
+#   alphabet. To me they look like:
+#
+#       v
+#   Den  mv<illegible>
+#      der
+#
+#   In the bottom right hand corner there is a symbol that looks like a number 2
+#   on its side.
+#
+#   Here is a schematic layout of the text. Let
+# 
+#    L: left hand column
+#    M: second column
+#    R: right hand text
+#    W: text above female figure
+#
+#   Alignment of the three columns:
+#
+#         L1  M1  R1
+#
+#             M2  R2
+#
+#         L2  M3  R3
+#
+#             M4  R4
+#
+#         L3  M5  R5
+#
+#             M6  R6
+#
+#             M7  R7 =
+#
+#
+#         L4  M8  R8
+#
+#             M9  R9
+#
+#         L5  M10 R10
+#
+#             M11 R11
+#
+#             M12 R12
+#         L6
+#             M13 R13 =
+#
+#
+#             M14 R14
+#         L7
+#             M15 R15
+#
+#             M16 R16
+#
+#         L8  M17 R17 =
+#
+#             M18
+#
+#         L9  M19 R18
+#
+#             M20 R19
+#
+#             M21 R20 =
+#
+#
+#         L10 M22 R21
+#
+#             M23 R22
+#
+#         L11 M24 R23
+#
+#             M25
+#                 R24
+#         L12 M26 
+#                 R25
+#             M27 
+#             M28
+#                 R26
+#         L13 M29
+#                 R27
+#             M30
+#                 R28
+#             M31
+#         L14     R29
+#             M32 
+#                 R30
+#             M33
+#         L15     R31
+#             M34
+#                 R32 =
+#
+#
+#         W
+#
+#   A strip of paper, about 1cm at its widest, was torn off 
+#   along the bottom edge of the page, from near the center until the 
+#   SE corner.
+#

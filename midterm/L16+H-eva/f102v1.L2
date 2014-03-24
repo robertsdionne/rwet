@@ -1,0 +1,22 @@
+## <f102v1.L2> {}
+# labels on second row of plants
+# Last edited on 1998-12-02 01:07:01 by stolfi
+#
+# plant [2,1] - four-lobed truncated tuber with bunch of roots 
+# at the bottom; lanceolate leaves with serrated edges.
+<f102v1.L2.1;H>    ypcholdy=
+<f102v1.L2.1;V>    ypcholdy={was <f102v2.X.30;V>}
+<f102v1.L2.1;U>    ypcholdy=
+#
+# plant [2,2] - squatting cone of mousetail roots, funnel-like root
+# hub, large leaf with pointy fingers.
+<f102v1.L2.2;H>    loralody=
+<f102v1.L2.2;V>    losalody={was <f102v2.X.6;V>}
+<f102v1.L2.2;U>    loralody=
+#
+# plant [2,3] - round palmlike leaf, bunch of snakelike roots
+# each root has split end
+<f102v1.L2.3;H>    opchdard=
+<f102v1.L2.3;V>    opchdard={was <f102v2.X.15;V>}
+<f102v1.L2.3;U>    opchdard=
+#

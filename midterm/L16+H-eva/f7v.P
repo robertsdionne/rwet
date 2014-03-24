@@ -1,0 +1,50 @@
+## <f7v.P> {}
+# text
+# Last edited on 1998-12-06 13:29:33 by stolfi
+#
+<f7v.P.1;H>        polyshy.shey.tchody.qopchy.otshol.dy.daiin.tshodody-
+<f7v.P.1;C>        polyshy.shey.tchody.qopchy.otshol.dy.daiin.tshodody-
+<f7v.P.1;F>        polyshy.shey.tchody.qopchy.otshol.dy.daiin.tshodody-
+<f7v.P.1;U>        polyshy.shey.tchody.qopchy.otshol.dy.daiin.tshodody-
+#
+<f7v.P.2;H>        chochy.cthy.daiin.qoky.chcphhy.daiin.cthol.cthy.cthd-
+<f7v.P.2;C>        chochy.cthy.daiin.qoky.ch**!!y.daiin.cthol.cthy.cthd-
+<f7v.P.2;F>        chochy.cthy.daiin.qoky.chcphey.daiin.cthol.cthy.cthd-
+<f7v.P.2;U>        chochy.cthy.daiin.qoky.chcphhy.daiin.cthol.cthy.cthd-
+#
+<f7v.P.3;H>        qokchy.dy!kchy.chkeey.kshy.ky.ty.dor.cheey.ol.cheol.dy-
+<f7v.P.3;C>        qokchy.dy!kchy.chkeey.kshy.ky.ty.dor.cheey.ol.cheol.dy-
+<f7v.P.3;F>        qokchy.dy.kchy.chkeey.kshy.ky.ty.dor.cheey.ol.cheol!dy-
+<f7v.P.3;U>        qokchy.dy!kchy.chkeey.kshy.ky.ty.dor.cheey.ol.cheol.dy-
+#
+<f7v.P.4;H>        choteeen.oeear.choschy.dain.sho.kshy.shol.deees.dol-
+<f7v.P.4;C>        chotee**.ochan.choschy.dain.sho.kshy.shol.deees.dol-
+<f7v.P.4;F>        choteeen.ochar.choschy.dain.sho.kshy.shol.deees.dol-
+<f7v.P.4;U>        chotai!n.ochar.choschy.dain.sho!kshy.shol.deees.dol-
+#
+<f7v.P.5;H>        dchodaiin.qotchy.cheey.tcheey=
+<f7v.P.5;C>        dchadaiin.qotchy.cheey.tcheey=
+<f7v.P.5;F>        dchodaiin.qotchy.cheey.tcheey=
+<f7v.P.5;U>        dchodaiin.qotchy.cheey.tcheey=
+#
+<f7v.P.6;H>        kchor.sheod.sheodaiin.sho!daiin.oksho!lshol.dais.qos-
+<f7v.P.6;C>        kchor.sheod.sh*odaiin.sho!daiin.oksho!lshol.dair.qos-
+<f7v.P.6;F>        kchor.sheod.sheodaiin.sho.daiin.oksho.lshol.dair.qos-
+<f7v.P.6;U>        kchor.sheod.sheodaiin.sho!daiin.oksho!lchol.dair.qos-
+#
+<f7v.P.7;H>        oksho!deeen.chor.cheor.odaiin.shotcho-{plant}dol.dol.dor.aiin-
+<f7v.P.7;C>        oksho!dai!n.chor.cheor.odaiin.shotch*-{plant}dal.dol.dor.aiin-
+<f7v.P.7;F>        oksho.deeen.chor.cheor.odaiin.shotch!-{plant}dol.dol.dor!aiin-
+<f7v.P.7;U>        oksho!dai!n.chor!cheor.odaiin.shotch*-{plant}dol.dol.dor!aiin-
+#
+<f7v.P.8;H>        qoteeeo.r!cho.cheeody.qotchey.tey-{plant}okchor.daiin-
+<f7v.P.8;C>        qoteeeo.r.cho.cheeody.qotchey.tey-{plant}okchor.daiin-
+<f7v.P.8;F>        qoteeeo.r!cho.cheeody.qotchey.tey-{plant}okchor.daiin-
+<f7v.P.8;U>        qoteeeo.r.cho!cheeody.qotchey.te*-{plant}okchor.daiin-
+#
+<f7v.P.9;H>        sho.keeo.daiir.chokchy.dor.deol.dy-{plant}dol.daiin=
+<f7v.P.9;C>        sho!keeo.daiin.chokchy.dor.deol.dy-{plant}dol.daiin=
+<f7v.P.9;F>        sho.keeo.daiir.chokchy.dor.deol.dy-{plant}dol.daiin=
+<f7v.P.9;U>        sho!keeo.daiin.chotchy.dor.deol.dy-{plant}dol.daiin=
+#
+

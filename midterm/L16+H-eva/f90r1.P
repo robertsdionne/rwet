@@ -1,0 +1,40 @@
+## <f90r1.P> {}
+# text
+# Last edited on 1998-12-10 07:37:08 by stolfi
+#
+<f90r1.P.1;H>      poleeol.qokeol.qokchod.chody.cthom-{plant}
+<f90r1.P.1;F>      poleeol.qokeol.qokchod.choly.cthom-{plant}
+<f90r1.P.1;L>      poleeol.qokeol.qoke!od.chody.cthom-{plant}
+#
+<f90r1.P.2;H>      yshol.tor.sheor.qotchor.qoky.darala-{plant}
+<f90r1.P.2;F>      yshol.tar.sheor.qotchor.qoky.darala-{plant}
+<f90r1.P.2;L>      yshol.tor.sheor.qotchor.qoky.darala-{plant}
+#
+<f90r1.P.3;H>      dair.shkeeo.s.sary.okor.ykarshy.lkaldy-{plant}
+<f90r1.P.3;F>      dair.shkeea.s.sary.okar.ykarshy.lkaldy-{plant}
+<f90r1.P.3;L>      dair.shkeeo.s.rary.okar.ykarshy.lkaldy-{plant}
+#
+<f90r1.P.4;H>      tol.chor.chodaiin.chocfhor.qokchor.chockhy-{plant}okchod.qofchol-{plant}
+<f90r1.P.4;F>      tal.chor.chodaiin.chocfhor.qokchor.chockhy-{plant}okchod.qofchol-{plant}
+<f90r1.P.4;L>      tol!chor.chodaiin.chocfhor.qokchor.chockhy-{plant}okchod.qofchol-{plant}
+#
+<f90r1.P.5;H>      ytor.ckhy.lpychol.sho.ol.okachey.s.sheom.ke!ol.dchy.dasady-{plant}
+<f90r1.P.5;F>      ytor.ckhy.lpychol.sho.ol.okachey.r.sheom.kchol.dchy.dasady-{plant}
+<f90r1.P.5;L>      ytor.ckhy.lpychol.sho.ol.okachey.s.sheom.ke!ol.dchy.dasady-{plant}
+#
+<f90r1.P.6;H>      tol.otchol.shory!dar.qokeos.okeos!chso.chol.ytod.qokeor.dolshy-{plant}
+<f90r1.P.6;F>      tol.otchol.shory.dar.qokeos.okeos.chso.chol.ytod.qok*or.dolshy-{plant}
+<f90r1.P.6;L>      tol.otchal.chory!dar.qokeos.okeos!chso.chol.ytod.qokeor.dolshy-{plant}
+#
+<f90r1.P.7;H>      dol.chos.qocthy.qokcho.shko.qokol.oteey.chofy.ykeody.qokod-{plant}
+<f90r1.P.7;F>      dar.chos.qocthy.qokcha.shka.qokol.oteey.chofy.ykeody.qokod-{plant}
+<f90r1.P.7;L>      dal.chos.qocthy.qokcho.shko.qokol.oteey.chofy.ykeody.qokod-{plant}
+#
+<f90r1.P.8;H>      kor.sheol.qodar.oko.ykeey.qokeey.qodar.qokeed.s.choky-{plant}
+<f90r1.P.8;F>      kor.sheol.qodar.oko.ykeey.qokeey.qodar.qokeed.s.choky-{plant}
+<f90r1.P.8;L>      kor.sheol.qodar.oko.ykeey.qokeey.qodar.qoka!d.s.choky-{plant}
+#
+<f90r1.P.9;H>      {plant}ykodar.qoekchy.seokol.okom={plant}
+<f90r1.P.9;F>      {plant}ykodar.qoekchy.shokol.okam={plant}
+<f90r1.P.9;L>      {plant}ykodar.qoekchy.shokol.okam={plant}
+#

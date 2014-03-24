@@ -1,0 +1,80 @@
+## <f3v.P> {}
+# text
+# Last edited on 1998-12-06 13:05:41 by stolfi
+#
+<f3v.P.1;H>        koaiin.cphor.qotoy.sha.ckhol.ykoaiin.s.oly-{plant}
+<f3v.P.1;C>        koaiin.cphor.qotoy.sha.ckhol.ykoaiin.s.oly-{plant}
+<f3v.P.1;D>        koaiin.cphar.qotoa.sha.ckhol.ykoaiin.s.oly-{plant}
+<f3v.P.1;F>        koaiin.cphor.qotoy.sha.ckhol.ykoaiin.s.oly-{plant}
+<f3v.P.1;U>        koaiin.cphor.qotoy.sha.ckhol.ykoaiin.s.oly-{plant}
+#
+<f3v.P.2;H>        daiidy.qoteeol.okchor.okor.olytol.dol.dar-{plant}
+<f3v.P.2;C>        daiidy.qotchol.okeeor.okor.olytol.dol.dar-{plant}
+<f3v.P.2;D>        daiida.qotchol.okchor.okor.olytol.dol.dar-{plant}
+<f3v.P.2;F>        daiidy.qoteeol.okchor.okor.olytol.dol.dar-{plant}
+<f3v.P.2;U>        daiidy.qotchol.okchor.okor.olytol.dol.dar-{plant}
+#
+<f3v.P.3;H>        okom.chol.shol.seees.chom.cheeykam.okai!-{plant}
+<f3v.P.3;C>        okom.chol.shol.seees.chom.cheeykam.o!ai*-{plant}
+<f3v.P.3;F>        okom.chol.shol.seees.chom.cheeykam.okai*-{plant}
+<f3v.P.3;U>        okom.chol.shol.sches.chom.cheeykam.okai*-{plant}
+#
+<f3v.P.4;H>        qodar.ees.eey.kcheol.okal.do.r.chear.een-{plant}
+<f3v.P.4;C>        qodar.chs.eey.kcheol.okal.do.r.chear!een-{plant}
+<f3v.P.4;F>        qodar.ees.eey.kcheol.okal.do!r.chear.een-{plant}
+<f3v.P.4;U>        qodar.chs.chy.tcheol.okal.do!r.chear!eeb-{plant}
+#
+<f3v.P.5;H>        yeeear.otchal.eeor.eear.ckhy!-{plant}
+<f3v.P.5;C>        ychear.otchal.chor.char.ckha!-{plant}
+<f3v.P.5;D>        ychear.otchal.chor.char.ckhy*-{plant}
+<f3v.P.5;F>        yeeear.otchal.eeor.eear.ckhy!-{plant}
+<f3v.P.5;U>        ychear.otchal.chor.chor.ckh!!-{plant}
+#
+<f3v.P.6;H>        or.cheor.kor.chodaly.chom={plant}
+<f3v.P.6;C>        os.cheor.kar.chodaly.chom={plant}
+<f3v.P.6;F>        or.cheor.kor.chodaly.chom={plant}
+<f3v.P.6;U>        or.cheor.kor.chodaly.cham={plant}
+#
+<f3v.P.7;H>        tchor.otcham.chor.cfham.s!-{plant}
+<f3v.P.7;C>        tchor.otcham.chor.cpham.ch-{plant}
+<f3v.P.7;D>        tchor.otcham.chor.cfham.ch-{plant}
+<f3v.P.7;F>        tchor.otcham.chor.cfham.s!-{plant}
+<f3v.P.7;U>        tchor.otcham.chor.cfham.s!-{plant}
+#
+<f3v.P.8;H>        ykchy.kchom.chor.chekeol.oka-{plant}
+<f3v.P.8;C>        ykchy.kchom.chor.chckhol.oka-{plant}
+<f3v.P.8;F>        ykchy.kchom.chor.chekeol.oka-{plant}
+<f3v.P.8;U>        ykchy.kchom.chor.chckhol.oka-{plant}
+#
+<f3v.P.9;H>        ytcheear.okeol.cthodoaly.chor.cthy-{plant}
+<f3v.P.9;C>        ytcheear.okeol.cthodoaly.chor.cthy-{plant}
+<f3v.P.9;F>        ytcheear.okeol.cthodoaly.chor.cthy-{plant}
+<f3v.P.9;U>        yteeaiir.okeol.cthodoaly.chor.cthy-{plant}
+#
+<f3v.P.10;H>       ochor.daiin.qokshol.daiim.chol.okary-{plant}
+<f3v.P.10;C>       ochas.daiin.qokshol.daiim.chol.okary-{plant}
+<f3v.P.10;D>       ochar.daiin.qokshol.daiim.chol.okary-{plant}
+<f3v.P.10;F>       ochor.daiin.qokshol.daiim.chol.okary-{plant}
+<f3v.P.10;U>       ochor.daiin.qokshol.daiim.chol.okary-{plant}
+#
+<f3v.P.11;H>       sho.shockho.ckhy.tchor.chodaiin.chom-{plant}
+<f3v.P.11;C>       sho.shockho.ckhy.tchor.chodaiin.chom-{plant}
+<f3v.P.11;F>       sho.shockho.ckhy.tchor.chodaiin.chom-{plant}
+<f3v.P.11;U>       sho.shockho.ckhy.tchor.chodaiin.chom-{plant}
+#
+<f3v.P.12;H>       osh.chodair.ytchy.tchor.kcham.s-{plant}
+<f3v.P.12;C>       osh.chodair.ytchy.tchor.kcham.s-{plant}
+<f3v.P.12;F>       osh.chodair.ytchy.tchor.kcham.s-{plant}
+<f3v.P.12;U>       osh.chodair.ytchy.tchor.kcham.s-{plant}
+#
+<f3v.P.13;H>       shar.shkaiin.qokchy.yty.cthal.chky-{plant}
+<f3v.P.13;C>       shar.shkaiin.qokchy.yty.cthal.chky-{plant}
+<f3v.P.13;F>       shar.shkaiin.qokchy.yty.cthal.chky-{plant}
+<f3v.P.13;U>       shar.shkaiin.qokcha.yty.cthal.chky-{plant}
+#
+<f3v.P.14;H>       dain.sheam.yteam=
+<f3v.P.14;C>       dain.sheam.ykeam=
+<f3v.P.14;F>       dain.sheam.yteam=
+<f3v.P.14;U>       dain.sheam.yteam=
+#
+#

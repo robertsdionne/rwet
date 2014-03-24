@@ -1,0 +1,28 @@
+## <f0.U> {}
+# Unfolding "[|]" alternatives
+# Last edited on 1998-12-19 18:39:27 by stolfi
+#
+# NOTES ON THE UNFOLDING OF "[|]" ALTERNATIVES
+# Jorge Stolfi 05 Nov 1997
+#
+# To simplify processing of the text, I expanded the "[|]" notation
+# used in Gabriel Landini's interlinear file v1.6. Each line that
+# included one or more such alternations was replaced by a pair lines,
+# one using only the first choice of every alternation, the other
+# using only the second choice out of every alternation.
+#
+# For the extra lines resulting from the unfolding of '[|]' constructs,
+# I used these codes:
+#
+#   D: second choice from "C" lines
+#   G: second choice from "F" lines
+#   I: second choice from "J" lines
+#   Q: second choice from "K" lines
+#   M: second choice from "L" lines
+#
+# Unfortunately I had to remove the "!" and "%" padding characters in
+# the unfolding process, since they no longer provided the proper
+# alignment between the unfolded versions and un-unfolded versions.
+# Fixing this problem would have required processing all versions of
+# of one line at once, and effectively computing a consensus for it.
+#

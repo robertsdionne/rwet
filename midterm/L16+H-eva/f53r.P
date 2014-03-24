@@ -1,0 +1,45 @@
+## <f53r.P> {}
+# text
+# Last edited on 1998-12-11 12:52:41 by stolfi
+#
+<f53r.P.1;H>       kodam.chocthody.oty-{plant}
+<f53r.P.1;C>       kodam.chocthody.oky-{plant}
+<f53r.P.1;F>       kadam.chocthody.oty-{plant}
+#
+<f53r.P.2;H>       dol.dai!n.s!cho!she.oty-{plant}
+<f53r.P.2;C>       dol.dai!n.s.cho.she.oty-{plant}
+<f53r.P.2;F>       dol.dai!n.s!cho.she.oty-{plant}
+<f53r.P.2;G>       dol.daiin.s!cho.she.oty-{plant}
+#
+<f53r.P.3;H>       sho!ar.chokan.ody-{plant}
+<f53r.P.3;C>       shoeos.chokan.ody-{plant}
+<f53r.P.3;F>       sho!ar.chokan.ody-{plant}
+#
+<f53r.P.4;H>       ytchodaiin.yky.otchey.okod-{plant}
+<f53r.P.4;C>       !tchodaiin.yky.otchey.otod-{plant}
+<f53r.P.4;F>       ytchodaiin.yky.otchey.okod-{plant}
+#
+<f53r.P.5;H>       okes.otol.cfhy.cphodol.ykody.qokchod-{plant}otcho.qot.oty-
+<f53r.P.5;C>       okor.otol.cfhy.cphodol.ykody.qokchod-{plant}otcho.qot.oty-
+<f53r.P.5;F>       oksh.otol.cfhy.cphodol.ykody.qokchod-{plant}otcho.qot.oty-
+#
+<f53r.P.6;H>       ykeodar.oqoor.ockh.odor.chai!n.qokod-{plant}ykchdy.chees.dal-
+<f53r.P.6;C>       ykeodar.oqoor.ockh!odor.chai!n.qokod-{plant}ykchdy.chees.dal-
+<f53r.P.6;F>       ykeodar.oqoor.ockh.odor.chai!n.qokod-{plant}ykchdy.chees.dal-
+<f53r.P.6;G>       ykeodar.oqoar.ockh.odor.chaiin.qokod-{plant}ykchdy.chees.dal-
+#
+<f53r.P.7;H>       sodar.otos.qoy.tchy.otey.chos.okod-{plant}y!kchody.qokchy-
+<f53r.P.7;C>       sodar.otos.qoy.tchy.otey.chos.okod-{plant}ytkchody.qokeey-
+<f53r.P.7;F>       sodar.otos.qoy.tchy.otey.chos.okod-{plant}y!kchody.qokchy-
+<f53r.P.7;G>       sadar.otos.qoy.tchy.otey.chos.okod-{plant}y!kchody.qokchy-
+#
+<f53r.P.8;H>       qotchol.dar.qoty.chtor.oltsho.ct{&T}o-{plant}ykeeod.oytoyd-
+<f53r.P.8;C>       qotchol.dar.qoty.chtor.oltsho!cth!!!o-{plant}ykeeod.oytoyd-
+<f53r.P.8;F>       qotchol.dar.qoty.chtor.oltsho.cth!!!o-{plant}ykeeod.oytoyd-
+<f53r.P.8;G>       qotchol.dar.qoty.chtor.oltsho.cth!!!a-{plant}ykeeod.aytayd-
+#
+<f53r.P.9;H>       otol.chol.ctheees.os.orol.chod.qoty={plant}
+<f53r.P.9;C>       otol.chol.ctheees.os.orol.chod.qoty={plant}
+<f53r.P.9;F>       otol.chol.ctheees.os.orol.chod.qoty={plant}
+<f53r.P.9;G>       otol.chol.cthee!s.os.orol.chod.qoty={plant}
+#

@@ -1,0 +1,61 @@
+## <f4r.P> {}
+# text
+# Last edited on 1998-12-06 13:09:39 by stolfi
+#
+<f4r.P.1;H>        kodalchy.chpady.sheol.ol.sheey.qotey-{plant}doiin.chor.ytoy-
+<f4r.P.1;C>        kodalchy.chpady.sheol.ol.sheey.qotey-{plant}doiin.chor.ytoy-
+<f4r.P.1;F>        kodalchy.chpady.sheol.ol.sheey.qotey-{plant}doiin.chor.ytoy-
+#
+<f4r.P.2;H>        dchor.chol.shol.cthol.shtchy.chaiin-{plant}!s-{plant}choraiin.chom-
+<f4r.P.2;C>        dchor.shol.shol.cthol.shtchy.chaiin-{plant}*s-{plant}choraiin.chom-
+<f4r.P.2;F>        dchor.chol.shol.cthol.shtchy.chaiin-{plant}!s-{plant}choraiin.chom-
+#
+<f4r.P.3;H>        otchol.chol.chy.chaiin.qotaiin-{plant}daiin.shain-
+<f4r.P.3;C>        otchol.chol.chy.chaiin.qotaiin-{plant}daiin.shain-
+<f4r.P.3;F>        otchol.chol.chy.chaiin.qotaiin-{plant}daiin.shain-
+#
+<f4r.P.4;H>        qotchol.chy.yty.daiin.!okaiin.cthy={plant}
+<f4r.P.4;C>        qotchol.chy.yty.daiin.qokaiin.cthy={plant}
+<f4r.P.4;D>        qotchol.cha.yty.daiin.*okaiin.cthy={plant}
+<f4r.P.4;F>        qotchol.chy.yty.daiin.!okaiin.cthy={plant}
+#
+<f4r.P.5;H>        pydaiin.qotchy.dy.tydy-{plant}
+<f4r.P.5;C>        pydaiin.qotchy.!*!tydy-{plant}
+<f4r.P.5;D>        pydaiin.qotchy.!*!tady-{plant}
+<f4r.P.5;F>        pydaiin.qotchy.dy.tydy-{plant}
+#
+<f4r.P.6;H>        chor.shy!tchy.dy.tcheay-{plant}
+<f4r.P.6;C>        chor.shy!tchy.dy!*cheey-{plant}
+<f4r.P.6;D>        chor.shy!tchy.dy!tch!ay-{plant}
+<f4r.P.6;F>        chor.shy.tchy.dy.tcheey-{plant}
+#
+<f4r.P.7;H>        qotaiin.cthol.daiin.cthom-{plant}
+<f4r.P.7;C>        qotoiin.cthol.daiin.cthom-{plant}
+<f4r.P.7;D>        qotaiin.cthol.daiin.cthom-{plant}
+<f4r.P.7;F>        qotaiin.cthol.daiin.cthom-{plant}
+#
+<f4r.P.8;H>        shor.shol.shol.cthy.cpholdy-{plant}
+<f4r.P.8;C>        shor.shol.shol.cthy.cpholdy-{plant}
+<f4r.P.8;F>        chor.chol.shol.cthy.cpholdy-{plant}
+#
+<f4r.P.9;H>        daiin.ckhochy.tchy.koraiin-{plant}
+<f4r.P.9;C>        daiin.ckhochy.tchy.koraiin-{plant}
+<f4r.P.9;F>        daiin.ckhochy.tchy.koraiin-{plant}
+#
+<f4r.P.10;H>       odal.shor.shyshol.cphaiin-{plant}
+<f4r.P.10;C>       odal.shor.shyshol.cphaiin-{plant}
+<f4r.P.10;F>       odal.shor.shyshol.cphaiin-{plant}
+#
+<f4r.P.11;H>       qotchoiin.sheyr.qoty-{plant}
+<f4r.P.11;C>       qotchoiin.shear.qoty-{plant}
+<f4r.P.11;D>       qotchoiin.sheor.qoty-{plant}
+<f4r.P.11;F>       qotchoiin.shear.qoty-{plant}
+#
+<f4r.P.12;H>       soiin.chaiin.chaiin-{plant}
+<f4r.P.12;C>       soiin.chaiin.chaiin-{plant}
+<f4r.P.12;F>       soiin.chaiin.chaiin-{plant}
+#
+<f4r.P.13;H>       daiin.cthey={plant}
+<f4r.P.13;C>       daiin.cthey={plant}
+<f4r.P.13;F>       daiin.cthey={plant}
+#

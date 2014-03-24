@@ -1,0 +1,48 @@
+## <f90v1.P> {}
+# text
+# Last edited on 1998-12-11 13:17:54 by stolfi
+#
+<f90v1.P.1;H>      pcheor.chodar.oleees.chepy.shol-{plant}shckhey!-{plant}otol.shey-{plant}cheor.cheokeey-
+<f90v1.P.1;F>      pcheor.chodar.oleees.chepy.shol-{plant}shckh!y!-{plant}otor.shey-{plant}cheor.cheokeey-
+<f90v1.P.1;L>      pcheor.chodar.oleees.chepy.chol-{plant}shckhe**-{plant}otol!shey-{plant}cheor.cheokeey-
+#
+<f90v1.P.2;H>      tshor.olsheod.qodaiin.qokeeor.sy-{plant}or.aiin-{plant}ykeeol-{plant}octheody.cthchy-
+<f90v1.P.2;F>      tshor.olsheod.qodaiin.qoke!or.sy-{plant}or!aiin-{plant}ykeeol-{plant}octh!ody.cthe!y-
+<f90v1.P.2;L>      tshor.olsheod.qodaiin.qokeeor.sy-{plant}or.aiin-{plant}ykeeol-{plant}octheody.ctheey-
+#
+<f90v1.P.3;H>      doiin.sh!ody.cfheos.qockhy.chol.ol-{plant}s.als-{plant}sol-{plant}yteey.or.cheey!tey-
+<f90v1.P.3;F>      daiin.sh!ody.cfheos.qockhy.chol.ol-{plant}s!als-{plant}sol-{plant}yteey.or.cheey.tey-
+<f90v1.P.3;L>      daiin.sheody.ckheos.qockhy.chol.ol-{plant}s!als-{plant}sol-{plant}yteey.or.cheey!tey-
+#
+<f90v1.P.4;H>      kos.sheor.chockhor.qekeody.cheody-{plant}sy-{plant}s-{plant}olcheey.cthey.qoky-
+<f90v1.P.4;F>      kor.sheor.chockhor.qckhody.cheody-{plant}sy-{plant}s-{plant}olcheey.cthey.qoky-
+<f90v1.P.4;L>      kos.sheor.chockhor.q!keody.cheody-{plant}dy-{plant}s-{plant}olche!y.cthey.qoky-
+#
+<f90v1.P.5;H>      dcheey.keey.keeey.cthey.yty.okeeody-{plant}sy-{plant}olcheey.she.qokeas-
+<f90v1.P.5;F>      dcheey.keey.keeey.cthey.yty.okeeody-{plant}sy-{plant}olcheey.sh!.qokeys-
+<f90v1.P.5;L>      dcheey.keey.keeey.cthey.yty.okeeod!-{plant}sa-{plant}olcheey.she.qokeys-
+#
+<f90v1.P.6;H>      shctheo.r!or.sheol!ol.kaiin=
+<f90v1.P.6;F>      shctheo.r!or.sheol.ol.kaiin=
+<f90v1.P.6;L>      shctheo.r.or.sheol.ol.kaiin=
+#
+<f90v1.P.7;H>      ksheodal.sheody.qocheoty.shokol.qokeshs-{plant}yteody.etodaithey-
+<f90v1.P.7;F>      ksheodal.sheody.qocheoty.shokol.qokeshs-{plant}yteody.*!odyc!hey-
+<f90v1.P.7;L>      ksheodal.sheody.qocheoty.shokol.qokeshs-{plant}yteody.!todacthey-
+#
+<f90v1.P.8;H>      daiin.okeeey.cheo.qotecheor.cthodaim.s-{plant}cheol.chol.okeam-
+<f90v1.P.8;F>      daiin.okeeey.ch**.qotecheor.cthodaim.s-{plant}cheol.chor.okeom-
+<f90v1.P.8;L>      daiin.okeeey.cheo.qotecheor.cthodaim.s-{plant}cheol.chol.okeam-
+#
+<f90v1.P.9;H>      sheor.ol.qokeeoky.okeeol.okeeodaiin.ytol-{plant}s.or.ariin.aiin-
+<f90v1.P.9;F>      sheor.ol.qokchoky.okeeol.okeeodaiin.atol-{plant}s!or.ar*!!.aiin-
+<f90v1.P.9;L>      sheor.ol.qokeeoky.okeeol.okeeodaiin.ytol-{plant}s.or.ar**!.aiin-
+#
+<f90v1.P.10;H>     ykeeor.cheos.qkhey.cheos.oteol.okechod-{plant}oeey.keeos.aiiin-
+<f90v1.P.10;F>     ykeeor.cheos.qckhy.cheos.oteol.okechod-{plant}oeey.keeos.aii!n-
+<f90v1.P.10;L>     ykeeor.cheos.qkeey.cheos.oteol.okeeeod-{plant}oeey.keeos.aiiin-
+#
+<f90v1.P.11;H>     deeo!cthey.keeeol.sheol.s{&S}tsheol.daiin={plant}
+<f90v1.P.11;F>     deeo.cthey.keeeol.sheol.sh!!!tsheol.daiin={plant}
+<f90v1.P.11;L>     deeo!cthey.keeeol.sheol.sh!!!tsheol.daiin={plant}
+#

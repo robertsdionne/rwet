@@ -1,0 +1,34 @@
+## <f5v.P> {}
+# text
+# Last edited on 1998-12-11 12:28:04 by stolfi
+#
+<f5v.P.1;H>        k!o!cheor.chor.ytchey.pshod.chols.chodaiin.ytoiiin.daiin-
+<f5v.P.1;C>        k!o!cheor.chor.ytchey.pshod.chols.chodaiin.ytoiiin.daiin-
+<f5v.P.1;F>        k.o.cheor.chor.ytchey.pshod.chols.chodaiin.ytoiiin.daiin-
+<f5v.P.1;U>        k!o!cheor.char.ytchey.pshod.chols.chodaiin.ytoiiin.daiin-
+#
+<f5v.P.2;H>        dchol.s{&S}y.chol.otaiin.dain.cthor.chots.ychopor!dg-
+<f5v.P.2;C>        dchol.*!!!!*.chol.otaiin.dain.cthor.chot*.ychopor!dg-
+<f5v.P.2;F>        dchol.sh!!!y.chol.otaiin.dain.cthor.chots.ychopor!dm-
+<f5v.P.2;U>        dchol.s{&S}y.chol.otaiin.dain.cthor.chot*.ychopor.dm-
+#
+<f5v.P.3;H>        qotcho.ytor.daiin.daiin.otchor.daiir.qo!.darchor.do-
+<f5v.P.3;C>        qotcho.ytor.daiin.daiin.otchor.daiin.qo*.darchor.dd-
+<f5v.P.3;F>        qotcho.ytor.daiin.daiin.otchor.daiin.qo!.darchor.do-
+<f5v.P.3;U>        qotcho.ytor.daiin.daiin.otchor.daiin.qo!.darchor.do-
+#
+<f5v.P.4;H>        qotor.shees.otol.ykoiin.shol.daiin.cthor.okchy.taiin-
+<f5v.P.4;C>        qotor.shees.otol.ykoiin.shol.daiin.cthor.okchy!kaiin-
+<f5v.P.4;F>        qotor.shees.otof.ykoiin.shol.daiin.cthor.okchy.taiin-
+<f5v.P.4;U>        qotor.shees.otol.ykoiin.shol.daiin.cthor.okchy.taiin-
+#
+<f5v.P.5;H>        shokeeol.chor.cheotol.otchol.daiin.dal.chol.chotaiin-
+<f5v.P.5;C>        shokeeol.chor.cheotol.otchol.daiin.dal.chol.chotaiin-
+<f5v.P.5;F>        shokeeol.chor.cheotol.otchol.daiin.dal.chol.chotaiin-
+<f5v.P.5;U>        shokeeol.chor.cheotol.otchol.daiin.dal.chol.chotaiin-
+#
+<f5v.P.6;H>        otol.chol.dairodg=
+<f5v.P.6;C>        otol.chol.dairodg=
+<f5v.P.6;F>        otof.chol.dairodd=
+<f5v.P.6;U>        otol.chol.dairodm=
+#

@@ -1,0 +1,56 @@
+## <f2r.P> {}
+# text
+# Last edited on 1998-12-12 13:51:24 by stolfi
+#
+<f2r.P.1;H>        kydainy.ypchol.daiin.otchal-{plant}ypchaiin.ckholsy-{plant}
+<f2r.P.1;C>        kydainy.ypchol.daiin.otchal-{plant}ypchaiin.ckholsy-{plant}
+<f2r.P.1;F>        kydainy.ypchol.daiin.otchal-{plant}ypchaiin.ckholsy-{plant}
+#
+<f2r.P.2;H>        dorchory-{plant}chkar.s-{plant}shor.cthy.cth!-
+<f2r.P.2;C>        dorchory-{plant}chkar.s-{plant}shor.cthy.***!-
+<f2r.P.2;F>        dorchory-{plant}chkar.s-{plant}shor.cthy.ctho-
+#
+<f2r.P.3;H>        qotaiin-{plant}cthey.y-{plant}chor.chy.ydy-{plant}chaiin-
+<f2r.P.3;C>        qotaiin-{plant}cthey.y-{plant}chor.chy.ydy-{plant}chaiin-
+<f2r.P.3;F>        qotaiin-{plant}cthey.y-{plant}chor.chy.ydy-{plant}chaiin-
+#
+<f2r.P.4;H>        chaindy-{plant}chtod.dy-{plant}cphy.dal!s-{plant}chokaiin.d-
+<f2r.P.4;C>        !*aiidy-{plant}chtod.dy-{plant}cphy.dal.s-{plant}chokaiin.d-
+<f2r.P.4;F>        shaiidy-{plant}chtod!dy-{plant}cphy.dal!s-{plant}chokaiin.d-
+#
+<f2r.P.5;H>        otochor.al-{plant}shodaiin-{plant}chol.!dan-{plant}ytchaiin.dan-
+<f2r.P.5;C>        otochor.al-{plant}shodaiin-{plant}chol.chan-{plant}ytchaiin.dan-
+<f2r.P.5;F>        otochor.al-{plant}shodaiin-{plant}chol.!dan-{plant}ytchaiin.dan-
+#
+<f2r.P.6;H>        saiin.daind-{plant}d!kol.sor-{plant}ytoldy-{plant}dchol.dchy.cthy-
+<f2r.P.6;C>        saiin.daind-{plant}d.kol.sor-{plant}ytoldy-{plant}dchol.dchy.cthy-
+<f2r.P.6;F>        saiin.daind-{plant}d!kol.sor-{plant}ytoldy-{plant}dchol.dchy.cthy-
+#
+<f2r.P.7;H>        shor.ckhy.daiiny-{plant}chol.dan={plant}
+<f2r.P.7;C>        shor.ckhy.daiiny-{plant}chol.dan={plant}
+<f2r.P.7;F>        shor.ckhy.daiiny-{plant}chol.dan={plant}
+#
+<f2r.P.8;H>        kydain.shaiin.qoy.s.shol.fodan-{plant}yksh.olsheey.daiildy-
+<f2r.P.8;C>        kydain.shaiin.qoy.s.shol.fodan-{plant}ytsh.olsheey.daiildy-
+<f2r.P.8;F>        kydain.shaiin.qoy.s.shol.fodan-{plant}yksh.olsheey.daiildy-
+#
+<f2r.P.9;H>        dlssho.kol.sheey.qokey.ykody.so-{plant}chol.yky.dain.daiirol-
+<f2r.P.9;C>        dlssho.kol.sheey.qokey.ykody.so-{plant}chol.yky.dain.daiirdl-
+<f2r.P.9;F>        dlssho.kol.sheey.qokey.ykody.so-{plant}chol.yky.dain.daiirol-
+#
+<f2r.P.10;H>       qoky.cholaiin.shol.sheky.daiin-{plant}cthey.keol.s!aiin.saiin-
+<f2r.P.10;C>       qoky.cholaiin.shol.sheky.daiin-{plant}cthey.keol.s!aiin.saiin-
+<f2r.P.10;F>       qoky.cholaiin.shol.sheky.daiin-{plant}cthey.keol.s.aiin.saiin-
+#
+<f2r.P.11;H>       ychain.dal.chy.dalor.shan.dan-{plant}olsaiin.sheey.ckhor-
+<f2r.P.11;C>       ychain.dal.chy.dalor.shan!!!!-{plant}**saiin.sheey.ckhor-
+<f2r.P.11;F>       ychain.dal.chy.dalor.shan.dan-{plant}olsaiin.sheey.ckhor-
+#
+<f2r.P.12;H>       okol.chy.chor.cthor.yor.an.chan-{plant}saiin.chety.chyky.sal-
+<f2r.P.12;C>       okol.chy.chor.cthor.yor.an.chan-{plant}saiin.chety.chyky.sal-
+<f2r.P.12;F>       okol.chy.chor.cthor.yor.an.chan-{plant}saiin.chety.chyky.sal-
+#
+<f2r.P.13;H>       sho.ykeey.chey.daiin.chcthy=
+<f2r.P.13;C>       sho.ykeey.chey.daiin.chcthy=
+<f2r.P.13;F>       sho.ykeey.chey.daiin.chcthy=
+#

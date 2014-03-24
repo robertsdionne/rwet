@@ -1,0 +1,32 @@
+## <f33r.P> {}
+# text
+# Last edited on 1998-12-07 06:03:07 by stolfi
+#
+<f33r.P.1;H>       tshdar.shdor.shepchdy.cphody.yfoldy.qofockhdy.otchedy.lfchdy.daiin-
+<f33r.P.1;C>       tshdar.shdor.shepchdy.cphody.yfoldy.qofockhdy.otchedy.lfchdy.daiin-
+<f33r.P.1;F>       tshdar.shdar.shepchdy.cphody.yfoldy.qofockhdy.otchedy.lfchdy.daiin-
+#
+<f33r.P.2;H>       ytchedy.qokar.cheky.okaldy.qokaldy.otor.oldor.qotor.otar.otar!dam-
+<f33r.P.2;C>       ytchedy.qokar.cheky.okaldy.qokaldy.otor.oldar.qotar.otar.otar.dam-
+<f33r.P.2;F>       ytchedy.qokar.cheky.okaldy.qokaldy.otor.oldar.qotar.otar.otar!dam-
+#
+<f33r.P.3;H>       loiin.y.cheky.qokedy.shedy.chdal.chech!daiin.qokchy.ody.chekeedy.ykam-
+<f33r.P.3;C>       laiin.y.cheky.qokedy.shedy.chdal.chech!daiin.qokchy.ody.chekeedy.ykam-
+<f33r.P.3;F>       laiin.y.cheky.qokedy.shedy.chdal.chech.daiin.qokchy.ody.chekeedy.ykam-
+#
+<f33r.P.4;H>       taiin.chekey.or.al!aiiin.saiin.okaiin.dar.cheedy.chkeey.far.aiin.s-
+<f33r.P.4;C>       taiin.chekey.or.ol.aiiin.saiin.okaiin.dar.cheedy.chkeey.far.aiin.s-
+<f33r.P.4;F>       taiin.chekey.or.al!aiiin.saiin.okaiin.dar.cheedy.chkeey.far.aiin.s-
+#
+<f33r.P.5;H>       pair.or.aiin.otaiin.ol.kor.aiin.okal.otal.chdal.shekal.qakar.otam-
+<f33r.P.5;C>       pair.or.aiin.otaiin.ol!kor.aiin.okal.otal.chdal.shekal.qokar.otam-
+<f33r.P.5;F>       pair.or!aiin.otaiin.ol!kor.aiin.okal.otal.chdal.shekal.qokar.otam-
+#
+<f33r.P.6;H>       yteey.shody.tchedy!dy.chekar.okaiin.okaiin.daiin.okal-{plant}
+<f33r.P.6;C>       yteey.shody!kchedy.dy.chekar.okaiin.okaiin.daiin.okal-{plant}
+<f33r.P.6;F>       yteey.shody.tchedy!dy.chekar.okaiin.okaiin.daiin.okal-{plant}
+#
+<f33r.P.7;H>       dar.chos.aiin.or.aiin.cheekaiin.okain.ar.okeeey=
+<f33r.P.7;C>       dar.chos.aiin.or.aiin.cheekaiin.okain.ar.okeeey=
+<f33r.P.7;F>       dar.chos.aiin.or.aiin.cheekaiin.okain.ar.okeeey=
+#

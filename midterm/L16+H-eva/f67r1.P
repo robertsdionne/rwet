@@ -1,0 +1,28 @@
+## <f67r1.P> {}
+# Text above diagram.
+# Last edited on 1998-12-08 10:57:41 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+#
+<f67r1.P.1;H>      teeodaiin.shey.epairody.osaiin.yteeoey.shey.epaiin.o!aiin-
+<f67r1.P.1;C>      teeodaiin.shey.epainody.osaiin.yta!oey.shey.epaiin.o.aiir-
+<f67r1.P.1;F>      teeodaiin.shey.epairody.osaiin.yteeoey.shey.epaiin.o!aiin-
+<f67r1.P.1;U>      teeodaiin.shey.epairody.osaiin.yteeoey.shey.cpaiin.o,aiin-
+#
+<f67r1.P.2;H>      daiir.okeody.qoeksh!g.sar.oeteody.oteey.keey.keo.keeodal-
+<f67r1.P.2;C>      daiir.okeody.qoekchey.sar.aeteedy.oteey.keey.keo.keeod**-
+<f67r1.P.2;F>      daiir.okeody.qoekeee*.sar.oeteody.oteey.keey.keo.keeodal-
+<f67r1.P.2;G>      daiir.okeody.qoeke!sy.sar.oekeody.oteey.keey.teo.keeodal-
+<f67r1.P.2;U>      daiir.okeody.qoekeesy.sar.oeteody.oteey.keey.keo.keeodal-
+#
+<f67r1.P.3;H>      ycheo.s.o.g.cheos.aiin.okesoe.ar!am.shees.dalaiin.dam-
+<f67r1.P.3;C>      ycheo!s.o.j.eeeor.aiin.okesoe.ar.aj.shchy.dy*aiin.daj-
+<f67r1.P.3;F>      ycheo.s!aim.cheos.aiin.okesoe.ar!am.shees.dalaiin.dam-
+<f67r1.P.3;G>      ycheo.s.aim.cheos.aiin.okesoe.ar.am.shees.dalaiin.dam-
+<f67r1.P.3;U>      ycheo.s.aim.cheos.aiin.okesoe.ar.am.shees.dalaiin.dam-
+#
+<f67r1.P.4;H>      cheo!daiin.chekeey.s!ar.air.s!oar.cheey.dair.cthey=
+<f67r1.P.4;C>      cheo!daiin.!aekeey.s!ar.ain.s!oar.cheey.dain.cthey=
+<f67r1.P.4;F>      cheo.daiin.!aekeey.s!ar.air.s!oar.cheey.dair.cthey=
+<f67r1.P.4;U>      cheo!daiin.chekeey.s,ar.air.s,oar.cheey.dair.cthey=
+#

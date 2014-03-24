@@ -1,0 +1,26 @@
+## <f68v2.P> {}
+# plain text
+# Last edited on 1998-12-08 23:28:56 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+#
+<f68v2.P.1;H>      teeody.shcthey.psheody.shocthy.ykeody.shdy.shot.y!tchy-
+<f68v2.P.1;F>      teeody.shcthey.psheody.shocthy.ykeody.shdy.shot.y!tchy-
+<f68v2.P.1;U>      teeody.shcthey.psheody.shocthy.ykeody.shdy.shot.y,tchy-
+#
+<f68v2.P.2;H>      dchaiin.shey.dcheedy.qokeey.shekeey.dal.dy.sheet!ey.daldy-
+<f68v2.P.2;F>      dchaiin.shey.dcheedy.qokeey.shckh!y.dal.dy.shecthey.daldy-
+<f68v2.P.2;U>      dchaiin.shey.dcheedy.qokeey.shekeey.dal,dy.shecth!y.daldy-
+#
+<f68v2.P.3;H>      qoeeey.shekeey.shkeey.s.alchey.cthy.shteody.qoteeody.dam-
+<f68v2.P.3;F>      qoeeey.shekeey.shkeey.s.alchey.cthy.shteody.qoteeody.dam-
+<f68v2.P.3;U>      qoeeey.shekeey.shkeey.s.alchey.cthy.shteody.qoteeody.dam-
+#
+<f68v2.P.4;H>      okeey.sheoy.keol.ycheety.okeody.shey.qokey.chol.chekody-
+<f68v2.P.4;F>      okeey.sheoy.keol.ych*!ty.okeody.shey.qokey.chol.chekody-
+<f68v2.P.4;U>      okeey.sheoy.keol.ycheety.okeody.shey.qokey.chol.chekody-
+#
+<f68v2.P.5;H>      scheos.seekey.okey.chody-{diagram}okeos.cheo.salar.oalchdm=
+<f68v2.P.5;F>      scheos.shekey.okey.chody-{diagram}okeos.cheo.salar.allchdm=
+<f68v2.P.5;U>      scheos.shekey.okey.chody-{diagram}okeos.cheo.salar.allchdm=
+#

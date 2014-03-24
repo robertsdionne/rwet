@@ -1,0 +1,32 @@
+## <f11r.P> {}
+# text
+# Last edited on 1998-12-06 19:47:28 by stolfi
+#
+<f11r.P.1;H>       tshol.schoal.cfhy.sh!f!ydaiin.cphy.shey.t!chody.shoyty-
+<f11r.P.1;C>       tshol.schoal.!f!y.shcfhydaiin.cphy.shey.k.chody.shoyty-
+<f11r.P.1;F>       tshol.schoal.cfhy.sh!f!ydaiin.cphy.shey.t!chody.shoyty-
+#
+<f11r.P.2;H>       socthody.qodor.y.kshy.daiin.ytchy.ytchoky.kchol.daiin-
+<f11r.P.2;C>       socthody.qodor.y.kshy.daiin.ytchy.ytchoky.kchol.daiin-
+<f11r.P.2;F>       socthody.qodor!y.kshy.daiin.ytchy.ytchoky.kchol.daiin-
+#
+<f11r.P.3;H>       qoty.chol.cthy.dor.ykychy.choty.dain.chaiin.daiin.ded-
+<f11r.P.3;C>       qoty.chol.cthy.dor.ykychy.choty.dain.chaiin.daiin.dod-
+<f11r.P.3;F>       qoty.chol.cthy.dor.ykychy.choty.dain.chaiin.daiin.ded-
+#
+<f11r.P.4;H>       dchol.chy.kchy.dy.daiin=
+<f11r.P.4;C>       dchol.chy.kchy.dy.daiin=
+<f11r.P.4;F>       dchol.chy.kchy.dy.daiin=
+#
+<f11r.P.5;H>       tchol.shor.shor.dky.shcphy.daiin.cthy.dy.chodl.daiin-
+<f11r.P.5;C>       tchol.shor.shor.dky.!!!**y.daiin.cthy.dy.chodl.daiin-
+<f11r.P.5;F>       tchol.shor.shor.dky.shcphy.daiin.cthy.dy.chodl.daiin-
+#
+<f11r.P.6;H>       odl.d!s.y.otol.chaiin.ykchor.dair.chody.cthy.s.daiin-
+<f11r.P.6;C>       odl.d.s.y.otol.chaiin.ykchor.dair.chody.cthy.s.daiin-
+<f11r.P.6;F>       odl.d!s!y.otol.chaiin.ykchor.dair.chody.cthy.s.daiin-
+#
+<f11r.P.7;H>       qotchy.okchol.cthy.dy=
+<f11r.P.7;C>       qotchy.okchol.cthy.dy=
+<f11r.P.7;F>       qotchy.okchol.cthy.dy=
+#

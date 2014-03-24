@@ -1,0 +1,59 @@
+## <f116v.P> {}
+# The "michiton" paragraph
+# Last edited on 1998-12-19 23:09:32 by stolfi
+#
+# "U" transcription by J.Stolfi from a scanned image.
+# Only the first two words of line 3 look like Voynichese.
+#
+# Transcription uses the "best matches" from Rene's German alphabet (RGA),
+# with the following additions/deviations:
+#
+#   8    similar to RGA "d" (mainline variant), but the upper loop is smaller
+#          than the lower loop, and almost straight above it.
+#   à    An "a" with a faint dot over it (probably noise).
+#   ç    A "c" with a vertical serif at the top end.
+#   h    very much like RGA "h", but with open bottom
+#   í    A straight, short, thick descending stroke with a
+#          straight, long, thin "acute accent"; like
+#          an EVA "r" but with straight plume
+#   j    a partially obscured glyph; what can be seen looks
+#          like a printed lowercase "j", lower on 
+#          the baseline and slanting to the left.
+#   L    Similar to RGA "l" but more angular---a thin and tall triangle,
+#          closed at the bottom and not connected to the neighbors.
+#   M    like a large Greek "epsilon" or a "3" on its side, with 
+#          first stroke turned inwards, the last slightly outwards.
+#   m    with inclined strokes, like "\/\/\".
+#   n    with inclined strokes, like "\/\".
+#   ø    like an "o" with a circumflex *under* it; or an EVA "l"
+#          with very short "legs".
+#   )    like a small close parenthesis, extending slightly below
+#          the baseline; very much like the variant RGA "o" 
+#          (bottom line of Rene's scan)
+#   p    has an exaggerated "barb" on the left side of the 
+#          stem.
+#   r    like a Greek lowercase "nu".
+#   û    an "u" or "n" with a macron or overline (which may be noise).
+#   X    Like RGA "x", but with the two strokes ligated on the right.
+#   y    similar to RGA "y", but more like a Greek "eta".
+#   +    like a math "+", raised so as to stand on the baseline.
+#   ^    partially obscured; the bottom part has two "feet"
+#            on the baseline, very close together.
+#
+# In the "digits" line, "a" trough "d" mean "10" through "13", 
+# each numeral being squeezed into single letter slot.
+#
+# Line 0 Roman:    p**labo*.pinèn.pati*er= 
+#
+# Line 1 Roman:    nuchiton.ola6àba8.+.mûLcø8.+.te.+,tar.cevç,+.porta8.+M++-
+# Line 1.5 Digits: .1234567.489a9bc*.*4**854d*.!**..,***.5545-
+#
+# Line 2 Roman:    siX+*jûariX+moriX+,víX+abta+ma+ria+-
+# The "jû" is an "m" rather out of shape.
+# The "+" in "ma+ria" is raised and takes no space between the "a" and "r".
+#
+<f116v.P.3;U>      oror.sheey!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!=
+# Line 3 Roman:    ****.*****.val8e^,vbreY-{gap}so.nim.gas.mich.o=
+# The "8" is small and tilted to the right; it may be an EVA "d"
+#   or a Roman "a" with some noise.
+# The final "o" may be a spot, or a vellum defect.

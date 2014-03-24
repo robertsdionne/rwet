@@ -1,0 +1,189 @@
+## <f0.Z> {}
+# Last edited on 1998-12-26 11:04:13 by stolfi
+# 
+# GLOSSARY OF TERMS USED IN PAGE DESCRIPTIONS
+# By Jorge Stolfi 05 Dec 1998
+# 
+# /crease/ 
+#   An *accidental* crease in the vellum (cf. /fold/).
+# 
+# /fold/ 
+#   An *intentional* fold in the vellum, namely between 
+#   panels of a fold-out.
+# 
+# /gutter/ 
+#   The fold where a /bifolio/ is sewed to the book.
+#   
+# /quire/ 
+#   A stack of /bifolios/ that was folded and bound as a unit. The
+#   quires of the book are identified with letters `A' to to `T',
+#   front to back, which may be written `qA' thru `qT' for clarity.
+#   Rene Zandbergen has a detailed description of all quires and
+#   bifolios.
+# 
+# /bifolio/ 
+#   A connected piece of vellum, usually consisting of two /folios/
+#   joined across the /gutter/. The notation bQK will be used to
+#   denote the Kth bifolio of quire Q, counting from 1 (the outermost
+#   one).
+# 
+# /folio/ 
+#   A piece of vellum defined on one side by the gutter and three free
+#   edges. In the big fold-out, the two folios (85 and 86) are
+#   separated by the gutter and the vertical fold that is collinear
+#   with it.
+#   
+# /f-number/ 
+#   The standard folio number, usually written fNN where NN is the
+#   original number written in the manuscript, usually at the top of
+#   the /recto/ side.
+#        
+# /side/ 
+#   One of the two surfaces of a /folio/ or /bifolio/. The sides of folio
+#   fNN are denoted fNNr and fNNv, for /recto/ and /verso/, respectively.
+# 
+# /recto/ 
+#   The /side/ of a /folio/ that you see when the /gutter/ is on the
+#   left, the book is in its normal orientation, and the folio is
+#   completely unfolded.
+#        
+# /verso/ 
+#   The /side/ of a /folio/ opposite to the /recto/ side, i.e. the one
+#   that you see when the /gutter/ is at right.
+# 
+# /free edge/ 
+#   A straight section of the physical boundary of a /bifolio/.
+#   
+# /edge/ 
+#   Either a /free edge/ or a /fold/.
+# 
+# /panel/ 
+#   A rectangular partition of one side of a /folio/, delimited by
+#   four /edges/. Thus a simple folio has two panels, recto and verso,
+#   denoted by fNNr and fNNv where fNN is the folio number. In
+#   fold-outs, panels are numbered fNNrK or fNNvK, starting from the
+#   innermost panel (adjacent to to the gutter, K=1) and increasing
+#   outwards (towards the vertical free edge of the folio). Jim Reeds
+#   has a very detailed description of how the complex folios are
+#   folded, including panel numbers.
+# 
+# /page/ 
+#   One or more adjacent panels that are to be read as a unit, e.g.
+#   because the contents is laid out without regards for the
+#   separating edges. A page is identified by the number of its
+#   innermost panel (the one that is closest to the gutter).
+#   
+# /contents/ 
+#   Of a page, the text and drawings in it.
+# 
+# /margin/ 
+#   Each of the four imaginary straight lines (top, bottom, left,
+#   right; or North, South, West, East) that seem to bound the normal
+#   text in a page. They usually lie a couple of centimeters inwards
+#   relative to the panel's edges. Note that drawings and labels may
+#   extend beyond the margins.
+#   
+# /word/ 
+#   A sequence of characters (Voynichese by default) not broken by
+#   /word spaces/ or graphical material.
+#   
+# /word space/ 
+#   A space between two character that is noticebly wider than the
+#   average spacing.
+#   
+# /text line/ 
+#   A linear arrangement of characters, mostly straight or circular,
+#   with their `up' directions perpendicular to the overall line
+#   direction, and that (presumably) must be read consecutively. Note
+#   that a text line may be /interrupted/ by graphical elements,
+#   folds, vellum defects, etc.
+# 
+# /text ring/ 
+#   A circular text line that covers almost one full circle.
+#   
+# /text block/ 
+#   A set of two or more consecutive lines of text, stacked
+#   perpendicularly to the reading direction not more than a couple of
+#   character heights apart, and which presumably are to be read in
+#   sequence. Note that a text block may consist of concentric
+#   circular lines, and may comprise one or more /paragraphs/.
+# 
+# /text edge/ 
+#   The two imaginary lines, not necessarily straight, that connect
+#   the left end right endpoints of successive lines in a text block.
+# 
+# /paragraph/ 
+#   A text block where the spacing between /text lines/ is uniform and
+#   close to the minimum, and which presumably is a single sequence of
+#   words arbitrarily broken into lines to fit the available space.
+#   Typically, at least one of the text edges is straight or follows
+#   the outline of an adjacent figure. The number of lines of a
+#   paragraph is usually given as M.N, where M is the number of whole
+#   lines, and N/10 is the width of the last line, relative to the
+#   total width available for it (not counting any space taken up by
+#   figures, folds, creases).
+#
+# /left justified/
+#   (Of a text block) whose left text edge is straight and vertical.
+#   
+# /right justified/
+#   (Of a text block) whose right text edge is straight and vertical,
+#   except possibly for the last lines of paragraphs.
+#   
+# /label/ 
+#   A short text line, containing only a couple of words, that is
+#   placed next to a figure or in a cell of a diagram.
+#   
+# /title/ 
+#   A text line that is placed next to a figure or in a cell of a
+#   diagram, and is longer than a couple of words; or is placed above
+#   or below a paragraph, but cannot be assumed to be part of it.
+# 
+# /star/ 
+#   A star-shaped figure with straight sharp-pointed rays, possibly
+#   with interior detail.
+#   
+# /tail/
+#   (Of a star) a single curved line attached to the star's outline.
+#
+# /notched square/
+#   A design often found in circular bands around diagrams. It
+#   consists of a squarish sector of the band, containg four small
+#   "u"s, each connected to one side by both arms. The radial sides of
+#   the square are often doubled or tripled. Sometimes there are also
+#   dots in the center and/or near the four corners. This design seems
+#   to be used as a decoration in some diagrams (e.g. on f67v1, the
+#   "happy sun" page) and as a start-of-text marker in others (e.g
+#   f71r, the "Aries light" page.)
+# 
+# /nymph/ 
+#   A human figure of female or indeterminate sex, with full or
+#   partial body which may have merely a decorative or exemplary
+#   purpose. E.g. the figures in the biological section, or around the
+#   zodiac diagrams; but not the figures in the zodiac signs
+#   themselves, or the sun/moon faces.
+# 
+# /breasts/
+#   Visible female breasts, bare or clothed.
+#
+# /mechanically drawn/ 
+#   The opposite of freehand. Said of straight lines that seem to have
+#   been traced with ruler. Also said of circles that seem to have
+#   been drawn with compass, or by tracing some round object.
+#   (Jim Reeds, reporting on his Beinecke visit [13 Jul 94], says that
+#   "there were no pricks or pounce marks, no rulings except
+#   on the circular diagrams.")
+#     
+# /scales/ 
+#   A common decoration motif consisting of close-packed scales with
+#   rounded edge. When the fore edge of the scale-packed region is
+#   visible, each scale is usually seen to have a tongue-like shape,
+#   with parallel sides narrowing slightly towards the basal edge,
+#   which is attached to the substrate.
+#
+#   This motif could represent closely-packed leaves, feathers, roof
+#   tiles, flaps of fabric, etc. On one diagrams, some nymphs are
+#   buried waist-deep in a field of scales, so it could be clouds,
+#   grass, bushes, or a planted field. Another compelling
+#   interpretation in some contexts is a layer of closely-packed seeds
+#   or florets, as in corn, pomegranate, sunflower, etc.

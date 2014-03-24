@@ -1,0 +1,40 @@
+## <f102v2.L2> {}
+# Plant labels, second row
+# Last edited on 1998-12-11 07:42:39 by stolfi
+# 
+# flower [2,1] - "wrapped candy" flower
+<f102v2.L2.1;H>    okody=
+<f102v2.L2.1;V>    okedy={was <f102v2.X.7;V>}
+<f102v2.L2.1;U>    okody=
+# 
+# leaf [2,2] comb-shaped leaf with knob-shaped fingers
+<f102v2.L2.2;H>    cheor=
+<f102v2.L2.2;V>    cheor={was <f102v2.X.3;V>}
+<f102v2.L2.2;U>    cheor=
+# 
+# leaf [2,3] - comb-shaped leaf with knob-shaped fingers and sharp "claws" 
+<f102v2.L2.3;H>    okoroeey=
+<f102v2.L2.3;V>    okoroeey={was <f102v2.X.13;V>}
+<f102v2.L2.3;U>    okoroeey=
+# 
+# leaf [2,4] - pine-like leaves, thin light stem
+<f102v2.L2.4;H>    opchy=
+<f102v2.L2.4;V>    opchy={was <f102v2.X.17;V>}
+<f102v2.L2.4;U>    opchy=
+# 
+# leaf [2,5] - leaf with six clubsuit-shaped fingers
+<f102v2.L2.5;H>    sarol=
+<f102v2.L2.5;V>    sarol={was <f102v2.X.26;V>}
+<f102v2.L2.5;U>    sarol=
+# 
+# leaf [2,6] - round leaf with many knob-shaped fingers
+<f102v2.L2.6;H>    olrodar=
+<f102v2.L2.6;F>    olrodar={was <f102v2.P.2;F>}
+<f102v2.L2.6;V>    olrodar={was <f102v2.X.14;V>}
+<f102v2.L2.6;U>    olrodar=
+# 
+# leaf [2,7] - cypress-like plant with chestnut-like tuber
+<f102v2.L2.7;H>    tod*!!=
+<f102v2.L2.7;V>    tal*!!={was <f102v2.X.28;V>}
+<f102v2.L2.7;U>    tch***=
+#

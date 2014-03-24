@@ -1,0 +1,96 @@
+## <f17v.P> {}
+# text
+# Last edited on 1998-12-06 20:57:24 by stolfi
+#
+<f17v.P.1;H>       pchodol.chor.fchy.opydaiin.odaldy-{plant}
+<f17v.P.1;C>       pchodol.chor.pchy.opydaiin.odaldy-{plant}
+<f17v.P.1;F>       pchodol.chor.fchy.opydaiin.odaldy-{plant}
+#
+<f17v.P.2;H>       ycheey.keeor.ctho!dal.okol.odaiin.okal-{plant}
+<f17v.P.2;C>       ycheey.kshor.ctho!dal.okol.odaiin.okal-{plant}
+<f17v.P.2;F>       ycheey.keeor.ctho.dal.okol.odaiin.okal-{plant}
+#
+<f17v.P.3;H>       oldaim.odaiin.okal.oldaiin.chockhol.olol-{plant}
+<f17v.P.3;C>       oldaim.odaiin.okal.oldaiin.chockhol.olol-{plant}
+<f17v.P.3;F>       oldaim.odaiin.okal.oldaiin.chockhol.olol-{plant}
+#
+<f17v.P.4;H>       kchor.fchol.cphol.olcheol.okeeey-{plant}
+<f17v.P.4;C>       kchor.fchol.cphol.olcheol.okee!y-{plant}
+<f17v.P.4;F>       kchor.fchol.cphol.olcheol.okeeey-{plant}
+#
+<f17v.P.5;H>       ychol.chol.dol!cheey.tchol.dar.ckhy-{plant}
+<f17v.P.5;C>       ychol.chol.dol.cheey.tchol.dar.ckhy-{plant}
+<f17v.P.5;F>       ychol.chol.dol!cheey.tchol.dar.ckhy-{plant}
+#
+<f17v.P.6;H>       oekor.or.okaiin.or.otaiin.d-{plant}
+<f17v.P.6;C>       oekor.or.okaiin.or.otaiin!d-{plant}
+<f17v.P.6;F>       oekor.or.okaiin.or.otaiin.d-{plant}
+#
+<f17v.P.7;H>       sor.chkeey.poiis.cheor.os.s.aiin-{plant}
+<f17v.P.7;C>       sor.chkeey.poiis.cheor.os.s.aiin-{plant}
+<f17v.P.7;F>       sor.chkeey.poiis.ch!or.os.s!aiin-{plant}
+#
+<f17v.P.8;H>       qokeey.kcha!r.ol.dy.chol!daiin.sy-{plant}
+<f17v.P.8;C>       qokeey.kcho!r.ol.dy.chol!daiin.sy-{plant}
+<f17v.P.8;F>       qokeey.kcha.r!ol.dy.chol.daiin.sy-{plant}
+#
+<f17v.P.9;H>       ycheol.shol.kchol.chol!taiin.ol-{plant}
+<f17v.P.9;C>       ycheol.shol.kchol.chol!kaiin.ol-{plant}
+<f17v.P.9;F>       ycheol.shol.kchol.chol.taiin.ol-{plant}
+#
+<f17v.P.10;H>      oytor.okeor.okar.okol.doiir!am-
+<f17v.P.10;C>      oytor.okeor.okor.okol.dai!r.ym-
+<f17v.P.10;F>      oytor.okeor.okar.okol.doiir.am-
+#
+<f17v.P.11;H>      qokcheo.qokoiir.ctheol.chol-{plant}
+<f17v.P.11;C>      qokcheo.qokoiir.ctheol.chol-{plant}
+<f17v.P.11;F>      qokcheo.qokoiir.ctheol.chol-{plant}
+#
+<f17v.P.12;H>      oy.choy.koaiin.chckhey.ol.chor-{plant}
+<f17v.P.12;C>      oy.choy.keaiin.chckhey.ol.chor-{plant}
+<f17v.P.12;F>      oy.choy.keaiin.chckhey.ol.chor-{plant}
+#
+<f17v.P.13;H>      ykeor.chol.chol.cthol.chkor.sheol-{plant}
+<f17v.P.13;C>      ykeor.chol.chol.cthol.chkor.sheol-{plant}
+<f17v.P.13;F>      ykeor.chol.chol.cthol.chkor.sheol-{plant}
+#
+<f17v.P.14;H>      olo.r.okeeol.chodaiin.okeol.tchory-{plant}
+<f17v.P.14;C>      olo.r.okeeol.chodaiin.okeol.tchory-{plant}
+<f17v.P.14;F>      olo!r.okeeol.chodaiin.okeol.tchory-{plant}
+#
+<f17v.P.15;H>      ychor.cthy.cheeky.cheo.otor.oteol-{plant}
+<f17v.P.15;C>      ychor.cthy.cheeky.cheo.otor.oteol-{plant}
+<f17v.P.15;F>      ychor.cthy.cheeky.cheo.otor.oteol-{plant}
+#
+<f17v.P.16;H>      okcheol.chol.okeol.cthol.otcheolom-{plant}
+<f17v.P.16;C>      okch!ol.chol.okeol.cthol.ot!!eoloj-{plant}
+<f17v.P.16;F>      okcheol.chol.okeol.cthol.otcheolom-{plant}
+#
+<f17v.P.17;H>      qoain.sar.she.dol.qopchaiin.cthor-
+<f17v.P.17;C>      qoain.*ar.she.dol.qopchaiin.cthor-
+<f17v.P.17;F>      qoain.sar.she.dol.qopchaiin.cthor-
+#
+<f17v.P.18;H>      otor.cheeor.ol.chol.dor.chr.or.eees-{plant}
+<f17v.P.18;C>      otar.cheeor.ol.chol.dor.chr.or.eees-{plant}
+<f17v.P.18;F>      otor.cheeor.ol.chol.dor.chr.or!eees-{plant}
+#
+<f17v.P.19;H>      dain.chey.qoaiin.cthor.chol.chom-{plant}
+<f17v.P.19;C>      dain.chey.qoaiin.cthor.chol.chom-{plant}
+<f17v.P.19;F>      dain.chey.qoaiin.cthor.chol!chom-{plant}
+#
+<f17v.P.20;H>      ykeey.okeey.cheor.chol.sho.ydaiin-
+<f17v.P.20;C>      ykeey.okeey.cheor.chol.sho.odaiin-
+<f17v.P.20;F>      ykeey.okeey.cheor.chol.sho.ydaiin-
+#
+<f17v.P.21;H>      oal.sheor.sholor.or.shecthy.cpheor.daiin-{plant}
+<f17v.P.21;C>      oal.sheor.sholor.or.shecthy.!p!eor.daiin-{plant}
+<f17v.P.21;F>      oal.cheor.sholor.or.shecthy.cpheor.daiin-{plant}
+#
+<f17v.P.22;H>      qokeee.dar.chey.keeor.cheeol.ctheey.cthy-{plant}
+<f17v.P.22;C>      qokeee.dar.chey.keeor.cheeol.ctheoy.cthy-{plant}
+<f17v.P.22;F>      qokeee.dar.chey.keeor.cheeol.ctheey.cthy-{plant}
+#
+<f17v.P.23;H>      chkeey.okeor.char.okeom=
+<f17v.P.23;C>      chkeey.okeor.shor.okeom=
+<f17v.P.23;F>      chkeey.okeor.char.okeom=
+#

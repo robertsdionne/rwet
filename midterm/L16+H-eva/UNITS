@@ -1,0 +1,765 @@
+0001:f0.A:-:-:-:-:-:General overview
+0002:f0.I:-:-:-:-:-:File format, by G. Landini
+0003:f0.J:-:-:-:-:-:Sources, by J. Reeds
+0004:f0.K:-:-:-:-:-:T. Takahashi's transcription
+0005:f0.M:-:-:-:-:-:Stolfi's modifications
+0006:f0.S:-:-:-:-:-:Splitting into text units
+0007:f0.U:-:-:-:-:-:Unfolding '[]' groups  
+0008:f0.V:-:-:-:-:-:Mapping FSG to EVA
+0009:f0.W:-:-:-:-:-:Fixing FSG line breaks
+0010:f0.Z:-:-:-:-:-:Glossary
+0011:f1r:?:A:1:-:p001:descr
+0012:f1r.P1:?:A:1:parags:p001:-
+0013:f1r.T1:?:A:1:titles:p001:under parag
+0014:f1r.P2:?:A:1:parags:p001:-
+0015:f1r.T2:?:A:1:titles:p001:under parag
+0016:f1r.P3:?:A:1:parags:p001:-
+0017:f1r.T3:?:A:1:titles:p001:under parag
+0018:f1r.P4:?:A:1:parags:p001:-
+0019:f1r.T4:?:A:1:titles:p001:under parag
+0020:f1r.L:?:A:1:letters:p001:along right margin
+0021:f1v:herbal:A:1:-:p002:descr
+0022:f1v.P:herbal:A:1:parags:p002:-
+0023:f2r:herbal:A:1:-:p003:descr
+0024:f2r.P:herbal:A:1:parags:p003:-
+0025:f2r.L:herbal:A:1:labels:p003:on plant
+0026:f2v:herbal:A:1:-:p004:descr
+0027:f2v.P:herbal:A:1:parags:p004:-
+0028:f3r:herbal:A:1:-:p005:descr
+0029:f3r.P:herbal:A:1:parags:p005:-
+0030:f3v:herbal:A:1:-:p006:descr
+0031:f3v.P:herbal:A:1:parags:p006:-
+0032:f4r:herbal:A:1:-:p007:descr
+0033:f4r.P:herbal:A:1:parags:p007:-
+0034:f4v:herbal:A:1:-:p008:descr
+0035:f4v.P:herbal:A:1:parags:p008:-
+0036:f5r:herbal:A:1:-:p009:descr
+0037:f5r.P:herbal:A:1:parags:p009:-
+0038:f5v:herbal:A:1:-:p010:descr
+0039:f5v.P:herbal:A:1:parags:p010:-
+0040:f6r:herbal:A:1:-:p011:descr
+0041:f6r.P:herbal:A:1:parags:p011:-
+0042:f6v:herbal:A:1:-:p012:descr
+0043:f6v.P:herbal:A:1:parags:p012:-
+0044:f7r:herbal:A:1:-:p013:descr
+0045:f7r.P:herbal:A:1:parags:p013:-
+0046:f7v:herbal:A:1:-:p014:descr
+0047:f7v.P:herbal:A:1:parags:p014:-
+0048:f8r:herbal:A:1:-:p015:descr
+0049:f8r.P1:herbal:A:1:parags:p015:-
+0050:f8r.T1:herbal:A:1:titles:p015:-
+0051:f8r.P2:herbal:A:1:parags:p015:-
+0052:f8r.T2:herbal:A:1:titles:p015:-
+0053:f8r.P3:herbal:A:1:parags:p015:-
+0054:f8r.T3:herbal:A:1:titles:p015:-
+0055:f8v:herbal:A:1:-:p016:descr
+0056:f8v.P:herbal:A:1:parags:p016:-
+0057:f9r:herbal:A:1:-:p017:descr
+0058:f9r.P:herbal:A:1:parags:p017:-
+0059:f9r.T:herbal:A:1:titles:p017:-
+0060:f9v:herbal:A:1:-:p018:descr
+0061:f9v.P:herbal:A:1:parags:p018:-
+0062:f10r:herbal:A:1:-:p019:descr
+0063:f10r.P:herbal:A:1:parags:p019:-
+0064:f10v:herbal:A:1:-:p020:descr
+0065:f10v.P:herbal:A:1:parags:p020:-
+0066:f11r:herbal:A:1:-:p021:descr
+0067:f11r.P:herbal:A:1:parags:p021:-
+0068:f11v:herbal:A:1:-:p022:descr
+0069:f11v.P:herbal:A:1:parags:p022:-
+0070:f12r:?:?:?:-:-:missing folio
+0071:f12v:?:?:?:-:-:missing folio
+0072:f13r:herbal:A:1:-:p023:descr
+0073:f13r.P:herbal:A:1:parags:p023:-
+0074:f13v:herbal:A:1:-:p024:descr
+0075:f13v.P:herbal:A:1:parags:p024:-
+0076:f14r:herbal:A:1:-:p025:descr
+0077:f14r.P:herbal:A:1:parags:p025:-
+0078:f14v:herbal:A:1:-:p026:descr
+0079:f14v.P:herbal:A:1:parags:p026:-
+0080:f15r:herbal:A:1:-:p027:descr
+0081:f15r.P:herbal:A:1:parags:p027:-
+0082:f15v:herbal:A:1:-:p028:descr
+0083:f15v.P:herbal:A:1:parags:p028:-
+0084:f16r:herbal:A:1:-:p029:descr
+0085:f16r.P1:herbal:A:1:parags:p029:-
+0086:f16r.T1:herbal:A:1:titles:p029:-
+0087:f16r.P2:herbal:A:1:parags:p029:-
+0088:f16v:herbal:A:1:-:p030:descr
+0089:f16v.P:herbal:A:1:parags:p030:-
+0090:f17r:herbal:A:1:-:p031:descr
+0091:f17r.H:herbal:A:1:-:p031:extraneous writing
+0092:f17r.P:herbal:A:1:parags:p031:-
+0093:f17v:herbal:A:1:-:p032:descr
+0094:f17v.P:herbal:A:1:parags:p032:-
+0095:f18r:herbal:A:1:-:p033:descr
+0096:f18r.P:herbal:A:1:parags:p033:-
+0097:f18r.T:herbal:A:1:titles:p033:-
+0098:f18v:herbal:A:1:-:p034:descr
+0099:f18v.P:herbal:A:1:parags:p034:-
+0100:f19r:herbal:A:1:-:p035:descr
+0101:f19r.P:herbal:A:1:parags:p035:-
+0102:f19v:herbal:A:1:-:p036:descr
+0103:f19v.P:herbal:A:1:parags:p036:-
+0104:f19v.T:herbal:A:1:titles:p036:-
+0105:f20r:herbal:A:1:-:p037:descr
+0106:f20r.P:herbal:A:1:parags:p037:-
+0107:f20v:herbal:A:1:-:p038:descr
+0108:f20v.P:herbal:A:1:parags:p038:-
+0109:f21r:herbal:A:1:-:p039:descr
+0110:f21r.P:herbal:A:1:parags:p039:-
+0111:f21v:herbal:A:1:-:p040:descr
+0112:f21v.P:herbal:A:1:parags:p040:-
+0113:f22r:herbal:A:1:-:p041:descr
+0114:f22r.P:herbal:A:1:parags:p041:-
+0115:f22v:herbal:A:1:-:p042:descr
+0116:f22v.P:herbal:A:1:parags:p042:-
+0117:f22v.T:herbal:A:1:titles:p042:-
+0118:f23r:herbal:A:1:-:p043:descr
+0119:f23r.P:herbal:A:1:parags:p043:-
+0120:f23v:herbal:A:1:-:p044:descr
+0121:f23v.P:herbal:A:1:parags:p044:-
+0122:f24r:herbal:A:1:-:p045:descr
+0123:f24r.P:herbal:A:1:parags:p045:-
+0124:f24r.T:herbal:A:1:titles:p045:-
+0125:f24v:herbal:A:1:-:p046:descr
+0126:f24v.P:herbal:A:1:parags:p046:-
+0127:f25r:herbal:A:1:-:p047:descr
+0128:f25r.P:herbal:A:1:parags:p047:-
+0129:f25r.T:herbal:A:1:titles:p047:-
+0130:f25v:herbal:A:1:-:p048:descr
+0131:f25v.P:herbal:A:1:parags:p048:-
+0132:f26r:herbal:B:2:-:p049:descr
+0133:f26r.P:herbal:B:2:parags:p049:-
+0134:f26v:herbal:B:2:-:p050:descr
+0135:f26v.P:herbal:B:2:parags:p050:-
+0136:f27r:herbal:A:1:-:p051:descr
+0137:f27r.P:herbal:A:1:parags:p051:-
+0138:f27r.T:herbal:A:1:titles:p051:-
+0139:f27v:herbal:A:1:-:p052:descr
+0140:f27v.P:herbal:A:1:parags:p052:-
+0141:f28r:herbal:A:1:-:p053:descr
+0142:f28r.P:herbal:A:1:parags:p053:-
+0143:f28v:herbal:A:1:-:p054:descr
+0144:f28v.P1:herbal:A:1:parags:p054:-
+0145:f28v.T1:herbal:A:1:titles:p054:-
+0146:f28v.P2:herbal:A:1:parags:p054:-
+0147:f29r:herbal:A:1:-:p055:descr
+0148:f29r.P:herbal:A:1:parags:p055:-
+0149:f29v:herbal:A:1:-:p056:descr
+0150:f29v.P:herbal:A:1:parags:p056:-
+0151:f30r:herbal:A:1:-:p057:descr
+0152:f30r.P:herbal:A:1:parags:p057:-
+0153:f30v:herbal:A:1:-:p058:descr
+0154:f30v.P:herbal:A:1:parags:p058:-
+0155:f31r:herbal:B:2:-:p059:descr
+0156:f31r.P:herbal:B:2:parags:p059:-
+0157:f31r.T:herbal:B:2:titles:p059:-
+0158:f31v:herbal:B:2:-:p060:descr
+0159:f31v.P:herbal:B:2:parags:p060:-
+0160:f32r:herbal:A:1:-:p061:descr
+0161:f32r.P:herbal:A:1:parags:p061:-
+0162:f32v:herbal:A:1:-:p062:descr
+0163:f32v.P:herbal:A:1:parags:p062:-
+0164:f33r:herbal:B:2:-:p063:descr
+0165:f33r.P:herbal:B:2:parags:p063:-
+0166:f33v:herbal:B:2:-:p064:descr
+0167:f33v.P:herbal:B:2:parags:p064:-
+0168:f34r:herbal:B:2:-:p065:descr
+0169:f34r.P:herbal:B:2:parags:p065:-
+0170:f34v:herbal:B:2:-:p066:descr
+0171:f34v.P:herbal:B:2:parags:p066:-
+0172:f35r:herbal:A:1:-:p067:descr
+0173:f35r.P:herbal:A:1:parags:p067:-
+0174:f35v:herbal:A:1:-:p068:descr
+0175:f35v.P:herbal:A:1:parags:p068:-
+0176:f36r:herbal:A:1:-:p069:descr
+0177:f36r.P:herbal:A:1:parags:p069:-
+0178:f36v:herbal:A:1:-:p070:descr
+0179:f36v.P:herbal:A:1:parags:p070:-
+0180:f37r:herbal:A:1:-:p071:descr
+0181:f37r.P:herbal:A:1:parags:p071:-
+0182:f37v:herbal:A:1:-:p072:descr
+0183:f37v.P:herbal:A:1:parags:p072:-
+0184:f38r:herbal:A:1:-:p073:descr
+0185:f38r.P:herbal:A:1:parags:p073:-
+0186:f38v:herbal:A:1:-:p074:descr
+0187:f38v.P:herbal:A:1:parags:p074:-
+0188:f39r:herbal:B:2:-:p075:descr
+0189:f39r.P:herbal:B:2:parags:p075:-
+0190:f39r.T:herbal:B:2:titles:p075:-
+0191:f39v:herbal:B:2:-:p076:descr
+0192:f39v.P:herbal:B:2:parags:p076:-
+0193:f40r:herbal:B:2:-:p077:descr
+0194:f40r.P:herbal:B:2:parags:p077:-
+0195:f40v:herbal:B:2:-:p078:descr
+0196:f40v.P:herbal:B:2:parags:p078:-
+0197:f40v.T:herbal:B:2:titles:p078:-
+0198:f41r:herbal:B:2:-:p079:descr
+0199:f41r.P:herbal:B:2:parags:p079:-
+0200:f41v:herbal:B:2:-:p080:descr
+0201:f41v.T:herbal:B:2:titles:p080:precedes parag
+0202:f41v.P:herbal:B:2:parags:p080:-
+0203:f42r:herbal:A:1:-:p081:descr
+0204:f42r.P1:herbal:A:1:parags:p081:-
+0205:f42r.T1:herbal:A:1:titles:p081:-
+0206:f42r.P2:herbal:A:1:parags:p081:-
+0207:f42r.T2:herbal:A:1:titles:p081:-
+0208:f42r.P3:herbal:A:1:parags:p081:-
+0209:f42r.T3:herbal:A:1:titles:p081:-
+0210:f42v:herbal:A:1:-:p082:descr
+0211:f42v.P:herbal:A:1:parags:p082:-
+0212:f42v.T:herbal:A:1:titles:p082:-
+0213:f43r:herbal:B:2:-:p083:descr
+0214:f43r.P:herbal:B:2:parags:p083:-
+0215:f43v:herbal:B:2:-:p084:descr
+0216:f43v.P:herbal:B:2:parags:p084:-
+0217:f44r:herbal:A:1:-:p085:descr
+0218:f44r.P:herbal:A:1:parags:p085:-
+0219:f44v:herbal:A:1:-:p086:descr
+0220:f44v.P:herbal:A:1:parags:p086:-
+0221:f45r:herbal:A:1:-:p087:descr
+0222:f45r.P:herbal:A:1:parags:p087:-
+0223:f45v:herbal:A:1:-:p088:descr
+0224:f45v.P:herbal:A:1:parags:p088:-
+0225:f46r:herbal:B:2:-:p089:descr
+0226:f46r.P:herbal:B:2:parags:p089:-
+0227:f46v:herbal:B:2:-:p090:descr
+0228:f46v.P:herbal:B:2:parags:p090:-
+0229:f47r:herbal:A:1:-:p091:descr
+0230:f47r.P:herbal:A:1:parags:p091:-
+0231:f47v:herbal:A:1:-:p092:descr
+0232:f47v.P:herbal:A:1:parags:p092:-
+0233:f48r:herbal:B:2:-:p093:descr
+0234:f48r.P:herbal:B:2:parags:p093:-
+0235:f48v:herbal:B:2:-:p094:descr
+0236:f48v.P:herbal:B:2:parags:p094:-
+0237:f49r:herbal:A:1:-:p095:descr
+0238:f49r.P:herbal:A:1:parags:p095:-
+0239:f49v:?:A:1:-:p096:descr
+0240:f49v.L:?:A:1:letters:p096:"key-like seq"
+0241:f49v.P:?:A:1:parags:p096:-
+0242:f50r:herbal:B:2:-:p097:descr
+0243:f50r.P:herbal:B:2:parags:p097:-
+0244:f50v:herbal:B:2:-:p098:descr
+0245:f50v.P:herbal:B:2:parags:p098:-
+0246:f51r:herbal:A:1:-:p099:descr
+0247:f51r.P:herbal:A:1:parags:p099:-
+0248:f51v:herbal:A:1:-:p100:descr
+0249:f51v.P:herbal:A:1:parags:p100:-
+0250:f52r:herbal:A:1:-:p101:descr
+0251:f52r.P:herbal:A:1:parags:p101:-
+0252:f52v:herbal:A:1:-:p102:descr
+0253:f52v.P:herbal:A:1:parags:p102:-
+0254:f53r:herbal:A:1:-:p103:descr
+0255:f53r.P:herbal:A:1:parags:p103:-
+0256:f53v:herbal:A:1:-:p104:descr
+0257:f53v.P:herbal:A:1:parags:p104:-
+0258:f54r:herbal:A:1:-:p105:descr
+0259:f54r.P:herbal:A:1:parags:p105:-
+0260:f54v:herbal:A:1:-:p106:descr
+0261:f54v.P:herbal:A:1:parags:p106:-
+0262:f55r:herbal:B:2:-:p107:descr
+0263:f55r.P:herbal:B:2:parags:p107:-
+0264:f55v:herbal:B:2:-:p108:descr
+0265:f55v.P:herbal:B:2:parags:p108:-
+0266:f56r:herbal:A:1:-:p109:descr
+0267:f56r.P:herbal:A:1:parags:p109:-
+0268:f56v:herbal:A:1:-:p110:descr
+0269:f56v.P:herbal:A:1:parags:p110:-
+0270:f57r:herbal:B:2:-:p111:descr
+0271:f57r.P:herbal:B:2:parags:p111:-
+0272:f57v:cosmo:?:?:-:p112:page decription
+0273:f57v.T:cosmo:?:?:labels:p112:
+0274:f57v.R1:cosmo:?:?:circular-text:p112:
+0275:f57v.R2:cosmo:?:?:circular-text:p112:the 4 × 17 sequence
+0276:f57v.R3:cosmo:?:?:circular-text:p112:
+0277:f57v.R4:cosmo:?:?:circular-text:p112:
+0278:f57v.X:cosmo:?:?:labels:p112:on nymphs
+0279:f57v.Y:cosmo:?:?:labels:p112:on directions
+0280:f58r:stars:A:?:-:p113:descr
+0281:f58r.P:stars:A:?:starred-parags:p113:-
+0282:f58v:stars:A:?:-:p114:descr
+0283:f58v.P1:stars:A:?:parags:p114:above title
+0284:f58v.T:stars:A:?:titles:p114:centered
+0285:f58v.P2:stars:A:?:parags:p114:below title
+0286:f59r:?:?:?:-:-:missing folio
+0287:f59v:?:?:?:-:-:missing folio
+0288:f60r:?:?:?:-:-:missing folio
+0289:f60v:?:?:?:-:-:missing folio
+0290:f61r:?:?:?:-:-:missing folio
+0291:f61v:?:?:?:-:-:missing folio
+0292:f62r:?:?:?:-:-:missing folio
+0293:f62v:?:?:?:-:-:missing folio
+0294:f63r:?:?:?:-:-:missing folio
+0295:f63v:?:?:?:-:-:missing folio
+0296:f64r:?:?:?:-:-:missing folio
+0297:f64v:?:?:?:-:-:missing folio
+0298:f65r:herbal:?:?:-:p115:descr
+0299:f65r.L:herbal:?:?:titles:p115:next to plant
+0300:f65v:herbal:?:?:-:p116:descr
+0301:f65v.P:herbal:?:?:parags:p116:-
+0302:f66r:?:B:?:-:p117:descr
+0303:f66r.L:?:B:?:words:p117:left col of a table
+0304:f66r.M:?:B:?:letters:p117:middle col of a table
+0305:f66r.R:?:B:?:parags:p117:right col of a table?
+0306:f66r.W:?:B:?:titles:p117:above figure
+0307:f66v:herbal:B:?:-:p118:descr
+0308:f66v.P:herbal:B:?:parags:p118:-
+0309:f67r1:cosmo:?:?:-:p119:descr
+0310:f67r1.P:cosmo:?:?:parags:p119:above diagram
+0311:f67r1.R:cosmo:?:?:circular-lines:p119:-
+0312:f67r1.S:cosmo:?:?:labels:p119:on outer sectors
+0313:f67r2:cosmo:?:?:-:p120:descr
+0314:f67r2.Y:cosmo:?:?:titles:p120:outside sectors
+0315:f67r2.C:cosmo:?:?:parags:p120:in sectors
+0316:f67r2.L:cosmo:?:?:labels:p120:planet names?
+0317:f67r2.X:cosmo:?:?:labels:p120:under moons
+0318:f67r2.Z:cosmo:?:?:labels:p120:around central star
+0319:f67r2.P:cosmo:?:?:parags:p120:under diagram
+0320:f67v2:cosmo:?:?:-:p121:descr
+0321:f67v2.F:cosmo:?:?:labels:p121:in circles with faces
+0322:f67v2.C:cosmo:?:?:parags:p121:around main circle
+0323:f67v2.R:cosmo:?:?:radial-lines:p121:inward 
+0324:f67v2.L:cosmo:?:?:radial-lines:p121:outward
+0325:f67v2.S:cosmo:?:?:labels:p121:center square
+0326:f67v1:cosmo:?:?:-:p122:descr
+0327:f67v1.X:cosmo:?:?:labels:p122:outer band
+0328:f67v1.Y:cosmo:?:?:radial-lines:p122:outward
+0329:f68r1:cosmo:?:?:-:p123:descr
+0330:f68r1.P:cosmo:?:?:parags:p123:above diagram
+0331:f68r1.X:cosmo:?:?:titles:p123:sun face
+0332:f68r1.S:cosmo:?:?:labels:p123:on stars
+0333:f68r1.Y:cosmo:?:?:titles:p123:moon face
+0334:f68r2:cosmo:?:?:-:p124:descr
+0335:f68r2.P:cosmo:?:?:parags:p124:-
+0336:f68r2.U:cosmo:?:?:circular-lines:p124:upper ring
+0337:f68r2.S:cosmo:?:?:labels:p124:on stars        
+0338:f68r2.L:cosmo:?:?:circular-lines:p124:lower ring
+0339:f68r3:cosmo:?:?:-:p125:descr
+0340:f68r3.C1:cosmo:?:?:circular-lines:p125:outer text ring
+0341:f68r3.R:cosmo:?:?:radial-lines:p125:inward
+0342:f68r3.X:cosmo:?:?:labels:p125:on stars
+0343:f68r3.C2:cosmo:?:?:circular-lines:p125:inner text ring
+0344:f68v3:cosmo:?:?:-:p126:descr
+0345:f68v3.P:cosmo:?:?:parags:p126:above diagram
+0346:f68v3.O:cosmo:?:?:circular-lines:p126:outer text ring
+0347:f68v3.S:cosmo:?:?:radial-lines:p126:galaxy arms
+0348:f68v3.I:cosmo:?:?:circular-lines:p126:inner text ring
+0349:f68v3.L:cosmo:?:?:labels:p126:T-O diagram, top
+0350:f68v3.B:cosmo:?:?:parags:p126:T-O diagram, bottom
+0351:f68v2:cosmo:?:?:-:p127:descr
+0352:f68v2.P:cosmo:?:?:parags:p127:above diagram
+0353:f68v2.C:cosmo:?:?:circular-lines:p127:around diagram
+0354:f68v2.R:cosmo:?:?:radial-lines:p127:from star tips
+0355:f68v2.S:cosmo:?:?:labels:p127:with stars
+0356:f68v1:cosmo:?:?:-:p128:descr
+0357:f68v1.C:cosmo:?:?:circular-lines:p128:around diagram
+0358:f68v1.X:cosmo:?:?:radial-lines:p128:outer sectors
+0359:f69r:cosmo:?:?:-:p129:descr
+0360:f69r.P:cosmo:?:?:parags:p129:above diagram
+0361:f69r.C:cosmo:?:?:labels:p129:around diagram
+0362:f69r.R:cosmo:?:?:radial-lines:p129:between flowerstalks
+0363:f69r.S:cosmo:?:?:circular-lines:p129:around central star
+0364:f69r.W:cosmo:?:?:letters:p129:between star arms
+0365:f69v:cosmo:?:?:-:p130:descr
+0366:f69v.C:cosmo:?:?:circular-lines:p130:outer frame
+0367:f69v.L:cosmo:?:?:labels:p130:radial over logs
+0368:f70r1:cosmo:?:?:-:p131:descr
+0369:f70r1.C:cosmo:?:?:circular-lines:p131:around perimeter
+0370:f70r1.Y:cosmo:?:?:labels:p131:nine sectors
+0371:f70r1.I:cosmo:?:?:circular-lines:p131:around central disk
+0372:f70r1.X:cosmo:?:?:labels:p131:six sectors
+0373:f70r2:cosmo:?:?:-:p132:descr
+0374:f70r2.C:cosmo:?:?:circular-lines:p132:outer frame
+0375:f70r2.I:cosmo:?:?:circular-lines:p132:inner text ring
+0376:f70r2.P:cosmo:?:?:parags:p132:NE of the diagram
+0377:f70v2:zodiac:?:?:-:p133:pisces
+0378:f70v2.R3:zodiac:?:?:circular-lines:p133:outer text ring
+0379:f70v2.S2:zodiac:?:?:labels:p133:outer star band
+0380:f70v2.R2:zodiac:?:?:circular-lines:p133:middle text ring
+0381:f70v2.S1:zodiac:?:?:labels:p133:inner star band
+0382:f70v2.R1:zodiac:?:?:circular-lines:p133:inner text ring
+0383:f70v2.C:zodiac:?:?:labels:p133:on central star
+0384:f70v1:zodiac:?:?:-:p134:aries light
+0385:f70v1.R2:zodiac:?:?:circular-lines:p134:outer text ring
+0386:f70v1.S2:zodiac:?:?:labels:p134:outer star band
+0387:f70v1.R1:zodiac:?:?:circular-lines:p134:inner text ring
+0388:f70v1.S1:zodiac:?:?:labels:p134:inner star band
+0389:f71r:zodiac:?:?:-:p135:aries dark
+0390:f71r.R1:zodiac:?:?:circular-lines:p135:outer text ring
+0391:f71r.S1:zodiac:?:?:labels:p135:outer star band
+0392:f71r.R2:zodiac:?:?:circular-lines:p135:middle text ring
+0393:f71r.S2:zodiac:?:?:labels:p135:inner star band
+0394:f71r.R3:zodiac:?:?:circular-lines:p135:inner text ring
+0395:f71v:zodiac:?:?:-:p136:taurus light
+0396:f71v.R1:zodiac:?:?:circular-lines:p136:outer text ring
+0397:f71v.S1:zodiac:?:?:labels:p136:outer star band
+0398:f71v.R2:zodiac:?:?:circular-lines:p136:middle text ring
+0399:f71v.S2:zodiac:?:?:labels:p136:inner star band
+0400:f71v.R3:zodiac:?:?:circular-lines:p136:inner text ring
+0401:f72r1:zodiac:?:?:-:p137:taurus dark
+0402:f72r1.R1:zodiac:?:?:circular-lines:p137:outer text ring
+0403:f72r1.S1:zodiac:?:?:labels:p137:outer star band
+0404:f72r1.R2:zodiac:?:?:circular-lines:p137:middle text ring
+0405:f72r1.S2:zodiac:?:?:labels:p137:inner star band
+0406:f72r1.R3:zodiac:?:?:circular-lines:p137:inner text ring
+0407:f72r2:zodiac:?:?:-:p138:gemini
+0408:f72r2.S0:zodiac:?:?:labels:p138:external stars
+0409:f72r2.R1:zodiac:?:?:circular-lines:p138:outer text ring
+0410:f72r2.S1:zodiac:?:?:labels:p138:outer star band
+0411:f72r2.R2:zodiac:?:?:circular-lines:p138:middle text ring
+0412:f72r2.S2:zodiac:?:?:labels:p138:inner star band
+0413:f72r2.R3:zodiac:?:?:circular-lines:p138:inner text ring
+0414:f72r3:zodiac:?:?:-:p139:cancer
+0415:f72r3.R1:zodiac:?:?:circular-lines:p139:outer text ring
+0416:f72r3.S1:zodiac:?:?:labels:p139:outer star band
+0417:f72r3.R2:zodiac:?:?:circular-lines:p139:next-outer text ring
+0418:f72r3.S2:zodiac:?:?:labels:p139:middle star band
+0419:f72r3.R3:zodiac:?:?:circular-lines:p139:next-inner text ring
+0420:f72r3.S3:zodiac:?:?:labels:p139:inner star band
+0421:f72r3.R4:zodiac:?:?:circular-lines:p139:inner text ring
+0422:f72v3:zodiac:?:?:-:p140:leo
+0423:f72v3.R1:zodiac:?:?:circular-lines:p140:outer text ring
+0424:f72v3.S1:zodiac:?:?:labels:p140:outer star band 
+0425:f72v3.R2:zodiac:?:?:circular-lines:p140:middle text ring
+0426:f72v3.S2:zodiac:?:?:labels:p140:inner star band
+0427:f72v3.R3:zodiac:?:?:circular-lines:p140:inner text ring
+0428:f72v2:zodiac:?:?:-:p141:virgo
+0429:f72v2.R1:zodiac:?:?:circular-lines:p141:outer text ring
+0430:f72v2.S1:zodiac:?:?:labels:p141:outer star band 
+0431:f72v2.R2:zodiac:?:?:circular-lines:p141:middle text ring
+0432:f72v2.S2:zodiac:?:?:labels:p141:inner star band
+0433:f72v2.R3:zodiac:?:?:circular-lines:p141:inner text ring
+0434:f72v1:zodiac:?:?:-:p142:libra
+0435:f72v1.R1:zodiac:?:?:circular-lines:p142:outer text ring
+0436:f72v1.S1:zodiac:?:?:labels:p142:outer star band 
+0437:f72v1.R2:zodiac:?:?:circular-lines:p142:middle text ring
+0438:f72v1.S2:zodiac:?:?:labels:p142:inner star band 
+0439:f72v1.R3:zodiac:?:?:circular-lines:p142:inner text ring
+0440:f73r:zodiac:?:?:-:p143:scorpio
+0441:f73r.S0:zodiac:?:?:labels:p143:external stars
+0442:f73r.R1:zodiac:?:?:circular-lines:p143:outer text ring
+0443:f73r.S1:zodiac:?:?:labels:p143:outer star band  
+0444:f73r.R2:zodiac:?:?:circular-lines:p143:middle text ring
+0445:f73r.S2:zodiac:?:?:labels:p143:inner star band 
+0446:f73r.R3:zodiac:?:?:circular-lines:p143:inner text ring
+0447:f73v:zodiac:?:?:-:p144:sagittarius
+0448:f73v.S0:zodiac:?:?:labels:p144:external stars
+0449:f73v.R1:zodiac:?:?:circular-lines:p144:outer text ring
+0450:f73v.S1:zodiac:?:?:labels:p144:outer star band 
+0451:f73v.R2:zodiac:?:?:circular-lines:p144:middle text ring
+0452:f73v.S2:zodiac:?:?:labels:p144:inner star band 
+0453:f73v.R3:zodiac:?:?:circular-lines:p144:inner text ring
+0454:f74r:?:?:?:-:-:missing folio
+0455:f74v:?:?:?:-:-:missing folio
+0456:f75r:bio:B:2:-:p145:descr
+0457:f75r.P:bio:B:2:parags:p145:
+0458:f75r.L:bio:B:2:labels:p145:on nymphs
+0459:f75v:bio:B:2:-:p146:descr
+0460:f75v.K:bio:B:2:letters:p146:vertical letters
+0461:f75v.P1:bio:B:2:parags:p146:above pond
+0462:f75v.L1:bio:B:2:labels:p146:top pond labels
+0463:f75v.P2:bio:B:2:parags:p146:between ponds
+0464:f75v.L2:bio:B:2:labels:p146:bottom labels 
+0465:f75v.P3:bio:B:2:parags:p146:around bottom pond
+0466:f75v.L3:bio:B:2:labels:p146:left side of pond
+0467:f75v.P4:bio:B:2:parags:p146:bottom left of pond
+0468:f76r:bio:B:2:-:p147:descr
+0469:f76r.L:bio:B:2:letters:p147:parag labels
+0470:f76r.R:bio:B:2:parags:p147:-
+0471:f76v:bio:B:2:-:p148:descr
+0472:f76v.P:bio:B:2:parags:p148:-
+0473:f77r:bio:B:2:-:p149:descr
+0474:f77r.X:bio:B:2:labels:p149:on tube sections
+0475:f77r.P:bio:B:2:parags:p149:-
+0476:f77r.N:bio:B:2:labels:p149:on nymphs
+0477:f77v:bio:B:2:-:p150:descr
+0478:f77v.N:bio:B:2:labels:p150:on nymphs
+0479:f77v.L:bio:B:2:labels:p150:on tubs and tubes
+0480:f77v.P:bio:B:2:parags:p150:-
+0481:f78r:bio:B:2:-:p151:descr
+0482:f78r.P:bio:B:2:parags:p151:-
+0483:f78r.X:bio:B:2:labels:p151:on figures
+0484:f78v:bio:B:2:-:p152:descr
+0485:f78v.P:bio:B:2:parags:p152:-
+0486:f79r:bio:B:2:-:p153:descr
+0487:f79r.P:bio:B:2:parags:p153:fig labels omitted?
+0488:f79v:bio:B:2:-:p154:descr
+0489:f79v.P:bio:B:2:parags:p154:fig labels omitted?
+0490:f80r:bio:B:2:-:p155:descr
+0491:f80r.X:bio:B:2:labels:p155:on figures
+0492:f80r.P:bio:B:2:parags:p155:-
+0493:f80v:bio:B:2:-:p156:descr
+0494:f80v.P:bio:B:2:parags:p156:fig labels omitted?
+0495:f81r:bio:B:2:-:p157:descr
+0496:f81r.P:bio:B:2:parags:p157:fig labels omitted?
+0497:f81v:bio:B:2:-:p158:descr
+0498:f81v.P:bio:B:2:parags:p158:-
+0499:f81v.X:bio:B:2:labels:p158:on figures
+0500:f82r:bio:B:2:-:p159:descr
+0501:f82r.P1:bio:B:2:parags:p159:-
+0502:f82r.L1:bio:B:2:labels:p159:on figures
+0503:f82r.P2:bio:B:2:parags:p159:-
+0504:f82r.L2:bio:B:2:labels:p159:on figures
+0505:f82v:bio:B:2:-:p160:descr
+0506:f82v.L1:bio:B:2:labels:p160:top figures
+0507:f82v.P:bio:B:2:parags:p160:-
+0508:f82v.L2:bio:B:2:labels:p160:side figures
+0509:f82v.L3:bio:B:2:labels:p160:bottom figures
+0510:f83r:bio:B:2:-:p161:descr
+0511:f83r.P:bio:B:2:parags:p161:-
+0512:f83r.W:bio:B:2:labels:p161:on figures
+0513:f83r.X:bio:B:2:parags:p161:between figures, middle
+0514:f83r.Y:bio:B:2:labels:p161:on figures
+0515:f83r.Z:bio:B:2:parags:p161:between figures, bottom
+0516:f83v:bio:B:2:-:p162:descr
+0517:f83v.P1:bio:B:2:parags:p162:top block
+0518:f83v.X:bio:B:2:labels:p162:middle figure
+0519:f83v.P2:bio:B:2:parags:p162:bottom block
+0520:f83v.Y:bio:B:2:labels:p162:bottom right figure
+0521:f84r:bio:B:2:-:p163:descr
+0522:f84r.X:bio:B:2:labels:p163:on top figure
+0523:f84r.P:bio:B:2:parags:p163:-
+0524:f84r.Y:bio:B:2:labels:p163:on left margin
+0525:f84v:bio:B:2:-:p164:descr
+0526:f84v.N:bio:B:2:parags:p164:above top pond
+0527:f84v.P:bio:B:2:parags:p164:-
+0528:f84v.X:bio:B:2:labels:p164:on middle pond
+0529:f84v.Y:bio:B:2:labels:p164:on bottom pond
+0530:f85r1:?:B:3:-:p165:descr
+0531:f85r1.P:?:B:3:parags:p165:-
+0532:f85r1.T:?:B:3:titles:p165:-
+0533:f85r2:cosmo:B:3:-:p166:descr
+0534:f85r2.C1:cosmo:B:3:circular-lines:p166:outer frame
+0535:f85r2.P:cosmo:B:3:parags:p166:inside sectors
+0536:f85r2.C2:cosmo:B:3:circular-lines:p166:inner frame
+0537:f86v4:cosmo:B:3:-:p167:descr
+0538:f86v4.C:cosmo:B:3:circular-lines:p167:around diagram
+0539:f86v4.P:cosmo:B:3:parags:p167:under diagram
+0540:f86v4.T:cosmo:B:3:titles:p167:
+0541:f86v6:?:B:3:-:p168:descr
+0542:f86v6.P:?:B:3:parags:p168:-
+0543:f85v2:cosmo:B:3:-:p169:nine-rosette diagram
+0544:f85v2.W1:cosmo:B:3:parags:p169:NW rosette, W side
+0545:f85v2.V1:cosmo:B:3:circular-lines:p169:around NW rosette
+0546:f85v2.U1:cosmo:B:3:labels:p169:in/near NW rosette
+0547:f85v2.V2:cosmo:B:3:circular-lines:p169:around N rosette
+0548:f85v2.U2:cosmo:B:3:labels:p169:in/near N rosette
+0549:f85v2.V3:cosmo:B:3:circular-lines:p169:around NE rosette
+0550:f85v2.U3:cosmo:B:3:labels:p169:in/near NE rosette
+0551:f85v2.N1:cosmo:B:3:circular-lines:p169:around W rosette
+0552:f85v2.M1:cosmo:B:3:labels:p169:in/near W rosette
+0553:f85v2.N2:cosmo:B:3:circular-lines:p169:around Ctr rosette
+0554:f85v2.M2:cosmo:B:3:labels:p169:in/near Ctr rosette
+0555:f85v2.N3:cosmo:B:3:circular-lines:p169:around E rosette
+0556:f85v2.M3:cosmo:B:3:labels:p169:in/near E rosette
+0557:f85v2.C1:cosmo:B:3:circular-lines:p169:around SW rosette
+0558:f85v2.B1:cosmo:B:3:labels:p169:in/near SW rosette
+0559:f85v2.D1:cosmo:B:3:circular-lines:p169:small SW circle
+0560:f85v2.C2:cosmo:B:3:circular-lines:p169:around S rosette
+0561:f85v2.B2:cosmo:B:3:labels:p169:in/near S rosette
+0562:f85v2.C3:cosmo:B:3:circular-lines:p169:around SE rosette
+0563:f85v2.B3:cosmo:B:3:labels:p169:in/near SE rosette
+0564:f86v5:?:B:3:-:p175:descr
+0565:f86v5.P:?:B:3:parags:p175:-
+0566:f86v5.T:?:B:3:titles:p175:-
+0567:f86v3:cosmo:B:3:-:p176:descr
+0568:f86v3.P1:cosmo:B:3:parags:p176:north side
+0569:f86v3.P2:cosmo:B:3:parags:p176:east side
+0570:f86v3.P3:cosmo:B:3:parags:p176:south side
+0571:f86v3.P4:cosmo:B:3:parags:p176:west side
+0572:f86v3.Q:cosmo:B:3:parags:p176:middle
+0573:f87r:herbal:A:4:-:p177:descr
+0574:f87r.P:herbal:A:4:parags:p177:-
+0575:f87v:herbal:A:4:-:p178:descr
+0576:f87v.P:herbal:A:4:parags:p178:-
+0577:f88r:pharma:A:4:-:p179:descr
+0578:f88r.t:pharma:A:4:labels:p179:under plants
+0579:f88r.P1:pharma:A:4:parags:p179:-
+0580:f88r.m:pharma:A:4:labels:p179:under plants
+0581:f88r.P2:pharma:A:4:parags:p179:-
+0582:f88r.b:pharma:A:4:labels:p179:under plants
+0583:f88r.P3:pharma:A:4:parags:p179:-
+0584:f88v:pharma:A:4:-:p180:descr
+0585:f88v.t:pharma:A:4:labels:p180:under plants
+0586:f88v.P1:pharma:A:4:parags:p180:-
+0587:f88v.m:pharma:A:4:labels:p180:under plants
+0588:f88v.P2:pharma:A:4:parags:p180:-
+0589:f88v.b:pharma:A:4:labels:p180:under plants
+0590:f89r1:pharma:A:?:-:p181:descr
+0591:f89r1.t:pharma:A:?:labels:p181:under plants
+0592:f89r1.P1:pharma:A:?:parags:p181:-
+0593:f89r1.m:pharma:A:?:labels:p181:under plants
+0594:f89r1.P2:pharma:A:?:parags:p181:-
+0595:f89r1.b:pharma:A:?:labels:p181:under plants
+0596:f89r2:pharma:A:?:-:p182:includes f89r3
+0597:f89r2.L1:pharma:A:?:labels:p182:under plants
+0598:f89r2.P1:pharma:A:?:parags:p182:-
+0599:f89r2.L2:pharma:A:?:labels:p182:under plants
+0600:f89r2.P2:pharma:A:?:parags:p182:-
+0601:f89r2.L3:pharma:A:?:labels:p182:under plants
+0602:f89r2.P3:pharma:A:?:parags:p182:-
+0603:f89r2.L4:pharma:A:?:labels:p182:under plants
+0604:f89v2:pharma:A:?:-:p183:includes f89v3
+0605:f89v2.L1:pharma:A:?:labels:p183:under plants
+0606:f89v2.P1:pharma:A:?:parags:p183:-
+0607:f89v2.L2:pharma:A:?:labels:p183:under plants
+0608:f89v2.P2:pharma:A:?:parags:p183:-
+0609:f89v2.L3:pharma:A:?:labels:p183:under plants
+0610:f89v1:pharma:A:?:-:p184:descr
+0611:f89v1.t:pharma:A:?:labels:p184:under plants
+0612:f89v1.P1:pharma:A:?:parags:p184:-
+0613:f89v1.b:pharma:A:?:labels:p184:under plants
+0614:f90r1:herbal:A:?:-:p185:descr
+0615:f90r1.P:herbal:A:?:parags:p185:-
+0616:f90r2:herbal:A:?:-:p186:descr
+0617:f90r2.P:herbal:A:?:parags:p186:-
+0618:f90v2:herbal:A:?:-:p187:descr
+0619:f90v2.P:herbal:A:?:parags:p187:-
+0620:f90v1:herbal:A:?:-:p188:descr
+0621:f90v1.P:herbal:A:?:parags:p188:-
+0622:f91r:?:?:?:-:-:missing folios
+0623:f91v:?:?:?:-:-:missing folios
+0624:f92r:?:?:?:-:-:missing folios
+0625:f92v:?:?:?:-:-:missing folios
+0626:f93r:herbal:A:4:-:p189:descr
+0627:f93r.P:herbal:A:4:parags:p189:-
+0628:f93v:herbal:A:4:-:p190:descr
+0629:f93v.P:herbal:A:4:parags:p190:-
+0630:f94r:herbal:B:5:-:p191:descr
+0631:f94r.P:herbal:B:5:parags:p191:-
+0632:f94r.T:herbal:B:5:titles:p191:-
+0633:f94v:herbal:B:5:-:p192:descr
+0634:f94v.P:herbal:B:5:parags:p192:-
+0635:f95r1:herbal:B:5:-:p193:descr
+0636:f95r1.P:herbal:B:5:parags:p193:-
+0637:f95r2:herbal:B:5:-:p194:descr
+0638:f95r2.P:herbal:B:5:parags:p194:-
+0639:f95v2:herbal:B:5:-:p195:descr
+0640:f95v2.P:herbal:B:5:parags:p195:-
+0641:f95v1:herbal:B:5:-:p196:descr
+0642:f95v1.P:herbal:B:5:parags:p196:-
+0643:f96r:herbal:A:4:-:p197:descr
+0644:f96r.P:herbal:A:4:parags:p197:-
+0645:f96v:herbal:A:4:-:p198:descr
+0646:f96v.P:herbal:A:4:parags:p198:-
+0647:f97r:?:?:?:-:-:missing folios
+0648:f97v:?:?:?:-:-:missing folios
+0649:f98r:?:?:?:-:-:missing folios
+0650:f98v:?:?:?:-:-:missing folios
+0651:f99r:pharma:A:?:-:p199:descr
+0652:f99r.L1:pharma:A:?:labels:p199:on plants
+0653:f99r.P1:pharma:A:?:parags:p199:-
+0654:f99r.L2:pharma:A:?:labels:p199:on plants
+0655:f99r.P2:pharma:A:?:parags:p199:-
+0656:f99r.L3:pharma:A:?:labels:p199:on plants
+0657:f99r.P3:pharma:A:?:parags:p199:-
+0658:f99r.L4:pharma:A:?:labels:p199:on plants
+0659:f99r.P4:pharma:A:?:parags:p199:-
+0660:f99v:pharma:A:?:-:p200:descr
+0661:f99v.L1:pharma:A:?:labels:p200:on plants
+0662:f99v.P1:pharma:A:?:parags:p200:-
+0663:f99v.L2:pharma:A:?:labels:p200:on plants
+0664:f99v.P2:pharma:A:?:parags:p200:-
+0665:f99v.L3:pharma:A:?:labels:p200:on plants
+0666:f99v.P3:pharma:A:?:parags:p200:-
+0667:f99v.L4:pharma:A:?:labels:p200:on plants
+0668:f100r:pharma:A:?:-:p201:descr
+0669:f100r.L1:pharma:A:?:labels:p201:under plants
+0670:f100r.L2:pharma:A:?:labels:p201:under plants
+0671:f100r.P1:pharma:A:?:parags:p201:-
+0672:f100r.L3:pharma:A:?:labels:p201:under plants
+0673:f100r.P2:pharma:A:?:parags:p201:-
+0674:f100v:pharma:A:?:-:p202:descr
+0675:f100v.T:pharma:A:?:labels:p202:under plants
+0676:f100v.M:pharma:A:?:labels:p202:under plants
+0677:f100v.B:pharma:A:?:labels:p202:under plants
+0678:f100v.P:pharma:A:?:parags:p202:-
+0679:f101r1:pharma:A:?:-:p203:descr
+0680:f101r1.P:pharma:A:?:parags:p203:-
+0681:f101r2:pharma:?:?:-:p204:descr
+0682:f101v2:pharma:A:?:-:p205:descr
+0683:f101v2.R1:pharma:A:?:labels:p205:next to plants
+0684:f101v2.R2:pharma:A:?:labels:p205:next to plants
+0685:f101v2.R3:pharma:A:?:labels:p205:next to plants
+0686:f101v2.P:pharma:A:?:parags:p205:-
+0687:f101v2.T:pharma:A:?:titles:p205:-
+0688:f101v1:pharma:A:?:-:p206:descr
+0689:f102r1:pharma:A:?:-:p207:descr
+0690:f102r1.L1:pharma:A:?:labels:p207:-
+0691:f102r1.P:pharma:A:?:parags:p207:-
+0692:f102r2:pharma:A:?:-:p208:descr
+0693:f102r2.P:pharma:A:?:parags:p208:-
+0694:f102r2.X:pharma:A:?:labels:p208:on plants
+0695:f102v2:pharma:A:?:-:p209:descr
+0696:f102v2.C:pharma:A:?:labels:p209:on containers
+0697:f102v2.L1:pharma:A:?:labels:p209:on plants
+0698:f102v2.L2:pharma:A:?:labels:p209:on plants
+0699:f102v2.P1:pharma:A:?:parags:p209:-
+0700:f102v2.L3:pharma:A:?:labels:p209:on plants
+0701:f102v2.P2:pharma:A:?:parags:p209:-
+0702:f102v1:pharma:A:?:-:p210:descr
+0703:f102v1.L1:pharma:A:?:labels:p210:on plants
+0704:f102v1.P1:pharma:A:?:parags:p210:-
+0705:f102v1.L2:pharma:A:?:labels:p210:on plants
+0706:f102v1.P2:pharma:A:?:parags:p210:-
+0707:f103r:stars:B:X:-:p211:descr
+0708:f103r.P:stars:B:X:starred-parags:p211:-
+0709:f103v:stars:B:X:-:p212:descr
+0710:f103v.P:stars:B:X:starred-parags:p212:-
+0711:f104r:stars:B:X:-:p213:descr
+0712:f104r.P:stars:B:X:starred-parags:p213:-
+0713:f104v:stars:B:X:-:p214:descr
+0714:f104v.P:stars:B:X:starred-parags:p214:-
+0715:f105r:stars:B:Y:-:p215:descr
+0716:f105r.P1:stars:B:Y:starred-parags:p215:-
+0717:f105r.T1:stars:B:Y:titles:p215:-
+0718:f105r.P2:stars:B:Y:starred-parags:p215:-
+0719:f105r.T2:stars:B:Y:titles:p215:-
+0720:f105v:stars:B:Y:-:p216:descr
+0721:f105v.P:stars:B:Y:starred-parags:p216:-
+0722:f106r:stars:B:X:-:p217:descr
+0723:f106r.P:stars:B:X:starred-parags:p217:-
+0724:f106v:stars:B:X:-:p218:descr
+0725:f106v.P:stars:B:X:starred-parags:p218:-
+0726:f107r:stars:B:?:-:p219:descr
+0727:f107r.P:stars:B:?:starred-parags:p219:-
+0728:f107v:stars:B:?:-:p220:descr
+0729:f107v.P:stars:B:?:starred-parags:p220:-
+0730:f108r:stars:B:?:-:p221:descr
+0731:f108r.P:stars:B:?:starred-parags:p221:-
+0732:f108v:stars:B:?:-:p222:descr
+0733:f108v.P:stars:B:?:starred-parags:p222:-
+0734:f108v.T:stars:B:?:titles:p222:-
+0735:f109r:?:?:?:-:-:missing folios
+0736:f109v:?:?:?:-:-:missing folios
+0737:f110r:?:?:?:-:-:missing folios
+0738:f110v:?:?:?:-:-:missing folios
+0739:f111r:stars:B:?:-:p223:descr
+0740:f111r.P:stars:B:?:starred-parags:p223:-
+0741:f111v:stars:B:?:-:p224:descr
+0742:f111v.P:stars:B:?:starred-parags:p224:-
+0743:f112r:stars:B:?:-:p225:descr
+0744:f112r.P:stars:B:?:starred-parags:p225:-
+0745:f112v:stars:B:?:-:p226:descr
+0746:f112v.P:stars:B:?:starred-parags:p226:-
+0747:f113r:stars:B:?:-:p227:descr
+0748:f113r.P:stars:B:?:starred-parags:p227:-
+0749:f113v:stars:B:?:-:p228:descr
+0750:f113v.P:stars:B:?:starred-parags:p228:-
+0751:f114r:stars:B:?:-:p229:descr
+0752:f114r.P1:stars:B:?:starred-parags:p229:-
+0753:f114r.T1:stars:B:?:titles:p229:-
+0754:f114r.P2:stars:B:?:starred-parags:p229:-
+0755:f114v:stars:B:?:-:p230:descr
+0756:f114v.P:stars:B:?:starred-parags:p230:-
+0757:f115r:stars:B:?:-:p231:descr
+0758:f115r.P:stars:B:?:starred-parags:p231:-
+0759:f115v:stars:B:?:-:p232:descr
+0760:f115v.P:stars:B:?:starred-parags:p232:-
+0761:f116r:stars:B:?:-:p233:descr
+0762:f116r.P:stars:B:?:starred-parags:p233:-
+0763:f116r.Q:?:B:?:parags:p233:the "conclusion"
+0764:f116v:?:?:?:-:p234:descr
+0765:f116v.P:?:?:?:words:p234:"michiton" text

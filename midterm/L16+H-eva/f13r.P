@@ -1,0 +1,44 @@
+## <f13r.P> {}
+# text
+# Last edited on 1998-12-11 12:30:00 by stolfi
+#
+<f13r.P.1;H>       torshor.opchy.shol.dy.qopchy.shol.opchor.dy!pchy.dchm-
+<f13r.P.1;C>       torshor.opchy.shol.dy.qopchy.shol.opchor.dy!pchy.dchg-
+<f13r.P.1;F>       torshor.opchy.shol!dy.qopchy.shol.opchor.dy.pchy.dchm-
+#
+<f13r.P.2;H>       dchol.chol.dol.shkchy.ydal.shy.ykchy.qotey.daiin.s.y-
+<f13r.P.2;C>       dchol.chol.dol.shkchy.ydal.shy.ykchy.qot*y.daiin.s.y-
+<f13r.P.2;F>       dchol.chol.dol.shkchy.ydal.shy.ykchy.qotey.daiin.s!y-
+#
+<f13r.P.3;H>       s.y.dchor.shaiin.oeees.ykor.chor.ytshy.ykchy.kchy.dar-
+<f13r.P.3;C>       s.y.dchor.shaiin.oeees.ykor.chor.ytshy.ykchy.kchy.dar-
+<f13r.P.3;F>       s!y!dchor.shaiin.oeees.ykor.chor.ytshy.ykchy.kchy.dar-
+#
+<f13r.P.4;H>       qodchy.ytchy.otchor=
+<f13r.P.4;C>       qodchy.ytchy.otchor=
+<f13r.P.4;F>       qodchy.ytchy.otchor=
+#
+<f13r.P.5;H>       shorodo.shy.tshy.kchol.dpchy.qopchy.otchol.cfhol.dy-
+<f13r.P.5;C>       shorodo.shy.tshy.kchol.dpchy.qopchy.otchol.cfhol.dy-
+<f13r.P.5;F>       shorodo.shy.tshy.kchol.dpchy.qopchy.otchol.cfhol!dy-
+#
+<f13r.P.6;H>       tchor.dor.daiin.qotchol.okchy.okchor.oiin.chckhy.d-
+<f13r.P.6;C>       tchor.dor.daiin.qotchol.okchy.okchor.oiin.chckhy.d-
+<f13r.P.6;F>       tchor.dor.daiin.qotchol.okchy.okchor.oiin.chckhy.d-
+#
+<f13r.P.7;H>       dchy.qoky.chol.dy.qokhy.d.oldy-{plant}okchor.doaiin-
+<f13r.P.7;C>       dchy.qoky.chol.dy.qo**y.d.oldy-{plant}okchor.doaiin-
+<f13r.P.7;F>       dchy.qoky.chol.dy.qokey.d!oldy-{plant}okchor.doaiin-
+#
+<f13r.P.8;H>       shochy.qokchy.torchy.kcck{&K}!y-{plant}s.okchey.daiin-
+<f13r.P.8;C>       shochy.qokchy.torchy.k*!!!!!!!*-{plant}s.okchey.daiin-
+<f13r.P.8;F>       shochy.qokchy.torchy.keckh!!!!y-{plant}s.okchey.daiin-
+#
+<f13r.P.9;H>       oldy.shey.chol.doiin.ykoly-{plant}okchal.daldy-
+<f13r.P.9;C>       oldy.shey.chol.doiin.ykoly-{plant}okchal.daldy-
+<f13r.P.9;F>       oldy.shey.chol.doiin.ykoly-{plant}okchal.daldy-
+#
+<f13r.P.10;H>      sotchy.kchy.okorory=
+<f13r.P.10;C>      sotchy.kchy.okorory=
+<f13r.P.10;F>      sotchy.kchy.okorory=
+#

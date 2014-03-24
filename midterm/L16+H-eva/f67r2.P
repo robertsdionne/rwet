@@ -1,0 +1,28 @@
+## <f67r2.P> {}
+# Text below diagram.
+# Last edited on 1998-12-08 11:05:14 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+# "V" transcription by John Grove.
+#
+# Grove says this is the only text in the VMS that is ruled.
+# Line 2 is colored (red?).
+#
+<f67r2.P.1;H>      dar.aldaiin.ydaiin.q!koy.ydaiin.qofair.ypair.ykoaiin.y!doly.ytalchos.oly.okey!!!!!!!!!!!-
+<f67r2.P.1;F>      dar.aldaiin.ydaiin.q!koy.ydaiin.qofair.ypair.ykoaiin.y!doly.ytalchoe.oly.akey!!!!!!!!!!!-
+<f67r2.P.1;G>      dar.aldaiin.ydaiin.q!koy.ydaiin.qofair.!!!!!!ykoaiin.y!doly.ytalchos.oly.okey!!!!!!!!!!!-
+<f67r2.P.1;U>      dar.aldaiin.ydaiin.q!koy.ydaiin.qofair.ypair.ykoaiin.y,doly.ytalchos.oly.okey!!!!!!!!!!!-
+<f67r2.P.1;V>      dar.aldaiin.ydaiin.qckoy.ydaiin.qofair.ypair.ykoaiin.y!doly.ytalchol.aly.yk{page curled}-
+#
+<f67r2.P.2;H>      s!shey.syshees.qeykeey.ykchey.ykchey.qokeochy.oaiin.okal!ar.ol!!!!!!!!!!!!!-
+<f67r2.P.2;F>      s!shey.syshees.qoykeey.ykchey.ykchey.qokeochy.oaiin.okal.ar.ol!am!!!!!!!!!!-
+<f67r2.P.2;G>      s!shey.syshees.qeykeey.ykchey.ykchey.qokeochy.oaiin.okal.ar.ol!!!!!!!!!!!!!-
+<f67r2.P.2;U>      s,shey.syshees.qeykeey.ykchey.ykchey.qokeochy.oaiin.okol.ar.ol,**!!!!!!!!!!-
+<f67r2.P.2;V>      s!shey.syshees.qeykeey.ykchey.ykchey.qokeochy.oaiin.okol!ar.ol{page curled}-
+#
+<f67r2.P.3;H>      yshey.qokeeody.cheos.oeeos.qockhy.chos.aiin.okeeody.qokoaiin.odaiin.ar.oirsg!!!!!!!!!!!=
+<f67r2.P.3;F>      yshey.qokeeody.cheos.oeeos.qockhy.chos.aiin.okeeody.qokoaiin.odaiin.ar.air**!!!!!!!!!!!=
+<f67r2.P.3;G>      yshey.qokeeody.cheos.oeeos.qockhy.chos.aiin.okeeody.qokoaiin.odaiin.ar.oir!!!!!!!!!!!!!=
+<f67r2.P.3;U>      yshey.qokeeody.cheos.oeeos.qockhy.chos.aiin.okeeody.qokoaiin.odai!n.ar.oir.**!!!!!!!!!!=
+<f67r2.P.3;V>      yshey.qokeeody.cheab.aeeos.qockhy.chos.aiin.okeeady.qokoaiin.odai!n.ar.air{page curled}=
+#

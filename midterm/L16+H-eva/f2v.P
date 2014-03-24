@@ -1,0 +1,47 @@
+## <f2v.P> {}
+# text
+# Last edited on 1998-12-06 13:00:34 by stolfi
+#
+<f2v.P.1;H>        kooiin.cheo.pchor.otaiin.o.dain.chor-{plant}dair.shty-
+<f2v.P.1;C>        kooiin.cheo!pchor.otaiin.o!dain.chor-{plant}dair.shty-
+<f2v.P.1;D>        kaoiin.cheo!pchor.otaiin.o!dain.chor-{plant}dair.shty-
+<f2v.P.1;F>        kooiin.cheo.pchor.otaiin.o!dain.chor-{plant}dair.shty-
+<f2v.P.1;U>        kaoiin.cheo.pchor.otaiin.o!dain.chor-{plant}dair.shty-
+#
+<f2v.P.2;H>        kcho.kchy.sho.shol.qotcho.loeees.qoty-{plant}chor.daiin-
+<f2v.P.2;C>        kcho!kchy.sho.shol.qotcho.loeees.qoty-{plant}chor.daiin-
+<f2v.P.2;D>        kcha!kchy.sho.shol.qotcho.loeees.qoty-{plant}chor.daiin-
+<f2v.P.2;F>        kcho.kchy.sho.shol.qotcho.loeees.qoty-{plant}chor.daiin-
+<f2v.P.2;U>        kch*.kchy.sho.shol.qotsho.loeees.qoty-{plant}chor.daiin-
+#
+<f2v.P.3;H>        otchy.chor.lshy.chol.chody.chodain-{plant}chcthy.daiin-
+<f2v.P.3;C>        otchy.chor.lshy.chol.chody.chodain-{plant}chcthy.daiin-
+<f2v.P.3;F>        otchy.chor.lshy.chol.chody.chodain-{plant}chcthy.daiin-
+<f2v.P.3;U>        otchy.chor.lshy.chol.chody.shodain-{plant}chcthy.daiin-
+#
+<f2v.P.4;H>        sho.cholo.cheor.chodaiin=
+<f2v.P.4;C>        sho.cholo.cheor.chodaiin=
+<f2v.P.4;F>        sho.cholo.cheor.chodaiin=
+<f2v.P.4;U>        sho.cholo.cheor.chodaiin=
+#
+<f2v.P.5;H>        kchor.shy.daiiin.chckhoy-{plant}s.shey.dor.chol.daiin-
+<f2v.P.5;C>        kchor.shy.daiiin.chckh!y-{plant}s!shey.dor.chol.daiin-
+<f2v.P.5;F>        kchor.shy.daiiin.chckhoy-{plant}s!shey.dor.chol.daiin-
+<f2v.P.5;U>        kchor.shy.daiiin.chck!om-{plant}s!shey.dor.chol.daiin-
+#
+<f2v.P.6;H>        dor.chol.chor.chol.keol.chy.chty-{plant}daiin.otchor.chan-
+<f2v.P.6;C>        dor.chol.chor.chol.keol.chy.chty-{plant}daiin.otchor.chan-
+<f2v.P.6;F>        dor.chol.chor.chol.keol.chy.chty-{plant}daiin.otchor.chan-
+<f2v.P.6;U>        dor.chol.chor.chol.keol.chy.chty-{plant}daiin.otchor.chan-
+#
+<f2v.P.7;H>        daiin.chotchey.qoteeey.chokeos-{plant}chees.chr.cheaiin-
+<f2v.P.7;C>        daiin.chotchey.qoteeey.chokeos-{plant}chees.chr.cheaiin-
+<f2v.P.7;D>        daiin.chotchey.qoteeiy.chokios-{plant}chees.chr.cheaiin-
+<f2v.P.7;F>        daiin.chotchey.qoteeey.chokeos-{plant}chees.chr.cheaiin-
+<f2v.P.7;U>        daiin.chotchey.qotchey.chokeos-{plant}chees.chr.cheaiin-
+#
+<f2v.P.8;H>        chokoishe.chor.cheol.chol.dolody={plant}
+<f2v.P.8;C>        chokoishe.chor.chiol.chol.dolody={plant}
+<f2v.P.8;F>        chokoishe.chor.cheol.chol.dolody={plant}
+<f2v.P.8;U>        chokolshe.chor.cheol.chol.dolody={plant}
+#

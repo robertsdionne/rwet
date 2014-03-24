@@ -1,0 +1,52 @@
+## <f54r.P> {}
+# text
+# Last edited on 1998-12-07 22:05:08 by stolfi
+#
+<f54r.P.1;H>       p!odaiin.shodal.qopchol.cfheody-{plant}opcheol.chocphy-{plant}
+<f54r.P.1;C>       p.daii!n.shodal.qopchol.cfheody-{plant}opcheol.chocphy-{plant}
+<f54r.P.1;F>       p!odaiin.shodal.qopchol.cpheady-{plant}opcheol.chocphy-{plant}
+#
+<f54r.P.2;H>       ytodaiin.otchey.otchey.qockho.dal-{plant}sockhody.sar-{plant}
+<f54r.P.2;C>       ytodaiin.otchey.otchey.qockho!dal-{plant}sockhody.sar-{plant}
+<f54r.P.2;F>       ytodaiin.otchey.otchey.qockho.dal-{plant}sockhody.sar-{plant}
+#
+<f54r.P.3;H>       daiir.cthody.otol.ekchody.ol.s.or.y-{plant}ytchey.dam-{plant}
+<f54r.P.3;C>       daiir.cthody.otal.ekchody.ol.s.or.y-{plant}ytchey.dam-{plant}
+<f54r.P.3;F>       daiin.cthody.otol.okchody.ol.s.or.y-{plant}ytchey.dam-{plant}
+#
+<f54r.P.4;H>       tor.ockhol.shokchy.kol.chom.s-{plant}chey-{plant}ctheo!tol-{plant}
+<f54r.P.4;C>       tor.ockhol.shokchy.kol.chom.r-{plant}chey-{plant}ctheo.tol-{plant}
+<f54r.P.4;F>       tor.ockhol.shokchy.kol.chom.s-{plant}chey-{plant}ctheo!tal-{plant}
+#
+<f54r.P.5;H>       sar.sh.okeodaiin.chokey=
+<f54r.P.5;C>       sar.sh.okeodai!n.chokey=
+<f54r.P.5;F>       sar.sh.okeodaiin.chokey=
+#
+<f54r.P.6;H>       korare.ckhos.shofom.cher!.cham.kcheor-{plant}shs.qckheol.dom-
+<f54r.P.6;C>       korar!.ckhos.shofom.chesh.chom.kcheor-{plant}she.q!kchol.dom-
+<f54r.P.6;F>       korari.ckhos.shofam.cher!.cham.kcheor-{plant}she.yckheol.dar-
+#
+<f54r.P.7;H>       dor.s.sheey.ksheody.sho.or.cheey.chety-{plant}sol.d!sh.dam.dam-
+<f54r.P.7;C>       dar.s.sheey.ksheody.sho.or.cheey.chety-{plant}sol.dosy.dam.dam-
+<f54r.P.7;F>       dor.s.sheey.ksheody.sho.or.cheey.chety-{plant}sol.d*sh.dam.dam-
+#
+<f54r.P.8;H>       toshey.kodl.ckho.dar.sheekal.s.aiin-{plant}okeom.etchal-
+<f54r.P.8;C>       toshey.kodl.ckho.dar.sheekal.s.aiin-{plant}okeam.etchal-
+<f54r.P.8;F>       toshey.kodl.ckho.dar.sheekal.s!aiin-{plant}okeam.etchal-
+#
+<f54r.P.9;H>       o.aiin.or.ol.sal.qokor.chor.ckhol.s-{plant}s.sho.chol.daiin-
+<f54r.P.9;C>       o!aiin.or.ol.sal.qokor.chor.ckhol.s-{plant}s.sho.chol.daiin-
+<f54r.P.9;F>       o!aiin.or.ol.sal.qokor.chor.ckhol.s-{plant}s!sho.chol.daiin-
+#
+<f54r.P.10;H>      tor.ol.dol.or.chol.chol.ckhol.okol.oky-{plant}ytchor.ol.koldy-
+<f54r.P.10;C>      tor.ol.dol.or.chol.chol.ckhol.okol.oky-{plant}ytchor.ol!koldy-
+<f54r.P.10;F>      tor.ol.dol.or.chol.chol.ckhol.okol.oky-{plant}ytchor.ol.kaldy-
+#
+<f54r.P.11;H>      daiin.okor.or.ol.ckhol.chor.cho!m.dam-{plant}or.sho.chol.dam-
+<f54r.P.11;C>      !aiin.okor.or.ol.ckhol.chor.chory.dam-{plant}or.sho.chol.dom-
+<f54r.P.11;F>      daiin.okar.or.ol.ckhol.chor.cho!m.dam-{plant}or.sho.chol.dam-
+#
+<f54r.P.12;H>      yor.shodal.o.aiin.al.dol.choek.air.oldam={plant}
+<f54r.P.12;C>      yor!shodal.o!aiin.al.dol.choek!air.oldam={plant}
+<f54r.P.12;F>      yor.shodal.o.aiin.al.dal.cho!k.air.oldam={plant}
+#

@@ -1,0 +1,56 @@
+## <f19r.P> {}
+# text
+# Last edited on 1998-12-12 17:19:12 by stolfi
+#
+<f19r.P.1;H>       pchor.qodchy.qotshy.dy.tchy.qotchy.qoky.daiin.dchydy-
+<f19r.P.1;C>       pchor.qodchy.qotshy.dy.tchy.qotchy.qoky.daiin.dchydy-
+<f19r.P.1;F>       pchor.qodchy.qotshy.dy.tchy.qotchy.qoky.daiin.dchydy-
+#
+<f19r.P.2;H>       dshy.chor.y.tchy.chol.dytchy.chordy.daiin.dy!ty.s.choy-
+<f19r.P.2;C>       dshy.chor.y.tchy.chol.dytchy.chordy.daiin.dy.ty.*.ch*!-
+<f19r.P.2;F>       dshy.chor.y.tchy.chol.dytchy.chordy.daiin.dy!ty.s.cho*-
+#
+<f19r.P.3;H>       oscheor.shy.tdaiin.chol.dor.yky-
+<f19r.P.3;C>       oscheos.shy.tdaiin.chol.dor.yky-
+<f19r.P.3;F>       oscheor.shy.tdaiin.chol.dor.yky-
+#
+<f19r.P.4;H>       qokorar.daiin.chckhy.shy.kchor-
+<f19r.P.4;C>       qokorar.daiin.chckhy.shy.kchor-
+<f19r.P.4;F>       qokorar.daiin.chckhy.shy.kchor-
+#
+<f19r.P.5;H>       otchy.tchy.qoky.daiin.r-{plant}
+<f19r.P.5;C>       otchy.tchy.qoky.daiin.r-{plant}
+<f19r.P.5;F>       otchy.tchy.qoky.daiin.r-{plant}
+#
+<f19r.P.6;H>       y.shor.shy.daiin.otytchy.daiin-{plant}
+<f19r.P.6;C>       y!shor.shy.daiin.otytchy.daiin-{plant}
+<f19r.P.6;F>       y!shor.shy.daiin.otytchy.daiin-{plant}
+#
+<f19r.P.7;H>       qok!cho.ky.cthar.dor.chan.dar-{plant}
+<f19r.P.7;C>       q*t.cho.ty.cthar.dor.chan.dar-{plant}
+<f19r.P.7;F>       qok!cho.ky.cthar.dor.chan.dar-{plant}
+#
+<f19r.P.8;H>       or.chor.daky.dal.chor.dor!l.shy-{plant}
+<f19r.P.8;C>       or.chor.daky.dal.chor.dor.l.shy-{plant}
+<f19r.P.8;F>       or.chor.daky.dal.chor.dor!l.shy-{plant}
+#
+<f19r.P.9;H>       qotchor.dy.dor.y.tchy!kchy.shdaiin-{plant}
+<f19r.P.9;C>       qotchor.dy.dor.y.tchy!kchy.shdaiin-{plant}
+<f19r.P.9;F>       qotchor.dy.dor.y!tchy.kchy.shdaiin-{plant}
+#
+<f19r.P.10;H>      daiin.cthor.chol.ykchor.chordy-
+<f19r.P.10;C>      daiin.cthor.chol.ykchor.chordy-
+<f19r.P.10;F>      daiin.cthor.chol.ykchor.chordy-
+#
+<f19r.P.11;H>      qotchy.qolody.choldy.cthyd-{plant}
+<f19r.P.11;C>      qotchy.qolody.choldy.cthod-{plant}
+<f19r.P.11;F>      qotchy.qolody.choldy.cthyd-{plant}
+#
+<f19r.P.12;H>      ykchor.chor.daiin.daiinol-
+<f19r.P.12;C>      ykchor.chor.daiin.daiinol-
+<f19r.P.12;F>      ykchor.chor.daiin.daiinol-
+#
+<f19r.P.13;H>      os!octhor.y!tchor=
+<f19r.P.13;C>      or.octhor.y.tchor=
+<f19r.P.13;F>      os!octhor.y!tchor=
+#

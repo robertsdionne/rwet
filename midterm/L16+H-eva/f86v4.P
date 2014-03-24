@@ -1,0 +1,23 @@
+## <f86v4.P> {}
+# Text under diagram
+# Last edited on 1998-12-10 05:40:13 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+#
+<f86v4.P.1;H>      pchsodar.oedy.qokeol.qoeol-{diagram}oqokeol.dar.ol.ol!air.am-
+<f86v4.P.1;F>      !chsodar.oedy.qokeol.qoeol-{diagram}oqokeol.dar.ol.ol!air!am-
+<f86v4.P.1;U>      pcheodar.oedy.qokeol.qoeol-{diagram}oqokeol.dar.ol.ol,air,am-
+#
+<f86v4.P.2;H>      ycseol.tar.ol.ol!sheey.qokey.or.aiin.sheeor.sar.al.ol.sheey.qockheey-
+<f86v4.P.2;F>      !cheol.tar.ol.ol!sheey.qokey.or.aiin.sheeor.sar.al.ol.sheey.qockheey-
+<f86v4.P.2;U>      ycheol,tar.ol.ol,sheey.qokey.or.aiin.sheeor.sar.al.ol.sheey.qockheey-
+#
+<f86v4.P.3;H>      tol.sh!s.or.aiin.ol.keeod.lcheody.okedy.qokeody.qoaiin.al!=
+<f86v4.P.3;F>      tol.sh!s!or.aiin.ol.keeod.lcheody.okedy.qokeody.qoai!n!o**=
+<f86v4.P.3;U>      tol.shes,or.aiin.ol.keeod.lcheody.okedy.qokeody.qoai!n,ar!=
+#
+<f86v4.P.4;H>      dai!n.ol.keedy.otar.olshedy.okol.aiin.okal.cheockhy.shockhhy.daiin=
+<f86v4.P.4;F>      daiin.ol!keedy.otar.olshedy.okol.aiin.okal.cheockhy.shocthey.daiin= 
+<f86v4.P.4;U>      daiin.ol,keedy.otar.olshedy.okol,aiin.okal,cheockhy.shockhey.daiin=
+#
+

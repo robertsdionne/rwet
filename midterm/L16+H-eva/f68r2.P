@@ -1,0 +1,32 @@
+## <f68r2.P> {}
+# text
+# Last edited on 1998-12-08 11:39:01 by stolfi
+#
+# "R" transcription by Roe, 23 July 1996 from BL microfilm
+# "U" transcription by J. Stolfi from scanned image
+#
+<f68r2.P.1;H>      tsheeor.chor.sheal.dar.opchey.oeecthy.sheol.dokechy.otcheoly-
+<f68r2.P.1;F>      tshe!or.chor.sheal.dar.opchey.o*!cthy.sheol.dok!chy.otcheoly-
+<f68r2.P.1;R>      tsheeor.chor.sheal!dar.opchey.oeecthy.sheol.dokechy.otcheoly-
+<f68r2.P.1;U>      tshe!or.chor,sheal,dar.opchey.oeecthy.sheol.dok!chy.otcheoly-
+#
+<f68r2.P.2;H>      dchy.ykeechy.dchyky.okeeoda.rcheodal.chokeey.cheor.oram-
+<f68r2.P.2;F>      dchy.ykeechy.dchyky.okeeody.rcheodal.chokeey.ch!or.oram-
+<f68r2.P.2;R>      dchy.ykeechy.dchyky.okeeody.rcheodal.chokeey.cheor.oram-
+<f68r2.P.2;U>      dchy.ykeechy.dchyky.okeeoda.rcheodal.chokeey.cheor.oram-
+#
+<f68r2.P.3;H>      tcheos.otchoky.okchol.okol.sheeor.chodchy.qokchdar-
+<f68r2.P.3;F>      tcheos.otchoky.okchol.okol.she!or.chodchy.qokchdar-
+<f68r2.P.3;R>      tcheos.otchoky.okchol.okol.sheeor.chodchy.qokchdar-
+<f68r2.P.3;U>      tcheos.otchoky.okchol.okol.sheeor.chodchy.qokchdar-
+#
+<f68r2.P.4;H>      chor.chesy.oriid.qoeeckhy.qockheol.qokeol.cheoal.dchol!al-
+<f68r2.P.4;F>      chor.chesy!ora!d.qoa!ckhy.qockheol.qokeol.cheoal.dchol!al-
+<f68r2.P.4;R>      chor.chesy.oreed.qoeeckhy.qockheol.qokeol.cheoal.dchol!al-
+<f68r2.P.4;U>      chor.chesy.ora!d.qoeeckhy.qockheol.qokeol.cheoal.dchol,al-
+#
+<f68r2.P.5;H>      kcheoey.cheody-{diagram}sai!n.ykeody.chykchy=
+<f68r2.P.5;F>      kcheoey.cheody-{diagram}saiin.ykeoay.chykchy=
+<f68r2.P.5;R>      kcheoey.cheody-{diagram}rai!n.ykeody.chykchy=
+<f68r2.P.5;U>      kcheoey.cheody-{diagram}rai!n.ykeody.chykchy=
+#

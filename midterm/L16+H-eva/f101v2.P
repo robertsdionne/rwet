@@ -1,0 +1,43 @@
+## <f101v2.P> {}
+# text on panels 101v2 and 101v1 (one logical page)
+# Last edited on 1998-12-19 22:54:39 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+# Joined with f101v1.P by J. Stolfi
+#
+<f101v2.P.1;H>     tolchor.cheop!or.or.ody.cpheyr.shee.fol.s!oiin.otsheey.oto!!***-{fold}***!!kcho.pcholy.chor.or.choror.sy-{root}dorar-{root}okoraiin.orol!odai!n-
+<f101v2.P.1;F>     tolchor.cheop!or.or!ody.cpheyr.shee.fol.s!oiin.otcheey.otch.***-{fold}***%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-{root}!orar-{root}okoraiin.oral.odaiin-
+<f101v2.P.1;U>     tolchor.cheop,or.or,ody.cpheyr.shee.fol,s,oiin.otcheey.otch.***-{fold}***y.kcho.pcholy.chor.or.choror.sy-{root}dorar-{root}okoraiin.oral.ogaiin-
+#
+<f101v2.P.1a;H>    or.aiin.or.o.or.omam.chor.s.aiin.okor.cheeor.sheeol.qokol!***-{fold}***ol.qoor.cheey.qokeod.oeeo.r.choy.s-{root}okeeody-{root}chodaiin.cthy.okody.dar-
+<f101v2.P.1a;F>    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%***-{fold}***ol.qoor.cheey.qokeod.oeeo.r.choy.s-{root}okeeody-{root}chodaiin.cthy.okody.dar-
+<f101v2.P.1a;U>    or.aiin.!!*o.or.ogam.chor.s.aiin.okor.cheeor.sheeol.qokol.***-{fold}***ol.qoor.cheey.qykeod.oeeo.r.choy.s-{root}okeeody-{root}chodaiin.cthy.okody.dar-
+#
+<f101v2.P.2;H>     ycheor.oeo.dai!n.cheokal.y{&Y}khody.cheeod!s.or!aiin.qoeey.cthey!***-{fold}***eocthy.dai!n.ch!edo.dydy=
+<f101v2.P.2;F>     ycheor.oeo.daiin.cheokyl.c!!!!khody.ch!eod!s.or!aiin.qoeey.cthey.***-{fold}***eocthy.daiin.ch*!do.dydy=
+<f101v2.P.2;U>     ycheor.cho!daiin.cheokyl.y!!!!keody.che!od,s.or,aiin.qoeey.cthey.***-{fold}***eocthy.dai!n.cheodo.dydy=
+#
+<f101v2.P.3;H>     ksh!ar.lol.keeol.otal.or.ol.aiin.okeod.ykeey.dai!n.olcheol!***-{fold}***!opcheol.cthey.qekeol!dy.qocthor.sheody.qockheey.odaiin.sho.y!tolaiir.!sodaiin.dy-{gutter}
+<f101v2.P.3;F>     ksh!ar.lol.keeol.otal.or.ol.aiin.okeod.qkeey.daiin.olcheol.***-{fold}***.opcheol.cthey.qokeol.dy.qocthor.sheody.qockhe!y.odaiin.sho!y.tola!*r.!sodaiin.dy-{gutter}
+<f101v2.P.3;U>     *sh,ar.l*l.teeol.otol.or.ol.aiin.okeod.ykeey.dai!n.olcheol.***-{fold}***.opcheol.cthey.qekeol,dy.qocthor.sheody.qockheey.odaiin.sho!y.tolaiir.*sodaiin,dy-{gutter}
+#
+<f101v2.P.4;H>     oaiin!!.ol.ol!or.daiin.okeey.qok.ykeol.daiin.qockhy.daiin.olch***-{fold}***!dar.qokeol.dol.oraiin.oldaiin.keeol.*.rch.qokeeeor.sydy.cheor.okeey.chol.do.dar-{gutter}
+<f101v2.P.4;F>     lai!n!s.ol!ol!or.daiin.okoey.qok.ykeol.daiin.qockhy.daiin.oech***-{fold}***.dar.qokeol.dal.oraiin.oldaiin.keeol.*.rch!qokeeor.s!ydy.cheor.okeey.chol.dy.dar-{gutter}
+<f101v2.P.4;U>     *ai!n,***!,ol,or.daiin.okeey.qok,ykeol.daiin.qockhy.daiin.oech***-{fold}***.dar.qokeol.dal.oraiin.oldaiin.keeol.*.rch.qokeeor.s.ydy.cheor.okeey.chol!dy.dar-{gutter}
+#
+<f101v2.P.5;H>     teeal.sheol.qokeor.q!khol.olchor.chokey.chor.ctheey.da*s*-{fold}***!daiin.cheeody.cheey.keo.cheol.daiiin.deeor.cheedy=
+<f101v2.P.5;F>     *eeol.cheol.qokeor.qckhol.olchor.chokey.chor.ctheey.da***-{fold}***.daiin.cheeody.cheey.keo.cheol.daii!n.deeor.cheedy=
+<f101v2.P.5;U>     ***!l.!**ol.q*keor.qckhol.olchor.chokey.chor.ctheey.da***-{fold}***.daiin.cheeody.cheey.keo.cheol.daii!n.deeor.cheedy=
+#
+<f101v2.P.6;H>     daiin.dair.yteol.chor.qockhol.daiin.ckheey.chey.kchey.dos**-{fold}***iin.okeey.ckheo!.lcheody.kcheol.daiin.eteeys.ctheody.ctheo!ckhosho.ol!chor-
+<f101v2.P.6;F>     daiin.dair.yteol.chor.qockhol.daiin.ckheey.chey.kchey.do***-{fold}***iin.okeey.ckheo!.lcheody.kcheol.daiin.eteeys.ctheody.ctheo.ckhosho.ol!chor-
+<f101v2.P.6;U>     ***!!.!**r.y**ol.chor.qockhol.daiin.ckheey.chey.kchey.d!***-{fold}***dan.okeey.ckh***.*cheody.kcheol.daiin.eteeys.ctheody.ctheo.ckhosh*.ol,chor-
+#
+<f101v2.P.7;H>     olaiin.okeol.cheo.kol.ches.sheey.qoor.qokeody.cheor.okey***-{fold}***oiin.cheey.cthey.ory.ctheey.qokeey.shol.ody.cheol.or!al!ar.shey.qokar!ary-
+<f101v2.P.7;F>     daii!n.okeol.cheo.kol.ches.sheey.qoor.qokeody.cheor.okeo***-{fold}***oiin.cheey.!!tey.ory.ctheey.qokeey.shol.ody.cheol.or!al!ar.shey.qokar.ary-
+<f101v2.P.7;U>     *****!.*****.**eo.kol.ches.sheey.qoor.qokeody.cheor.okeo***-{fold}***!!in.cheey.!!***.ory.ctheey.qokeey.shol.ody.cheol.or,al,ar.shey.qokar.ary-
+#
+<f101v2.P.8;H>     sol.chol.choly.okee!y.dal.qol.shckheol.chol.cthear.keey***-{fold}***chee!o.ol.chs.{blot}oraiin.qokeeey.s!aiir.qodaiin.cheol.qokeey.daiin.cheodam=
+<f101v2.P.8;F>     *ol.chol.choly.okee!y.dal.qol.shckheol.chol.cthear.keey***-{fold}***cheeeo%%%%%%%%{blot}%%%%%%%%%%%%%%%%%%%%%%%%%%%%%.cheol.qokeey.daiin.cheodam=
+<f101v2.P.8;U>     ***.***!.**ol*.okee*y.dal.qol.shckheol.chol.cthear.k******-{fold}***cheeeo.***!!!!{blot}araiin.qokeeey.s.aiir.qodaiin.cheol.qokeey.daiin.cheodam=
+#

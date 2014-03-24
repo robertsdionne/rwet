@@ -1,0 +1,80 @@
+## <f32r.P> {}
+# text
+# Last edited on 1998-12-07 05:57:51 by stolfi
+#
+<f32r.P.1;H>       fchoiin.shykeody.daiiody.dain-{plant}sho.tchy.oty.qopy-
+<f32r.P.1;C>       fchaiin.shykeody.daiiody.dain-{plant}sho.tchy.oty.qody-
+<f32r.P.1;F>       fchaiin.shykeody.dainody.dain-{plant}sho.tchy.oty.qopy-
+#
+<f32r.P.2;H>       okor.okchor.sheor.ckhy.dal-{plant}dshodar.qotchol-
+<f32r.P.2;C>       okor.okchor.sheor.ckhy.dal-{plant}dshodar.qotchol-
+<f32r.P.2;F>       okor.okchor.sheor.ckhy.dal-{plant}dshodar.qotchof-
+#
+<f32r.P.3;H>       qokchor.chor.cthol.chol.dol-{plant}dcheodain.daiin-
+<f32r.P.3;C>       qokchor.chor.cthol.chol.dor-{plant}dcheodain.daiin-
+<f32r.P.3;F>       qokchor.chor.cthol.chol.dol-{plant}dcheodain.daiin-
+#
+<f32r.P.4;H>       schor.dshor.ytsho.dain-{plant}daiin.choddal-
+<f32r.P.4;C>       schor.dshor.ytsho.dain-{plant}daiin.choddal-
+<f32r.P.4;F>       schor.dshor.ytsho.dain-{plant}daiin.choddal-
+#
+<f32r.P.5;H>       qotchy.qokchy.daiin=
+<f32r.P.5;C>       qotchy.qokchy.daiin=
+<f32r.P.5;F>       qotchy.qokchy.daiin=
+#
+<f32r.P.6;H>       fcho.tchey.chedy-
+<f32r.P.6;C>       fcho.tchey.chedy-
+<f32r.P.6;F>       fcho.tchey!chedy-
+#
+<f32r.P.7;H>       otol.dol.ol.dair-{plant}
+<f32r.P.7;C>       otol.dol.ol!dair-{plant}
+<f32r.P.7;F>       otol.dol.ol!dair-{plant}
+#
+<f32r.P.8;H>       qoar.daiin.dam-{plant}
+<f32r.P.8;C>       qoar.daiin.dam-{plant}
+<f32r.P.8;F>       qoar.daiin.dam-{plant}
+#
+<f32r.P.9;H>       dy!tchor.dary-{plant}
+<f32r.P.9;C>       dy.tchor.dary-{plant}
+<f32r.P.9;F>       dy!tchor.dary-{plant}
+#
+<f32r.P.10;H>      dchor.ctho.daiin-{plant}
+<f32r.P.10;C>      dchor.ctho.daiin-{plant}
+<f32r.P.10;F>      dchor.ctho.daiin-{plant}
+#
+<f32r.P.11;H>      shos.chckhol.n-{plant}
+<f32r.P.11;C>      shos.chckhol.n-{plant}
+<f32r.P.11;F>      shos.chckhol.n-{plant}
+#
+<f32r.P.12;H>      shodaiin.c!tol-{plant}
+<f32r.P.12;C>      shodaiin.chtol-{plant}
+<f32r.P.12;F>      shodaiin.chtol-{plant}
+#
+<f32r.P.13;H>      otcho.r.ol.dain.daiin.cthy-{plant}
+<f32r.P.13;C>      otd!o!r!ol.dain.daiin.cthy-{plant}
+<f32r.P.13;F>      otcho.r!ol.dain.daiin.cthy-{plant}
+#
+<f32r.P.14;H>      schea.qot.shey.daiin.cths-{plant}
+<f32r.P.14;C>      schey.qot!shey.daiin.cths-{plant}
+<f32r.P.14;F>      schey.qot.shey.daiin.cths-{plant}
+#
+<f32r.P.15;H>      qokchy.qotol.doiir.ol-{plant}
+<f32r.P.15;C>      qokchy.qotol.doiir.ol-{plant}
+<f32r.P.15;F>      qokchy.qotol.doiir.ol-{plant}
+#
+<f32r.P.16;H>      otchol.chey.soty-{plant}
+<f32r.P.16;C>      otchol.chey.soty-{plant}
+<f32r.P.16;F>      otchol.chey.soty-{plant}
+#
+<f32r.P.17;H>      chokeol.dchoty-{plant}
+<f32r.P.17;C>      chokeol.dchoty-{plant}
+<f32r.P.17;F>      chokeol.dchoty-{plant}
+#
+<f32r.P.18;H>      doiin.sho.shy-{plant}
+<f32r.P.18;C>      doiin.sho!shy-{plant}
+<f32r.P.18;F>      doiin.sho!shy-{plant}
+#
+<f32r.P.19;H>      dol.dchol.da!n={plant}
+<f32r.P.19;C>      dol.dchol.da!n={plant}
+<f32r.P.19;F>      dol.dchol!da-r={plant}
+#

@@ -1,0 +1,56 @@
+## <f22r.P> {}
+# text
+# Last edited on 1998-12-11 12:32:50 by stolfi
+#
+<f22r.P.1;H>       pol.olshy.fcholy.shol.dpchy.oty.okoly.daiin.opchy.s.ocphy-
+<f22r.P.1;C>       pol.olshy.fcholy.shol.dpchy.oty.okoly.daiin.opchy.s.ocphy-
+<f22r.P.1;F>       pol!olshy.fcholy.shol.dpchy.oty.okoly.daiin.opchy!s.ocphy-
+#
+<f22r.P.2;H>       ol.oiin.shol.o.kor.qokchol.daiin.otaiin.cthor.dain.ckhy!dom-
+<f22r.P.2;C>       ol.aiin.shol.o.kor.qokchol.daiin.okaiin.cthor.dain.ckhy.dom-
+<f22r.P.2;F>       ol!oiin.shol.o!kor.qokchol.daiin.otaiin.cthor.dain.ckhy.dom-
+#
+<f22r.P.3;H>       qokol.dykaiin.okchy.daiin.cthol.ctholo.dar.shain=
+<f22r.P.3;C>       qokol.dykaiin.okchy.daiin.cthol.ctholo.dar.shain=
+<f22r.P.3;F>       qokol.dykaiin.okchy.daiin.cthol.ctholo.dar.shain=
+#
+<f22r.P.4;H>       pchaiin.ofchy.daiin.cfhy.doroiin.ypchol.sy-{plant}schor.daiin-
+<f22r.P.4;C>       pchaiin.okchy.daiin.cfhy.doroiin.ypchol.sy-{plant}schor.daiin-
+<f22r.P.4;F>       pchaiin.opchy.daiin.cfhy.doraiin.ypchol.sy-{plant}schor.daiin-
+#
+<f22r.P.5;H>       ol.daiin.qokchy.dar.daiin.chor.oldor.oky-{plant}y.choldchy-
+<f22r.P.5;C>       ol.daiin.qokchy.dar.daiin.chor.oldor.oky-{plant}y.choldchy-
+<f22r.P.5;F>       ol.daiin.qokchy.dar.daiin.chor.oldor.oky-{plant}y!choldchy-
+#
+<f22r.P.6;H>       y.chokshchy.ctheen=
+<f22r.P.6;C>       y.chokshchy.ctha!n=
+<f22r.P.6;F>       y!chokshchy.ctheen=
+#
+<f22r.P.7;H>       kchol.shol.dsheor.s{&S}!ka.chdoly.ytaiin.ol-{plant}otchy.cphal-
+<f22r.P.7;C>       kchol.shol.dsheor.*!!!!!!!.chdoly.ytaiin.ol-{plant}otchy.cphal-
+<f22r.P.7;F>       kchol.shol.dsheor.sh!!!!ka.chdoly.ytaiin.ol-{plant}otchy.cphal-
+#
+<f22r.P.8;H>       dchor.oty.daiin.ctholy.qoky.chotaiin.chocthy-{plant}doiiin.dchor-
+<f22r.P.8;C>       dchor.oty.daiin.ctholy.qoky.chotaiin.chocthy-{plant}do*iin.dchor-
+<f22r.P.8;F>       dchor.oty.daiin.ctholy.qoky.chotaiin.chocthy-{plant}do*iin.dchor-
+#
+<f22r.P.9;H>       odaiin.dain.cthy.ctheor.oraiino=
+<f22r.P.9;C>       odaiin.dain.cthy.ctheor.o*aiino=
+<f22r.P.9;F>       odaiin.dain.cthy.ctheor.oraiiny=
+#
+<f22r.P.10;H>      kchol.chor.daiin.cthoiin.dchor.chey.qokol.dy-{plant}opchol.oldam-
+<f22r.P.10;C>      kchol.chor.daiin.cthoiin.dchor.chey.qokol.dy-{plant}opchol.oldam-
+<f22r.P.10;F>      kchol.chor.daiin.cthoiin.dchor.chey.qokol!dy-{plant}opchol.oldam-
+#
+<f22r.P.11;H>      doiin.yckhody.qokchy.oky.otoldy.yty.dol.or-{plant}dachy.daiin-
+<f22r.P.11;C>      doiin.yckhody.qokchy.oky.otoldy.yty.dol.or-{plant}dochy.daiin-
+<f22r.P.11;F>      doiin.yckhody.qokchy.oky.otoldy.yty.dol.or-{plant}dachy.daiin-
+#
+<f22r.P.12;H>      odchaiin.cthy.okchy.kchy.dchol.daiin-{plant}ydaiin-
+<f22r.P.12;C>      odchaiin.cthy.okchy.kchy.dchol.daiin-{plant}ydaiin-
+<f22r.P.12;F>      odchaiin.cthy.okchy.kchy.dchol.daiin-{plant}ydaiin-
+#
+<f22r.P.13;H>      dchor.dy!dain.qockhy.ykal!okain=
+<f22r.P.13;C>      dchor.dy.dain.qockhy.ykol.okain=
+<f22r.P.13;F>      dchor.dyd!ain.qockhy.ykal.okain=
+#

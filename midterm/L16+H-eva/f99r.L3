@@ -1,0 +1,59 @@
+## <f99r.L3> {}
+# Labels - row 3
+# Last edited on 1998-12-10 08:20:38 by stolfi
+#
+# Besides the label on the container, there are 8 labels alternating with 7 roots.
+# It is not clear how to pair them up.
+#
+# Label on container
+<f99r.L3.0;H>      tsholdy=
+<f99r.L3.0;V>      tsholdy=
+<f99r.L3.0;U>      ***ol**=
+#
+<f99r.L3.1;H>      okos=
+<f99r.L3.1;V>      okos=
+<f99r.L3.1;U>      okos=
+#
+# root [3,1] - light with spots
+#
+<f99r.L3.2;H>      oekey=
+<f99r.L3.2;V>      oekey=
+<f99r.L3.2;U>      oekey=
+#
+# root [3,2] - dark, bulb, many prongs
+#
+<f99r.L3.3;H>      dor={plant}
+<f99r.L3.3;V>      dar={plant}
+<f99r.L3.3;U>      dar={plant}
+#
+# root [3,3] - light, long tails
+#
+<f99r.L3.3a;H>     chockhhy=
+<f99r.L3.3a;V>     chockhhy=
+<f99r.L3.3a;U>     chockhey=
+#
+# root [3,4] - light, stripes
+#
+<f99r.L3.4;H>      r!chey.ot=
+<f99r.L3.4;V>      s.chey.et=
+<f99r.L3.4;U>      s.chey.et=
+#
+# root [3,5] - dark, hairy
+#
+<f99r.L3.5;H>      saiiny=
+<f99r.L3.5;V>      saiiny=
+<f99r.L3.5;U>      saiiny=
+#
+# root [3,6] - light, twisted bunch
+#
+<f99r.L3.6;H>      rory=
+<f99r.L3.6;V>      sary=
+<f99r.L3.6;U>      sory=
+#
+# This label is higher than the previous one
+<f99r.L3.7;H>      dam=
+<f99r.L3.7;V>      dam=
+<f99r.L3.7;U>      dam=
+#
+# plant [3,7] - roots, light, hairy, dark leaf
+#

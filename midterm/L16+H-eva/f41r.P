@@ -1,0 +1,58 @@
+## <f41r.P> {}
+# text
+# Last edited on 1998-12-07 07:11:23 by stolfi
+#
+<f41r.P.1;H>       pchey.kedaleey.oked.shekchey-{plant}opshes.ypchd.qotcheedy.shka!keedy-
+<f41r.P.1;C>       pshey.kedaleey.oked.shekeeey-{plant}opa!es.!peed.qotch!edy.shka!!eedy-
+<f41r.P.1;F>       p*!ey.kedaleey.oked.shekchey-{plant}opshes.ypchd.qotcheedy.shka.keedy-
+<f41r.P.1;G>       pshey.kedalchy.oked.shekchey-{plant}opshes.ypchd.qotch!!dy.shka.keedy-
+#
+<f41r.P.2;H>       ykeeo.alshey.ykedy.keshdy.dy-{plant}dor.ycheoky.qokeed.chpy.qokedy.dy-
+<f41r.P.2;C>       ykeeo.al.aey.ykedy.keshdy.dy-{plant}dor.ycheoky.qokeed.chpy.qokedy.dy-
+<f41r.P.2;F>       yteeo.alshey.ykedy.keshdy.dy-{plant}dor.ycheoky.qokeed.chpy.qokedy.dy-
+<f41r.P.2;G>       ykcho.alshey.kkedy.keshdy.dy-{plant}dor.ycheoky.qokeed.shpy.qokedy.dy-
+#
+<f41r.P.3;H>       qok.ra*.y!!ekedy.ychdy.kchdy-{plant}qokedy.qokedy.shekchy.cheky.daly-
+<f41r.P.3;C>       qok.ra!!y.qekedy.ychdy!kchdy-{plant}qokedy.qokedy.shekchy.cheky.daly-
+<f41r.P.3;F>       qokra*!.y!!ekedy.ychdy.kchdy-{plant}qokedy.qokedy.shekchy.cheky.daly-
+<f41r.P.3;G>       qok***!.!!qokedy.ychdy.kchdy-{plant}qokedy.qokedy.shekchy.cheky.daly-
+#
+<f41r.P.4;H>       chdchy.ytcheeky.ypchedy.schdy-{plant}ytedy.cthey.chees.oteey.otal.dam-
+<f41r.P.4;C>       chdeey.ytcheeky.ypchedy.schdy-{plant}!kedy.cthey.eeees.oteey.otal.dam-
+<f41r.P.4;F>       chdchy.ytcheeky.ypchedy.schdy-{plant}ytedy.cthey.chees.oteey.otal.dam-
+<f41r.P.4;G>       chdchy.ytcheeky.ypchedy.schdy-{plant}ytedy.cthey.chees.ateey.otal.dam-
+#
+<f41r.P.5;H>       qotchy.sal.yteedy.kchdy-{plant}dchedy.tchdy.dchedy.dalain=
+<f41r.P.5;C>       qotchy.sal.yteedy.kchdy-{plant}dchedy.keedy.dchedy.dalain=
+<f41r.P.5;F>       qotchy.sal.yteedy.kchdy-{plant}dchedy.tchdy.dchedy.dalain=
+<f41r.P.5;G>       qoteey.sal.yteedy.kchdy-{plant}dchedy.kchdy.dchedy.dalain=
+#
+<f41r.P.6;H>       shedey.polchedy.qokeey.chekedy.ytey-{plant}chkchod-{plant}ypchedpy.shep!y.shedy-
+<f41r.P.6;C>       shedey.polchedy.qokeey.chekedy.ytey-{plant}chkchod-{plant}ypchedpy.shcph!!shedy-
+<f41r.P.6;F>       shedey.polchedy.qokeey.chekedy.ytey-{plant}chkchod-{plant}ypchedpy.shep!y.shedy-
+<f41r.P.6;G>       shedey.polchedy.qokeey.chekedy.ytey-{plant}chkchod-{plant}ypchedpy.shcphy.shedy-
+#
+<f41r.P.7;H>       par!chdy.kchey.yteedy.qokeody-{plant}ykedy.chkedy.qokedy.chedy.qokedy-
+<f41r.P.7;C>       par.chdy.kchey.yteedy.qokeody-{plant}okedy.chkedy.qokedy.chedy.qokedy-
+<f41r.P.7;F>       por!chdy.kchey.yteedy.qokeody-{plant}ykedy.chkedy.qokedy.chedy.qokedy-
+<f41r.P.7;G>       par!chdy.kcheo.yteedy.qokeody-{plant}ykedy.chkedy.qokedy.chedy.qokedy-
+#
+<f41r.P.8;H>       dair.chedy.chckhy.qokey.lchdy-{plant}qokedy.qokyl.cheked!.qodor.am-
+<f41r.P.8;C>       dair.chedy.chckhy.qokey.lchdy-{plant}qokedy.qokal.chekedy.qodar.am-
+<f41r.P.8;F>       dair.chedy.chckhy.qokey.dchdy-{plant}qokedy.qokyl.cheked!.qodor!ym-
+#
+<f41r.P.9;H>       qokeedy.okedy.chekedy.chedy-{plant}chckheody.chekal.daiin.cheo.al.okedy-
+<f41r.P.9;C>       qokeedy.okedy.chekedy.chedy-{plant}chckheody.chekor.daiin.cheo.al.otedy-
+<f41r.P.9;F>       qokeedy.okedy.chekedy.chedy-{plant}chckheody.chekyl.daiin.cheo!al.ykedy-
+<f41r.P.9;G>       qokeedy.okedy.chckhdy.chedy-{plant}chckheody.chekel.daiin.cheo!al.ykedy-
+#
+<f41r.P.10;H>      s.shok.shedy.qekchdy.dchdal!dy-{plant}ykedy.qokeedy.qokedy.qokeg-
+<f41r.P.10;C>      s!shok.shedy.qekchdy.dchdal.dy-{plant}ytedy.qokeedy.qokedy.qoked-
+<f41r.P.10;F>      s!seok.shedy.qekchdy.dchdyl!dy-{plant}ykedy.qokeedy.qokedy.qoked-
+<f41r.P.10;G>      s!seok.shedy.qokeedy.dchda*ldy-{plant}ykedy.qokeedy.qokedy.qoked-
+#
+<f41r.P.11;H>      ykeod.y!keedy.chekeedy.cheked={plant}
+<f41r.P.11;C>      ykeod!y!keedy.chekeedy.cheked={plant}
+<f41r.P.11;F>      ykeod.y!keedy.chekeedy.cheked={plant}
+<f41r.P.11;G>      ykeod!y.keedy.chekeedy.cheked={plant}
+#

@@ -1,0 +1,66 @@
+## <f15v.P> {}
+# text
+# Last edited on 1998-12-12 07:53:56 by stolfi
+#
+# "U" transcription by J. Stolfi from Jacques Guy's scanned image.
+#
+<f15v.P.1;H>       poror.orshy.choiin.dtchan.opchor.dy-{plant}
+<f15v.P.1;C>       poror.orshy.choiin.dtchan.opchor!dy-{plant}
+<f15v.P.1;F>       poror.orshy.choiin.dtchan.opchor!dy-{plant}
+<f15v.P.1;U>       poror.orshy.choiin.dtchan.opchor!dy-{plant}
+#
+<f15v.P.2;H>       *{&138}chor.or.oro.r.aiin.cthy.k!!!!!!ain.dar-{plant}
+<f15v.P.2;C>       *!!!!!!chor.or.oro.r.aiin.cthy.*!!!!!!ain.dar-{plant}
+<f15v.P.2;F>       *!!!!!!chor.or.oro.r!aiin.cthy.*!!!!!!ain.dar-{plant}
+<f15v.P.2;U>       *{&138}chor.or.oro.r!aiin.cthy.*{&178}ain.dar-{plant}
+#
+<f15v.P.3;H>       cthor.daiin.qokor.okeor.okaiin-{plant}
+<f15v.P.3;C>       cthor.daiin.qokor.okeor.okaiin-{plant}
+<f15v.P.3;F>       cthor.daiin.qokor.okeor.okaiin-{plant}
+<f15v.P.3;U>       cthor.daiin.qokor.okeor.okaiin-{plant}
+#
+<f15v.P.4;H>       doiin.choky.shol.qoky.qotchod-{plant}
+<f15v.P.4;C>       doiin.choky.shol.qoky.qotchod-{plant}
+<f15v.P.4;F>       doiin.choky.shol.qoky.qotchod-{plant}
+<f15v.P.4;U>       doiin.choky.shol.qoky.qotchod-{plant}
+#
+<f15v.P.5;H>       otchor.chor.chor.ytchor.cthy.s-{plant}
+<f15v.P.5;C>       otchor.chor.chor.ytchor.cthy.s-{plant}
+<f15v.P.5;F>       otchor.chor.chor.ytchor.cthy!s-{plant}
+<f15v.P.5;U>       otchor.chor.chor.ytchor.cthy.s-{plant}
+#
+<f15v.P.6;H>       qotchey.choty.kaiin.otchy.r.aiin-{plant}
+<f15v.P.6;C>       qotchey.choty.kaiin.otchy.r.aiin-{plant}
+<f15v.P.6;F>       qotchey.choty.kaiin.otchy.r!aiin-{plant}
+<f15v.P.6;U>       qotchey.choty.kaiin.otchy.r!aiin-{plant}
+#
+<f15v.P.7;H>       c!oy.choiin.sho.s.chy.s.chy.tor.ols-{plant}
+<f15v.P.7;C>       e!oy.choiin.sho.*.chy.s.chy.tor.olr-{plant}
+<f15v.P.7;F>       choy.choiin.sho.*.chy.s!chy.tor.ols-{plant}
+<f15v.P.7;U>       c!oy.choiir.sho.*!chy.s.chy.tor.ols-{plant}
+#
+<f15v.P.8;H>       ytchor.chor.ol.oiin.oty.shol.daiin-{plant}
+<f15v.P.8;C>       ytchor.chor.ol.oiin.oty.shol.daiin-{plant}
+<f15v.P.8;F>       ytchor.chor.ol.oiin.oty.shol.daiin-{plant}
+<f15v.P.8;U>       ytchor.chor.ol.oiin.oty.shol.daiin-{plant}
+#
+<f15v.P.9;H>       otchol!o!cthol.chol.chol.chody.kan-{plant}
+<f15v.P.9;C>       otchol.o!cthol.chol.chol.chody.kan-{plant}
+<f15v.P.9;F>       otchol!o.cthol.chol.chol.chody.kan-{plant}
+<f15v.P.9;U>       otchol.o!cthol.chol.chol.chody.kan-{plant}
+#
+<f15v.P.10;H>      sor.chor.cthoiin.cthy.qokaiin-{plant}
+<f15v.P.10;C>      sor.chor.cthoiin.cthy.qokaiin-{plant}
+<f15v.P.10;F>      sor.chor.cthoiin.cthy.qokaiin-{plant}
+<f15v.P.10;U>      sor.chor.cthoiin.cthy.qokaiin-{plant}
+#
+<f15v.P.11;H>      soloiin.cheor.chol.daiin.cthy-{plant}
+<f15v.P.11;C>      soloiin.cheor.chol.daiin.cthy-{plant}
+<f15v.P.11;F>      soloiin.cheor.chol.daiin.cthy-{plant}
+<f15v.P.11;U>      soloiin.cheor.chol.daiin.cthy-{plant}
+#
+<f15v.P.12;H>      daiin.cthor.chol.chor=
+<f15v.P.12;C>      daiin.cthor.chol.chor=
+<f15v.P.12;F>      daiin.cthor.chol.chor=
+<f15v.P.12;U>      daiin.cthor.chol.chor=
+#
