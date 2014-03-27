@@ -7,3 +7,4 @@ My blog has accompanying documentation: http://robertsdionne.tumblr.com/tagged/r
 
 * Homework #1: https://github.com/robertsdionne/rwet/tree/master/hw1#readme
 * Homework #2: https://github.com/robertsdionne/rwet/tree/master/hw2#readme
+* Midterm: https://github.com/robertsdionne/rwet/tree/master/midterm#readme
