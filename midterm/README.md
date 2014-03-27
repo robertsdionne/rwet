@@ -1,5 +1,9 @@
 # RWET Midterm Project
 
+Scripts:
+* setup.sh: creates a virtualenv environment and installs the editdistance module
+* run.sh: activates the virtualenv environment, preprocesses texts and generates poems.
+
 Four programs:
 * [cleanup_text.py](https://github.com/robertsdionne/rwet/tree/master/midterm#cleanup_textpy)
     * [example](https://github.com/robertsdionne/rwet/tree/master/midterm#example)
