@@ -182,9 +182,11 @@ def main():
     choice = re.sub('\\s+', ' ', choice)
     if arguments.html:
       print '      <p>'
-      print '        <span title="%s" style="font-family: \'EVA Hand 1\';"><b>%s</b></span> <br />' % (line_cadence, line)
+      print '        <span title="%s" style="font-family: \'EVA Hand 1\';"><b>%s</b></span> <br />'\
+          % (line_cadence, line)
       print '        <span title="%s">%s</span> <br />' % (line_cadence, line)
-      print '        <span title="%s %s"><b>%s</b></span> <br />' % (priority, choice_cadence, choice.upper())
+      print '        <span title="%s %s"><b>%s</b></span> <br />'\
+          % (priority, choice_cadence, choice.upper())
       print '      </p>'
     else:
       print line
