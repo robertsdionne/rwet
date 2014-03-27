@@ -153,11 +153,11 @@ def main():
     <style type="text/css">
       @font-face {
         font-family: 'EVA Hand 1';
-        src: url('EVA1.ttf');
+        src: url('font/EVA1.ttf');
       }
       @font-face {
         font-family: 'Ubuntu Mono';
-        src: url('Ubuntu-M.ttf');
+        src: url('font/Ubuntu-M.ttf');
       }
       body {
         font-family: 'Ubuntu Mono';
