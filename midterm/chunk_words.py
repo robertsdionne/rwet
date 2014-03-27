@@ -123,6 +123,8 @@ def main():
       description = 'Decompose words into their phonemes')
   commands.add_argument(
       '-d', '--dictionary', required = True, help = 'the pronunciation dictionary')
+  commands.add_argument('--html', action = 'store_true', help = 'output to html')
+  commands.add_argument('-i', '--image', help = 'the html image to precede the text')
   commands.add_argument('-s', '--source', help = 'the source text')
   commands.add_argument('--api_key', help = 'the api key')
   commands.add_argument('--api_secret', help = 'the api secret')
@@ -139,6 +141,33 @@ def main():
       line = line.strip()
       source_lines.append(line)
 
+  if arguments.html:
+    print '''
+<html>
+  <head>
+    <meta charset="utf-8">
+    <style type="text/css">
+      @font-face {
+        font-family: 'EVA Hand 1';
+        src: url('EVA1.ttf');
+      }
+      @font-face {
+        font-family: 'Ubuntu Mono';
+        src: url('Ubuntu-M.ttf');
+      }
+      body {
+        font-family: 'Ubuntu Mono';
+      }
+      div {
+        padding-left: 1em;
+      }
+    </style>
+  </head>
+  <body>
+    %s
+    <div style="padding-left: 5em;">
+''' % ('<div><img src="%s" style="width: 45em;" /></div>' % arguments.image if arguments.image else '')
+
   for line in sys.stdin:
     line = line.strip()
     words = line.split()
@@ -147,12 +176,23 @@ def main():
     choice, choice_cadence, priority = choose(source_lines, pronunciations, line_cadence)
     line = re.sub('\\s+', ' ', line)
     choice = re.sub('\\s+', ' ', choice)
-    print line
-    print choice.upper(), '(%s)' % priority
-    print
-    # print line_cadence
-    # print choice_cadence
-    # print
+    if arguments.html:
+      print '      <p>'
+      print '        <span style="font-family: \'EVA Hand 1\';"><b>%s</b></span> <br />' % line
+      print '        <span>%s</span> <br />' % line
+      print '        <span><b>%s</b></span> <br />' % choice.upper()
+      print '      </p>'
+    else:
+      print line
+      print choice.upper(), '(%s)' % priority
+      print
+
+  if arguments.html:
+    print '''
+    </div>
+  </body>
+</html>
+'''
 
 
 if '__main__' == __name__:
