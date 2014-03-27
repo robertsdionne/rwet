@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 
+import argparse
+import editdistance
 import collections
 import itertools
+import json
 import re
 import sys
 
@@ -61,7 +64,10 @@ PARSE = collections.OrderedDict([
 ])
 
 
-def chunk_word(word):
+def chunk_word(pronunciations, word):
+  word = re.sub('[^\w\']', '', word).lower()
+  if pronunciations.has_key(word):
+    return pronunciations[word][0]
   result = []
   chunk_found = False
   for chunk, phonemes in PARSE.iteritems():
@@ -71,16 +77,82 @@ def chunk_word(word):
       chunk_found = True
       break
   if chunk_found and word:
-    result.extend(chunk_word(word))
+    result.extend(chunk_word(pronunciations, word))
   if not chunk_found:
     result.append('?')
   return result
 
 
+def transform_phoneme(phoneme):
+  match = re.match('.*([0-9])', phoneme)
+  return 'V' if match else 'C'
+
+
+def word_cadence(phonemes):
+  def remove_duplicates(phoneme):
+    if 'C' == phoneme:
+      if remove_duplicates.previous_phoneme_was_vowel:
+        remove_duplicates.previous_phoneme_was_vowel = False
+        return True
+      else:
+        return False
+    else:
+      remove_duplicates.previous_phoneme_was_vowel = True
+      return True
+  remove_duplicates.previous_phoneme_was_vowel = True
+  return ''.join(filter(remove_duplicates, map(transform_phoneme, phonemes)))
+
+
+def choose(source_lines, pronunciations, target_line_cadence):
+  prioritized = list()
+  for line in source_lines:
+    words = line.split()
+    cadences = list()
+    for word in words:
+      cadence = word_cadence(chunk_word(pronunciations, word))
+      cadences.append(cadence)
+    line_cadence = ' '.join(cadences)
+    edit_distance = editdistance.eval(target_line_cadence, line_cadence)
+    prioritized.append((edit_distance, line, line_cadence))
+  sorted_priority = min(prioritized)
+  return sorted_priority[1], sorted_priority[2], sorted_priority[0]
+
+
 def main():
+  commands = argparse.ArgumentParser(
+      description = 'Decompose words into their phonemes')
+  commands.add_argument(
+      '-d', '--dictionary', required = True, help = 'the pronunciation dictionary')
+  commands.add_argument('-s', '--source', help = 'the source text')
+  commands.add_argument('--api_key', help = 'the api key')
+  commands.add_argument('--api_secret', help = 'the api secret')
+  commands.add_argument('--oath_access_token', help = 'the oauth access token')
+  commands.add_argument('--oath_access_token_secret', help = 'the oauth access token secret')
+  arguments = commands.parse_args()
+
+  with open(arguments.dictionary) as dictionary_file:
+    pronunciations = json.load(dictionary_file)
+
+  with open(arguments.source) as source_file:
+    source_lines = list()
+    for line in source_file:
+      line = line.strip()
+      source_lines.append(line)
+
   for line in sys.stdin:
     line = line.strip()
-    print line, ' '.join(chunk_word(line))
+    words = line.split()
+    cadences = [word_cadence(chunk_word(pronunciations, word)) for word in words]
+    line_cadence = ' '.join(cadences)
+    choice, choice_cadence, priority = choose(source_lines, pronunciations, line_cadence)
+    line = re.sub('\\s+', ' ', line)
+    choice = re.sub('\\s+', ' ', choice)
+    print line
+    print choice.upper(), '(%s)' % priority
+    print
+    # print line_cadence
+    # print choice_cadence
+    # print
 
 
 if '__main__' == __name__:
