@@ -142,6 +142,10 @@ def main():
       source_lines.append(line)
 
   if arguments.html:
+    if arguments.image:
+      image = '<div><img src="%s" style="width: 45em;" /></div>' % arguments.image
+    else:
+      image = ''
     print '''
 <html>
   <head>
@@ -166,7 +170,7 @@ def main():
   <body>
     %s
     <div style="padding-left: 5em;">
-''' % ('<div><img src="%s" style="width: 45em;" /></div>' % arguments.image if arguments.image else '')
+''' % image
 
   for line in sys.stdin:
     line = line.strip()
@@ -178,9 +182,9 @@ def main():
     choice = re.sub('\\s+', ' ', choice)
     if arguments.html:
       print '      <p>'
-      print '        <span style="font-family: \'EVA Hand 1\';"><b>%s</b></span> <br />' % line
-      print '        <span>%s</span> <br />' % line
-      print '        <span><b>%s</b></span> <br />' % choice.upper()
+      print '        <span title="%s" style="font-family: \'EVA Hand 1\';"><b>%s</b></span> <br />' % (line_cadence, line)
+      print '        <span title="%s">%s</span> <br />' % (line_cadence, line)
+      print '        <span title="%s %s"><b>%s</b></span> <br />' % (priority, choice_cadence, choice.upper())
       print '      </p>'
     else:
       print line
