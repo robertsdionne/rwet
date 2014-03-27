@@ -6,6 +6,10 @@ import sys
 
 
 def main():
+  commands = argparse.ArgumentParser(
+      description = 'Cleans up a source text by splitting on punctuation instead of original lines')
+  commands.parse_args()
+  
   lines = sys.stdin.readlines()
   text = ''.join(lines)
   text = re.sub('\n', ' ', text)

@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import argparse
 import re
 import sys
 
@@ -26,6 +27,10 @@ def parse_line(line):
 
 
 def main():
+  commands = argparse.ArgumentParser(
+      description = 'Reads a single transcription from Voynich manuscript data files')
+  commands.parse_args()
+
   lines = sys.stdin.readlines()
   processed_lines = list()
   for line in lines:
@@ -36,7 +41,6 @@ def main():
     if 'H' == transcriber_code and line:
       processed_lines.append(line)
   output = '\n'.join(processed_lines)
-# cleaned_output = re.sub('\s+', '\n', output)
   print output
 
 

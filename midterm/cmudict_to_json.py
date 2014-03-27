@@ -14,6 +14,8 @@ def extract_word(word):
 
 
 def main():
+  commands = argparse.ArgumentParser(description = 'Converts cmudict to JSON format')
+  commands.parse_args()
 
   # store word pronunciations into a dictionary for subsequent JSON output
   word_pronunciations = dict()
