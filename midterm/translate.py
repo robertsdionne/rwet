@@ -9,6 +9,7 @@ import re
 import sys
 
 
+# fallback dictionary for greedily parsing chunks of letters into phonemes
 PARSE = collections.OrderedDict([
   ('ooooooooo', ['UW0']),
   ('eeee', ['IY0']),
@@ -64,6 +65,7 @@ PARSE = collections.OrderedDict([
 ])
 
 
+# chunks a word into phonemes using cmudict and falls back to the PARSE dictionary above
 def chunk_word(pronunciations, word):
   word = re.sub('[^\w\']', '', word).lower()
   if pronunciations.has_key(word):
@@ -83,11 +85,13 @@ def chunk_word(pronunciations, word):
   return result
 
 
+# transforms a phoneme into a consonant or vowel marker
 def transform_phoneme(phoneme):
   match = re.match('.*([0-9])', phoneme)
   return 'V' if match else 'C'
 
 
+# transforms phonemes into consonant or vowel markers
 def word_cadence(phonemes):
   def remove_duplicates(phoneme):
     if 'C' == phoneme:
@@ -103,6 +107,8 @@ def word_cadence(phonemes):
   return ''.join(filter(remove_duplicates, map(transform_phoneme, phonemes)))
 
 
+# chooses the the line with the cadence that has the fewest different consonant or vowel markers to
+# the target line
 def choose(source_lines, pronunciations, target_line_cadence):
   prioritized = list()
   for line in source_lines:
@@ -119,28 +125,29 @@ def choose(source_lines, pronunciations, target_line_cadence):
 
 
 def main():
+  # setup command line options
   commands = argparse.ArgumentParser(
-      description = 'Decompose words into their phonemes')
+      description = 'Translates a manuscript into rhythmically plausible lines from source text')
   commands.add_argument(
       '-d', '--dictionary', required = True, help = 'the pronunciation dictionary')
   commands.add_argument('--html', action = 'store_true', help = 'output to html')
   commands.add_argument('-i', '--image', help = 'the html image to precede the text')
   commands.add_argument('-s', '--source', help = 'the source text')
-  commands.add_argument('--api_key', help = 'the api key')
-  commands.add_argument('--api_secret', help = 'the api secret')
-  commands.add_argument('--oath_access_token', help = 'the oauth access token')
-  commands.add_argument('--oath_access_token_secret', help = 'the oauth access token secret')
+
   arguments = commands.parse_args()
 
+  # read the cmudict from JSON
   with open(arguments.dictionary) as dictionary_file:
     pronunciations = json.load(dictionary_file)
 
+  # read the source text
   with open(arguments.source) as source_file:
     source_lines = list()
     for line in source_file:
       line = line.strip()
       source_lines.append(line)
 
+  # output HTML header
   if arguments.html:
     if arguments.image:
       image = '<div><img src="%s" style="width: 45em;" /></div>' % arguments.image
@@ -172,6 +179,7 @@ def main():
     <div style="padding-left: 5em;">
 ''' % image
 
+  # output translated lines
   for line in sys.stdin:
     line = line.strip()
     words = line.split()
@@ -193,6 +201,7 @@ def main():
       print choice.upper(), '(%s)' % priority
       print
 
+  # output output HTML footer
   if arguments.html:
     print '''
     </div>

@@ -3,7 +3,7 @@
 # exit on error
 set -e
 
-
+# activate virtualenv
 source ../venv/bin/activate
 
 
