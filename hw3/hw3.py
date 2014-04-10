@@ -13,6 +13,8 @@ N = 14 # maximum number of lines per stanza
 
 
 class FlowingGenerator(object):
+  """Generates stanzas of lines that flow together with similar beginning and ending sounds.
+  """
 
   def __init__(self, lines_per_stanza, mutator, probability, reverse, stanzas):
     self.lines_per_stanza = lines_per_stanza
@@ -24,6 +26,8 @@ class FlowingGenerator(object):
     self.word_starts_and_ends_with = dict()
 
   def feed(self, text):
+    """Feed in lines from an input text and cache them by their starting and ending characters.
+    """
     words = self.tokenize(text)
     for word in words:
       if self.reverse:
@@ -31,7 +35,7 @@ class FlowingGenerator(object):
       else:
         word = self.sanitize_word(word)
       if len(word) > 0:
-        word = self.mutator.feed(word)
+        word = self.mutator.feed(word) # mutate the words with hw1's mutator
         first_letter, last_letter = word[0], word[-1]
         self.word_starts_and_ends_with[first_letter + last_letter] = word
     if len(words) > 0:
@@ -41,6 +45,8 @@ class FlowingGenerator(object):
         self.starts_with.setdefault(first_letter, set()).add(text)
 
   def generate(self):
+    """Generate stanzas according to the rules.
+    """
     s = 0
     while s < self.stanzas:
       first_letter = random.choice(self.starts_with.keys())
@@ -71,9 +77,13 @@ class FlowingGenerator(object):
       s += 1
 
   def sanitize_word(self, word):
+    """Remove most punctuation from a word.
+    """
     return re.sub('[^\w\'-]', '', word).lower()
 
   def tokenize(self, text):
+    """Tokenize the given text.
+    """
     return text.split()
 
 
@@ -90,7 +100,8 @@ def main():
 
   arguments = commands.parse_args()
 
-  mutator = MarkovCharacterMutator(arguments.language_model, 0.5, False, False)
+  mutator = MarkovCharacterMutator(arguments.language_model,
+      probability=0.5, uniform_probability=False, use_original_context=False)
   mutator.prepare()
   generator = FlowingGenerator(N, mutator, arguments.probability, arguments.reverse, S)
   for line in sys.stdin:
