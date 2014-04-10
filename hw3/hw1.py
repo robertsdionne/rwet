@@ -56,7 +56,7 @@ class MarkovMutator(object):
   def mutate_unit(self, n, prefix, suffix):
     """Mutates a given unit.
     """
-    if ' ' == suffix or '\t' == suffix:
+    if u' ' == suffix or u'\t' == suffix:
       return suffix
     ngrams = self.language_model[str(n)]
     if n > 1:
@@ -67,7 +67,7 @@ class MarkovMutator(object):
       return self.mutate_unit(n - 1, prefix[1:], suffix)
     else:
       sample = self.sample_from_distribution(distribution)
-      if ' ' != sample and '\t' != sample:
+      if u' ' != sample and u'\t' != sample:
         return sample
       else:
         return suffix
@@ -101,12 +101,12 @@ class MarkovCharacterMutator(MarkovMutator):
   def __init__(self,
       language_model_filename, probability, uniform_probability, use_original_context):
     super(MarkovCharacterMutator, self).__init__(
-        '', language_model_filename, probability, uniform_probability, use_original_context)
+        u'', language_model_filename, probability, uniform_probability, use_original_context)
 
   def feed(self, text):
     """Prints a mutated sequence of characters.
     """
-    print self.mutate_line(text)
+    return self.mutate_line(text)
 
 
 class MarkovTokenMutator(MarkovMutator):
@@ -116,16 +116,15 @@ class MarkovTokenMutator(MarkovMutator):
   def __init__(self,
       language_model_filename, probability, uniform_probability, use_original_context):
     super(MarkovCharacterMutator, self).__init__(
-        ' ', language_model_filename, probability, uniform_probability, use_original_context)
+        u' ', language_model_filename, probability, uniform_probability, use_original_context)
 
   def feed(self, text):
     """Prints a mutated sequence of tokens.
     """
-    print self.mutate_line(self.tokenize(text))
+    return self.mutate_line(self.tokenize(text))
 
 
 def main():
-  a = MarkovCharacterMutator(None, None, None, None)
   commands = argparse.ArgumentParser(description = 'Morphs input text into the style of another.')
   commands.add_argument('-i', '--uniform_probability', action = 'store_true',
       help = 'whether to ignore the probability values when sampling')
@@ -152,7 +151,7 @@ def main():
   mutator.prepare()
 
   for line in sys.stdin:
-    mutator.feed(line.strip())
+    print mutator.feed(line.decode('utf8').strip()).encode('utf8')
 
 
 if '__main__' == __name__:
