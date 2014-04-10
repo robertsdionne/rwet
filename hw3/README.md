@@ -35,7 +35,7 @@ optional arguments:
 ### Example
 
 ```bash
-$ ./hw3.py -p 1 -l onomotopoeia5grams.json  < lightinaugust.txt | head
+$ ./hw3.py -p 1 -l onomotopoeia5grams.json < lightinaugust.txt | head
 ```
 ```
 in neigel lying gnew with horshu until lrmm men nidh have eudoia and deffat to of field,
