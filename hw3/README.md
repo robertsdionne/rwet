@@ -32,6 +32,24 @@ optional arguments:
                         planting them within a line
 ```
 
+### Example
+
+```bash
+$ ./hw3.py -p 1 -l onomotopoeia5grams.json  < lightinaugust.txt | head
+```
+```
+in neigel lying gnew with horshu until lrmm men nidh have eudoia and deffat to of field,
+down.
+no woman,
+not th hair rewroo of place.
+enemies.
+She laughed,
+dumping god dishes sf food da all latt the floor.
+recalcitrant,
+the eudoia and das student temtety-c crime epoit the e-haw ways of Yoknapatawpha County,
+young.
+```
+
 ## ngram.py
 
 Ngram.py examines standard input and prints a JSON structure to standard output that
