@@ -1,10 +1,10 @@
 # RWET Homework #3
 
 Two programs:
-* [hw3.py](https://github.com/robertsdionne/rwet/tree/master/hw3#hw1py)
+* [hw3.py](https://github.com/robertsdionne/rwet/tree/master/hw3#hw3py)
     * [example](https://github.com/robertsdionne/rwet/tree/master/hw3#example)
-* [ngram.py](https://github.com/robertsdionne/rwet/tree/master/hw1#ngrampy)
-    * [example](https://github.com/robertsdionne/rwet/tree/master/hw1#example-1)
+* [ngram.py](https://github.com/robertsdionne/rwet/tree/master/hw3#ngrampy)
+    * [example](https://github.com/robertsdionne/rwet/tree/master/hw3#example-1)
 
 ## hw3.py
 
