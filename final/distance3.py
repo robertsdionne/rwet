@@ -154,41 +154,34 @@ def main():
 
   line0 = sys.stdin.readline().strip().decode('utf8').split()
   line1 = sys.stdin.readline().strip().decode('utf8').split()
+  lines = list()
+  sys.stdin.readline()
+  sys.stdin.readline()
+  for line in sys.stdin:
+    lines.append(line.strip().decode('utf8').split()[1:])
 
-  if arguments.html:
-    print HTML_HEADER
-    print html_intro(line0, line1)
-    print u'    <table>'
-    print (u'      <tr><td />%s</tr>' % ''.join(map(lambda item: u'<td>%s</td>' % item, line0))).encode('utf8')
-    for word1 in line1:
-      words = list()
-      for word0 in line0:
-        pair_vector = word_vectors.words_to_vector([word0, word1])
-        choice = word_vectors.choose(
-            word_vectors.nearest_n_words_to_vector(arguments.number, pair_vector)[2:])
-        choice_vector = word_vectors.word_to_vector(choice)
-        agreement = int(255 - 255 * numpy.dot(pair_vector, choice_vector))
-        words.append((choice, agreement))
-      entries = ''.join(
-          map(lambda item: u'<td class="item" style="background-color:rgb(%s,%s,%s);%s">%s</td>' % (
-              item[1], item[1], item[1], u'' if item[1] < 235 else u'color:black', item[0]), words))
-      print (u'      <tr><td>%s</td>%s</tr>' % (word1, entries)).encode('utf8')
-    print u'    </table>'
-    print HTML_FOOTER
-  else:
-    print u' '.join(line0)
-    print u' '.join(line1)
-    print
-
-    print u'\t',
+  print HTML_HEADER
+  print html_intro(line0, line1).encode('utf8')
+  print u'    <table>'
+  print (u'      <tr><td />%s</tr>' % ''.join(map(lambda item: u'<td>%s</td>' % item, line0))).encode('utf8')
+  i = 0
+  for word1 in line1:
+    words = list()
+    j = 0
     for word0 in line0:
-      print word0,
-    for word1 in line1:
-      print
-      print u'%s\t' % word1,
-      for word0 in line0:
-        print word_vectors.choose(word_vectors.nearest_n_words_to_vector(arguments.number,
-            word_vectors.words_to_vector([word0, word1]))[2:]),
+      pair_vector = word_vectors.words_to_vector([word0, word1])
+      choice = lines[i][j]
+      choice_vector = word_vectors.word_to_vector(choice)
+      agreement = int(255 - 255 * numpy.dot(pair_vector, choice_vector))
+      words.append((choice, agreement))
+      j += 1
+    entries = u''.join(
+        map(lambda item: u'<td class="item" style="background-color:rgb(%s,%s,%s);%s">%s</td>' % (
+            item[1], item[1], item[1], u'' if item[1] < 235 else u'color:black', item[0]), words))
+    print (u'      <tr><td>%s</td>%s</tr>' % (word1, entries)).encode('utf8')
+    i += 1
+  print u'    </table>'
+  print HTML_FOOTER
 
 
 if '__main__' == __name__:

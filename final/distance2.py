@@ -11,31 +11,6 @@ import sklearn.preprocessing
 import sys
 
 
-HTML_HEADER = u'''<html>
-  <head>
-    <meta charset="utf-8">
-    <style type="text/css">
-      body {
-        margin-left: 3em;
-        margin-top: 3em;
-      }
-      table {
-        border-collapse: collapse;
-      }
-      td.item {
-        color: white;
-        font-weight: bold;
-      }
-    </style>
-  </head>
-  <body>'''
-
-
-HTML_FOOTER = u'''  </body>
-</html>
-'''
-
-
 class Words(object):
   """TODO(robertsdionne): describe
   """
@@ -51,7 +26,7 @@ class Words(object):
     self.vectors = vectors
 
   def sanitize(self, word):
-    return re.sub(u'[^\\w\']', u'', word.lower())
+    return re.sub('[^\\w\']', '', word.lower())
 
   def choose(self, choices):
     # if self.uniform:
@@ -133,10 +108,6 @@ def read_vectors(filename):
   return vectors
 
 
-def html_intro(line0, line1):
-  return u'    <p>%s<br />\n    %s</p>' % (' '.join(line0), ' '.join(line1))
-
-
 def main():
   commands = argparse.ArgumentParser(description = 'Find the nearest words.')
   commands.add_argument('--number', type = int, default = 10, help = 'the number of similar words')
@@ -146,7 +117,6 @@ def main():
       help = 'the probability parameter for the geometric distribution for choosing words')
   commands.add_argument('--multiply', action = 'store_true', help = 'whether to multiply vectors')
   commands.add_argument('--uniform', action = 'store_true', help = 'whether to sample uniformly')
-  commands.add_argument('--html', action = 'store_true', help = 'whether to output html')
   arguments = commands.parse_args()
 
   word_vectors = Words(arguments.multiply, arguments.probability, arguments.uniform,
@@ -155,40 +125,22 @@ def main():
   line0 = sys.stdin.readline().strip().decode('utf8').split()
   line1 = sys.stdin.readline().strip().decode('utf8').split()
 
-  if arguments.html:
-    print HTML_HEADER
-    print html_intro(line0, line1)
-    print u'    <table>'
-    print (u'      <tr><td />%s</tr>' % ''.join(map(lambda item: u'<td>%s</td>' % item, line0))).encode('utf8')
-    for word1 in line1:
-      words = list()
-      for word0 in line0:
-        pair_vector = word_vectors.words_to_vector([word0, word1])
-        choice = word_vectors.choose(
-            word_vectors.nearest_n_words_to_vector(arguments.number, pair_vector)[2:])
-        choice_vector = word_vectors.word_to_vector(choice)
-        agreement = int(255 - 255 * numpy.dot(pair_vector, choice_vector))
-        words.append((choice, agreement))
-      entries = ''.join(
-          map(lambda item: u'<td class="item" style="background-color:rgb(%s,%s,%s);%s">%s</td>' % (
-              item[1], item[1], item[1], u'' if item[1] < 235 else u'color:black', item[0]), words))
-      print (u'      <tr><td>%s</td>%s</tr>' % (word1, entries)).encode('utf8')
-    print u'    </table>'
-    print HTML_FOOTER
-  else:
-    print u' '.join(line0)
-    print u' '.join(line1)
-    print
+  print ' '.join(line0)
+  print ' '.join(line1)
+  print
 
-    print u'\t',
+  for word1 in line1:
     for word0 in line0:
-      print word0,
-    for word1 in line1:
-      print
-      print u'%s\t' % word1,
-      for word0 in line0:
-        print word_vectors.choose(word_vectors.nearest_n_words_to_vector(arguments.number,
-            word_vectors.words_to_vector([word0, word1]))[2:]),
+      print (word0, word1)
+      choice = raw_input()
+      choice_vector = word_vectors.word_to_vector(choice)
+      pair_vector = word_vectors.words_to_vector([word0, word1])
+      print numpy.dot(choice_vector, pair_vector)
+
+  # for line in sys.stdin:
+  #   line = line.strip().decode('utf8')
+  #   words = line.split()
+  #   print json.dumps(word_vectors.nearest_n_words_to_words(arguments.number, words))
 
 
 if '__main__' == __name__:
