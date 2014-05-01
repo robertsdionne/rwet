@@ -2,8 +2,13 @@
 
 mkdir -p temp
 
+if [ ! -e !/Downloads/GoogleNews-vectors-negative300.bin.gz ]; then
+  echo 'Download GoogleNews-vectors-negative300.bin.gz from here:'
+  echo 'https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing'
+  exit
+fi
+
 if [ ! -e GoogleNews-vectors-negative300.bin.gz ]; then
-  # curl TODO(robertsdionne): figure out correct URL
   ln -s ~/Downloads/GoogleNews-vectors-negative300.bin.gz temp/GoogleNews-vectors-negative300.bin.gz
 fi
 
