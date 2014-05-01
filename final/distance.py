@@ -40,12 +40,10 @@ class Words(object):
   """TODO(robertsdionne): describe
   """
 
-  def __init__(self, multiply, probability, uniform, words, vectors):
+  def __init__(self, probability, words, vectors):
     """TODO(robertsdionne): describe
     """
-    self.multiply = multiply
     self.probability = probability
-    self.uniform = uniform
     self.words = words
     self.word_set = set(words)
     self.vectors = vectors
@@ -54,9 +52,6 @@ class Words(object):
     return re.sub(u'[^\\w\']', u'', word.lower())
 
   def choose(self, choices):
-    # if self.uniform:
-    #   return random.choice(choices)
-    # else:
     index = min(numpy.random.geometric(self.probability) - 1, len(choices) - 1)
     return choices[index]
 
@@ -69,22 +64,12 @@ class Words(object):
     index = self.words.index(word)
     return self.vectors[index]
 
-  def words_to_vectors(self, words):
-    """TODO(robertsdionne): describe
-    """
-    words = map(lambda word: self.sanitize(word), words)
-    indices = [self.words.index(word) for word in words if word in self.word_set]
-    return self.vectors[indices]
-
   def words_to_vector(self, words):
     """TODO(robertsdionne): describe
     """
     words = map(lambda word: self.sanitize(word), words)
     indices = [self.words.index(word) for word in words if word in self.word_set]
-    if self.multiply:
-      result = self.vectors[indices].prod(axis = 0)
-    else:
-      result = self.vectors[indices].sum(axis = 0)
+    result = self.vectors[indices].sum(axis = 0)
     length = numpy.linalg.norm(result)
     return result / length if length > 0 else result
 
@@ -92,31 +77,6 @@ class Words(object):
     dot_products = numpy.dot(self.vectors, vector)
     indices = [t[0] for t in heapq.nlargest(n, enumerate(dot_products), operator.itemgetter(1))]
     return map(lambda index: self.words[index], indices)
-
-  def nearest_n_words_to_word(self, n, word):
-    if self.sanitize(word) not in self.word_set:
-      return [word]
-    return self.nearest_n_words_to_vector(n, self.word_to_vector(word))
-
-  def nearest_n_words_to_words(self, n, original_words):
-    stop_words = set(map(lambda word: self.sanitize(word), original_words)) - self.word_set
-    words = filter(lambda word: self.sanitize(word) in self.word_set, original_words)
-    vectors = self.words_to_vectors(words)
-    dot_products = numpy.dot(self.vectors, vectors.T)
-    result = list()
-    i = 0
-    for original_word in original_words:
-      entry = dict()
-      entry['original_word'] = [original_word]
-      if self.sanitize(original_word) in stop_words:
-        entry['alternate_words'] = [original_word]
-      else:
-        indices = [t[0] for t in heapq.nlargest(
-            n, enumerate(dot_products[:, i]), operator.itemgetter(1))]
-        entry['alternate_words'] = map(lambda index: self.words[index], indices)
-        i += 1
-      result.append(entry)
-    return result
 
 
 def read_vocabulary(filename):
@@ -144,12 +104,10 @@ def main():
   commands.add_argument('--vectors', required = True, help = 'the input numpy vector binary file')
   commands.add_argument('-p', '--probability', type = float, default = 0.3,
       help = 'the probability parameter for the geometric distribution for choosing words')
-  commands.add_argument('--multiply', action = 'store_true', help = 'whether to multiply vectors')
-  commands.add_argument('--uniform', action = 'store_true', help = 'whether to sample uniformly')
   commands.add_argument('--html', action = 'store_true', help = 'whether to output html')
   arguments = commands.parse_args()
 
-  word_vectors = Words(arguments.multiply, arguments.probability, arguments.uniform,
+  word_vectors = Words(arguments.probability,
       read_vocabulary(arguments.vocabulary), read_vectors(arguments.vectors))
 
   line0 = sys.stdin.readline().strip().decode('utf8').split()
