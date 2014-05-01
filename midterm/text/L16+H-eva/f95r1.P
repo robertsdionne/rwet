@@ -1,0 +1,37 @@
+## <f95r1.P> {}
+# text
+# Last edited on 1998-12-19 22:50:35 by stolfi
+#
+<f95r1.P.1;H>      kshdor.chepchdy.ofaiin.ol.oldaiin.opshol.qokaiin.oty.odai!n-
+<f95r1.P.1;F>      kshdor.chepeedy.ofaiin.ol.oldaiin.opshol.qokaiin.oty.odaiin-
+#
+<f95r1.P.2;H>      ol.chdy.chdy.qokaiin.shdy.qokaiin.chdy.kol.chdy.qoty.oky.dan-
+<f95r1.P.2;F>      ol.chdy.chdy.qokaiin.shdy.qokaiin.chdy.kal.chdy.qoty.oky.dan-
+#
+<f95r1.P.3;H>      teodaiin.oekeey.qokees.ody.chekaiin.chekaiin.chky.chaiin-
+<f95r1.P.3;F>      teodaiin.oekeey.qokees.ody.chekaiin.chekaiin.chky.chaiin-
+#
+<f95r1.P.4;H>      ycheey.ky.olkain.chey.kain.cholky.chedy.qokaiin.chy.kaiin.ly-
+<f95r1.P.4;F>      ychee%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%okaiin.chy.kaiin.ly-
+#
+<f95r1.P.5;H>      ytar.chedy.todai!n.qoky.shdaly=
+<f95r1.P.5;F>      atar.chedy.tadaiin.qoky.shdaly=
+#
+<f95r1.P.6;H>      tchdor.or.chekchdy.qokar.chcthy.qotchdy.lshedy.qoky.qofai!n.dy-
+<f95r1.P.6;F>      tchdor.or.chekchdy.qokar.chcthy.qotchdy.lshedy.qoky.qofaiin.dy-
+#
+<f95r1.P.7;H>      ykchedy.sheky.chekar.chdai!n.chdaiin.okar.chetchdy.chdy.chkam-
+<f95r1.P.7;F>      ykchedy.sheky.chekar.chdaiin.chdaiin.okar.chetchdy.chdy.chkam-
+#
+<f95r1.P.8;H>      olkor.chdaiin.chol.kaiin.qokeedy.qoky.chedy.lchedy.chedy.alod-
+<f95r1.P.8;F>      olkor.chdaiin.chol.kaiin.qokeedy.qoky.che!y.lchedy.chedy.alod-
+#
+<f95r1.P.9;H>      tchdy.tchor.chol.tar.chdy.okol.ykoldy.olkeedy.qotaiin.or-
+<f95r1.P.9;F>      tchdy.tchor.chol.tar.chdy.okol.ykoldy.olkeedy.qotaiin.or-
+#
+<f95r1.P.10;H>     daiin.chckhy.okaiin.chckhy.daiin.ykedy.epaiin.okaraiin.ls-
+<f95r1.P.10;F>     daiin.eeckhy.okaiin.chckhy.daiin.ykedy.epaiin.okaraiin.ls-
+#
+<f95r1.P.11;H>     ykaiin.or.chdy.chekai!n.ol.dar.ykar.olkeey.ldar.chckhal=
+<f95r1.P.11;F>     ykaiin.or.chdy.chekaiin.ol.dar.ykar.olkeey.ldar.chckhal=
+#

@@ -1,0 +1,59 @@
+## <f100r.L3> {}
+# panel 100r, third row of plants and labels
+# Last edited on 1998-12-10 08:51:30 by stolfi
+#
+# There are 6 labels and 5 plants; not clear how they are to be paired.
+#
+# No label on container?
+#
+# plant [3,1] - dark leaves, flowers?
+#
+# Label under leaves of plant [3,1]:
+<f100r.L3.1;H>     okeeos=
+<f100r.L3.1;C>     okeeos=
+<f100r.L3.1;K>     okeeos={was <f100r.26Aa;K>}
+<f100r.L3.1;V>     okeeos=
+<f100r.L3.1;U>     okeeos=
+#
+# Label above plants [3,1] and [3,2]:
+<f100r.L3.2a;H>    shockhey=
+<f100r.L3.2a;C>    chockhoy={higher}
+<f100r.L3.2a;K>    shockhey={was <f100r.27A;K>}
+<f100r.L3.2a;V>    shockhey=
+<f100r.L3.2a;U>    shockhey=
+#
+# Label next to root of plant [3,2]
+<f100r.L3.2b;H>    orol=
+<f100r.L3.2b;C>    orol=
+<f100r.L3.2b;K>    orol={was <f100r.26Ab;K>}
+<f100r.L3.2b;V>    orol=
+<f100r.L3.2b;U>    orol=
+#
+# plant [3,2]? - crumpled root, bushy leaves
+#
+# plant [3,3] - light roots, dark stem and leaf
+# 
+<f100r.L3.3;H>     olcheom=
+<f100r.L3.3;C>     olchiom=
+<f100r.L3.3;K>     olcheom={was <f100r.28A;K>}
+<f100r.L3.3;V>     olcheom=
+<f100r.L3.3;U>     olcheom=
+#
+# plant [3,4] - light roots, dark leaves with white trim
+#
+# Label under leaves of plant [3,4]
+<f100r.L3.4;H>     okols=
+<f100r.L3.4;C>     otols=
+<f100r.L3.4;K>     okols={was <f100r.29A;K>}
+<f100r.L3.4;V>     okols=
+<f100r.L3.4;U>     okols=
+#
+# Label above leaves of plants [3,4] and [3,5]
+<f100r.L3.5;H>     oteol=
+<f100r.L3.5;C>     oteol={higher}
+<f100r.L3.5;K>     oteol={was <f100r.30A;K>}
+<f100r.L3.5;V>     oteol=
+<f100r.L3.5;U>     oteol=
+#
+# plant [3,5] - many roots, large serrated leaves
+#

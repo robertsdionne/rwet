@@ -1,0 +1,25 @@
+## <f77r.N> {}
+# nymph names 
+# Last edited on 1998-11-28 22:02:15 by stolfi
+#
+# nymph in NW corner
+<f77r.N.1;H>       darchdar=
+<f77r.N.1;V>       darchdar={Grove's #1}
+<f77r.N.1;U>       darchdar=
+#
+# nymph in NE corner
+<f77r.N.2;H>       dotedy=
+<f77r.N.2;V>       dotedy={Grove's #8}
+<f77r.N.2;U>       dotedy=
+#
+# nymph in W middle
+<f77r.N.3;H>       otchdy=
+<f77r.N.3;V>       otchdy={Grove's #9}
+<f77r.N.3;U>       otchdy=
+#
+# nymph in SW corner
+<f77r.N.4;H>       otolaiino=
+<f77r.N.4;V>       otolaiino={Grove's #10}
+<f77r.N.4;U>       otolaiino=
+#
+#

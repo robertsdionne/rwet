@@ -1,0 +1,56 @@
+## <f20r.P> {}
+# text
+# Last edited on 1998-12-12 16:15:18 by stolfi
+#
+<f20r.P.1;H>       kdchody.chopy.cheey.qotchol.qotoeey.dchor.choiin-
+<f20r.P.1;C>       kdchody.chopy.cheey.qotchol.qotoeey.dchor.choiin-
+<f20r.P.1;F>       kdchody.chopy.cheey.qotchol.qotoeey.dchor.chaiin-
+#
+<f20r.P.2;H>       chodey.cthey.chotol.odaiir.qotchy.cthody.chodchy-
+<f20r.P.2;C>       chodey.cthey.chotol.odaiin.qotchy.cthody.chodchy-
+<f20r.P.2;F>       chodey.cthey.chotol.odaiir.qotchy.cthody.chodchy-
+#
+<f20r.P.3;H>       qoteey.cho.chodaiin.sho.qochy.chey.tcheo!dal.daral-
+<f20r.P.3;C>       qoteey.cho.chodaiin.sho.qochy.chey.tcheo!dal.daral-
+<f20r.P.3;F>       qoteey.cho!chodaiin.sho.qochy.chey.tcheo.dal.daral-
+#
+<f20r.P.4;H>       ochol.ol.teey.otol!chey=
+<f20r.P.4;C>       ochol.ol.teey.otol.chey=
+<f20r.P.4;F>       ochol.ol!teey.otal!chey=
+#
+<f20r.P.5;H>       pchocthy.chokoaiin.cp!y.cheeen.opchey.shosaiin.r-
+<f20r.P.5;C>       pchocthy.chokoaiin.!!*y.cheee*.opchey.shoraiin.*-
+<f20r.P.5;F>       pchocthy.chokoaiin.cphy.cheeen.opchey.shosaiin.*-
+#
+<f20r.P.6;H>       choees.okchor.qotol.cheey.daiin.chy.choiin.daiin-
+<f20r.P.6;C>       choiis.okchor.qotol.cheey.daiin.chy.choiin.daiin-
+<f20r.P.6;F>       choees.okchor.qotol.cheey.daiin.chy.choiin.daiin-
+#
+<f20r.P.7;H>       ocho!l!shod.daiin.choteol.chol.dol.shol.otaiin-
+<f20r.P.7;C>       ocho.l!shod.dai!r.choteol.chol.dol.shol.otaiin-
+<f20r.P.7;F>       ocho!l.shod.daiin.choteol.chol.dol.shol.otaiin-
+#
+<f20r.P.8;H>       schodain.cheo.r.cheody=
+<f20r.P.8;C>       schodain.cheo.r.cheody=
+<f20r.P.8;F>       schodain.cheo!r.cheody=
+#
+<f20r.P.9;H>       fchodees.shody.qotchey.qokchey.qocphy.chokoldy-
+<f20r.P.9;C>       fchodees.shody.qotchey.qokchey.qocphy.chokoldy-
+<f20r.P.9;F>       fchodees.shody.qotchey.qokchey.qocphy.chokoldy-
+#
+<f20r.P.10;H>      ochoaiin.chor.s!ody.pchodaiin.chetody.choky.dchy.toy-
+<f20r.P.10;C>      ochoaiin.chor.shody.pchodaiin.chetody.choky.dchy.toy-
+<f20r.P.10;F>      ochoaiin.chor.s!ody.pchodaiin.chetody.choky.dchy.toy-
+#
+<f20r.P.11;H>      dchod.qoteeody.ytchy.qot!shey.dchaiin.chol!ody-
+<f20r.P.11;C>      dchod.qoteeody.ytchy.qot!shey.dchaiin.chol!ody-
+<f20r.P.11;F>      dchod.qoteeody.ytchy.qot.shey.dchaiin.chol.ody-
+#
+<f20r.P.12;H>      shoiin.cheody.otchey.otchy.tchy.qoteey.daiin.dar-
+<f20r.P.12;C>      shoiin.cheody.otchey.otchy.tchy.qoteey.daiin.dar-
+<f20r.P.12;F>      shoiin.cheody.otchey.otchy.tchy.qoteey.daiin.dar-
+#
+<f20r.P.13;H>      ochaiin.chor.chor.cheey.tchey=
+<f20r.P.13;C>      ochaiin.chor.chor.cheey.tchey=
+<f20r.P.13;F>      ochaiin.chor.chor.cheey.tchey=
+#

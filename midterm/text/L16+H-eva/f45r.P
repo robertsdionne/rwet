@@ -1,0 +1,52 @@
+## <f45r.P> {}
+# text
+# Last edited on 1998-12-07 11:02:47 by stolfi
+#
+<f45r.P.1;H>       pykydal.shaikhy.oty.shey.qop.char.opchal.ypchar.ofchar-
+<f45r.P.1;C>       pykydal.shackhy.oty.shey.qop.char.opchal.ypchor.ofchar-
+<f45r.P.1;F>       pykydal.shackhy.oty.shey.qop.char.opchal.ypchar.ofchar-
+#
+<f45r.P.2;H>       shor.cthy.qoky.qokol.qokaiin.chol.chol.ykaiin.dar.om-
+<f45r.P.2;C>       shor.cthy.qoky.qokol.qokaiin.chol.chol.ykaiin.dar.om-
+<f45r.P.2;F>       shor.cthy.qoky.qokol.qokaiin.chol.chol.ykaiin.dar.om-
+<f45r.P.2;G>       shor.cthy.qoky.qokal.qokaiin.chol.chol.ykaiin.dar.om-
+#
+<f45r.P.3;H>       qo.chcthy.kchol.daiin.qoaiin.cthy.chaiin.ykeey.cthom-
+<f45r.P.3;C>       qo.chcthy.kchol.daiin.qoaiin.cthy.chaiin.ykeey.cthom-
+<f45r.P.3;F>       qo.chcthy.kchol.daiin.qoaiin.cthy.chaiin.ykeey.cthom-
+#
+<f45r.P.4;H>       lory.kaiin.ykeol.ykeol.cham=
+<f45r.P.4;C>       lory.kaiin.ykeol.ykeol.cham=
+<f45r.P.4;F>       lory.kaiin.ykeol.ykeol.cham=
+#
+<f45r.P.5;H>       kol!sho.pchor.kchey.ty.opchaldy.otshy.qokchy.dol!daiin-
+<f45r.P.5;C>       kol.sho.pchor.kchey.ty.opchaldy.otshy.qokchy.dol.daiin-
+<f45r.P.5;F>       kol!sho.pchor.kchey.ty.opchaldy.otshy.qokchy.dol.daiin-
+#
+<f45r.P.6;H>       otchar.okchar.daiin.ytchody.tcholol.otar.dal.dary-
+<f45r.P.6;C>       otchar.okchar.daiin.ytchody.tcholol.otal.dal.dary-
+<f45r.P.6;F>       otchar.okchar.daiin.ytchody.tcholol.otar.dal.dary-
+#
+<f45r.P.7;H>       lchar.qor.y.kar.dar=
+<f45r.P.7;C>       lchar.qor.y!kar.dar=
+<f45r.P.7;F>       lchar.qor!y.kar.dar=
+#
+<f45r.P.8;H>       tchol.cthy.qodaiin.cthy.dai!n.cthey.oty!dal.daiin.m-
+<f45r.P.8;C>       !chol.cthy.qodaiin.cthy.dai!n.cthey.oty.dal.daiin.g-
+<f45r.P.8;F>       tchol.cthy.qodaiin.cthy.dai!n.cthey.oty!dal.daiin.m-
+<f45r.P.8;G>       tchol.cthy.qodaiin.cthy.daiin.cthey.oty!dal.daiin.m-
+#
+<f45r.P.9;H>       dor.or.chain.dai!n.ykolody.ytaiin.qotchol.kol.dy-
+<f45r.P.9;C>       dor.or.chain.dai!n.ykolody.ytaiin.qotchol.kol.dy-
+<f45r.P.9;F>       dor!or.chain.dai!n.ykolody.ytaiin.qotchol.kol.dy-
+<f45r.P.9;G>       *or!or.chain.daiin.ykolody.ytaiin.qotchol.kol.dy-
+#
+<f45r.P.10;H>      okaiin.shar.yky.oky.kair.daldy.dalor.cheol.dal-
+<f45r.P.10;C>      okaiin.shar.yky.oky.kair.daldy.dalor.cheol.dal-
+<f45r.P.10;F>      okaiin.shar.yky.oky.kair.daldy.dalor.cheol.dal-
+#
+<f45r.P.11;H>      l.okaiin.okcho.lalda!!n.daldaiin=
+<f45r.P.11;C>      l.okaiin.okcho.lalda!!n.daldaiin=
+<f45r.P.11;F>      l.okaiin.okcho.lalda!!n.daldaiin=
+<f45r.P.11;G>      l!okaiin.okcho.laldaiin.daldaiin=
+#

@@ -1,0 +1,61 @@
+## <f32v.P> {}
+# text
+#Last edited on 1998-12-19 18:56:49 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+<f32v.P.1;H>       kcheodaiin.chol.kechy.qotaiin.daiioam-{plant}o.cho!fchody-
+<f32v.P.1;C>       kcheodaiin.chol!kechy.qotaiin.daiioam-{plant}o!cho!fchody-
+<f32v.P.1;F>       kcheodaiin.chol.kechy.qotaiin.dainoam-{plant}o!cho.fchody-
+<f32v.P.1;U>       kcheodaiin.chol,kechy.qotaiin.daiinym-{plant}o!cho,fchody-
+#
+<f32v.P.2;H>       daiin.odar.chy.daiin.chey.tcho.ldy-{plant}dain.teor-
+<f32v.P.2;C>       daiin.odar.chy.daiin.chey!tcho.ldy-{plant}dain.teor-
+<f32v.P.2;F>       daiin.odar.chy.daiin.chey.tchy.ldy-{plant}dain.teor-
+<f32v.P.2;U>       daiir.odar.chy.daiin.chey.tchy.ldy-{plant}dain.teor-
+#
+<f32v.P.3;H>       shor.daiin.chckhy.dsho.dain.daiin.s-{plant}shokey.ka-
+<f32v.P.3;C>       shor.daiin.chckhy.dsho.dain.daiin.s-{plant}shokey.ka-
+<f32v.P.3;F>       shor.daiin.chckhy.dsho.dain.daiin.s-{plant}shokey.ka-
+<f32v.P.3;U>       shor.daiin.chckhy.dsho.dain.daiin.s-{plant}shokey.ka-
+#
+<f32v.P.4;H>       or.chr.chor.dor.chaiin.qotcho.r.chy-{plant}dcho.daiin-
+<f32v.P.4;C>       or.chr.chor.dor.chaiin.qotcho!r.chy-{plant}dcho!daiin-
+<f32v.P.4;F>       or!chr.chor.dor.chaiin.qotcho.r!chy-{plant}dcho.daiin-
+<f32v.P.4;U>       or,chr.chor.dor.chaiin.qotcho!r,chy-{plant}dchy.daiin-
+#
+<f32v.P.5;H>       chokchy.daiin.shy.chor.qo.kaiin.dain-{plant}dchol.dor!g-
+<f32v.P.5;C>       chokchy.daiin.shy.chor.qo!kaiin.dain-{plant}dchol.dor.g-
+<f32v.P.5;F>       chokchy.daiin.shy.chor.qo!kaiin.dain-{plant}dchol.dor!m-
+<f32v.P.5;U>       chokchy.daiin.shy.chor.qo!kaiin.dain-{plant}dchol.dor!m-
+#
+<f32v.P.6;H>       okchan.chol.shal.dchcthy={plant}
+<f32v.P.6;C>       okchan.chol.shal.dchcthy={plant}
+<f32v.P.6;F>       okchan.chol.shal.dchcthy={plant}
+<f32v.P.6;U>       okchan.chol,shal.dchcthy={plant}
+#
+<f32v.P.7;H>       ksho.cphor.she.sheaiin.otshchor.dain-{plant}shckhy.s.odan-
+<f32v.P.7;C>       ksho.cphos.she.sheaiin.otshchor.dain-{plant}shckhy.s.odan-
+<f32v.P.7;F>       ksho.cphor.she.sheaiin.otshchor.dain-{plant}shckhy.s.odan-
+<f32v.P.7;U>       ksho.cphor.she.sheaiin.otshchor.dain-{plant}shckhy.s.odan-
+#
+<f32v.P.9;H>       otchol.daiin.daiin.ctho.daiin.qotaiin-{plant}otchy.d-{plant}shar-
+<f32v.P.9;C>       %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-
+<f32v.P.9;F>       otchol.daiin.daiin.ctho.daiin.qotaiin-{plant}otchy.d-{plant}shar-
+<f32v.P.9;U>       otchol.daiin.daiin.ctho,daiin.qotaiin-{plant}otchy.d-{plant}shar-
+#
+<f32v.P.9a;H>      qotchy.cfhy.s!key.chocthy.daiin.cthaiin-{plant}daiin-{plant}
+<f32v.P.9a;C>      qotd!y.cfhy.s!key.chocthy.daiin.cthaiin-{plant}daiin-{plant}
+<f32v.P.9a;F>      qotchy.cfhy.s!key.chocthy.daiin.cthaiin-{plant}daiin-{plant}
+<f32v.P.9a;U>      qotchy.cfhy.s,key.chocthy.daiin.cthaiin-{plant}daiin-{plant}
+#
+<f32v.P.10;H>      sho.keol.chor.chol.daiin.cphol.cthol.da-{plant}ar-{plant}
+<f32v.P.10;C>      sho!keol.chor.chol.daiin.cphol.cthol.da-{plant}ar-{plant}
+<f32v.P.10;F>      sho.keol.chor.chol.daiin.cphol.cthol.dy-{plant}ar-{plant}
+<f32v.P.10;U>      sho,keol.chor.chol.daiin.cphol.cthol.dy-{plant}ar-{plant}
+#
+<f32v.P.11;H>      ol.sho.chy=
+<f32v.P.11;C>      ol.sho.chy=
+<f32v.P.11;F>      ol.sho.chy=
+<f32v.P.11;U>      ol.sho.chy=
+#

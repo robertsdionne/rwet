@@ -1,0 +1,36 @@
+## <f38v.P> {}
+# text
+# Last edited on 1998-12-11 12:38:57 by stolfi
+#
+<f38v.P.1;H>       okchop.chol.shotol.oteol.okeey.s-{plant}chor.d.aiin.d-
+<f38v.P.1;C>       okchop.chol.shotol.oteol.okeey.s-{plant}char.d!aiin.d-
+<f38v.P.1;F>       okchop.chol.shotol.oteol.okeey.s-{plant}chor.d!aiin.d-
+#
+<f38v.P.2;H>       choiin.shey.keo.sho.oiin.s.chol.ldy-{plant}okeaiin.okom-
+<f38v.P.2;C>       choiin.shey.key.sho.oiin.s.chol!!dy-{plant}okeaiin.okam-
+<f38v.P.2;F>       choiin.shey.key.sho.oiin.s.chol.ldy-{plant}okeaiin.okom-
+#
+<f38v.P.3;H>       qokeey.keor.daiin.okey.keey.daiin-{plant}dair.daiin.s-
+<f38v.P.3;C>       qokeey.keor.daiin.okey.keey.daiin-{plant}dair.daiin.s-
+<f38v.P.3;F>       qokeey.keor!daiin.okey.keey.daiin-{plant}dair.daiin.s-
+#
+<f38v.P.4;H>       okeey.daiin.qokeey.chotey.tody-{plant}oky.aiiin.d-
+<f38v.P.4;C>       okeey.daiin.qokchy.chotey.tody-{plant}oky.aiiin.d-
+<f38v.P.4;F>       okeey.daiin.qokeey.chotey.tody-{plant}oky.aii!n.d-
+#
+<f38v.P.5;H>       qoty.daiin.chol.oteeol.dody-{plant}cheod.chody-
+<f38v.P.5;C>       qoty.daiin.chol.oteeol.dody-{plant}cheod.chody-
+<f38v.P.5;F>       qoty.daiin.chol.oteeol.dody-{plant}cheod.chody-
+#
+<f38v.P.6;H>       sho.keeey.key.tey.daiin.daiiin-{plant}dain.dain-
+<f38v.P.6;C>       sho.keeey.key.tey.daiin.daiiin-{plant}dain.dain-
+<f38v.P.6;F>       sho.keeey.key.tey.daiin.daiiin-{plant}dain.dain-
+#
+<f38v.P.7;H>       daiin.qol.chy.dain.*{&153}.or.daiin-{plant}dais.daldy-
+<f38v.P.7;C>       daiin.qol.chy.dain.s!!!!!!!or.daiin-{plant}dain.daldy-
+<f38v.P.7;F>       daiin.qol!chy.dain.*!!!!!!.or.daiin-{plant}dain.daldy-
+#
+<f38v.P.8;H>       o.aiin.char.chshol.chokaiin=
+<f38v.P.8;C>       o!aiin.char.chshol.chokaiin=
+<f38v.P.8;F>       o!aiin.char.chshol.chokaiin=
+#

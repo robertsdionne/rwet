@@ -1,0 +1,38 @@
+## <f89v2.L2> {}
+# panel 89v2, middle group of labels
+# Last edited on 1998-12-11 13:15:32 by stolfi
+#
+# There are 4 labels alternating with 3 plants
+#
+# "U" transcription by J. Stolfi from scanned image.
+# "V" transcription by John Grove.
+# was previously called <f89v2.m>
+#
+# container
+#
+<f89v2.L2.0;H>     okory=
+<f89v2.L2.0;L>     okary={was <f89v2.m.1;L>}
+<f89v2.L2.0;V>     otary={was <f89v2.m.1;V>}
+<f89v2.L2.0;U>     otary=
+#
+# plant [2,1] - dark roots, leaf
+#
+<f89v2.L2.1;H>     otair.chody=
+<f89v2.L2.1;L>     otair.chody={was <f89v2.m.2;L>}
+<f89v2.L2.1;V>     otair.chody={was <f89v2.m.2;V>}
+<f89v2.L2.1;U>     otair,chody=
+#
+# plant [2,2] - dark roots, light flower, leaf?
+#
+<f89v2.L2.2;H>     dyda!riin=
+<f89v2.L2.2;L>     dyda!riin={was <f89v2.m.3;L>}
+<f89v2.L2.2;V>     dymaina!n={was <f89v2.m.3;V>}
+<f89v2.L2.2;U>     dyka!ra!n=
+#
+# plant [2,3] - large dark roots, flowers, spotted twig, bug?
+#
+<f89v2.L2.3;H>     opcheedoy=
+<f89v2.L2.3;L>     opcha!day={was <f89v2.m.4;L>}
+<f89v2.L2.3;V>     opchesdey={was <f89v2.m.4;V>}
+<f89v2.L2.3;U>     opche!dey=
+#

@@ -1,0 +1,52 @@
+## <f55v.P> {}
+# text
+# Last edited on 1998-12-08 09:21:54 by stolfi
+#
+<f55v.P.1;H>       kcheedchdy.oedaiin.chckhy-{plant}otol.daiin.dodyd-
+<f55v.P.1;C>       kcheedchdy.oedai!n.chckhy-{plant}otol.daiin.dodyd-
+<f55v.P.1;F>       kcheedchdy.oedaiin.chckhy-{plant}otol.daiin.dodyd-
+#
+<f55v.P.2;H>       oeeed.yteey.okeedy.qoaiin-{plant}okeody.ykeesan-
+<f55v.P.2;C>       oeeed.yteey.okeedy.qoaiin-{plant}okeody.ykeesan-
+<f55v.P.2;F>       oeeed.yteey.okeedy.qoaiin-{plant}okeody.ykeesan-
+#
+<f55v.P.3;H>       qokeeey.os.aiin.qool.al.chedy-{plant}ear.aiin.ol.kar.am-
+<f55v.P.3;C>       qokeeey.os.ai!n.qool.al.chedy-{plant}sar.aiin.ol.kar.am-
+<f55v.P.3;F>       qokeeey.os.aiin.qool.al.chedy-{plant}charaiin.ol.kar!am-
+#
+<f55v.P.4;H>       okar.chckhdy.cheady.keey!far.al-{plant}ychedy.qokaiin.ody-
+<f55v.P.4;C>       okar.chckhdy.cheody.keey.far!al-{plant}ochedy.qokai!n.ody-
+<f55v.P.4;F>       okar.!!ckhdy.cheady.keey.far!al-{plant}ychedy.qokaiin.ody-
+#
+<f55v.P.5;H>       qokaiin.chaiin.ykain.ykan.ody-{plant}daiin.chedy.talam-
+<f55v.P.5;C>       qokaiin.chaiin.ykain.ykan.ody-{plant}daiin.chedy.talam-
+<f55v.P.5;F>       qokaiin.chaiin.ykain.ykan.ody-{plant}daiin.chedy.talam-
+#
+<f55v.P.6;H>       ykaiin.daiin.ykair.cheky.daiin.y={plant}
+<f55v.P.6;C>       ykaiin.daiin.ykair.cheky.daiin.y={plant}
+<f55v.P.6;F>       ykaiin.daiin.ykair.cheky.daiin!y={plant}
+#
+<f55v.P.7;H>       okchd.daiin.sheokey.or.air-{plant}cs.kchdy.pchal.ar.aldy.dary-
+<f55v.P.7;C>       okchd.!!ain.cheok!y.or.ain-{plant}ch!keedy.pchal.ar!aldy.dary-
+<f55v.P.7;F>       okchd.daiin.sheakey.or.air-{plant}**.kchey.pchal.ar!aldy.dary-
+#
+<f55v.P.8;H>       tor.!!!ch*dy.qokaiin.okar.qol-{plant}otar!cho.cthar.talody.okary-
+<f55v.P.8;C>       tar!ch.chedy.qokaiin.okar.qol-{plant}otar.cho!cthar.talody.okary-
+<f55v.P.8;F>       tar.!!!ch!dy.qokaiin.okar.qol-{plant}otar!cho.!t!ar.talody.okary-
+#
+<f55v.P.9;H>       ykaky.qokchy.okal.chey.or-{plant}or.aiin.okaiin.ykain.otaky-
+<f55v.P.9;C>       ykyky.qokchy.okal.chey.or-{plant}or.aiin.okaiin.ykain.otaky-
+<f55v.P.9;F>       ykaky.qokchy.okal.chey.or-{plant}or!aiin.okaiin.okain.otaky-
+#
+<f55v.P.10;H>      oaiin.ol.s.aiin.okaiin.oky-{plant}ytaiin.otar.ykal.ykar.ol-
+<f55v.P.10;C>      oaiin.ol.s.aiin!okaiin.oky-{plant}ytaiin.otar.ykal.ykar.ol-
+<f55v.P.10;F>      oaiin.ol.s.aiin.okaiin.oky-{plant}ytaiin.otar.ykal.ykar.ol-
+#
+<f55v.P.11;H>      ykaiin.cheoar.cheek!y.oldy-{plant}aiin.okal.oltchy.or.y.orai!n-
+<f55v.P.11;C>      ykaiin.cheoar.cheek!y.oldy-{plant}aiin.okal.oltchy.or.y.orai!n-
+<f55v.P.11;F>      ykaiin.cheoar.checkhy.oldy-{plant}aiin.okal.oltchy.or!y.oraiin-
+#
+<f55v.P.12;H>      daiin.or.cheky.olkeechy.sl-{plant}ar.aiin.daiin.otam=
+<f55v.P.12;C>      daiin.ar.cheky.olkeechy.sl-{plant}ar.aiin.daiin.otam=
+<f55v.P.12;F>      daiin.or.cheky.olkeechy.sl-{plant}ar.aiin.daiin.otam=
+#

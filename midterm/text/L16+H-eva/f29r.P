@@ -1,0 +1,51 @@
+## <f29r.P> {}
+# text
+# Last edited on 1998-12-11 12:33:47 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+<f29r.P.1;H>       por!aiin.she.aiin.chep.oty.chy.qotchy.qoty.cheecthy-
+<f29r.P.1;C>       poshaiin.she!aiin.chep.oty.chy.qotchy.qoty.cheecthy-
+<f29r.P.1;F>       po!raiin.she.aiin.chep.oty.chy.qotchy.qoty.cheecthy-
+<f29r.P.1;U>       po!raiin.she,aiin.chep,oty.chy.qotchy.qoty.cheecthy-
+#
+<f29r.P.2;H>       dshe.ykchy.choty.oky.chol.chchoty.choky.chy.ty.dy-
+<f29r.P.2;C>       dshe.ykchy.choty.oky.chol.chchoty.choty.chy.ty.dy-
+<f29r.P.2;F>       dshe.ykchy.choty.oky.chol.chchoty.choky.chy!ty.dy-
+<f29r.P.2;U>       dshe.ykchy.choty.oky.chol.chchoty.choty.chy,ty.dy-
+#
+<f29r.P.3;H>       qokchy.qoty.kchaiin.shear.cthor-{plant}dchor.choly-
+<f29r.P.3;C>       qokchy.qoty.kchaiin.sheor.cthor-{plant}dchor.choly-
+<f29r.P.3;F>       qokchy.qoty.kchaiin.shear.cthor-{plant}dchor.choly-
+<f29r.P.3;U>       qokchy.qoty.kchaiin.shear.cthor-{plant}dchor.choly-
+#
+<f29r.P.4;H>       chocthy.qoos.chos=
+<f29r.P.4;C>       chocthy.qoos!chos=
+<f29r.P.4;F>       chocthy.qoos.chos=
+<f29r.P.4;U>       chocthy.qoos.chos=
+#
+<f29r.P.5;H>       kcheol.cheor.sheos.sheey.teey.d!o!-{plant}shos.oct{&T}!y-
+<f29r.P.5;C>       kcheol.cheor.sheos.sheey.teey.d!y!-{plant}shos.octh!!!!y-
+<f29r.P.5;F>       kcheol.cheor.sheos.sheey.teey.d-a*-{plant}shos.octh!!!!y-
+<f29r.P.5;U>       kcheol.cheor.sheos.sheey.teey.d!y!-{plant}shos.octh!!!!y-
+#
+<f29r.P.6;H>       chokshy.shocthy.shor.shor.daiin-{plant}qokaiiin-
+<f29r.P.6;C>       chokshy.shocthy.shor.shor.daiin-{plant}qokaiiin-
+<f29r.P.6;F>       chokshy.shocthy.shor.shor.daiin-{plant}qokaiiin-
+<f29r.P.6;U>       chokshy.shocthy.shor.shor.daiin-{plant}qokaiiin-
+#
+<f29r.P.7;H>       qokchy.chol.shokchy.qokaiin.choety-{plant}choty.kaiin-
+<f29r.P.7;C>       qokchy.chol.shokchy.qokaiin.choety-{plant}choty.kaiin-
+<f29r.P.7;F>       qokchy.chol.shokchy.qokaiin.choety-{plant}choty.kaiin-
+<f29r.P.7;U>       qokchy.chol.shokchy.qokaiin.choety-{plant}choty,kaiin-
+#
+<f29r.P.8;H>       shor.chor.sho.sheky.shy.qoty.kody-{plant}daiin.cthy-
+<f29r.P.8;C>       shor.chor.sho.sheky.shy.qoty.kody-{plant}daiin.cthy-
+<f29r.P.8;F>       shor.chor.sho.sheky.shy.qoty.kody-{plant}daiin.cthy-
+<f29r.P.8;U>       shor.chor.sho,sheky.shy.qoty.kody-{plant}daiin.cthy-
+#
+<f29r.P.9;H>       qokshe.qor.chey.kor.cheod.ychom={plant}
+<f29r.P.9;C>       qokshe.qor.chey.kor.cheod.ychom={plant}
+<f29r.P.9;F>       qokshe.qor.chey.kor.cheod.ychom={plant}
+<f29r.P.9;U>       qokshe.qor.chey.kor.cheod.ychom={plant}
+#

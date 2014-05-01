@@ -1,0 +1,100 @@
+## <f85v2.B1> {}
+# Labels on Southwest rosette and its N,NE,E connections
+# Last edited on 1998-12-27 07:13:56 by stolfi
+#
+# Inside the text ring
+#
+# SW rosette, inside text ring, word #1, SW side of plateau
+<f85v2.B1.1;V>     opdar.am=
+<f85v2.B1.1;U>     opdar!am=
+#
+# SW rosette, inside text ring, word #2, passage at 06:00 or South fountain
+<f85v2.B1.2;V>     ot.dam=
+<f85v2.B1.2;U>     otedam=
+#
+# SW rosette, inside text ring, word #3, passage at 06:00
+<f85v2.B1.3;V>     !okedshs=
+<f85v2.B1.3;U>     lokedshs=
+#
+# SW rosette, inside text ring, word #4, passage at 05:30
+<f85v2.B1.4;V>     otodar=
+<f85v2.B1.4;U>     otodar=
+#
+# SW rosette, inside text ring, word #5, narrow passage at 04:30
+<f85v2.B1.5;V>     otedaiin=
+<f85v2.B1.5;U>     otedaiin=
+#
+# SW rosette, inside text ring, word #6, passage at 04:00, or East fountain
+<f85v2.B1.6;V>     okedy=
+<f85v2.B1.6;U>     okedy=
+#
+# SW rosette, inside text ring, word #7, passage at 03:30, or East fountain
+<f85v2.B1.7;V>     loltedy=
+<f85v2.B1.7;U>     lo**edy=
+#
+# SW rosette, inside text ring, word #8, passage at 03:00, or East fountain
+<f85v2.B1.8;V>     opedam=
+<f85v2.B1.8;U>     opedam=
+#
+# SW rosette, inside text ring, passage at 00:00 or North fountain
+<f85v2.B1.9;V>     opchdar=
+<f85v2.B1.9;U>     opchdar=
+#
+# SW rosette, inside text ring, passage at 09:00 or fountain at 09:00
+<f85v2.B1.10;V>    opchdy=
+#
+# SW rosette, inside text ring, northwest bay
+<f85v2.B1.11;V>    oda=
+<f85v2.B1.11;U>    ody=
+#
+# SW rosette, inside text ring, southwest bay
+<f85v2.B1.12;V>    okar.amal=
+<f85v2.B1.12;U>    okar,amal=
+#
+# on stream into SW rosette from small island at 01:30, line #1
+<f85v2.B1.13;U>    otchdy-{ring}chdain-
+#
+# on stream into SW rosette from small island at 01:30, line #2
+<f85v2.B1.14;U>    otady-{ring}ote*y=
+#
+# along Southeast edge of stream into SW rosette from small island at 01:30
+<f85v2.B1.15;U>    otedy.oparam=
+#
+# East road out of SW towards S
+#
+# on isthmus between SW and S rosettes, on field just north of wall
+<f85v2.B1.31;V>    cfhedain=
+<f85v2.B1.31;U>    cphedain=
+#
+# on isthmus between SW and S rosettes, just off the North shore
+<f85v2.B1.32;V>    otdar.shed=
+<f85v2.B1.32;U>    otdar,shed=
+#
+# North road out of SW towards W
+#
+# on road between SW and W rosettes, eastern point
+<f85v2.B1.41;V>    d.dl=
+<f85v2.B1.41;U>    y,dl=
+#
+# road between SW and W rosettes, northern point
+<f85v2.B1.42;V>    otch*=
+<f85v2.B1.42;U>    otch!=
+#
+# road between SW and W rosettes, southern point
+<f85v2.B1.43;V>    d.dy=
+<f85v2.B1.43;U>    d.dy=
+#
+# road between SW and W rosettes, western point
+<f85v2.B1.44;V>    osy=
+<f85v2.B1.44;U>    ory=
+#
+# next to road between SW and W rosettes, East side
+<f85v2.B1.45;V>    oteey=
+<f85v2.B1.45;U>    oteey=
+#
+# next to road between SW and W rosettes, West side
+<f85v2.B1.46;V>    lepcheky=
+<f85v2.B1.46;U>    lcpheeky=
+#
+# radial label between SW rosette and small circle at 07:30
+<f85v2.B1.47;U>    opashcfhedy-{circle}oteeoly=

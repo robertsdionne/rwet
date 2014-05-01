@@ -1,0 +1,36 @@
+## <f90v2.P> {}
+# text
+# Last edited on 1998-12-10 07:44:13 by stolfi
+#
+<f90v2.P.1;H>      cphdaithy.qocfhey.opol.raiin.ofchedol.rs-{plant}shese.shodaiin.sheos-
+<f90v2.P.1;F>      cphdac!hy.qocfhey.opol!raiin.ofchedal.s*-{plant}shese.shodaiin.sheas-
+<f90v2.P.1;L>      cthdacthy.qocfhey.opol!raiin.opchedol.r*-{plant}shere.shodaiin.sheor-
+#
+<f90v2.P.2;H>      podchey.ctheod.ikheeos.cheey.ykeey.s.oes-{plant}qoko!or.s.oi!n.sam-
+<f90v2.P.2;F>      podchey.cth!od.ckheeos.cheey.ykeey.s.on!-{plant}qok*!as.s!oiin.sam-
+<f90v2.P.2;L>      podch*y.ctheod.ckheeos.cheey.ykeey.s.o*!-{plant}qokeeor.s.ai!n.sam-
+#
+<f90v2.P.3;H>      saiin.sheom.sheey.keeo!s.ol.cheeor.chy-{plant}shy.tchody.okeeom-
+<f90v2.P.3;F>      saiin.sheom.sheey.keey.s.ol.cheeor.chy-{plant}shy.tchody.okeeom-
+<f90v2.P.3;L>      saiin.sheom.sheey.keeo!s.ol.cheeor.chy-{plant}shy.tchody.okeeom-
+#
+<f90v2.P.4;H>      tchos.oteey.saiin.okeeey=
+<f90v2.P.4;F>      tchos.oteey!saiin.okee!y=
+<f90v2.P.4;L>      tchos.oteey.saiin.okeeey=
+#
+<f90v2.P.5;H>      tcheody.cpheol.qoar.cheol.chos.olols-{plant}dshcheal.sheol.qodar-
+<f90v2.P.5;F>      tcheody.cpheal.qoar.cheal.chos.alols-{plant}dshcheal.sheol.qodar-
+<f90v2.P.5;L>      tcheody.cpheal.qoar.cheol.chos.olols-{plant}dshcheal.sheol.qodar-
+#
+<f90v2.P.6;H>      sal.sheol.shey.qokeey.qokeol.cheody.s-{plant}ykeeol.dar.chody.y-
+<f90v2.P.6;F>      sal.sheol.shey.qokeey.qokeol.cheody.s-{plant}ykeeol.dar.chody.y-
+<f90v2.P.6;L>      sal.sheol.shey.qokeey.qokeol.cheody.s-{plant}ykeeol.dar.chody.y-
+#
+<f90v2.P.7;H>      shey.s.sheeyl.sheol.sheody.tol.sheoct{&T}y-{plant}oteey.chodar.choy-
+<f90v2.P.7;F>      shey.s.sheeal.sheol.sheody.tol.sheocth!!!y-{plant}oteey.chodar.chom-
+<f90v2.P.7;L>      chey!s.sheeyl.sheol.sheody.tol.sheocth!!!y-{plant}oteey.chodar.choy-
+#
+<f90v2.P.8;H>      teeos.qkeody.qokchy.oteeol.dai!n=
+<f90v2.P.8;F>      teeas.qkeody.qokchy.oteeol.daiin=
+<f90v2.P.8;L>      teeos.qkeody.qokchy.oteeol.daiin=
+#

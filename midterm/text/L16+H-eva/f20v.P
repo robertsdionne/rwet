@@ -1,0 +1,61 @@
+## <f20v.P> {}
+# text
+# Last edited on 1998-12-06 21:12:39 by stolfi
+#
+# "U" transcription by J. Stolfi from Jacques Guy's scanned image.
+#
+<f20v.P.1;H>       faiis.ar.okoy.shy.po!fochey.opchy.qopy.choldy.opydy.cphy-
+<f20v.P.1;C>       faiis.ar.okoy.shy.po!fochey.opchy.qopy.choldy.opydy.cphy-
+<f20v.P.1;F>       faiis.ar.okoy.shy.po.fochey.opchy.qopy.choldy.opydy.cphy-
+<f20v.P.1;U>       faiis!ar.okoy.shy.po!fochey.opchy.qopy.choldy.opydy.cphy-
+#
+<f20v.P.2;H>       sos.ykaiin.cheol.chol.choiin.checthy.otol.chol.chodaiin.oty-
+<f20v.P.2;C>       sos.ykaiin.cheol.chol.choiin.checthy.otol.chol.chodaiin.oty-
+<f20v.P.2;F>       sos.ykaiin.cheol.chol.choiin.checthy.otol.chol.chodaiin.oty-
+<f20v.P.2;U>       sos.ykaiin.cheol.chol.choiin.checthy.otol.chol.chodaiin.oty-
+#
+<f20v.P.3;H>       okchy.sho.kchol.shol.chcthy.qoty.chy.tol.shy.qotchy-
+<f20v.P.3;C>       okchy.sho.kchol.shol.chcthy.qoty.chy.tol!shy.qotchy-
+<f20v.P.3;F>       okchy.sho.kchol.shol.chcthy.qoty.chy.tol.shy.qotchy-
+<f20v.P.3;U>       okchy.sho!kchol.shol.chcthy.qoty.chy.tol!shy.qotchy-
+#
+<f20v.P.4;H>       sho.or.aiin.shol.daiin=
+<f20v.P.4;C>       sho.or.aiin.shol.daiin=
+<f20v.P.4;F>       sho.or.aiin.shol.daiin=
+<f20v.P.4;U>       sho.or.aiin.shol.daiin=
+#
+<f20v.P.5;H>       tshol.fol!chol.otor.shol.shos.fshodchy.otchy.chcphy.dy-
+<f20v.P.5;C>       tshol.fol!chol.otor.shol.shor.fshodchy.otchy.chcphy.dy-
+<f20v.P.5;F>       tshol.fol.chol.otor.shol.shos.fshodchy.otchy.chcphy.dy-
+<f20v.P.5;U>       tshol.fol!chol.otor.shol.chos.fchodchy.otchy.chcphy.dy-
+#
+<f20v.P.6;H>       doiiin.chockhy.dar.cheockhy.shos.cheos.char.cthaiin-
+<f20v.P.6;C>       doiiin.chockhy.dan.cheo*!!y.shos.cheos.char.cthaiin-
+<f20v.P.6;F>       doiiin.chockhy.dar.cheockhy.shos.cheos.char.cthaiin-
+<f20v.P.6;U>       doiiin.chockhy.dar.cheockhy.chos.cheos.char.cthaiin-
+#
+<f20v.P.7;H>       shocthy.sho.cthy.daiin.sheoy.tey.s-{plant}soaiin-{plant}
+<f20v.P.7;C>       shocthy.sho.cthy.daiin.sheoy.tey.s-{plant}soaiin-{plant}
+<f20v.P.7;F>       shocthy.sho.cthy.daiin.sheoy.tey.s-{plant}soaiin-{plant}
+<f20v.P.7;U>       shocthy.sho.cthy.daiin.cheoy.tey.s-{plant}soaiin-{plant}
+#
+<f20v.P.8;H>       shain.choraly.sho.ar.chy.daiin.d.s-{plant}
+<f20v.P.8;C>       shain.choraly.sho.ar.chy.daiin.d.e-{plant}
+<f20v.P.8;F>       shain.choraly.sho.ar.chy.daiin.d!s-{plant}
+<f20v.P.8;U>       shain.choraly.sho.ar.chy.daiin.d!s-{plant}
+#
+<f20v.P.9;H>       ykchy.keody.cho.cthy.chol.shd.qoty.d.s!!!!!!-{plant}
+<f20v.P.9;C>       ykchy.keody.cho.cthy.chol.shd!*oty.d!*!!!!!!-{plant}
+<f20v.P.9;F>       ykchy.keody.cho.cthy.chol.shd.qoty.d!*!!!!!!-{plant}
+<f20v.P.9;U>       ytchy.teody.cho.cthy.chol!shd.qoty.g.*{&144}-{plant}
+#
+<f20v.P.10;H>      shokaiin.chocthy.chol.daiin.chy.chor.ety-{plant}
+<f20v.P.10;C>      shokaiin.chocthy.chol.daiin.chy.chor.ety-{plant}
+<f20v.P.10;F>      shokaiin.chocthy.chol.daiin.chy.chor.ety-{plant}
+<f20v.P.10;U>      shokaiin.chocthy.chol.daiin.chy.chor.*ty-{plant}
+#
+<f20v.P.11;H>      okoiin.chey.cphol.chor.y=
+<f20v.P.11;C>      okoiin.chey.*!!ol.chor!y=
+<f20v.P.11;F>      okoiin.chey.cphol.chor!y=
+<f20v.P.11;U>      okoiin.chey.cphol.chor!y=
+#

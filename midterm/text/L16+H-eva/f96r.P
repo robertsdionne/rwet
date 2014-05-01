@@ -1,0 +1,58 @@
+## <f96r.P> {}
+# text
+# Last edited on 1998-12-11 13:20:33 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+<f96r.P.1;H>       tor.cheeor.ckheos.olsheeo!sol.cpheol.cpheor.chodar-{plant}
+<f96r.P.1;F>       tor.cheeor.ckheos.olsheeo.sol.cpheol.cpheor.chodar-{plant}
+<f96r.P.1;U>       tor.cheeor.ckheos.olsheeo!sol.cpheol.cpheor.chodar-{plant}
+#
+<f96r.P.2;H>       ytol.oteeor.sheol.oteey.qokeody.qokeeody.cthey-{plant}
+<f96r.P.2;F>       ytol.oteear.sheo!.oteey.qokeody.qokeeody.cthey-{plant}
+<f96r.P.2;U>       ytol.oteear.sheol.oteey.qokeody.qokeeody.cthey-{plant}
+#
+<f96r.P.3;H>       toaiin.ctheodal.chos.ckheody.keody.chodol.oty-{plant}
+<f96r.P.3;F>       tot!!p.cthepttl.chos.ckheody.keody.chodol.oty-{plant}
+<f96r.P.3;U>       toaiin.ctheodal.chos.ckheody.keody.chodol.oty-{plant}
+#
+<f96r.P.4;H>       or.chor.chkchol.chokchor.s.or.sheockhy.choly-{plant}
+<f96r.P.4;F>       or.chor.chkchol.chokchor.s.or.sheockhy.choly-{plant}
+<f96r.P.4;U>       or.chor.chkchol.chokchor.s.or.sheockhy.choly-{plant}
+#
+<f96r.P.5;H>       daiin.chodaiin.cthey.tol.sheor.qokeol.okol-{plant}
+<f96r.P.5;F>       daiin.chodaiin.cthey.tol.sheor.qokeol.okol-{plant}
+<f96r.P.5;U>       daiin.chodaiin.cthey.tol.sheor.qokeol.okol-{plant}
+#
+<f96r.P.6;H>       lor.ckheey.chol.cholody.cheol.ctheor.s!or-{plant}
+<f96r.P.6;F>       lor.ckheey.chol.cholody.cheol.ctheor.s!or-{plant}
+<f96r.P.6;U>       lor.ckhchy.chol.cholody.cheol.ctheor.s.or-{plant}
+#
+<f96r.P.7;H>       o!iir.or.ckhor.chkey.ckho!cthy.or.chockhy-{plant}
+<f96r.P.7;F>       o*!!!.or.ckhor.chkey.ckho.cthy.or.chockhy-{plant}
+<f96r.P.7;U>       a!iir.or.ckhor.chkey.ckho,cthy.or.chockhy-{plant}
+#
+<f96r.P.8;H>       ykeor.secheeol.sheol.qokeeey.chol.daiin=
+<f96r.P.8;F>       ykeor.secheeol.sheol.qokeeey.chol.daiin=
+<f96r.P.8;U>       ykeor.shcheeol.sheol.qokchey.chol.daiin=
+#
+<f96r.P.9;H>       todar.sheo.cthody.shokocfhy.chopcho.dory-{plant}
+<f96r.P.9;F>       todar.sheo.cthody.shokocfhy.chopcho.dory-{plant}
+<f96r.P.9;U>       todar.sheo.cthody.shokocfhy.chopcho.dory-{plant}
+#
+<f96r.P.10;H>      otcho.dol.sho!cthody.shockhy.otchodor.choct{&T}y-{plant}
+<f96r.P.10;F>      otcho!dol.sho.cthody.shockhy.otchodar.chocth!!!y-{plant}
+<f96r.P.10;U>      otcho,dol.sho!cthody.shockhy.otchodar.choct!!!!y-{plant}
+#
+<f96r.P.11;H>      teol.cheody.shodol.qokchod-{plant}s-{plant}!aiin-{plant}chokey-{plant}
+<f96r.P.11;F>      teol.cheody.shodol.qokchod-{plant}s-{plant}*aiin-{plant}chokey-{plant}
+<f96r.P.11;U>      teal.cheody.shodol.qokchod-{plant}s-{plant}!aiin-{plant}chokey-{plant}
+#
+<f96r.P.12;H>      dcheor-{plant}cheol-{plant}cheodai!n.ol-{plant}dy-{plant}d-{plant}chs-{plant}ar!cheody-{plant}
+<f96r.P.12;F>      dcheor-{plant}cheol-{plant}cheodaiin.ol-{plant}dy-{plant}d-{plant}chs-{plant}ar!cheody-{plant}
+<f96r.P.12;U>      dcheor-{plant}cheol-{plant}cheodai!n.ol-{plant}dy-{plant}d-{plant}chs-{plant}ar.cheody-{plant}
+#
+<f96r.P.13;H>      oteeo.dsho.qotchos={plant}
+<f96r.P.13;F>      ote!o.dsho.qotchos={plant}
+<f96r.P.13;U>      oteeo,dsho.qotchos={plant}
+#

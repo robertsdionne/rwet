@@ -1,0 +1,61 @@
+## <f34v.P> {}
+# text
+# Last edited on 1998-12-19 18:57:23 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+<f34v.P.1;H>       kschdy.chdy.chefchy.shdy.qopchdy.shdy!dy.chdal!chdy.ypchdy.c!hcthdy.spaiin-
+<f34v.P.1;C>       kshedy.chdy.chefchy.shdy.qopchdy.shdy.dy!chdal.chdy.ypchdy.ckhcthdy.spaiin-
+<f34v.P.1;F>       kechdy.chdy.chefchy.shdy.qopchdy.shdy!dy.chdal!chdy.ypchdy.c!hcthdy.spaiin-
+<f34v.P.1;U>       kschdy.chdy.chcfchy.shdy.qopchdy.shdy!dy.chdal!chdy.ypchdy.c!hcthdy.spaiin-
+#
+<f34v.P.2;H>       tol.qokchy.dychedy.okchy.chckhdy.chdaiin.ckhy.loees.ykar.aiin.oldam-
+<f34v.P.2;C>       tol.qokchy.dychedy.okchy.chckhdy.chdaiin.ckhy.loees.ykar.aiin.oldam-
+<f34v.P.2;F>       tal.qokchy.dychedy.okchy.chckhdy.chdaiin.ckhy.loees.ykar.aiin.oldam-
+<f34v.P.2;U>       tal.qokchy.dychedy.okchy.chckhdy.chdaiin.ckhy.loees.ytar,aiin.oldam-
+#
+<f34v.P.3;H>       ytal.seor.chdal.olchdy.char.or.ol.kedaiiin.chcthy.okchdy.chckhy.das!am-
+<f34v.P.3;C>       ytal.shor.chdal.olchdy.char.or.ol.kedaiiin.chcthy.okchdy.chckhy.dar!am-
+<f34v.P.3;F>       ytal.shor.chdal.olchdy.char.or.ol.kedaiiin.chcthy.okchdy.chckhy.das!am-
+<f34v.P.3;U>       ytal.shor.chdal.olchdy.char.or.ol.kedaiiin.chcthy.okchdy.chckhy.dar,am-
+#
+<f34v.P.4;H>       tchdaiin.chekal.shedy.qokedar.chdaiin.oldar.qoldar.chedy.daiin.otam-
+<f34v.P.4;C>       tchdaiin.chekal.shedy.qokedar.chdaiin.oldar.qoldar.chedy.daiin.otam-
+<f34v.P.4;F>       tchdaiin.chekal.shedy.qokedar.chdaiin.oldar.qoldar.chedy.daiin.otam-
+<f34v.P.4;U>       tchdaiin.chekal.shedy.qokedar.chdaiin.oldar.qoldar.chedy.daiin.otam-
+#
+<f34v.P.5;H>       lshaiir.orair.shedy.chechey.dy!key.kair.chedy.qokar.chekaly.cholky=
+<f34v.P.5;C>       lshaiir.orair.shedy.chechey.dy.key.kair!chedy.qokar.chekaly.chalky=
+<f34v.P.5;F>       lshaiir.orair.shedy.chechey.dy!key.kair.chedy.qokar.chekaly.cholky=
+<f34v.P.5;U>       lshaiir.orair.shedy.chechey.dy!key,kair.chedy.qokar.chekaly.cholky=
+#
+<f34v.P.6;H>       pchedar.seear.qokchdy.qokees.cheol.ypchdaiin.chedy.lr.ar.chedain-
+<f34v.P.6;C>       %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-
+<f34v.P.6;F>       pchedar.shear.qokchdy.qokees.cheol.ypchdaiin.chedy.lr!ar.chedain-
+<f34v.P.6;U>       pchedar.shear.qokchdy.qokees,cheol.ypchdaiin.chedy.lr,ar.chedain-
+#
+<f34v.P.7;H>       olchdaiin.chedy.chey.keedy.chy.kedy.dy.qokedy.okey.s!air.chkain.otain-
+<f34v.P.7;C>       %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-
+<f34v.P.7;F>       olchdaiin.chedy.chey.keedy.chy.kedy.dy.qokedy.okey.s!air.chkain.otain-
+<f34v.P.7;U>       olchdaiin.chedy.chey.keedy.chy,kedy.dy.qokedy.okey.s,air.chkain.otain-
+#
+<f34v.P.8;H>       ysheos.otar.ar.cho!raiin.cheky.ol!!chdaiin.or.oldar.chdar.okam-
+<f34v.P.8;C>       ysheos.otar.ar.cho!raiin.cheky.!lchchdaiin.or.oldar.chdar.okam-
+<f34v.P.8;F>       ysheos.otar.ar.cho.raiin.cheky.ol!!chdaiin.or.oldar.chdar.okam-
+<f34v.P.8;U>       yshear.otar.ar.cho.raiin.cheky.ol!!chdaiin.or.oldar.chdar.okam-
+#
+<f34v.P.9;H>       lsheody.cphy.qokeey.keedy.kchdy.chedy.qokedy.chdy.kal.shs.olda!iin-
+<f34v.P.9;C>       lsheody.cphy.qokeey.keedy.kchdy.chedy.qokedy.chdy.arl.shs.olda!iin-
+<f34v.P.9;F>       lsheody.cthy.qokeey.keedy.kchdy.chedy.qokedy.chdy.kal.shs.olda!iin-
+<f34v.P.9;U>       lsheody.cthy.qokeey.keedy.kchdy.chedy.qokedy.chdy.kal,shs.oldaiiin-
+#
+<f34v.P.10;H>      daiin.chdy.tedy.kchdy.okeedy.checkhy.chdy.kain.cheor.or.okedy.okam-
+<f34v.P.10;C>      daiin.chdy.tedy.kchdy.okeedy.checkhy.chdy.kain.chear.or.okedy.okam-
+<f34v.P.10;F>      daiin.chdy.tedy.kchdy.okeedy.checkhy.chdy.kain.ch!ar.or.akedy.okam-
+<f34v.P.10;U>      daiin.chdy.tedy.kchdy.okeedy.checkhy.chdy.kain.chear.or.ykedy.okam-
+#
+<f34v.P.11;H>      yshos.ody.s.aiin.okoy.okal.shedy=
+<f34v.P.11;C>      yshos.ody.s.aiin.okey.okal.shedy=
+<f34v.P.11;F>      yshos.ody.s!aiin.okoy.okal.shedy=
+<f34v.P.11;U>      yshos.ody.s.aiin.okoy.okal,shedy=
+#

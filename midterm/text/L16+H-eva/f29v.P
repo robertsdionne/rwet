@@ -1,0 +1,66 @@
+## <f29v.P> {}
+# text
+# Last edited on 1998-12-11 12:34:23 by stolfi
+#
+# "U" transcription by J. Stolfi from Jacques Guy's scanned image.
+#
+<f29v.P.1;H>       kooiin.shor.chetchy.ol!als.shy!tchy.cth.y.shy-{plant}cho.shy.daiin-
+<f29v.P.1;C>       kooiin.shor.chetchy.ol!als.shy!tchy.cth!y.shy-{plant}cho.shy.daiin-
+<f29v.P.1;F>       kooiin.shor.chetchy.ol!als.shy.tchy.cth!y!shy-{plant}cho.shy.daiin-
+<f29v.P.1;U>       koaiin.shor.chetchy.ol,als.shy!tchy.cth!y,shy-{plant}cho.shy.daiin-
+#
+<f29v.P.2;H>       qotcheaiin.s!chol.chol.cthy.chey.cthol!d-{plant}ytchor.dary-
+<f29v.P.2;C>       qotcheaiin.s.chol.chol.cthy.chey.cthol.d-{plant}ytchor.dary-
+<f29v.P.2;F>       qotcheaiin.s!chol.chol.cthy.chey.cthol!d-{plant}ytchor.dary-
+<f29v.P.2;U>       qotcheaiin.s,chol.chol.cthy.chey.cthol!d-{plant}ytshor.dary-
+#
+<f29v.P.3;H>       chol.chol.kor.shey.odaiin.qotchy.taiin-{plant}s.she.otey.sy-
+<f29v.P.3;C>       chol.chol.kor.shey.odaiin.qotchy.taiin-{plant}s!she!otey.sy-
+<f29v.P.3;F>       chol.chol.kor.shey.odaiin.qotchy.taiin-{plant}s.she.otey.sy-
+<f29v.P.3;U>       chol.chol,kor.shey.odaiin.qotchy.taiin-{plant}s,she,otey,sy-
+#
+<f29v.P.4;H>       ysho.otshy.okaiin.cthy.oltchy.ct{&T}os!-{plant}shot.sho.okaiin=
+<f29v.P.4;C>       ysho.otshy.okaiin.cthy.oltchy.cth!!!osh-{plant}shot!sho.okaiin=
+<f29v.P.4;F>       ysho.otshy.okaiin.cthy.oltchy.cth!!!!s!-{plant}shot.sho.okaiin=
+<f29v.P.4;U>       ysho.otshy.okaiin.cthy.oltchy.ct!!!!os!-{plant}shot.sho.okaiin=
+#
+<f29v.P.5;H>       tochon.chain.shan.shoty-{plant}chshy-{plant}shy-{plant}
+<f29v.P.5;C>       tochon.chain.shan.shoty-{plant}chshy-{plant}shy-{plant}
+<f29v.P.5;F>       tochon.chain.shan.shoty-{plant}chshy-{plant}shy-{plant}
+<f29v.P.5;U>       tochan.chain.shan.shoty-{plant}chshy-{plant}shy-{plant}
+#
+<f29v.P.6;H>       dchor.chol.chaiin.shaiin.cthod-{plant}dar-{plant}chs-{plant}shody-
+<f29v.P.6;C>       dchor.chol.chaiin.shaiin.cthod-{plant}dar-{plant}chs-{plant}shody-
+<f29v.P.6;F>       dchor.chol.chaiin.shaiin.cthod-{plant}dar-{plant}chs-{plant}shody-
+<f29v.P.6;U>       dchor.chol.chaiin.shaiin.cthod-{plant}dar-{plant}chs-{plant}shody-
+#
+<f29v.P.7;H>       qotcho.kchor.daiin.ykaiin.dy-{plant}shdy-{plant}cho.cthy.sheky-
+<f29v.P.7;C>       qodcho.kchor.daiin.ykaiin.d!-{plant}shdy-{plant}cho!cthy.sheky-
+<f29v.P.7;F>       qotcho.kchor.daiin.ykaiin.dy-{plant}shdy-{plant}cho!cthy.sheky-
+<f29v.P.7;U>       qotcho.kchor.daiin.ykaiin.dy-{plant}shdy-{plant}cho,cthy.sheky-
+#
+<f29v.P.8;H>       otol.sho.tchos.cholody.dain-{plant}chcth-{plant}chy.cthody.dol-
+<f29v.P.8;C>       otol.sho!tchos.cholody.dain-{plant}chcth-{plant}chy.cthody.dol-
+<f29v.P.8;F>       otol.sho.tchor.cholody.dain-{plant}chcth-{plant}chy.cthody.dol-
+<f29v.P.8;U>       otol.sho,tchor.cholody.dain-{plant}chcth-{plant}chy.cthody.dol-
+#
+<f29v.P.9;H>       sho.chokor.chor.chy.ydaiin.cho-{plant}ykch!n-{plant}oaiin=
+<f29v.P.9;C>       sho.chokor.chor.chy.ydaiin.cho-{plant}ykeee!-{plant}oaiin=
+<f29v.P.9;F>       sho.chokor.chor.chy.ydaiin.cho-{plant}ykaiin-{plant}oaiin=
+<f29v.P.9;U>       sho.chokor.chor.chy.ydaiin.cho-{plant}ykch!b-{plant}oaiin=
+#
+<f29v.P.10;H>      qokoiin.okaiin.cho-{plant}cth-{plant}chyd-{plant}chykar-{plant}
+<f29v.P.10;C>      qokoiin.okaiin.cho-{plant}cth-{plant}chyd-{plant}chykar-{plant}
+<f29v.P.10;F>      qokoiin.okaiin.cho-{plant}cth-{plant}chyd-{plant}chykar-{plant}
+<f29v.P.10;U>      qokoiin.okaiin.cho-{plant}cth-{plant}chyd-{plant}chykar-{plant}
+#
+<f29v.P.11;H>      daiin.chteor.octhy-{plant}dar-{plant}chyt-{plant}otody-{plant}
+<f29v.P.11;C>      daiin.chteos.octhy-{plant}dar-{plant}chyt-{plant}otody-{plant}
+<f29v.P.11;F>      daiin.chteor.octhy-{plant}dar-{plant}chyt-{plant}otody-{plant}
+<f29v.P.11;U>      daiin.chteor.octhy-{plant}dar-{plant}chyt-{plant}otody-{plant}
+#
+<f29v.P.12;H>      qekeo!chor.otchey.s.y={plant}
+<f29v.P.12;C>      qokeo.chor.otchey.s!y={plant}
+<f29v.P.12;F>      qekeo!chor.otchey.s!y={plant}
+<f29v.P.12;U>      qekeo!chor.otchey.s!y={plant}
+#

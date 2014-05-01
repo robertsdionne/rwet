@@ -1,0 +1,10 @@
+## <f85v2.D1> {}
+# (Semi-)circular text around the small circle at the SW corner
+# Last edited on 1998-12-27 07:14:13 by stolfi
+#
+# around small circle near SW corner, NW half, clockwise
+<f85v2.D1.1;U>     *ar.odaiin.or-{gap}
+#
+# around small circle near SW corner, SE half, counterclockwise
+<f85v2.D1.2;U>     o.dar.air,*-{gap}
+#

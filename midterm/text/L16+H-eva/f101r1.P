@@ -1,0 +1,38 @@
+## <f101r1.P> {}
+# text - panels f101r1 and f101r2 (one logical page)
+# Last edited on 1998-12-19 22:53:12 by stolfi
+#
+<f101r1.P.1;H>     pcheol.cheol.ol.shey.qockhol.shor.yteol.sheockhey.qpol.cheor.sai!n.olo!.o.qkeey.chopcheey.checkhey.cpheocthy.ykchy.cheey.chekeey.dal.chsm-
+<f101r1.P.1;F>     pcheol.sheol.ol!shey.qockhol.shor.yteol.sheockhey.qpol.chear.saiin.oleeey.qkeey.chopcheey.checkhey.cpheocthy.ykchy.cheey.chekeey.dal.chey-
+#
+<f101r1.P.2;H>     dol.chokeey.chkey.cthey.okal.chol.kol.okeey.r.or.ol.okolol.olchey.qokchor.okey.qokeol.kor.shey.teol.or.aiin.chol.daiin=
+<f101r1.P.2;F>     dol.chokeey.chkey.cthey.okal.chol.kol.okeey.r!or.al.okolol.olchey.qokchal.okey.qokeol.kar.shey.teol.or.aiin.chol.daiin=
+#
+<f101r1.P.3;H>     etolctheol.okeor.r.sheol.qotol.sheo.dol.shey.okeey.ctheea.yteeoldy.kchdol.!!sheody.or.ol.sheor.qotoiir.otol.sheey.ssheo.tchey.ol.dar.am-
+<f101r1.P.3;F>     !tolc!heol.okeor.s.sheol.qokol.shey.dol.shey.okeey.ctheey.yteeoldy.kch!ol.olsheody.or.ol.sheor.qotaiir.otol.sheey.ssheo.tchey.al.dar.am-
+#
+<f101r1.P.4;H>     ycheeo.or.sheeol.daiin.sheeol.okeol.ctheol.shkeeo.qockheol.daiin.shy.csol.okeeor.ct{&T}ody.chkchol.doteoda.okeol.daisi!n.okeey.okeey.dairi!n-
+<f101r1.P.4;F>     ycheeo.or.sheeol.daiin.sheeol.okeol.ctheol.shkeeo.qockheol.daiin.shy.chol.okeeor.cth!!!ody.chkchol.dateody.okeol.dairiin.okeey.okeey.dairiin-
+#
+<f101r1.P.5;H>     daiin.ctheol.cheol.okor.or.aiin.cheol.cho.keeo.dchey.okol.okeol.dor.chol.chy.r.aiin.oteol.or!aiin.ol!chey.oteeod.sheol.okeol.chosaiin.sheom-
+<f101r1.P.5;F>     daiin.ctheol.cheol.okor.or.aiin.cheol.cho.keeo.dchey.okol.okeol.dor.chol.chy.r!aiin.oteol.or.aiin.ol.chey.oteeod.sheol.okeol.chosaiin.sheam-
+#
+<f101r1.P.6;H>     okeeol.sho.shody.sho.shol.okeeeol.cheos.sheokeey.sheeor.chchy.chodaiin.sheeckhey.teeol.scheol.sar.oeeor=
+<f101r1.P.6;F>     okeeol.sho.shody.sho.shol.okeeeol.cheys.sheokeey.sheeor.chchy.chodaiin.sheeckhey.teeol.scheol.sar.oeeor=
+#
+<f101r1.P.7;H>     cphoar.o!aiin.ypcholy.daiin.otaiin.otaiin.yfolaiin.fcheolai!n.ypchey.y{&Y}pho*o-{fold}shotey.odariin.sheoor.sheor.ckheey.y{&Y}khey.qokchey.cholp.cheol.dy-
+<f101r1.P.7;F>     cphoar.o!aiin.ypcholy.daiin.otaiin.otaiin.yfolaiin.fcheolaiin.ypchey.y!!!!peody-{fold}shotey.odariin.sheoar.sheor.ckheey.c!!!!khey.qokchey.cholp.cheol.*y-
+<f101r1.P.7;U>     cphoar.o,aiin.ypcholy.daiin.otaiin.otaiin.yfolaiin.fcheolaiin.ypchey.y!!!!peody-{fold}shotey.odariin.sheoar.sheor.ckheey.y!!!!keey.qokchey.cholp!cheol.dy-
+#
+<f101r1.P.8;H>     olaiin.oteol.chor.oteey.chokchey.kor.daiin.shok.chol.chol.qoky.daiin-{fold}ol.s.al.ydar.daiin.or.ory.okeey.daiin.shea.daiin.okol.chear-
+<f101r1.P.8;F>     olaiin.oteol.chor.oteey.chokchey.kor.daiin.shok.chol.chol.qoky.daiin-{fold}ol.s!al.ydar.daiin.or.ory.okeey.daiin.shey.daiin.okol.chear-
+<f101r1.P.8;U>     olaiin.oteol.chor.oteey.chokchey.kor,daiin.shok.chol.chol.qoky.daiin-{fold}ol.s.al.ydar.daiin,or.ory.okeey.daiin.shey.daiin.okol.cheor-
+#
+<f101r1.P.9;H>     daiin.okeol.qokcheol.ykeor.dar.ol.otechy.ykeor.dor.aiin.chl!s.cheol-{fold}okol.shey.qodar.soiin.choko.qokeol.daiin.o!dar.okchol.cheor.chety-
+<f101r1.P.9;F>     daiin.okeol.qokcheol.ykeor%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-
+<f101r1.P.9;U>     daiin.okeol.qokcheol.ykeor.dar.ol.otechy.ykeor.dor,aiin.chl,s.cheol-{fold}okol.shey.qodar.soiin.choko.qok!ol.daiin.o,dar.okchol.cheor,chiky-
+#
+<f101r1.P.10;H>    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%kor.aithy.ol.chs!-{fold}sho.olcheeol.kal!shey.okeoly.oiin.aiioly=
+<f101r1.P.10;F>    %%%%%%%%%%%%%%%%%%%%%%%%%%%dor.chees.yke!ol.chol.dol.kor.acthy.ol.shso-{fold}sha.olcheeol.kol.shey.okeoly.o**!.a!*oly=
+<f101r1.P.10;U>    ysho.qykeeol.chol.sho.odor.dor.chees.ykeeol.chol.dol.kor,aithy.ol.shso-{fold}sha.olcheeol.kol!shey.okeoly.oiin,aiioly=
+#

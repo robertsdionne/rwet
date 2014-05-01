@@ -1,0 +1,40 @@
+## <f9r.P> {}
+# text
+# Last edited on 1998-12-12 13:06:38 by stolfi
+#
+<f9r.P.1;H>        tydlo.choly.cthor.orchey.s.shy.odaiin.sary-{plant}shor.cthy-
+<f9r.P.1;C>        tydlo.choly.cthor.orchey.s.shy.odaiin.sary-{plant}shor.cthy-
+<f9r.P.1;F>        tydlo.choly.cthor.orchey.s!shy.odaiin.sary-{plant}shor.cthy-
+#
+<f9r.P.2;H>        oykeey.chol.ytaiin.okchody.toeoky.okoiin.dy-{plant}or.chaiin-
+<f9r.P.2;C>        oykeey.chol.ytaiin.okchody.toeoky.okoiin.dy-{plant}or.choiin-
+<f9r.P.2;F>        oykeey.chol.ytaiin.okchody.toeoky.okoiin.dy-{plant}or.chaiin-
+#
+<f9r.P.3;H>        toiin.cphy.qotod.otaiin.cthy.okor.chey-{plant}cthod.ram-
+<f9r.P.3;C>        toiin.cphy.qotod.otaiin.cthy.okor.chey-{plant}cthod.rod-
+<f9r.P.3;F>        toiin.cphy.qotod.otaiin.cthy.okor.chey-{plant}cthod.ram-
+#
+<f9r.P.4;H>        yshy.cho!kcho.chcthod.shor.shaiin.otar.dor-{plant}ytol.dayty-
+<f9r.P.4;C>        oshy.cho!kcho.chcthod.shor.shoiin.otar.dor-{plant}ytol.dayty-
+<f9r.P.4;F>        yshy.cho.kcho.chcthod.shor.shaiin.otar.dor-{plant}ytol.dayty-
+#
+<f9r.P.5;H>        daiin.chor.sor.cthy.chokoiin.shol.dsholdy-{plant}otchol.ot.dy=
+<f9r.P.5;C>        daiin.chor.sor.cthy.chokoiin.shol.dsholdy-{plant}otchol.ot.dy=
+<f9r.P.5;F>        daiin.chor.sor.cthy.chokoiin.shol.dsholdy-{plant}otchol.ot!dy=
+#
+<f9r.P.6;H>        pshoain.cthyaiin.okaiir.cfhodo!ral.shar-{plant}sy-{plant}shydal.chdy-
+<f9r.P.6;C>        pshoain.cthoaiin.okaiir.!!*odo.ral.shar-{plant}sy-{plant}shydal.chdy-
+<f9r.P.6;F>        pshoain.cthoaiin.okaiir.cfhodo!ral.shar-{plant}sy-{plant}shydal.chdy-
+#
+<f9r.P.7;H>        or.chol.chy!tchy.tchol.ytor.qotol.chyky-{plant}chodar.aiin-
+<f9r.P.7;C>        or.chol.chy!tchy.tchol.ytor.qotol.chyky-{plant}chodar.aiin-
+<f9r.P.7;F>        or.chol.chy.tchy.tchol.ytor.qotol.chyky-{plant}chodar.aiin-
+#
+<f9r.P.8;H>        qotcho.qokchy.cthey.koraiin.okain.d.dal-{plant}s-{plant}olsho.cthy-
+<f9r.P.8;C>        qotchy.qokchy.cthey.koraiin.okain.d.dal-{plant}s-{plant}chsho!cthy-
+<f9r.P.8;F>        qotcho.qokchy.cthey.koraiin.okain!d.dal-{plant}s-{plant}olsho.cthy-
+#
+<f9r.P.9;H>        ocho.cthy.choct{&T}oy.chodykchy.saiin.dchy-{plant}daiin=
+<f9r.P.9;C>        ocho!cthy.cho*!!!!!!y.chodykchy.saiin.dchy-{plant}daiin=
+<f9r.P.9;F>        ocho.cthy.chocth!!!oy.chodykchy.saiin.dchy-{plant}daiin=
+#

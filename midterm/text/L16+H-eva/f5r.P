@@ -1,0 +1,32 @@
+## <f5r.P> {}
+# text
+# Last edited on 1998-12-06 13:14:04 by stolfi
+#
+<f5r.P.1;H>        kshody.fchoy.chkoy.oaiin.oar.olsy.chody.dkshy.dy-
+<f5r.P.1;C>        kchody.fchoy.chkoy.oaiin.oar.olsy.chody.dkchy.dy-
+<f5r.P.1;F>        kshody.pchoy.chkoy.oaiin.oar.olsy.chody.dkshy.dy-
+#
+<f5r.P.2;H>        ochey.okey.qokaiin.sho.ckhoy.cthey.chey.oka*or.otol-
+<f5r.P.2;C>        ochey.okey.qokaiin.sho.ckhoy.cthey.chey.oka*os.otol-
+<f5r.P.2;F>        ochey.okey.qokaiin.sho.ckhoy.cthey.chey.ok**or.otol-
+#
+<f5r.P.3;H>        qoaiin.otan.chy.daiin.oteeen.cho.cthy.otchy.qotcho.dy-
+<f5r.P.3;C>        qoaiin.otan.chy.daiin.oteee*.cho!cthy.otchy.qotcho!dy-
+<f5r.P.3;F>        qoaiin.otan.chy.daiin.oteeen.cho.cthy.otchy.qotcho!dy-
+#
+<f5r.P.4;H>        otain.sheody.chan.s.cheor.chocthy=
+<f5r.P.4;C>        otain.cheody.chan.s.cheor.chocthy=
+<f5r.P.4;F>        otain.sheody.chan.s.cheor.chocthy=
+#
+<f5r.P.5;H>        tshy.shody.qoaiin.cholols.sho.qotcheo.daiin.shodaiin-
+<f5r.P.5;C>        teey.shody.qoaiin.cholols.sho.qotcheo.daiin.shodaiin-
+<f5r.P.5;F>        tshy.shody.qoaiin.cholols.sho.qotcheo.daiin.shodaiin-
+#
+<f5r.P.6;H>        sho.cheor.chey.qoeeey.qoykeeey.qoeor.cthy.shotshy.dy-
+<f5r.P.6;C>        sho.cheor.chey.qoeeey.qoykeeey.qoeor.cthy.shotshy.dy-
+<f5r.P.6;F>        sho.cheor.chey.qoeeey.qoykeeey.qoeor.cthy.shotshy.dy-
+#
+<f5r.P.7;H>        qotoeey.keey.cheo.kchy.shody=
+<f5r.P.7;C>        qotoeey.keey.cheo!kchy.shody=
+<f5r.P.7;F>        qotoeey.keey.cheo.kchy.shody=
+#

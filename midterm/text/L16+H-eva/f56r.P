@@ -1,0 +1,105 @@
+## <f56r.P> {}
+# text
+# Last edited on 1998-12-11 12:53:20 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+# The first two "t"s below are actually a single wide "t" with legs inserted in both places
+<f56r.P.1;H>       otchal.chchsty.oty.esedy.chy.ycho.cphy.chor.chy.chy-
+<f56r.P.1;C>       otchal.chchsty.oty.esedy.chy.ycho!cphy.chor.chy.chy-
+<f56r.P.1;F>       otchal.chchs!y.oty.esedy.chy.ycho.cphy.chor.chy.chy-
+<f56r.P.1;U>       otchal.chchs!y.oty.shedy.chy.ycho.cphy.chor,chy.chy-
+#
+<f56r.P.2;H>       chokchey.chol.choly.kor.chy.chy!key.choty.sho.kaiin-
+<f56r.P.2;C>       chokchey.chal.choly.kor!chy.chy!key.choty.sho!kaiin-
+<f56r.P.2;F>       chokchey.chal.choly.kar.chy.chy.key.choty.sho.kaiin-
+<f56r.P.2;U>       chokchey.chol.choly.kar,chy.chy!key.choty.sho!kaiin-
+#
+<f56r.P.3;H>       olchey.chokchol.chey.keey.qokeey.chokeey.choksy-
+<f56r.P.3;C>       olchey.chokchol.chey.keey.qokeey.chokeey.choksy-
+<f56r.P.3;D>       olchey.chokchol.chey.keey.qokchy.chokeey.choksy-
+<f56r.P.3;F>       olchey.chokchol.chey.keey.qokeey.chokeey.choksy-
+<f56r.P.3;U>       olchey.chokchol.chey,keey.qokeey.chokeey.choksy-
+#
+<f56r.P.4;H>       qotchor.chor.chokor.chkar.chy-{plant}okar.chdy-
+<f56r.P.4;C>       qotchor.chor.chokor.chkor.chy-{plant}okar.chdy-
+<f56r.P.4;F>       qotchor.chor.chokor.chkar.chy-{plant}okar.chdy-
+<f56r.P.4;U>       qotchor.chor.chokor.chkor,chy-{plant}okar.chdy-
+#
+<f56r.P.5;H>       chochor.cho.chodaly.daiin-{plant}
+<f56r.P.5;C>       chochor.cho.chodaly.daiin-{plant}
+<f56r.P.5;F>       chochor.cho.chodaly.daiin-{plant}
+<f56r.P.5;U>       chochor.cho.chodaly.daiin-{plant}
+#
+<f56r.P.6;H>       ykcho.dy.dchey.keey.daiin.y-{plant}
+<f56r.P.6;C>       ykcha.dy.dchey.kesy.daiin.y-{plant}
+<f56r.P.6;D>       ykcho.dy.dchey.keey.daiin.y-{plant}
+<f56r.P.6;F>       ykcha.dy.dchey.keey.daiin.y-{plant}
+<f56r.P.6;U>       ykcho,dy.dchey.keey.daiin,y-{plant}
+#
+<f56r.P.7;H>       sho.kchol.otchor.choky.dal-{plant}
+<f56r.P.7;C>       sho.kchol.otchor.choky.dal-{plant}
+<f56r.P.7;F>       sho.kchol.otchor.choky.dal-{plant}
+<f56r.P.7;U>       sho,kchol,otchor.choky.dal-{plant}
+#
+<f56r.P.8;H>       schol.choy.choky.cheeckhody={plant}
+<f56r.P.8;C>       schol.choy.choky.cheeckhody={plant}
+<f56r.P.8;F>       schol.choy.choky.cheeckhody={plant}
+<f56r.P.8;U>       schol.choy.choky.cheeckhody={plant}
+#
+<f56r.P.9;H>       tchoky.kchol.shol.chot!chey!tchol-{plant}
+<f56r.P.9;C>       tchoky.kchol.shol.chot.chey!tchol-{plant}
+<f56r.P.9;F>       tchoky.kchol.shol.chot!chey.tchol-{plant}
+<f56r.P.9;U>       tchoky.kchol.shol.chot!chey,tchol-{plant}
+#
+<f56r.P.10;H>      ytchor.otchy.chok!y!t.chey.r.okaiin-{plant}
+<f56r.P.10;C>      ytchor.otchy.chok.y!t.chey.r.okaiin-{plant}
+<f56r.P.10;F>      ytchor.otchy.chok!y.t!chey.r!okak!!-{plant}
+<f56r.P.10;G>      ytchor.otchy.chok!y.t!chey.r!okaiin-{plant}
+<f56r.P.10;U>      ytchor,otchy.chok,y,t,shey.r,okaiin-{plant}
+#
+<f56r.P.11;H>      shy.kcheey.daiin.cthol.chor.chokor-{plant}
+<f56r.P.11;C>      shy!kcheey.daiin.cthol.chos.chokor-{plant}
+<f56r.P.11;F>      shy.kcheey.daiin.cthol.chor.chokor-{plant}
+<f56r.P.11;U>      shy.kcheey.daiin.cthol.chor.chokor-{plant}
+#
+<f56r.P.12;H>      sh.cho.kchey.qokokchy-{plant}
+<f56r.P.12;C>      sh.cho.kchey.qokokchy-{plant}
+<f56r.P.12;F>      sh!cho.kchey.qokokchy-{plant}
+<f56r.P.12;U>      sh,cho.kchey.qokokchy-{plant}
+#
+<f56r.P.13;H>      okchy.chokcheo.kchal-{plant}
+<f56r.P.13;C>      okchy.chokcheo.kchal-{plant}
+<f56r.P.13;F>      okchy.chokcheo.kchal-{plant}
+<f56r.P.13;U>      okchy.chokcheo.kchal-{plant}
+#
+<f56r.P.14;H>      schol.chotol.qotchy-{plant}
+<f56r.P.14;C>      schol.chotol.qotchy-{plant}
+<f56r.P.14;F>      schol.chotol.qotchy-{plant}
+<f56r.P.14;U>      schol.chotol.qotchy-{plant}
+#
+<f56r.P.15;H>      tcho!tchol.chol.cthy-{plant}
+<f56r.P.15;C>      tcho.tchol.chol.cthy-{plant}
+<f56r.P.15;F>      tcho.tchol.chol.cthy-{plant}
+<f56r.P.15;U>      tcho,tchol.chol.cthy-{plant}
+#
+<f56r.P.16;H>      qotchy.chody.cthor.chey.kchar.m-{plant}
+<f56r.P.16;C>      qotchy.chody.cthor.chey.kchor.g-{plant}
+<f56r.P.16;F>      qotchy.chody.cthor.chey.kchar!m-{plant}
+<f56r.P.16;U>      qotchy.chody.cthor.chey.kchor.g-{plant}
+#
+<f56r.P.17;H>      chokeey.qokc!heey.schey.daiin.dy-{plant}
+<f56r.P.17;C>      chokeey.qokc!heey.schey.daiin.dy-{plant}
+<f56r.P.17;F>      chokeey.qoke.eeey.schey.daiin.dy-{plant}
+<f56r.P.17;U>      chokeeg.qokc!heey.schey.daiin,dy-{plant}
+#
+<f56r.P.18;H>      sho.chokchy.kchoar-{plant}sotodan-{plant}
+<f56r.P.18;C>      sho.chokchy.kchoar-{plant}sotodan-{plant}
+<f56r.P.18;F>      sho.chokchy.kchoar-{plant}sotodan-{plant}
+<f56r.P.18;U>      sho.chokchy.kchoar-{plant}sotodan-{plant}
+#
+<f56r.P.19;H>      otchey.keol.daiin={plant}
+<f56r.P.19;C>      otchey.keol.daiin={plant}
+<f56r.P.19;F>      otchey.keol.daiin={plant}
+<f56r.P.19;U>      otchey.keol.daiin={plant}
+#

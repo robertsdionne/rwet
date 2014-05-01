@@ -1,0 +1,35 @@
+## <f77v.N> {}
+# Labels on nymphs
+# Last edited on 1998-11-28 22:19:01 by stolfi
+#
+# "U" transcription by J. Stolfi.
+# "V" transcription by John Grove, posted 04-may-1998.
+# Some of Grove's [kt] restored to [pf] based on other versions -JS.
+# 
+# top figure, near NW nymph
+<f77v.N.1;H>       okain.ykal=
+<f77v.N.1;K>       okain.akol=
+<f77v.N.1;U>       okain.ykal=
+<f77v.N.1;V>       okain.ykol={Grove's #1}
+#
+# top figure, near N nymph
+<f77v.N.2;H>       olkeedal=
+<f77v.N.2;U>       olkeedal=
+<f77v.N.2;V>       olkeedal={Grove's #2}
+#
+# top figure, near NE nymph
+<f77v.N.3;H>       orchedal=
+<f77v.N.3;U>       orchedal=
+<f77v.N.3;V>       orchedal={Grove's #3}
+#
+# left center figure, above W nymph
+<f77v.N.4;H>       sosoral=
+<f77v.N.4;U>       sororal=
+<f77v.N.4;V>       saroral={Grove's #6}
+#
+# right center figure, above nymph
+<f77v.N.5;H>       okalo=
+<f77v.N.5;V>       okalo={Grove's #8}
+<f77v.N.5;U>       okal*=
+#
+#

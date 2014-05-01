@@ -1,0 +1,71 @@
+## <f17r.P> {}
+# text
+# Last edited on 1998-12-11 12:32:16 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+#
+# The "9" looks like an EVA "y" with an overbar.
+# Line 0 roman:    malliar.al*or.lu9.hav.vin*******a.o.***al.***=
+#
+<f17r.P.1;H>       fshody.daram.ydar!chom.opydy.ypod.chop.otchy.dody.oldckhy-
+<f17r.P.1;C>       fshody.daram.ydar.chom.opydy.ypod.!!!!!otchy.dody.oldckhy-
+<f17r.P.1;F>       fshody.daram.ydar.chom.opydy.ypod.chop.otchy.dody.oldckhy-
+<f17r.P.1;U>       fshody.daram.ydar,chom.opydy.ypod,chop.otchy.dody.oldckhy-
+#  
+<f17r.P.2;H>       ydair.sho!!ky.okshy.qodar.ckhody.dor.otchol.qodcthy.ods-
+<f17r.P.2;C>       odair.cho!!ky.okshy.qodar.ckhody.dor.otchol.qodcthy.ods-
+<f17r.P.2;F>       ydair.chokoky.okshy.qodar.ckhody.dor.otchol.qodcthy.ods-
+<f17r.P.2;U>       ydair.cho!!ky.okshy.qodar.ckhody.dor.otchol.qodcthy.ods-
+#  
+<f17r.P.3;H>       chol.or.chy.qodam.okor.chor.okchom=
+<f17r.P.3;C>       chol.or.chy.qodam.okor.chor.okchom=
+<f17r.P.3;F>       chol.or.chy.qodam.okor.chor.okchom=
+<f17r.P.3;U>       chol,or,chy.qodam.okor.chor.okchom=
+#  
+<f17r.P.4;H>       tcho*.shol.qokol.qor.olaiin.opydg-{plant}som.ypchy.ypaim-
+<f17r.P.4;C>       tchom.shol.qokol.qor.olaiin.otydd-{plant}som.ypchy.ypaim-
+<f17r.P.4;F>       tcho*.shol.qokol.qor.olaiin.opydm-{plant}som.ypchy.ypaim-
+<f17r.P.4;U>       tchom.shol.qokol.qor.olaiin.opydm-{plant}som.ypchy.ypaim-
+#  
+<f17r.P.5;H>       ychekchy.cthy.chor.shor.cphor.cphaldy-{plant}dair.cthey.qody-
+<f17r.P.5;C>       ychekchy.cthy.chor.shor.cphor.cphaldy-{plant}dair.ota!y.qody-
+<f17r.P.5;F>       ychekchy.cthy.chor.shor.cphor.cphaldy-{plant}dair.cthey.qody-
+<f17r.P.5;U>       ychekchy.cthy.chor.shor.cphor.cphaldy-{plant}dair.cthey.qody-
+#  
+<f17r.P.6;H>       tsho.qof!cho.qokcheor.chekeg=
+<f17r.P.6;C>       tsho.qof.cho.qokcheor.choto*=
+<f17r.P.6;F>       tsho.qof!cho.qokcheor.chekem=
+<f17r.P.6;U>       tsho.qof,cho.qokcheor.chetom=
+#  
+<f17r.P.7;H>       ksheo.qokchy.choldshy.!zepchy-{plant}ds{&S}!a-{plant}opchordy-{plant}
+<f17r.P.7;C>       ksheo.qokchy.choldshy.!!mpchy-{plant}d*!!!!!!-{plant}opchordy-{plant}
+<f17r.P.7;F>       ksheo.qokchy.choldshy.**!pchy-{plant}dsh!!!!y-{plant}opchordy-{plant}
+<f17r.P.7;U>       ksheo.qokchy.choldshy.**epchy-{plant}dsh!!!!y-{plant}opchordy-{plant}
+#  
+<f17r.P.8;H>       dchchy.dychear.schar.ykchy-{plant}
+<f17r.P.8;C>       dchchy.dychear.schar.ykchy-{plant}
+<f17r.P.8;F>       dchchy.dychear.schar.ykchy-{plant}
+<f17r.P.8;U>       dchchy.dychear.schar.ykchy-{plant}
+#  
+# paragraph break here?
+<f17r.P.9;H>       soy.chckhy.o.dar.chypcham-{plant}
+<f17r.P.9;C>       soy.chckhy.o.das.chypcham-{plant}
+<f17r.P.9;F>       soy.chckho.o!dar.chypcham-{plant}
+<f17r.P.9;U>       soy.chckhy.o,dar.chypcham-{plant}
+#  
+# ... or here?
+<f17r.P.10;H>      dar.chear.dsheor.*!ain.y.mol-{plant}
+<f17r.P.10;C>      dar.chear.dcheor.*!ain.y!dol-{plant}
+<f17r.P.10;F>      dar.chear.dsheor.d!ain.y!mol-{plant}
+<f17r.P.10;U>      dar.chear.dsheor.r,ain.y,mol-{plant}
+#  
+<f17r.P.11;H>      otchol.cthar.okaiin.chol.daiiin-
+<f17r.P.11;C>      otchol.cthar.okaiin.chol.doiiin-
+<f17r.P.11;F>      otchol.cthar.okaiin.chol.daii!n-
+<f17r.P.11;U>      otchol.cthar.okaiin.chol.daiiin-
+#  
+<f17r.P.12;H>      ychod!y.chotom=
+<f17r.P.12;C>      ychod!y.chotom=
+<f17r.P.12;F>      ychod!y.chotom=
+<f17r.P.12;U>      ychod,y,chotom=
+#

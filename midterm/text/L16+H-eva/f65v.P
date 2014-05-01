@@ -1,0 +1,27 @@
+## <f65v.P> {}
+# text
+# Last edited on 1998-12-08 10:37:04 by stolfi
+#
+<f65v.P.1;H>       cphy.fchecfhy.dy-{plant}dchepain.shety.qopy.fol.chpdy-
+<f65v.P.1;C>       cphy.fchecfhy.dy-{plant}dchepain.shety.qopy.fol.chpdy-
+#
+<f65v.P.2;H>       daiin.sheek.l.ody-{plant}yteo.qop*!.air.cheoteey.dalam-
+<f65v.P.2;C>       daiin.sheek.l.ody-{plant}yteo.qops!.air.cheoteeo.dalom-
+<f65v.P.2;D>       daiin.sheek.l.ody-{plant}yteo.qopr*.air.cheoteey.dalam-
+<f65v.P.2;U>       daiin.sheek.l.ody-{plant}yteo.qops!.air.cheotchy.dalam-
+#
+<f65v.P.3;H>       ytal.cheot.shky.y-{plant}!eas.cheody=
+<f65v.P.3;C>       ytal.cheot.shky.y-{plant}*sas.cheody=
+<f65v.P.3;U>       ytal.cheot!shky.y-{plant}!*as.cheody=
+#
+<f65v.P.4;H>       toeedy.otor.shedy-{plant}yteey.sheody.qokesd.yfchey-
+<f65v.P.4;C>       toeedy.otor.shedy-{plant}yteey.sheody.qokshd.yfchey-
+#
+<f65v.P.5;H>       dshedy.okeody.qokd-{plant}shckhy.choky.chokeody.oke!y.dy-
+<f65v.P.5;C>       dshedy.okeody.qokd-{plant}shckhy.choky.chokeody.oke.y!dy-
+<f65v.P.5;U>       dshedy.okeody.qokd-{plant}shckhy.choky.chokeody.oke!y.dy-
+#
+<f65v.P.6;H>       qo.ytchey.shckhh.cphy-{plant}ykchhdy.chedy.shckhdy=
+<f65v.P.6;C>       qo.ytchey.shckhe!cphy-{plant}ykchedy.chedy.shckhdy=
+<f65v.P.6;U>       qo.ytchey.shckh*!cphy-{plant}ykchedy.chedy.shckhdy=
+#

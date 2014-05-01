@@ -1,0 +1,63 @@
+## <f50r.P> {}
+# text
+# Last edited on 1998-12-19 19:03:29 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+<f50r.P.1;H>       psheor.olkais.olfchedy.qopeeedar.opchey.dair.olaiin.chefchdy-
+<f50r.P.1;C>       psheor.olkair.olfchedy.qopeeedar.opchey.dair.olaiin.chefchdy-
+<f50r.P.1;F>       psheor.olkair.olfchedy.qopchedar.opchey.dair.olaiin.chspchdy-
+<f50r.P.1;U>       psheor.olkair.olfchedy.qopchedar.opchey.dair.olaiin.chefchdy-
+#
+# homeoteleuton on "C" line...
+<f50r.P.2;H>       sor.or!sheckhy.ockhody.shos.alol.dy.kar.oky.daiiin.okar.ar.okam-
+<f50r.P.2;C>       sor.or!sheckhy.ockhody.shos.alol.dy.kar.oky.daiiin%%%%%%%%%%%%%-
+<f50r.P.2;F>       sor.or!sheckhy.ockhody.shos.alol.dy.kar.oky.daii!n.okar.ar.okam-
+<f50r.P.2;U>       sor.or,sheckhy.ockhody.shos.alol.dy.kar.oky.daiiin.okar.ar.okar-
+#
+<f50r.P.3;H>       tshol.kar.sheedy.okeody.qokedy.chody.kchdy.pchdy.chkaiin.odam-
+<f50r.P.3;C>       tshol.kar.sheedy.okeody.qokedy.chody.kchdy.pchdy.chkaiin.odam-
+<f50r.P.3;F>       tshol.kar.sheedy.okeody.qokedy.chody.kchdy.pchdy.chkaiin.odam-
+<f50r.P.3;G>       tshol.kar.she!dy.okeody.qokedy.chody.kchdy.pchdy.chkaiin.odam-
+<f50r.P.3;U>       tshol.kar.sheedy.okeody.qokedy.chody.kchdy.pchdy.chkaiin.odam-
+#
+<f50r.P.4;H>       tchdy.qokar.chedy.qokchdy.qokaiin.or.ar.al!ol.keodaiin.olr-
+<f50r.P.4;C>       tchdy.qokar.chedy.qokchdy.qokaiin.or.ar.al.ol.keodaiin.ols-
+<f50r.P.4;F>       tchdy.qokar.chedy.qokchdy.qokaiin.or.ar.al!ol.keodaiin.olr-
+<f50r.P.4;G>       tchdy.qokar.chedy.qokchdy.qotaiin.or.ar.al!ol.teodaiin.olr-
+<f50r.P.4;U>       tchdy.qokar.chedy.qokchdy.qokaiin.or.ar.al!ol.keodaiin.ols-
+#
+<f50r.P.5;H>       s!olkchy.chckhy.qokchdy.qokchdy.okar.ar.y.qokchdy.kar.ar.okai!n-
+<f50r.P.5;C>       s!olkchy.chckhy.qokchdy.qokchdy.okar.ar.y.qokchdy.kar.ar.okai!n-
+<f50r.P.5;F>       s!olkchy.chckhy.qokchdy.qokchdy.okar.ar!y.qokchdy.kar.ar.okai!n-
+<f50r.P.5;G>       s!olkchy.chckhy.qokchdy.qokchdy.okar.ar!y.qokchdy.tar.ar.okaiin-
+<f50r.P.5;U>       s,olkchy.chckhy.qokchdy.qokchdy.okar.ar.y.qokchdy.kar.ar.okai!n-
+#
+<f50r.P.6;H>       ykai!n.s{&S}sear.ol!kchedy.okal.qotor.cheeor.olka!dy.daiin.qoky-
+<f50r.P.6;C>       ykai!n.s!!!!hear.ol!kchedy.okal.qotor.cheeor.olkeedy.daiin.qgky-
+<f50r.P.6;F>       ykai!n.s!!!!heor.ol.kchedy.okal.qotor.cheeor.olka!dy.daiin.qoky-
+<f50r.P.6;G>       ykaiin.s!!!!heor.ol.kchedy.okal.qotor.cheyor.olka!dy.daiin.qoky-
+<f50r.P.6;U>       ykai!n.s!!!!heor.ol!kchedy.okal.qotor.cheeor.olteedy.daiin.qoky-
+#
+<f50r.P.7;H>       todalain.qotal.kaiin.otaiin.otal.she.kar.a!riin.okchedy.dariin-
+<f50r.P.7;C>       todalain.qotal.kaiin.otaiin.otal.she.kar.a!iiin.okchedy.dariin-
+<f50r.P.7;F>       todalain.qotal.kaiin.otaiin.otal.she.kar.chriin.okchedy.dariin-
+<f50r.P.7;G>       todalain.qotal.kaiin.otaiin.otal.she.kar.sh!iin.okchedy.da!iin-
+<f50r.P.7;U>       todalain.qotal.kaiin.otaiin.otal.she.kar.ar!iin.okchedy.dariin-
+#
+<f50r.P.8;H>       yk!ykaiin.sheekar.otchdy.da!r.kar.shelain.taipar.orolkai!n-
+<f50r.P.8;C>       yk.ykaiin.sheekar.otchdy.da!r.kar.shedain.taipar.orolkai!n-
+<f50r.P.8;F>       yk!akaiin.sheekar.otchdy.da!r.kar.shelain.taipar.orolkai!n-
+<f50r.P.8;G>       yk!akaiin.sheekar.otchdy.daar.kar.shelain.taipar.orolkaiin-
+<f50r.P.8;U>       yk,ykaiin.sheekar.otchdy.da!r.kar.shedain.taipar.orolkai!n-
+#
+<f50r.P.9;H>       ytchdy.kchedy-{plant}ykeey.kaiin.qokain.ald!al!o!s!am-
+<f50r.P.9;C>       ytchdy.kchedy-{plant}ykeey.kaiin.qokain.ald!al!o,r,am-
+<f50r.P.9;F>       ytchdy.kchedy-{plant}ykeey.kaiin.qokain.ald!al.o,s,am-
+<f50r.P.9;U>       ytchdy.kchedy-{plant}ykeey,kaiin.qokain.ald,al.o,s,am-
+#
+<f50r.P.10;H>      solkaiin-{plant}opal!ke.chckhy.dario.chky=
+<f50r.P.10;C>      solkaiin-{plant}opal.ke.chckhy.darin.chky=
+<f50r.P.10;F>      solkaiin-{plant}opal.ke!chckhy.dario.chky=
+<f50r.P.10;U>      solkaiin-{plant}opal,ty,chckhy.darin.chky=
+#

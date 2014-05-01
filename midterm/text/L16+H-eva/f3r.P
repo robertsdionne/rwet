@@ -1,0 +1,85 @@
+## <f3r.P> {}
+# text
+# Last edited on 1998-12-06 13:03:28 by stolfi
+#
+<f3r.P.1;H>        tsheos.qopal.chol.cthol.daimm-
+<f3r.P.1;C>        tsheos.qopal.chol.cthol.daimg-
+<f3r.P.1;F>        tsheos.qopal.chol.cthol.daimm-
+#
+<f3r.P.2;H>        ycheor.chor.dam.qotcham.cham-{plant}
+<f3r.P.2;C>        ycheor.chor.dam.qotchag.cham-{plant}
+<f3r.P.2;F>        ycheor.chor.dam.qotcham.cham-{plant}
+#
+<f3r.P.3;H>        ochor.qocheor.chol.daiin.cthy-{plant}
+<f3r.P.3;C>        ochar.qacheor.chol.daiin.cthy-{plant}
+<f3r.P.3;F>        ochor.qocheor.chol.daiin.cthy-{plant}
+#
+<f3r.P.4;H>        schey.chor.chal.cham.cham.cho-{plant}
+<f3r.P.4;C>        schey.chor.chal.cham.chaj.cho-{plant}
+<f3r.P.4;D>        schey.chor.chal.chaj.chaj.cho-{plant}
+<f3r.P.4;F>        schey.chor.chal.cham.cham.cho-{plant}
+#
+<f3r.P.5;H>        qokol.chololy.s.cham.cthol-{plant}
+<f3r.P.5;C>        qokol.chololy.s.cham.cthol-{plant}
+<f3r.P.5;F>        qokol.chololy.s.cham.cthol-{plant}
+#
+<f3r.P.6;H>        ychtaiin.chor.cthom.otal.dam-{plant}
+<f3r.P.6;C>        ychtaiin.chor.cthom.otol!dam-{plant}
+<f3r.P.6;F>        ychtaiin.chor.cthom.otal.dam-{plant}
+#
+<f3r.P.7;H>        otchol.qodaiin.chom.shom.damo-{plant}
+<f3r.P.7;C>        otchol.qodaiin.chom.shom.damo-{plant}
+<f3r.P.7;F>        otchol.qodaiin.chom.shom.damo-{plant}
+#
+<f3r.P.8;H>        ysheor.chor.chol.oky.damo-{plant}
+<f3r.P.8;C>        ysheor.chor.chol.oky.dago-{plant}
+<f3r.P.8;F>        ysheor.chor.chol.oky.damo-{plant}
+#
+<f3r.P.9;H>        sho.*or.sheoldam.otchody.ol-{plant}
+<f3r.P.9;C>        sho.aor.sheoldaj.otchody.ol-{plant}
+<f3r.P.9;F>        sho.*or.sheoldam.otchody.ol-{plant}
+#
+<f3r.P.10;H>       ydas.chol.cthom=
+<f3r.P.10;C>       ydas.chol!cthom=
+<f3r.P.10;F>       ydar.chol.cthom=
+#
+<f3r.P.11;H>       pcheol.shol.sols.sheol.shey-
+<f3r.P.11;C>       pcheol.shol.sols.sheol.shey-
+<f3r.P.11;F>       pcheol.shol.sols.sheol.shey-
+#
+<f3r.P.12;H>       okadaiin.qokchor.qoschodam.octhy-{plant}
+<f3r.P.12;C>       okadaiin.qokchor.qoschodam.octhy-{plant}
+<f3r.P.12;F>       okadaiin.qokchor.qoschodam.octhy-{plant}
+#
+<f3r.P.13;H>       qokeey.qot.shey.qokody.qokchey.cheody-{plant}
+<f3r.P.13;C>       qokeey.qot.shey.qokody.qokshey.cheody-{plant}
+<f3r.P.13;F>       qokeey.qot!shey.qokody.qokchey.cheody-{plant}
+#
+<f3r.P.14;H>       chor.qodair.okeey.qokeey=
+<f3r.P.14;C>       chor.qodair.okeey.qokeey=
+<f3r.P.14;F>       chor.qodair.okeey.qokeey=
+#
+<f3r.P.15;H>       tsheoarom.shor.or.chor.olchsy.chom.otchom-{plant}oporar-
+<f3r.P.15;C>       tsheoarom.shor.or.chor.olchsy.chom.otchom-{plant}oporar-
+<f3r.P.15;F>       tsheoarom.shor.or.chor.ofchsy.chom.otchom-{plant}oporar-
+#
+<f3r.P.16;H>       oteol.chol.s.cheol.ekshy.qokeom.qokol.daiin-{plant}soleeg-
+<f3r.P.16;C>       oteol.chol.s.cheol.ekshy.qokeom.qokol.daiin-{plant}soleeg-
+<f3r.P.16;F>       oteol.chol.s.cheol.ekshy.qokeom.qokol.daiin-{plant}soleem-
+#
+<f3r.P.17;H>       soeom.okeom.yteody.qokeeo.dal.sam=
+<f3r.P.17;C>       soeom.okeom.yteody.qokeeo!dal.sam=
+<f3r.P.17;F>       soeom.okeom.yteody.qokeeo.dal.sam=
+#
+<f3r.P.18;H>       pcheoldom.shodaiin.qopchor.qopol.opchol.qoty-{plant}otolom-
+<f3r.P.18;C>       pcheoldom.shodaiin.qopchor.qopol.opchol.qoty-{plant}otolom-
+<f3r.P.18;F>       pcheoldom.shodaiin.qopchor.qopol.opchol.qoty-{plant}otolom-
+#
+<f3r.P.19;H>       otchor.ol.cheor.qoeor.dair.qoteol.qosaiin-{plant}chor.cthy-
+<f3r.P.19;C>       otchor.ol!cheor.qoeor.dair.qoteol.qosaiin-{plant}chor.cthy-
+<f3r.P.19;F>       otchor.ol.cheor.qoeor.dair.qoteol.qosaiin-{plant}chor.cthy-
+#
+<f3r.P.20;H>       ycheor.chol.odaiin.chol.s.aiin.okol!or.am={plant}
+<f3r.P.20;C>       ycheor.chol.odaiin.chol.s.aiin.okol.or.am={plant}
+<f3r.P.20;F>       ycheor.chol.odaiin.chol.s!aiin.okol!or.am={plant}
+#

@@ -1,0 +1,57 @@
+## <f71v.S1> {}
+# panel f71v, Taurus light, outer ring of star labels
+# Last edited on 1998-12-09 18:28:17 by stolfi
+#
+# Transcription starting at 10 o'clock, going clockwise
+#
+<f71v.S1.1;H>      char.orom=
+<f71v.S1.1;C>      char.orol=
+<f71v.S1.1;K>      char.oroj={was <f71v.06A;K>}
+<f71v.S1.1;V>      char.arom={Grove's #2, dressed}
+#
+<f71v.S1.2;H>      chfaly=
+<f71v.S1.2;C>      chpaly=
+<f71v.S1.2;K>      chfaly={was <f71v.07A;K>}
+<f71v.S1.2;V>      chfaly={Grove's #3, dressed}
+#
+<f71v.S1.3;H>      okolar=
+<f71v.S1.3;C>      okolar=
+<f71v.S1.3;K>      okolar={was <f71v.08A;K>}
+<f71v.S1.3;V>      otolar={Grove's #4, dressed}
+#
+<f71v.S1.4;H>      otchody=
+<f71v.S1.4;C>      otchody=
+<f71v.S1.4;K>      otchody={was <f71v.09A;K>}
+<f71v.S1.4;V>      otchody={Grove's #5, dressed}
+#
+<f71v.S1.5;H>      olcphy=
+<f71v.S1.5;C>      olcphy=
+<f71v.S1.5;K>      alcphy={was <f71v.10A;K>}
+<f71v.S1.5;V>      alcphy={Grove's #6, dressed}
+#
+<f71v.S1.6;H>      otaiin=
+<f71v.S1.6;C>      otaiin=
+<f71v.S1.6;K>      otaiin={was <f71v.11A;K>}
+<f71v.S1.6;V>      otaiin={Grove's #7, dressed}
+#
+<f71v.S1.7;H>      okaraiin=
+<f71v.S1.7;C>      okaraiin=
+<f71v.S1.7;K>      okaraiin={was <f71v.12A;K>}
+<f71v.S1.7;V>      okaraiin={Grove's #8, naked}
+#
+<f71v.S1.8;H>      okar.ar.aly=
+<f71v.S1.8;C>      *kar.ar!aly=
+<f71v.S1.8;K>      otar.ar.aly={was <f71v.13A;K>}
+<f71v.S1.8;V>      etar.ar.aly={Grove's #9, naked}
+#
+<f71v.S1.9;H>      opalar.am.da!n=
+<f71v.S1.9;C>      opalar.am.diin=
+<f71v.S1.9;K>      opalar.am.ga!n={was <f71v.14A;K>}
+<f71v.S1.9;V>      opalar.am.da!n={Grove's #10, partly dressed}
+#
+<f71v.S1.10;H>     opalor.ar=
+<f71v.S1.10;C>     opalor!ar=
+<f71v.S1.10;K>     opalar.ar={was <f71v.15A;K>}
+<f71v.S1.10;V>     opalar.ar={Grove's #1, dressed}
+#
+#

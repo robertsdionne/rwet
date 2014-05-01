@@ -1,0 +1,110 @@
+## <f68v1>          {$I=A $Q=I $P=J}
+# Last edited on 1998-12-26 16:38:12 by stolfi
+#
+# Identification:
+#
+#   Title: ???
+#   Page: f68v1 = IJ (Rene) = p128 (Stolfi)
+#   Folio: f68
+#   Panels: f68v1
+#   Bifolio: bI1 = f67+f68
+#   Quire: I (Rene) = IX (Beinecke)
+#
+#   This page is the innermost verso panel of an eight-panel fold-out.
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: A (Rene), cos (Stolfi)
+#   Subject: astronomical
+#   Colors: blue(vanes),yellow(stars) (Reeds)
+#
+# Description:
+#
+#   The page contains only a circular diagram, framed by two faint
+#   mechanically drawn circles, each surrounded by a ring of text.
+#
+#   The whole is surrounded by another thin circle, about 1cm further
+#   out, that begins looking mechanically drawn but at some point
+#   wanders off and fails to close on itself, as if the fixed leg of the
+#   compass had skipped a bit. (However, this outermost circle may be a
+#   modern scribble on the copy.)
+#
+#   A thick radial stroke at 10:30 connects this outermost circle to the
+#   next one, through the gap between two words of the outer text ring.
+#   Another pair of thick radial strokes at 10:00 connects the second
+#   and third circles, breaking the second text ring.
+#
+#   At the center of the diagram is a sun, with narrow flipped
+#   S-shaped rays and a human face (with neutral expression, straight
+#   hair combed back at the sides, held by a narrow headband with
+#   dots.)
+#
+#   Surrounding the sun is a "starry windmill": a fat star with
+#   serrated outline, consisting of 16 sectors shaped like narrow
+#   kites, each split radially into a "light" (clockwise) half, with a
+#   dotted line and some small stars, and a "dark" half, painted with
+#   a solid dark color. Clockwise from the 10:00 point, the light
+#   half-sectors contain the following counts of stars:
+#
+#     4 4 4 3 4 4 5 6 6 6 7 7 6 5 5 5 
+#     * * * * * * * * * * * * * * * *
+#     * * * * * * * * * * * * * * * *
+#     * * * * * * * * * * * * * * * *
+#     * * *   * * * * * * * * * * * *
+#                 * * * * * * * * * *
+#                   * * * * * *      
+#                         * *        
+#
+#   All told there are 66 stars. (But the star count of 7 in the 06:30
+#   sector may be an 8.
+#
+#   Thin radial lines connect each point of the star to the 
+#   inner edge of the frame. The 16 sectors defined by these lines
+#   are alternatingly filled with unnamed stars, or labeled with
+#   a radial text line, reading outwards.  Clockwise from the 
+#   10:00 ray, the sectors contain the following counts: 
+#
+#     8 7 7 8 9 9 8 7
+#     * * * * * * * *
+#     * * * * * * * *
+#     * * * * * * * *
+#     * * * * * * * *
+#     * * * * * * * *
+#     * * * * * * * *
+#     * * * * * * * *
+#     *     * * * *    
+#             * *        
+#
+#   There are 63 stars in total.
+# 
+#   There is a comet-tail-like object behind one of the stars in 
+#   the 03:00 sector.
+#
+# Comments:
+#
+#   It is not clear whether the "start here" strokes at 10:00-10:30
+#   are original, or modern guesses scribbled on the copy. If the
+#   latter, then they seem wrong, because those word gaps are quite
+#   ordinary and not aligned.
+#
+#   Another possible starting place is at 01:15, where both rings have
+#   aligned, extra-wide word breaks.
+#
+#   On the other hand, the EVA "p" on the the 10:30 radial line suggests 
+#   that that is indeed the first line.
+#
+#   The center figure is probably female.
+#
+#   Note that the small and large star counts are almost the same (67
+#   and 63); perhaps 64 was the intended number. Note also that the
+#   small star counts are unimodal. The big star counts would be
+#   unimodal too if the 11:00 sector had 7 stars, or the 09:30 sector
+#   had 8. The latter seems more likely as it would have bumped the
+#   number of big stars to 64. In both sequences the minimum is around
+#   01:10 (the aligned breaks!) and the maximum around 07:00.
+#
+#   The "tail" in the 03:00 sector may mean that one of the stars is a comet.
+#
+#

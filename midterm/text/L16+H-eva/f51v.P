@@ -1,0 +1,62 @@
+## <f51v.P> {}
+# text
+# Last edited on 1998-12-11 12:52:03 by stolfi
+#
+<f51v.P.1;H>       poshody.qokodar.seodaiin.qotal-{plant}dscheey.saiin!dy-
+<f51v.P.1;C>       poshody.qokodar.shodaiin.qotal-{plant}dscheey.saiin.dy-
+<f51v.P.1;F>       poshody.qokodar.seodaiin.qotal-{plant}dscheey.saiin.dy-
+#
+<f51v.P.2;H>       dshody.ckhody.qokol.dy!kaiin.chy-{plant}qokey.daiin.cthy-
+<f51v.P.2;C>       dshody.ckhody.qokol.dy!kaiin.chy-{plant}qokey.daiin.cthy-
+<f51v.P.2;F>       dshody.ckhody.qokol.dy.kaiin.chy-{plant}qokey.daiin.cthy-
+<f51v.P.2;G>       dshody.ckhody.qotol.dy.kaiin.chy-{plant}qokey.daiin.cthy-
+#
+<f51v.P.3;H>       tchody.cthy.chckhey.qod.ytchody-{plant}dchol.saiin.ytam-
+<f51v.P.3;C>       tchody.cthy.chckhey.qod.ytchody-{plant}dchol.saiin.ytam-
+<f51v.P.3;F>       tchody.cthy.chckhey.qod.ytchody-{plant}dchol.saiin.ytam-
+#
+<f51v.P.4;H>       otaiin.qodal.ytal.cheodar.sody-{plant}oteo.daiin.shokog-
+<f51v.P.4;C>       otaiin.qodal.otol.cheodar.sody-{plant}oteo!daiin.chokog-
+<f51v.P.4;F>       otaiin.qodal.ytal.cheodar.sody-{plant}oteo!daiin.shakom-
+<f51v.P.4;G>       otaiin.qodal.ytal.cheadar.sody-{plant}oteo!daiin.shakam-
+#
+<f51v.P.5;H>       todaiin.ytody.qokol.shodol.qockhy-{plant}ykol.otaiin.dar.y-
+<f51v.P.5;C>       todaiin.ytody.qokol.shodol.qockhy-{plant}okol.otaiin.dar.y-
+<f51v.P.5;F>       todaiin.ytady.qokol.shodol.qockhy-{plant}ykol.otaiin.dar!y-
+#
+<f51v.P.6;H>       okor.ctheody.qocphy.qokol.qotaiin-{plant}otykol.chol.daiin-
+<f51v.P.6;C>       okor.ctheody.qocphy.qokol.qotaiin-{plant}otykol.chol!daiin-
+<f51v.P.6;F>       okar.ctheody.qocphy.qokal.qotaiin-{plant}otykal.chol.daiin-
+#
+<f51v.P.7;H>       qotol.chodaiin.qokcheody.cho.r.chod-{plant}ycthol.s.olcheety-
+<f51v.P.7;C>       qotol.chodaiin.qokcheody.cho!r.chod-{plant}ycthol.s.olcheety-
+<f51v.P.7;F>       qotol.chodaiin.qokcheody.cho.r.chod-{plant}ycthol.s!olcheety-
+#
+<f51v.P.8;H>       olkeeody.qokal.qodaiin.ykhor.y{&Y}f{&F}al-{plant}
+<f51v.P.8;C>       olkee.dy.qokal.qodaiin.ckhor.o!!!!f!!!!al-{plant}
+<f51v.P.8;F>       olkeeody.qokal.qodaiin.ckhor.c!!!!f!!!!hl-{plant}
+<f51v.P.8;G>       olkeeady.qokal.qodaiin.ckhor.c!!!!f!!!!hl-{plant}
+#
+<f51v.P.9;H>       daiin.ckh!ol.shain.tcholol-{plant}
+<f51v.P.9;C>       daiin.ckh!ol.shain.kcholol-{plant}
+<f51v.P.9;F>       daiin.ckh!ol.shain.tcholol-{plant}
+<f51v.P.9;G>       daiin.ckheol.shain.tcholol-{plant}
+#
+<f51v.P.10;H>      ykeol.sheo.qokody.fold-{plant}
+<f51v.P.10;C>      ykeol.sheo.qokody.fold-{plant}
+<f51v.P.10;F>      ykeol.sheo.qokody.fold-{plant}
+#
+<f51v.P.11;H>      ycheoky.sheey.ykeey.chey-{plant}
+<f51v.P.11;C>      ycheoky.sheey.ykeey.chey-{plant}
+<f51v.P.11;F>      ycheoky.sheey.ykeey.chey-{plant}
+<f51v.P.11;G>      ycheoky.shee*.ykeey.chey-{plant}
+#
+<f51v.P.12;H>      ochockhy.daiin.chockhey-{plant}
+<f51v.P.12;C>      ochockhy.daiin.chockh!y-{plant}
+<f51v.P.12;F>      ochockhy.daiin.chockhey-{plant}
+#
+<f51v.P.13;H>      daiin.cheol.cheodai!n=
+<f51v.P.13;C>      daiin.cheol.cheodai!n=
+<f51v.P.13;F>      daiin.cheol.cheodai!n=
+<f51v.P.13;G>      daiin.cheol.cheodaiin=
+#

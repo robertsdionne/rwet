@@ -1,0 +1,62 @@
+## <f48v.P> {}
+# text
+# Last edited on 1998-12-19 19:02:22 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+<f48v.P.1;H>       pcheodchy.dshedy.fchedy.los.aiin.ykeeedy.shey.ypchedy.tchdy.chdy.ypair.y.chedyty-
+<f48v.P.1;C>       pcheodchy.dshedy.fchedy.los!aiin.ykeeedy.shey.ypchedy.teedy.chdy.ypair!y.chedyty-
+<f48v.P.1;F>       pcheodchy.dshedy.fchedy.los.aiin.ykeeedy.shey.ypchedy.tchdy.chdy.ypair.y.chedyty-
+<f48v.P.1;G>       pch!odchy.dshedy.fchedy.los.aiin.ykeeedy.shey.ypchedy.tchdy.chdy.ypair.y.chedyty-
+#
+<f48v.P.2;H>       chey.tedy.otchody.ytchdy.otar.y!otedy.cthdy-{plant}okain.chety.cho!olkeey-
+<f48v.P.2;C>       %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-
+<f48v.P.2;F>       chey.tedy.otchody.ytchdy.otar.y!otedy.cthdy-{plant}okain.chety.cho!olkeey-
+<f48v.P.2;U>       chey.tedy.otchody.ykchdy.otar!y,otedy.cthdy-{plant}okain.chety.cho,olkeey-
+#
+<f48v.P.3;H>       alchey.kor.y.keody.olkchey.chody.chedy.daly-{plant}okeeor.aiin.otar.air.am-
+<f48v.P.3;C>       alchey.kor.y!keody.olkeeey.chody.chedy.daly-{plant}okeeor.aiin.otar.air.am-
+<f48v.P.3;F>       alchey.kor!y.keody.olkchey.chody.chedy.daly-{plant}okeeor.aiin.otar!air.am-
+<f48v.P.3;G>       alchey.kor!y.keody.olkchey.chody.chedy.daly-{plant}okeeor.aiin.otar.air!am-
+#
+<f48v.P.4;H>       dchedy.tchddy.otsh.okeey.ty.otar.alchdy-{plant}yteedy.oteed.y.tedy.m-
+<f48v.P.4;C>       dchedy.tchddy.otsh.okeey.ty.otar.alchdy-{plant}yteedy.oteed.y!kedy.m-
+<f48v.P.4;F>       dchedy.tchddy.otsh.okeey.ty.otar.alchdy-{plant}yteedy.oteed!y.tedy.m-
+<f48v.P.4;G>       dchedy.tchddy.otsh.okeey.ty.otar.alchdy-{plant}yteedy.oteed!y.tedy.m-
+#
+<f48v.P.5;H>       lkeey.qo!cthedy.taiin.shed.qokar.otedy.dy-{plant}dain.tolkain.otam-
+<f48v.P.5;C>       lkeey.qoecthedy.taiin.shed.qokar.otedy.dy-{plant}dain.tolkain.otam-
+<f48v.P.5;F>       lkeey.qo!cthedy.taiin.shed.qokar.otedy.dy-{plant}dain.talkain.otam-
+<f48v.P.5;G>       lkeey.qo!cthedy.taiin.shed.qokar.cthdy.dy-{plant}dain.talkain.okam-
+#
+<f48v.P.6;H>       shdy.qokain.okar.otar.or.otees.ol.or.ain-{plant}otal.ok.ytar.chedy.am=
+<f48v.P.6;C>       shdy.qokain.okar.otar.or.otees.ol.orai!n-{plant}otal.ok.ytar.chedy.am=
+<f48v.P.6;F>       shdy.qokain.okar.otar.or.otees.ol.orai!n-{plant}otal.ok!ytar.chedy.am=
+<f48v.P.6;G>       shdy.qokain.okar.otar.or.otees.ol.oraiin-{plant}otal.ok!ytar.chedy.am=
+#
+<f48v.P.7;H>       pchedar.chey-{plant}ypchedy.otedy.shefeeedy.al-{plant}shedy.otedy.fcheodal.cphheg-
+<f48v.P.7;C>       pchedar.chey-{plant}ypchedy.otedy.shefeeedy.al-{plant}shedy.otedy.fcheodal.cpheeg-
+<f48v.P.7;F>       pchedar.chey-{plant}ypchedy.otedy.shefchedy.al-{plant}shedy.otedy.fcheodal.cpheey-
+#
+<f48v.P.8;H>       oteody.chkey-{plant}okedy.chckhedy.ykedy.oldy-{plant}otoly.chey.kaly.tokar.otam-
+<f48v.P.8;C>       oteody.chkey-{plant}okedy.chckhedy.ykedy.oldy-{plant}otoly.chey.kaly.tokar.otam-
+<f48v.P.8;F>       oteody.chkey-{plant}okedy.chckhedy.ykedy.oldy-{plant}otoly.chey.taly.tokar.otam-
+<f48v.P.8;G>       oteody.chkey-{plant}okedy.chckhedy.ykedy.oldy-{plant}otoly.chey.taly.takar.otam-
+#
+<f48v.P.9;H>       tor.shody.okal-{plant}otchedy.cheky.oly.loldy.lol-{plant}otchdy.otoldy.ytam.otedy-
+<f48v.P.9;C>       tor.shody.okal-{plant}otchedy.cheky.oly.loldy.lol-{plant}otchdy.otoldy.ytam.otedy-
+<f48v.P.9;F>       tor.shody.okal-{plant}otchedy.cheky.oly.loldy.lol-{plant}otchdy.otoldy.ytam.otedy-
+<f48v.P.9;G>       tor.shody.okal-{plant}otchedy.chaky.ody.loldy.lol-{plant}otchdy.otoldy.ytam.otady-
+#
+<f48v.P.10;H>      tol.chedy.ytedy-{plant}ykeol.chdy.chdor.chtol.chdy-{plant}ytchedal.cthey.okar.ar.ar!y-
+<f48v.P.10;C>      tok.chedy.ytedy-{plant}ykeol.chdy!chdor.chtol.chdy-{plant}ytchedal.cthey.okar.ar.ar!y-
+<f48v.P.10;F>      tol.chedy.ytedy-{plant}ykeol.chdy.chdor.chtol.chdy-{plant}ytchedal.cthey.okar.ar.ar!y-
+<f48v.P.10;G>      tol.chedy.ytedy-{plant}ykeal.chdy.chdor.chtol.chdy-{plant}ytchedal.cthey.okar.ar.ar!y-
+<f48v.P.10;U>      tol.chedy.ytedy-{plant}ykeol.chdy.chdor.chtol.chdy-{plant}ytchedal.cthey.okar,ar.ar,y-
+#
+<f48v.P.11;H>      y.keedal.chckhy-{plant}ykal.ytam.or.cheedls.dary={plant}
+<f48v.P.11;C>      %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%={plant}
+<f48v.P.11;F>      y!keedal.chckhy-{plant}ykal.ytam.or.cheedls.dary={plant}
+<f48v.P.11;G>      y!keedal.*!ckhy-{plant}yk!l.ytam.or.cheedls.dary={plant}
+<f48v.P.11;U>      y!keedal.chckhy-{plant}ykal.ytam.or,cheedls.sary={plant}
+#

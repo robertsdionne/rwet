@@ -1,0 +1,26 @@
+## <f68v3.P> {}
+# plain text
+# Last edited on 1998-12-08 23:53:19 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+#
+<f68v3.P.0;H>      tchedy.chepchy.daiidy.shol.kcheoly.choteol.shol!s!chey.shodaiin.chetshedy.otsho.qooto.seeey-
+<f68v3.P.0;C>      !ch*dy.eeepchy.diindy.shod.kcheoly.choteol.shol.s!chey.shodaiin.chetshedy.otsho.qoeto!seeey-
+<f68v3.P.0;F>      tchedy.chepchy.daindy.shol.kcheoly.choteol.shol.s.chey.shodaiin.chetshedy.otsho.qooto.reeey-
+<f68v3.P.0;U>      tchedy.chepchy.daiidy.shol.kcheoly.choteol.shol.s.chey.shodaiin.chetshedy.otsho.qooto.seeey-
+#
+<f68v3.P.1;H>      scsey!kcheol.shchy.qety.sheey.otchol.chal.sheey.daiin.sheody.qokol.aiir.chor.cheoty.oty-
+<f68v3.P.1;C>      !chea!kcheol.sheey.qety.sheey.otchol.chad.sheey.daiin.sheody.qokol.aiin.chor.cheoty.oty-
+<f68v3.P.1;F>      sshey.kcheol.sheey.qety.sheey.otchol.chal.sheey.daiin.sheody.qokol.aiir.chor.cheoty.oty-
+<f68v3.P.1;U>      sshey.kcheol.sheey.qety.sheey.otchol.chal.sheey.daiin.sheody.qokol.aiir.chor.cheoty.oty-
+#
+<f68v3.P.2;H>      sho.chokar.sor.chor.cheky.daiin.das!aiin-{diagram}ytey.tol.cheeetchol.s!am-
+<f68v3.P.2;C>      !!*.chotar.s!r.chor.cheky.daiin.dar.aiin-{diagram}ytoy.tol!cheeetchal.s!aj-
+<f68v3.P.2;F>      sho.chokar.sar.chor.cheky.daiin.dar!aiin-{diagram}ytey.tol.chee!tchol.*!am-
+<f68v3.P.2;U>      sho.chokar.sar.chor.cheky.daiin.dar,aiin-{diagram}ytey.tol.cheeetchol.s,am-
+#
+<f68v3.P.3;H>      dcheey.qockhhy.chydy=
+<f68v3.P.3;C>      *ch**!.qoekeey.chydy=
+<f68v3.P.3;F>      dcheey.qockh!y.chydy=
+<f68v3.P.3;U>      dcheey.qockh!y.chydy=
+#

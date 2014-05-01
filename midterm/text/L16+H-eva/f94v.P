@@ -1,0 +1,40 @@
+## <f94v.P> {}
+# text
+# Last edited on 1998-12-11 13:18:56 by stolfi
+#
+<f94v.P.1;H>       tshedy.chedar.char.qokchedy.okal.dar-{plant}opchaikhy.oteeda!!n-
+<f94v.P.1;F>       tshedy.chedar.char.qokchedy.okal.dar-{plant}opchackhy.oteedaiin-
+#
+<f94v.P.2;H>       ol.teedy.oteey.qekeey.oteey.teedal-{plant}ykeedy.qota!r.ai!n-
+<f94v.P.2;F>       ol.teedy.oteey.qokeey.oteey.teedal-{plant}ykeedy.qota.r!aiin-
+#
+<f94v.P.3;H>       yshedy.chdaiin.otedy.sdal.tam.dy-{plant}eedy.qokeey.tam-
+<f94v.P.3;F>       yshedy.chdaiin.otedy.sdal.tam!dy-{plant}eedy.qokeey.tam-
+#
+<f94v.P.4;H>       dchdy.otar.otchy.kedy.qokchdy.ol-{plant}okchy=
+<f94v.P.4;F>       dshdy.otar.otchy.kedy.qokchdy.ol-{plant}okchy=
+#
+<f94v.P.5;H>       tedai!n.chedy.qokshd.okchdy.qokeal-{plant}chorchor.tchor.am-
+<f94v.P.5;F>       tedaiin.chedy.qokshd.okchdy.qokeal-{plant}chorchor.tchor.am-
+#
+<f94v.P.6;H>       ycheeo.lkeol.otor.opchdy.qotar.aral-{plant}otor.otchy.tody.oty-
+<f94v.P.6;F>       ycheeo.lkeol.otar.onchdy.qotar.aral-{plant}otor.otchy.tody.oty-
+#
+<f94v.P.7;H>       toky.shey.qokaiin=
+<f94v.P.7;F>       toky.shey.qokaiin=
+#
+<f94v.P.8;H>       pchedaiin.sheocthy.daiin.cphedy.pchd-{plant}oteey.qotchy.par.ar-
+<f94v.P.8;F>       pchedaiin.sheocthy.daiin.cphedy.pchd-{plant}oteey.qotchy.par!ar-
+#
+<f94v.P.9;H>       ytar.okedy.okeedy.qokshey.otaiin.y-{plant}ypchdair.ol.s.aiin.oly-
+<f94v.P.9;F>       ytar.okedy.okeedy.qokshey.otaiin!y-{plant}ypchdair.ol.s!aiin.oly-
+#
+<f94v.P.10;H>      ol.air.cheey.okchaiin.shy.tar.ar.aiin-{plant}otody.qodar.oteey.dar-
+<f94v.P.10;F>      ol!air.cheey.okchaiin.shy.tar.ar!aiin-{plant}otody.qodar.oteey.dar-
+#
+<f94v.P.11;H>      todaiin.shcthhy.qokar.chetaiin.chdy-{plant}ykol.qoky.or.eedy.oky-
+<f94v.P.11;F>      todaiin.shcthey.qokar.chetaiin.chdy-{plant}ykal.qoky.or.!*dy.oky-
+#
+<f94v.P.12;H>      daiin.chcthy.chdy.chckhy.okaiin=
+<f94v.P.12;F>      daiin.chcthy.chdy.chckhy.okaiin=
+#

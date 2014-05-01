@@ -1,0 +1,122 @@
+## <f86v5.P> {}
+# text
+# Last edited on 1998-12-19 22:46:00 by stolfi
+#
+<f86v5.P.1;H>      pshdal.choky.sheody.lfchy.fyshey.qoky.opy.ypar.oraiin.ytor.aiin.opy-
+<f86v5.P.1;F>      pshdal.chaky.sheody.lfchy.fyshey.qoky.opy.ypar.oraiin.ytor.aiin.opy-
+#
+<f86v5.P.2;H>      losair.yteody.qokar.shy.qokar.shor.qopchol.tal.ol.ytal.otam.otam-
+<f86v5.P.2;F>      losair.yt!ody.qokar.shy.qokar.shor.qopchol.tal.ol.ytal.otam.otam-
+#
+<f86v5.P.3;H>      shedy.chdy.qokar.okeeey.sheokaiin.cheoky.oteeodail.otaiin.otai!n-
+<f86v5.P.3;F>      shedy.chdy.qokar.okeeey.sheokaiin.cheoky.oteeodail.otaiin.otaiin-
+#
+<f86v5.P.4;H>      ypchery.oky.sheeey.qoty.qotaiin.sai!n.chepy.ltedy.dar.olkar.am-
+<f86v5.P.4;F>      ypchesy.oky.sh!eey.qoty.qotaiin.saiin.chepy.ltedy.dar.olkar.am-
+#
+<f86v5.P.5;H>      daiin.or.otol.otshey.otal.olkey.chcthody.ytar.dal.ar.okary-
+<f86v5.P.5;F>      daiin.or.otol.otchey.otal.olkey.chcthody.ytar.dal.ar.okary-
+#
+<f86v5.P.6;H>      olkeedy.shety.ytar.ytaiin.shdam.araiin.ytaiin=
+<f86v5.P.6;F>      olkeedy.shety.ytar.ytaiin.shdam.araiin.ytaiin=
+#
+<f86v5.P.7;H>      pdaiin.qoteedy.opchey.qopor.otol.kshdy.qopcheey.shdar.fchcfhy-
+<f86v5.P.7;F>      pdaiin.qoteedy.opchey.qopor.otol.kshdy.qopcheey.shdar.fchcfhy-
+#
+<f86v5.P.8;H>      octhal.shckhy.otshey.opor.shey.tor.ar.otar.aiin.chdy.tar.cheeg-
+<f86v5.P.8;F>      octhal.shckhy.otshey.opor.shey.tor.ar.otar.aiin.chdy.tar.cheem-
+#
+<f86v5.P.9;H>      lkaiin.otain.r.al.ykain.chaiin.y!kal.ykaiin.otal.or.alkam-
+<f86v5.P.9;F>      lkaiin.otain.r.al.ykain%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-
+<f86v5.P.9;U>      lkaiin.otain.r.al.ykain.chaiin.y,kal.ykaiin.otal.or.alkam-
+#
+<f86v5.P.9a;H>     ykar.olkal.kar.shedy.shor.qokar.chor.or.ykaiin.otam.ytam-
+<f86v5.P.9a;F>     !kar.olkal.kar.shedy.shor.qokar.chor.or.ykaiin.otam.ytam-
+<f86v5.P.9a;U>     ykar.alkal.kar,shedy.shor.qokar.chor.or.ykaiin.otam.ytam-
+#
+<f86v5.P.10;H>     taral.okar.octhey.sal.kaiin.ytal.chey.otal.aiiin.olkam=
+<f86v5.P.10;F>     taral.okar.octhey.sal.kaiin.ytal.chey.otal.aii!n.olkam=
+#
+<f86v5.P.11;H>     poraiiindy.otshs.al.ar.shey.tair.sheody.qopchesy.lfar.air.amod-
+<f86v5.P.11;F>     poraii!ndy.otshs.al.ar.shey.tair.sheody.qopchesy.lfar.air.amom-
+#
+<f86v5.P.12;H>     daiin.shar.otam.ytaiin.otal.teody.cthy.or.aiin.otar.aiiin-
+<f86v5.P.12;F>     daiin.shar.otam.ytaiin.otal.teody.cthy.or.aiin.otar.aii!n-
+#
+<f86v5.P.13;H>     qoar.aiiin.al.ody.ar.aiin.qokeeey.cheey.qotaiin.ykar.aithy-
+<f86v5.P.13;F>     qoar.aii!n.al.ody.ar.aiin.qokeeey.cheey.qotaiin.ykar.acthy-
+#
+<f86v5.P.14;H>     ykar.ar.alody.or.eees.aiin.okar.qokaiin.ykar.al.ol.chsky-
+<f86v5.P.14;F>     ykar.ar.alody.or.eees.aiin.okar.qokaiin.ykar.a!.ol.chsky-
+#
+<f86v5.P.15;H>     dchey!tai!n.qoko.daiin.ykal!kain.ykar.alkaiin.dal!kaly!tam-
+<f86v5.P.15;F>     dchey.taiin.qoka.daiin.ykal.kain.ykar.alkaiin.dal.kaly.tam-
+#
+<f86v5.P.16;H>     ockhedy.ched.ytaiin.ykaiin.qotal.yshey.otaiin.olkam=
+<f86v5.P.16;F>     ockhedy.chedy.taiin.ykaiin.qotal.yshey.otaiin.olkam=
+#
+<f86v5.P.17;H>     poldaiin.sheo.tesaiin.otcho.lkaiin.os.al.ody.qotar.ytedy.daiin-
+<f86v5.P.17;F>     poldaiin.shea.tesaiin.otcha.lkaiin.os.al.ody.qotar.ytedy.daiin-
+#
+<f86v5.P.18;H>     ycheeytydaiin.ykeeo.chey.shckhy.shoky.oty.oty.otain.olkchdy-
+<f86v5.P.18;F>     ycheey.tydaiin.ykeeo.chey.shckhy%%%%%%%%%%%%%%%%%%%%%%%%%%%-
+<f86v5.P.18;U>     ycheey,tydaiin.ykeeo,chey.shckhy.shoky.oty.oty.otain.olkady-
+#
+<f86v5.P.18a;H>    ychor.ar.aiin.ytaly.otaiin.ykaiin.otar.ytar.aiin.ytaii!m-
+<f86v5.P.18a;F>    !sh!r.!!!aiin.ytaly.otaiin.ykaiin.otal.ytar.aiin.ytaiinm-
+<f86v5.P.18a;U>    ychor.ar.aiin.ytaly.otaiin.ykaiin.otal.ytar.aiin.ytaii!m-
+#
+<f86v5.P.19;H>     oar.ar.aiin.okaiin.yteey.ytaiin.qokees.aiin.yteey.qotey.lkey-
+<f86v5.P.19;F>     oar.ar!aiin.okaiin.yteey.ytaiin.qokees.aiin.yteey.qotey.lkey-
+#
+<f86v5.P.20;H>     ykaiin.ykeey.ykal.chod.aiin.oeey.teod!kaiin.oto!daiin.okai!n-
+<f86v5.P.20;F>     ykaiin.ykeey.ykal.chod.aiin.oeey.teod.kaiin.oto.daiin.okaiin-
+#
+<f86v5.P.21;H>     ykaiin.or.aiin.okol.chokar.sheol.qokar.cheey.oraiiin.ody-
+<f86v5.P.21;F>     ykaiin.or.aiin.okol.chokar.sheol.qokar.cheey.oraii!n.ody-
+#
+<f86v5.P.22;H>     oar.aiin.ykai!n.okal.kcho!dy.chckhy.otaiin.olkar.otaiin-
+<f86v5.P.22;F>     oar.aiin.ykaiin.okal.kcho.dy.chckhy.otaiin.olkar.otaiin-
+#
+<f86v5.P.23;H>     sair.kain.ar.alosheey.qoeey.lkesy=
+<f86v5.P.23;F>     sair.kain.ar!alosheey.qoeey.lkshy=
+#
+<f86v5.P.24;H>     pochor.air.shoar.pshody.shody.qopchy.ocfhdy.dar.olpshy.dam.shey-
+<f86v5.P.24;F>     pochor.air.shoar.pshody.shody.qopchy.ocfhdy.dar.olpshy.dam.shey-
+#
+<f86v5.P.25;H>     pchor.ypchor.aiin.otar.shody.pchykar.ytar.odar.oeees.aral.om-
+<f86v5.P.25;F>     pchor.ypchor.aiin.otar.shody.pchykar.ytar.odar.oches.aral.om-
+#
+<f86v5.P.26;H>     odaiin.oal.kar.ar.or.ytdar.qokeeey.teody!tey!tar.an.ytarar-
+<f86v5.P.26;F>     odaiin.oal.kar.ar.or.ytdar.qokeeey.teody.tey.tar!a*.ytarar-
+#
+<f86v5.P.27;H>     ysheoar.qoteody.qokar.shody.qokal.tchey.ytchy.tal.tar-
+<f86v5.P.27;F>     ysheoar.qoteody.qokar.shody.qokal.tchey.ytchy.tal.tar-
+#
+<f86v5.P.28;H>     odaiin.otches.chey.chodaiin.shedy.otal.kchol.shy.olkeeeary-
+<f86v5.P.28;F>     odaiin.otches.chey.chodaiin.shedy.otal.kchol.shy.olkeeeary-
+#
+<f86v5.P.29;H>     tol.kaiin.ytchdy.chol.ytedy.ytai!n.qodaiin.ytody.ykeshy.ar-
+<f86v5.P.29;F>     tol.kaiin.ytchdy.chol.ytedy.ytaiin.qodaiin.ytody.ykeshy.ar-
+#
+<f86v5.P.30;H>     dshey.ytchy.dy.qotal.shdy.or.aiin.chody.chey.ol.teody.aiin-
+<f86v5.P.30;F>     dshey.ytchy.dy.qotal.shdy.or.aiin.chody.chey.ol.teody.aiin-
+#
+<f86v5.P.31;H>     qokeey.ol.kaiin.ol.kai!n.olkeedy.qopcheey.oty.daiin.otam-
+<f86v5.P.31;F>     qokeey.ol.kaiin.ol.kaiin.olkeedy.qopcheey.oty.daiin.otam-
+#
+<f86v5.P.32;H>     oteey.ol.tey.choaiin.ysheedy.ychedy.ytaiin.otam.aii!n-
+<f86v5.P.32;F>     oteey.ol.tey.choaiin.ysheedy.ychedy.ytaiin.otam.aiiin-
+#
+<f86v5.P.33;H>     ychey.or.aiin.ytair.ytaim.otal.shod.qokchy.qoody.saim-
+<f86v5.P.33;F>     ychey.or.aiin.ytair.ytaim.otal.shod.qokchy.qoody.saim-
+#
+<f86v5.P.34;H>     shody.qoty.chody.ytody.olkey.otol!oty.oltal.oky.dam-
+<f86v5.P.34;F>     shody.qoty.chody.ytody.olkey.otol.oty.oltal.oky.dam-
+#
+<f86v5.P.35;H>     dchol.chedy.qotai!n.otaiin.ol.cheody.olkeeody.oreeem-
+<f86v5.P.35;F>     dchol.chedy.qotaiin.otaiin.ol.cheody.olkeeody.oreeem-
+#
+<f86v5.P.36;H>     sol.odaiin.ykeeshy.ytchey.lchody.ykar.shey.ytaiin=
+<f86v5.P.36;F>     sol.odaiin.ykeeshy.ytchey.lchody.ykar.shey.ytaiin=
+#

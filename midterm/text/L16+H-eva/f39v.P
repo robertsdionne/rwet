@@ -1,0 +1,74 @@
+## <f39v.P> {}
+# text
+# Last edited on 1998-12-07 06:53:07 by stolfi
+#
+<f39v.P.1;H>       pdair.chdy.fdykain.or.air.sheykaiiin.ofchy.kar.or.aiin.dol.ky.oshdy-
+<f39v.P.1;C>       pdair.chdy.fdykain.or.air.sheykaiiin.ofchy.kar.or!aiin.dol!ky.oshdy-
+<f39v.P.1;F>       pdair.chdy.fdykain.or!air.sh!ykaiiin.ofchy.kar.or.aiin.dol.ky.ashdy-
+<f39v.P.1;U>       pdair.chdy.fdykain.or,air,sheykaiiin.ofchy.kar.or.aiin.dol!ky.oshdy-
+#
+<f39v.P.2;H>       sor.shy.kor.chol.qoty.kchdy.olky.dor.chdy.ykar.olkedaiin.ody.dy-
+<f39v.P.2;C>       sor.shy!kar.chol.qoty.kchdy.olky.dar.chdy.ykal.olkedaiin.ody.dy-
+<f39v.P.2;F>       sor.shy.kar.chol.qoty.kchdy.olky.dar.chdy.ykar.olkedaiin.ody!dy-
+<f39v.P.2;U>       sor.shy,kar.chol.qoty.kchdy.olky.dar.chdy.ykar.olkedaiin.ody,dy-
+#
+<f39v.P.3;H>       daiin.chor.okain.okaii!fchody.saiin.or.aiin.qokaiin.ytodaiin.o!kom-
+<f39v.P.3;C>       da!!m.chor.okain.okaii!fchody.saiin.or!aiin.qokaiin.ytodaiin.o!kam-
+<f39v.P.3;F>       daiin.chor.okain.okain.fchody.saiin.or!aiin.qokaiin.ytodaiin.o!kam-
+<f39v.P.3;U>       daiin.chor.okain.okaii!fchody.saiin.or,aiin.qokaiin.ytodaiin.o,kam-
+#
+<f39v.P.4;H>       y.okeey.chody.cheor.aiin.okody.chodal.ykedy.qokedy.dal.o!r.aiin.shky-
+<f39v.P.4;C>       y.okeey.chody.cheor.aiin.okody.chodal.ykedy.qokedy.dal.o!d!aiin.shky-
+<f39v.P.4;F>       y!okeey.chody.cheor.aiin.okody.chodal.ykedy.qokedy.dal.o!r!aiin.shky-
+<f39v.P.4;U>       y,okeey.chody.cheor.aiin.okody.chodal.ykedy.qokedy.dal,o,r,aiin.shky-
+#
+<f39v.P.5;H>       ytedy!kor.or.sheky.kain.otar.or.aiin.okaiin.ckhol.ol.kor.otor.opchy-
+<f39v.P.5;C>       ytedy.kor.or.sheky.kain.otar.or.aiin.okaiin.ckhol.ol!kor.otor.ofchy-
+<f39v.P.5;F>       ytedy.kor.or.sheky.kain.otar.or.aiin.okaiin.ckhol.ol.kor.otor.opchy-
+<f39v.P.5;U>       ytedy,kor.or.sheky,kain.otar.or.aiin.okaiin.ckhol.ol,kor.otor.opchy-
+#
+<f39v.P.6;H>       lkedy.okchey.shor!qoy.kam.cho.ckh!cfhhy.or.aly.shody=
+<f39v.P.6;C>       lkedy.okchey.shor.qoy!kam.cho!ckh!cfhey.or.aly.shody=
+<f39v.P.6;F>       lkedy.okchey.shor.qoy.kam.cho!ckh.cfhey.or.aly.shody=
+<f39v.P.6;U>       lkedy.okchey.shor.qoy!kam.cho,ckh,cfhey.or.aly.shody=
+#
+<f39v.P.7;H>       par!dy.shedy.qokar.sheedy.oraly-{plant}olaiir.okar.ar-
+<f39v.P.7;C>       par.dy.shedy.qokar.sheedy.oraly-{plant}olaiir.okar.ar-
+<f39v.P.7;F>       par!dy.shedy.qokar.sheedy.oraly-{plant}olainr.okar.ar-
+<f39v.P.7;U>       par!dy.shedy.qokar.sheedy.oraly-{plant}olainr.okar.ar-
+#
+<f39v.P.8;H>       oekar.aiin.olkaiin.olky.dar.ald-{plant}shek.chek.qokchy.dar.ain-
+<f39v.P.8;C>       oekar.aiin.olkaiin.olky.dar.ald-{plant}shek.chek.qokchy.dar.ain-
+<f39v.P.8;F>       oekar.aiin.olkaiin.olky.dar.ald-{plant}shek.chek.qokchy.dar.ain-
+<f39v.P.8;U>       oekar,aiin.olkaiin.olky.dar.ald-{plant}shek.chek.qokchy.dar,ain-
+#
+<f39v.P.9;H>       tar.aiin.dal.ar.ain.cheor.ydam-{plant}shody.okal.shd!y.kshy.or-
+<f39v.P.9;C>       tar.aiin.dal.ar.ain.cheor.ydam-{plant}shody.okal.shd!y.kshy.or-
+<f39v.P.9;F>       tar.aiin.dal.ar.ain.cheor.ydym-{plant}shody.okal.shd!y.kshy.or-
+<f39v.P.9;U>       tar.aiin.dal.ar.ain.cheor.ydam-{plant}shody.okal,shd,y,kshy.or-
+#
+<f39v.P.10;H>      dar.ar.y!kar.or.yky.chdy.fchor-{plant}qokain.ar.sheedy.olchef-
+<f39v.P.10;C>      dar.ar.y!kar.or.yky.chdy.fchor-{plant}qokain.ar.sheedy.olchef-
+<f39v.P.10;F>      dar.ar.y!kar.or.yky.chdy.fchor-{plant}qokain.or.sheedy.olchep-
+<f39v.P.10;U>      dar,ar.y,kar.or.yky.chdy.fchor-{plant}qokain.or.sheedy.olchef-
+#
+<f39v.P.11;H>      sarol.chedy.shekam.qokar.chl-{plant}ykeedy.chckhy.dalor.dy-
+<f39v.P.11;C>      saror.chedy.shekam.qokar.chl-{plant}ykeedy.chckhy.dalor.dy-
+<f39v.P.11;F>      sarol.chedy.shekam.qokar.chl-{plant}ykeedy.chckhy.dalor.dy-
+<f39v.P.11;U>      sarol.chedy.shekam.qokar.chl-{plant}ykeedy.chckhy.dalor.dy-
+#
+<f39v.P.12;H>      paiin.alaiin.otal.chd.okar.am-{plant}okar.cheodal.ockhy-
+<f39v.P.12;C>      paiin.alaiin.otal.chd.okar.am-{plant}okar.cheodal.ockhy-
+<f39v.P.12;F>      paiin.alaiin.otaf!chm.okar!am-{plant}okar.cheodal.ockhy-
+<f39v.P.12;U>      paiin.olaiin.otal,chd.okar!am-{plant}okar.cheodal.ockhy-
+#
+<f39v.P.13;H>      dain.ockhedy.otedy.okedy-{plant}lchdy.okaiin.daiiiny-
+<f39v.P.13;C>      dain.ockhedy.otedy.okedy-{plant}lchdy.okaiin.daiiiny-
+<f39v.P.13;F>      dain.ockhedy.otedy.okedy-{plant}lchdy.okaiin.daiiiny-
+<f39v.P.13;U>      dain.ockhedy.otedy.okedy-{plant}lchdy.okaiin.daiiiny-
+#
+<f39v.P.14;H>      tar.aiin.okaiin.cholody=
+<f39v.P.14;C>      tar.aiin.okaiin.cholody=
+<f39v.P.14;F>      tar!aiin.okaiin.cholody=
+<f39v.P.14;U>      tar,aiin.okaiin.cholody=
+#

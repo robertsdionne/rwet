@@ -1,0 +1,203 @@
+## <f84v.P> {}
+# main text
+# Last edited on 1998-12-24 23:59:18 by stolfi
+#
+# "V" transcription by John Grove, posted 09-may-1998.
+# Some of Grove's [kt] restored to [pf] based on other versions -JS.
+# The {.} marks Grove's "detachable initials".
+#
+<f84v.P.1;H>       kor.shedy.otedy.qotedy.otedar.cfhd!or!ol-{figure}
+<f84v.P.1;C>       kor.shedy.otedy.qotedy.otedar.cfhd!or!ol-{figure}
+<f84v.P.1;F>       kor.shedy.otedy.qotedy.otedar.cfhd!ar!ol-{figure}
+<f84v.P.1;V>       kor.shedy.otedy.qotedy.otedar.cfhd.ar.ol-{figure}
+#
+<f84v.P.2;H>       oteey.qokeey.okey.chetai!n.cseeky.daiin.al-{figure}
+<f84v.P.2;C>       oteey.qoteey.okey.chetai!n.sheeky.daiin.ol-{figure}
+<f84v.P.2;F>       oteey.qokeey.okey.chetaiin.she!ky.daiin.al-{figure}
+<f84v.P.2;V>       oteey.qokeey.okey.chetai!n.shecky.daiin.al-{figure}
+#
+<f84v.P.3;H>       qokeey.oteedy.shedy.qokeed.or.okeedy.ry-{figure}
+<f84v.P.3;C>       qokeey.oteedy.chedy.qokeed.or.okeedy.ry-{figure}
+<f84v.P.3;F>       qokeey.otchdy.shedy.qokeed!or.okeedy.ry-{figure}
+<f84v.P.3;V>       qokeey.oteedy.shedy.qokeed.or.okeedy.ry-{figure}
+#
+<f84v.P.4;H>       ykeedy.qoeedy.olkeey.sheky.qokeey-{figure}
+<f84v.P.4;C>       ykeedy.qoeedy.olkeey.cheky.qokeey-{figure}
+<f84v.P.4;F>       ykeedy.qoeedy.olkeey.sheky.qokeey-{figure}
+<f84v.P.4;V>       ykeedy.qoeedy.olkeey.sheky.qokeey-{figure}
+#
+<f84v.P.5;H>       p!!!oiin.ol.kedy.okedy.qoky.okeedy.qokey-{figure}
+<f84v.P.5;C>       p!!!oiin.ol.kedy.okedy.qoky.okeedy.qokey-{figure}
+<f84v.P.5;F>       p!!!oiin.ol.kedy.okedy.qoky.okchdy.qokey-{figure}
+<f84v.P.5;V>       p{.}oiin.ol.kedy.okedy.qoky.okchdy.qokey-{figure}
+#
+<f84v.P.6;H>       qokedy.okedy.qokeedy.okeedy.shedy.qoky-{figure}
+<f84v.P.6;C>       qokedy.okedy.qokeedy.okeedy.shedy.qoky-{figure}
+<f84v.P.6;F>       qokedy.okedy.qokeedy.okeedy.shedy.qoky-{figure}
+<f84v.P.6;V>       qokedy.okedy.qokeedy.okeedy.shedy.qoky-{figure}
+#
+<f84v.P.7;H>       cseol.qolchey.okeedy.saii!n.okeedy.chkeedy-{figure}
+<f84v.P.7;C>       sheol.qolchey.oteedy.seiiin.oka!dy.chke!dy-{figure}
+<f84v.P.7;F>       sheol.qolchey.okeedy.saii!n.oka!dy.chkchdy-{figure}
+<f84v.P.7;V>       sheol.qolchey.okeedy.saii!n.okeedy.chkeedy-{figure}
+#
+<f84v.P.8;H>       qoteed.otedy.sheedy.qokeedy.qoeedy.okeedy.dam-{figure}
+<f84v.P.8;C>       qoteed.otedy.sheedy.qokeedy.qoeedy.okeedy.dam-{figure}
+<f84v.P.8;F>       qoteed.otedy.sheedy.qokeedy.qoeedy.okeedy.dam-{figure}
+<f84v.P.8;V>       qoteed.otedy.sheedy.qokeedy.qoeedy.okeedy.dam-{figure}
+#
+<f84v.P.9;H>       csedy.qoeedy.ol.cheey.daiin.chckhedy.dai!n.dy.daiin-{figure}
+<f84v.P.9;C>       shedy.qoeedy.ol.cheey.daiin.chckhedy.dai!n.dy.daiin-{figure}
+<f84v.P.9;F>       shedy.qoeedy.ol.cheey.da!!m.chckhedy.daiin.dy.daiin-{figure}
+<f84v.P.9;V>       shedy.qoeedy.ol.cheey.daiin.chckhedy.dai!n.dy.daiin-{figure}
+#
+<f84v.P.10;H>      qokees.qokedy.otedy.shedy.qokedy.dol.olkeedy.dol.teedam-{figure}
+<f84v.P.10;C>      qokesh.qokedy.otedy.shedy.qokedy.dol.olkeedy.dol.teedam-{figure}
+<f84v.P.10;F>      qokeer.qokedy.otedy.shedy.qokedy.dol.olkeedy.dol.teedam-{figure}
+<f84v.P.10;V>      qokees.qokedy.otedy.shedy.qokedy.dol.olkeedy.dol.teedam-{figure}
+#
+<f84v.P.11;H>      shedol.chedy.okedy.otol.chckhedy.qotedy.dokedy.dol.lkeey.qokydy-{figure}
+<f84v.P.11;C>      shedol.chedy.okedy.otol.chckhedy.qotedy.dokedy.dol.lkeey.qokydy-{figure}
+<f84v.P.11;F>      shedol.chedy.okedy.otal.chckhody.qotedy.dokedy.dol.lkeey.qokydy-{figure}
+<f84v.P.11;V>      shedol.chedy.okedy.otal.chckhcdy.qotedy.dokedy.dol.lkeey.qokydy-{figure}
+#
+<f84v.P.12;H>      dshey.olkchy.dol.ol.otedy.okedy.okedy.qokedy.dol.dar.ol.chedy.sai!n-{figure}
+<f84v.P.12;C>      dshey.olkeey.dol.ol.otedy.okedy.okedy.qokedy.dol.dar.ol.chedy.sai!n-{figure}
+<f84v.P.12;F>      dshey.olkchy.dol.ol.otedy.okedy.okedy.qokedy.dal.dar.ol.chedy.saiin-{figure}
+<f84v.P.12;V>      dshey.olkchy.dal.ol.otedy.okedy.okedy.qokedy.dal.dar.ol.chedy.sai!n-{figure}
+#
+<f84v.P.13;H>      qokshedy.qokeed!y.daiin.checthy.okal.ol.kedy.chedy.dolkedy.okedam-{figure}
+<f84v.P.13;C>      qok!!edy.qokeed!y.daiin.checthy.okal.ol.kedy.chedy.dolkedy.okedam-{figure}
+<f84v.P.13;F>      qokshedy.qokeed!y.daiin.checthy.okal.ol.kedy.chedy.dolkedy.okedam-{figure}
+<f84v.P.13;V>      qokshedy.qokeed.y.daiin.checthy.okal.ol.kedy.chedy.dolkedy.okedam-{figure}
+#
+<f84v.P.14;H>      s!oiiin.ol.chedy.qol.kedy.shey.qokedy.qokey.d!ol.y.ol.shedy.qokedy-{figure}
+<f84v.P.14;C>      s!oiiin.ol.chedy.qol.tedy.shey.qokedy.qokey.d.!l!y.ol.shedy.qokedy-{figure}
+<f84v.P.14;F>      s!oii!n.ol.chedy.qol.kedy.shey.qokedy.qokey.d!ol!y.ol.shedy.qokedy-{figure}
+<f84v.P.14;V>      s.oiiin.ol.chedy.qol.kedy.shey.qokedy.qokey.d!ol.y.ol.shedy.qokedy-{figure}
+#
+<f84v.P.15;H>      qokeey.otol.chedy.daiin.dol.sheedy.chedy.okedy.rkchdy.kol.kaldy-{figure}
+<f84v.P.15;C>      qokeey.otol.chedy.dain%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-{figure}
+<f84v.P.15;F>      qokeey.otol.chedy.daiin.dol.sheedy.chedy.okedy.rkchdy.kol.kaldy-{figure}
+<f84v.P.15;V>      qokeey.otol.chedy.daiin.dol.sheedy.chedy.okedy.rkchdy.kol.kaldy-{figure}
+#
+<f84v.P.16;H>      dsheey.qokeedy.ykedy.qokor.shedy.qoky.dol.shckhy.qokain.ol.koldy-{figure}
+<f84v.P.16;C>      dsheey.qokeedy.ykedy.qokor.shedy.qoky.dol.shckhy.qokain.ol.koldy-{figure}
+<f84v.P.16;F>      dsheey.qokeedy.ykedy.qokor.shedy.qoky.dal.shckhy.qokain.ol!koldy-{figure}
+<f84v.P.16;V>      dsheey.qokeedy.ykedy.qokor.shedy.qoky.dol.shckhy.qokain.ol.koldy-{figure}
+#
+<f84v.P.17;H>      s!olkes.ol!okar.sheky.shkol.qokor.chdy.tal.shedy.okar.okedy.shedy.dy-{figure}
+<f84v.P.17;C>      s!olkes.ol!otar.sheky.shtol.qokar.chdy.tal!shedy.okar.okedy.shedy.dy-{figure}
+<f84v.P.17;F>      s!olkar.ol!okar.sheky.shkol.qokor.chdy.tal.shedy.okar.okedy.shedy.dy-{figure}
+<f84v.P.17;V>      s.olkes.ol.okar.sheky.shkol.qokor.chdy.tal.shedy.okar.okedy.shedy.dy-{figure}
+#
+<f84v.P.18;H>      tolshy.qoky.qokedy.shedy.qokeedy=
+<f84v.P.18;C>      tolshy.qoky.qokedy.shedy.qoteedy=
+<f84v.P.18;F>      talshy.qoky.qokedy.shedy.qokeedy=
+<f84v.P.18;V>      tolshy.qoky.qokedy.shedy.qokeedy=
+#
+<f84v.P.19;H>      p!!!chol.shedy.shtal.okedy.opchol!or.kchdy.ofched!y.s!aiin.cfheey.ols-{figure}{\}{okar-}!
+<f84v.P.19;C>      p!!!chol!shedy.shtol.okedy.opchol!or.kchdy.ofchen!y!s.aiin.cfheey.ols-{figure}!!!!!!!!!!!
+<f84v.P.19;F>      p!!!chol.shedy.shtal.okedy.opchol.or.kchdy.ofched!y.s!aiin.cfheey.ols-{figure}{\}{okar-}!
+<f84v.P.19;V>      p{.}chol.shedy.shtal.okedy.opchol.or.kchdy.ofched.y!s.aiin.cfheey.ols-{figure}{\}{okar-}!
+#
+<f84v.P.20;H>      oshey.tedy.okai!n.shey.qokedy.kchdy.okedy.okey.dy.okedy.olshdy-{figure}{\}{ydairol-}!
+<f84v.P.20;C>      oshey.tedy.okai!n.shey.qokedy.kchdy.okedy.okey.dy.okedy.olshdy-{figure}!!!!!!!!!!!!!!
+<f84v.P.20;F>      oshey.tedy.okaiin.shey.qokedy.kchdy.okedy.okey.dy.okedy.olshdy-{figure}{\}{ydairol-}!
+<f84v.P.20;V>      oshey.tedy.okai!n.shey.qokedy.kchdy.okedy.okey.dy.okedy.olshdy-{figure}{\}{ydairol-}!
+#
+<f84v.P.21;H>      qokeey.oltaiin.okol.shedy.cthy.kor!ol.oror-{figure}{\}{ychckhy-}!
+<f84v.P.21;C>      qokeey.olkaiin.okol.shedy.cthy!kor!ol.oror-{figure}!!!!!!!!!!!!!!
+<f84v.P.21;F>      qokeey.olkaiin.okol.shedy.cthy.kor!ol.orar-{figure}{\}{ychckhy-}!
+<f84v.P.21;V>      qokeey.olkaiin.okol.shedy.cthy.kor.ol.orar-{figure}{\}{ychckhy-}!
+#
+<f84v.P.22;H>      y!cheey.okeedy.olkai!n.ol!chey.saiin.oly-{figure}{\}{dshedy-}!
+<f84v.P.22;C>      y!cheey.okeedy.olkai!n.ol!chey.saiin.oly-{figure}!!!!!!!!!!!!!
+<f84v.P.22;F>      y!cheey.okeedy.olkaiin.ol!chey.saiin.oly-{figure}{\}{dshedy-}!
+<f84v.P.22;V>      y.cheey.okeedy.olkai!n.ol.chey.saiin.oly-{figure}{\}{dshedy-}!
+#
+<f84v.P.23;H>      qokaiin.okaiin.olol.okal.chedy.chedy-{figure}
+<f84v.P.23;C>      qokai!n.okai!n.olol.okal.chedy.chedy-{figure}
+<f84v.P.23;F>      qokaiin.okaiin.olol.okal.chedy.chedy-{figure}
+<f84v.P.23;V>      qokaiin.okaiin.olol.okal.chedy.chedy-{figure}
+#
+<f84v.P.24;H>      ol.qokar.shedy.qol.otedy.olchedy-{figure}
+<f84v.P.24;C>      ol.qokar.sh!dy.qol.otedy.olchedy-{figure}
+<f84v.P.24;F>      ol.qokar.shedy.qol.otedy.olchedy-{figure}
+<f84v.P.24;V>      ol.qokar.shedy.qol.otedy.olchedy-{figure}
+#
+<f84v.P.25;H>      y.or.shedy.qol!keedy.olchedy.olkal-{figure}
+<f84v.P.25;C>      y.or.shedy.qol!keedy.olchedy.olkal-{figure}
+<f84v.P.25;F>      *.or.shedy.qol.keedy.olchedy.olkal-{figure}
+<f84v.P.25;V>      y.or.shedy.qol!keedy.olchedy.olkal-{figure}
+#
+<f84v.P.26;H>      dal.shedy.qokedy.shedy.dai!n.daiin-{figure}
+<f84v.P.26;C>      dal.shedy.qokedy.shedy.dai!n.daiin-{figure}
+<f84v.P.26;F>      dal.shedy.qokedy.shedy.daiin.daiin-{figure}
+<f84v.P.26;V>      dal.shedy.qokedy.shedy.da!in.daiin-{figure}
+#
+<f84v.P.27;H>      soi!n.shedy.qokeey.daiin.okedy.oldy-{figure}
+<f84v.P.27;C>      sai!n.shedy.qokeey.daiin.okedy.oldy-{figure}
+<f84v.P.27;F>      soiin.shedy.qokeey.daiin.okedy.oldy-{figure}
+<f84v.P.27;V>      sai!n.shedy.qokeey.daiin.okedy.oldy-{figure}
+#
+<f84v.P.28;H>      qokey.ol.keed.qokedy.qokey.qokeol!y-{figure}
+<f84v.P.28;C>      qokey.ol.keed.qokedy.qokey.qokeol!y-{figure}
+<f84v.P.28;F>      qokey.ol.keed.qokedy.qokey.qokeo!ly-{figure}
+<f84v.P.28;V>      qokey.ol.keed.qokedy.qokey.qokeol.y-{figure}
+#
+<f84v.P.29;H>      cheel.daiin.otal.chdy.otal.chckhor.aly-{figure}
+<f84v.P.29;C>      cha!l.daiin.otal.chdy.otal.chckhor.aly-{figure}
+<f84v.P.29;F>      cha!l.daiin.otal.chdy.otal.chckhor.aly-{figure}
+<f84v.P.29;V>      cha!l.daiin.otal.chdy.otal.chckhor.aly-{figure}
+#
+<f84v.P.30;H>      qokedy.shey.kal.okedy.yfchedy.tedy.lolor-{figure}{okchdy-}!
+<f84v.P.30;C>      qokedy.shey.kal.okedy.yfchedy.tedy.lolor-{figure}!!!!!!!!!!
+<f84v.P.30;F>      qokedy.shey.kal.okedy.yfchedy.tedy.lolor-{figure}{okchdy-}!
+<f84v.P.30;V>      qokedy.shey.kal.okedy.yfchedy.tedy.lolor-{figure}{okchdy-}!
+#
+<f84v.P.31;H>      shedy.qokey.qokedy.chey.dar.okey.okeshy.olchy-{figure}{solchey-}!
+<f84v.P.31;C>      shedy.qokey.qokedy.chey.dar.okey.okeshy.olchy-{figure}!!!!!!!!!!!
+<f84v.P.31;F>      shedy.qokey.qokedy.chey.dar.okey.okeshy.olchy-{figure}{solchey-}!
+<f84v.P.31;V>      shedy.qokey.qokedy.chey.dar.okey.okeshy.olchy-{figure}{solchey-}!
+#
+<f84v.P.32;H>      qokai!n.ol.chedy.olchey.s.al.or.chdy.dchey.okey.l!chy-{figure}{dais!oldy-}!
+<f84v.P.32;C>      qokai!n.ol.chedy.alchey.s.al.or.chdy.dchey.okey.l!chy-{figure}!!!!!!!!!!!!!
+<f84v.P.32;F>      qokaiin.ol.chedy.olchey.s!al.or.chdy.dchey.okey!l!chy-{figure}{dair!oldy-}!
+<f84v.P.32;V>      qokai!n.ol.chedy.olchey.s.al.or.chdy.dchey.okey.l.chy-{figure}{dais.aldy-}!
+#
+<f84v.P.33;H>      shor.ol.okai!n.shedy.ol.shedy.tol!okeedy.chedy.okedy.lol-{figure}{darchy-}!
+<f84v.P.33;C>      shor.ol.okai!n.shedy.ol.shedy.tol!okeedy.chedy.okedy.lol-{figure}!!!!!!!!!!
+<f84v.P.33;F>      shor.ol.okaiin.shedy.ol.shedy.*ol!okeedy.chedy.okedy.lol-{figure}{dorchy-}!
+<f84v.P.33;V>      shor.ol.okai!n.shedy.ol.shedy.tol.okeedy.chedy.okedy.lol-{figure}{darchy-}!
+#
+<f84v.P.34;H>      qokey.sol.kedy.okey.lkai!n.shey.shes.ol.shedy.qokeey.ror-{figure}{ys!khy-}!
+<f84v.P.34;C>      qokey.sol.kedy.okey.lkai!n.shey.shes.ol.shedy.qokeey.ror-{figure}!!!!!!!!!!
+<f84v.P.34;F>      qokey.sol.kedy.okey.lkaiin.shey.shes.ol.shedy.qokeey.ror-{figure}{qc!khy-}!
+<f84v.P.34;V>      qokey.sol.kedy.okey.lkai!n.shey.shes.ol.shedy.qokeey.ror-{figure}{ys*khy-}!
+#
+<f84v.P.35;H>      chckhy.qokaiin.shey.dai!n.qokeey.daiin.okaiin.qokal.dy!s-{figure}{ochedy-}!
+<f84v.P.35;C>      chckhy.qokaiin.shey.dai!n.qokeey.daiin.okaiin.qokal.dyil-{figure}!!!!!!!!!!
+<f84v.P.35;F>      chckhy.qokaiin.shey.daiin.qokeey.daiin.okaiin.qokal.dy!s-{figure}{ochedy-}!
+<f84v.P.35;V>      chckhy.qokaiin.shey.dai!n.qokeey.daiin.okaiin.qokal.dy!s-{figure}{ochedy-}!
+#
+<f84v.P.36;H>      qokchey.qokeedy.okedy.dolor.ol.chedy.oteol.olol-
+<f84v.P.36;C>      qokchey.qokeedy.okedy.dolor.ol.chedy.oteol.olol-
+<f84v.P.36;F>      qokchey.qokeedy.okedy.dolor.ol.chedy.oteol.olol-
+<f84v.P.36;V>      qokchey.qokeedy.okedy.dolor.ol.chedy.oteol.olol-
+#
+<f84v.P.37;H>      lshedy.qol.aiin.okey.olchey.lchey.olshedy.shckhy.soly-{figure}
+<f84v.P.37;C>      lshedy.qol.aiin.okoy.olchey.lchey.olshedy.shckhy.soly-{figure}
+<f84v.P.37;F>      lshedy.qol.aiin.okey.olchey.lchey.olshedy.shckhy.soly-{figure}
+<f84v.P.37;V>      lshedy.qol.aiin.okey.olchey.lchey.olshedy.shckhy.soly-{figure}
+#
+<f84v.P.38;H>      yteedar.olkeey.olchey.qokey.lkeol!dy.daiin.olkedy.ykaiin-{figure}
+<f84v.P.38;C>      yteedar.olkeey.olchey.olkey.lkeol!dy.daiin.olkedy.ykaiin-{figure}
+<f84v.P.38;F>      yteedar.olkeey.olchey.qokey.lkeol!dy.daiin.olkedy.ykaiin-{figure}
+<f84v.P.38;V>      yteedar.olkeey.olchey.qokey.lkeol.dy.daiin.olkedy.ykaiin-{figure}
+#
+<f84v.P.39;H>      sor.otes.dol.kedy.otol.chedy=
+<f84v.P.39;C>      sor.okas.dol!tedy.otol.chedy=
+<f84v.P.39;F>      sor.otes.dol.kedy.otol.chedy=
+<f84v.P.39;V>      sor.otes.dol.kedy.otol.chedy=
+#

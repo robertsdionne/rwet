@@ -1,0 +1,56 @@
+## <f18v.P> {}
+# text
+# Last edited on 1998-12-12 13:08:21 by stolfi
+#
+# "U" transcription by J. Stolfi from Jacques Guy's scanned image.
+#
+<f18v.P.1;H>       told.shar.ytshy.otchdal.dchal.dchy.ytd!g-
+<f18v.P.1;C>       told.shor.ytshy.otchdal.dchal.dchy.ytchm-
+<f18v.P.1;F>       tofd.shar.ytshy.otchdal.dchal.dchy.ytd!m-
+<f18v.P.1;U>       told.shor.ytshy.otchdal.dchal.dchy.ytd!m-
+#
+<f18v.P.2;H>       qoeees.or.oaiin.shy!.okshy.qokchy.qokchy.s.g-
+<f18v.P.2;C>       qoeees.or.oaiin.shy*.okshy.qokchy.qokchy.s.g-
+<f18v.P.2;F>       qoeees.or!oaiin.shy!.okshy.qokchy.qokchy.s!m-
+<f18v.P.2;U>       qoeees.or.oaiin.shyr.okshy.qokchy.qokchy.s.g-
+#
+<f18v.P.3;H>       or.shy.qoky.qoky.chkchy.qokshy.qokam-
+<f18v.P.3;C>       or*shy.qoky.qoky.chkchy.qokshy.qokam-
+<f18v.P.3;F>       or.shy.qoky.qoky.chkchy.qokshy.qokam-
+<f18v.P.3;U>       or!shy.qoky.qoky.chkchy.qokshy.qokam-
+#
+<f18v.P.4;H>       qotchy.qokay.qokchy.ykcho.ydl.dar-
+<f18v.P.4;C>       qotchy.qokay.qokchy.ykcho.ydl.dan-
+<f18v.P.4;F>       qotchy.qokay.qokchy.ykcho.ydl.dar-
+<f18v.P.4;U>       qotchy.qokay.qokchy.ykcho.ydl.dan-
+#
+<f18v.P.5;H>       r.ychoees.ykchy.qol.kchy.qotchol.daiir.om-
+<f18v.P.5;C>       !!ychoees.ykchy.qol.kchy.qotchol.dai!r.om-
+<f18v.P.5;F>       !!ychoees.ykchy.qol.kchy.qotchol.daiir.om-
+<f18v.P.5;U>       !!ychoees.ykchy.qol.kchy.qotchol.daiir.om-
+#
+<f18v.P.6;H>       qotor.chor.otchy.qokeees.chy.s.ar.ykar-
+<f18v.P.6;C>       qotor.chor.otchy.qokeees.chy.s.ar.ykar-
+<f18v.P.6;F>       qotor.chor.otchy.qokeees.chy.s!ar.ykar-
+<f18v.P.6;U>       qotor.chor.otchy.qokeees.chy.s.ar.ykar-
+#
+<f18v.P.7;H>       ychol.dor.chod.qokol.daiin.qokol.dar.dy-
+<f18v.P.7;C>       ychol.dor.chod.qokol.daiin.qotol.dar.dy-
+<f18v.P.7;F>       ychol.dor.chod.qokol.daiin.qokol.dar.dy-
+<f18v.P.7;U>       ychol.dor.chod.qokol.daiin.qokol.dar.dy-
+#
+<f18v.P.8;H>       tolol.sh.cphoy.daror.ddy.ytor.ykam-
+<f18v.P.8;C>       tolol.sh.cphoy.daror.ddy.ytor.ykam-
+<f18v.P.8;F>       tolol.sh.cphoy.daror.ddy.ytor.ykam-
+<f18v.P.8;U>       tolol.sh.cphoy.daror.ddy.ytor.ykam-
+#
+<f18v.P.9;H>       okchor.qotchy.qokchy.ytol.doky.dy-
+<f18v.P.9;C>       okchor.qotchy.qokchy.ytol.doky.dy-
+<f18v.P.9;F>       okchor.qotchy.qokchy.ytol.doky.dy-
+<f18v.P.9;U>       okchor.qotchy.qokchy.ytol.doky.dy-
+#
+<f18v.P.10;H>      {plant}yka.dshy.dair.ykol.dom=
+<f18v.P.10;C>      {plant}yko.dysh.dair.ykol.dom=
+<f18v.P.10;F>      {plant}yka.dshy.dair.ykol.dom=
+<f18v.P.10;U>      {plant}yko.dshy.dair.ytol.dom=
+#

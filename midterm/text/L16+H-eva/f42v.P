@@ -1,0 +1,70 @@
+## <f42v.P> {}
+# text
+# Last edited on 1998-12-12 13:45:48 by stolfi
+#
+<f42v.P.1;H>       tcho.ct{&T}o.sheey.qocho.taiin.shols-{plant}chol.chor.dain-
+<f42v.P.1;C>       pcho.cth!!!o.sheey.qocho!taiin.shols-{plant}chol.chor.dain-
+<f42v.P.1;F>       pcho.cth!!!o.sheey.qocho.taiin.shols-{plant}chol.chor.dain-
+#
+<f42v.P.2;H>       dshe!y.tchey.y.kchey.chtchy.cphy.dan-{plant}dain.otol.daiin-
+<f42v.P.2;C>       dshchy.tchey.y!kchey.chtchy.cphy.dan-{plant}dain.otol.daiin-
+<f42v.P.2;F>       dshe!y.tchey.y.kchey.chtchy.cphy.dan-{plant}dain.otol.daiin-
+<f42v.P.2;G>       dshe!y.tchey.y!kchey.chtchy.cphy.dan-{plant}dain.otol.daiin-
+#
+<f42v.P.3;H>       sho.chotody.chotol.oky.chol.chol-{plant}dl.chcthy.otoy-
+<f42v.P.3;C>       sho.chotody.chotol.oky.chol.chol-{plant}dl.chcthy.otoy-
+<f42v.P.3;F>       sho.chotody.chotol.oky.chol.chol-{plant}dl!chcthy.otoy-
+#
+<f42v.P.4;H>       qotchy.chkchy.sar.dy-{plant}odaiil-{plant}ykchy.okol.dd-
+<f42v.P.4;C>       qotchy.chkchy.sar.dy-{plant}odaiil-{plant}ykchy.okol.dd-
+<f42v.P.4;F>       qotchy.chkchy.sar.dy-{plant}odaiil-{plant}ykchy.okol!dm-
+<f42v.P.4;G>       qotchy.chkchy.sar.dy-{plant}odainl-{plant}ykchy.okol!dm-
+#
+<f42v.P.5;H>       chokeeor.chey.chetan-{plant}s.ary-{plant}okol.chetaiin-
+<f42v.P.5;C>       chokeeor.chey.chetan-{plant}s!ary-{plant}okol.chetaiin-
+<f42v.P.5;F>       chokeeor.chey.chetan-{plant}s.ary-{plant}okol.chetaiin-
+<f42v.P.5;G>       chokeeor.chey.chetan-{plant}r!ary-{plant}okol.chetaiin-
+#
+<f42v.P.6;H>       okeokear.cheo!tchar-{plant}sy-{plant}saiin.cthar.dam-
+<f42v.P.6;C>       okeokear.cheo!tchar-{plant}sy-{plant}saiin.cthar.dam-
+<f42v.P.6;F>       okeokear.cheo.tchar-{plant}sy-{plant}saiin.cthar.dam-
+#
+<f42v.P.7;H>       chok.sheo!key.keeey.d-{plant}cheke!!!!!!!esshy-
+<f42v.P.7;C>       chok.sheo!key.keeey.d-{plant}cheke!!!!!!!esshy-
+<f42v.P.7;F>       chok.sheo.key.keeey!d-{plant}chckh!!!!!!!esshy-
+<f42v.P.7;G>       chok.sheo.tey.keeey!d-{plant}chckhoekeckhesshy-
+#
+<f42v.P.8;H>       sodal.saiin={plant}
+<f42v.P.8;C>       sodal.saiin={plant}
+<f42v.P.8;F>       sodal.saiin={plant}
+#
+<f42v.P.9;H>       posheor.sho.char.chekchey.qokod-{plant}sho.cpheo.r!chy-
+<f42v.P.9;C>       posheor.sho.char.chekchey.qokod-{plant}sho.cpheo!r.chy-
+<f42v.P.9;F>       posheor.sho.char.chekchey.qokod-{plant}sho.cpheo.r!chy-
+<f42v.P.9;G>       poshear.sho.char.chekchey.qokod-{plant}sho.cpheo.r!chy-
+#
+<f42v.P.10;H>      schor.okchey.chy.shol.olor.cheaiin-{plant}ctchy.tcheen.d-
+<f42v.P.10;C>      schor.okchey.chy.shol.olor.cheaiin-{plant}cthey.tcheee.d-
+<f42v.P.10;F>      schor.okchey.chy.shol.olor.cheaiin-{plant}cthey.tcheen.d-
+#
+<f42v.P.11;H>      qo.aiin.qokeey.kchol.cheal.oteol.d-{plant}shey.teaiin.d-
+<f42v.P.11;C>      qo!aiin.qokeey.kchol.cheal.oteol!d-{plant}shey.teaiin.d-
+<f42v.P.11;F>      qo!aiin.qokeey.kchol.cheal.oteol!d-{plant}shey.teaiin!d-
+#
+<f42v.P.12;H>      chotcheey.chol.ol.chaiin.oteeaiin-{plant}chkchy.taiin.y-
+<f42v.P.12;C>      chotcheey.chol.ol.chaiin.oteeaiin-{plant}chkchy.taiin.y-
+<f42v.P.12;F>      chotcheey.chol.ol.chaiin.oteeaiin-{plant}chkchy.taiin!y-
+<f42v.P.12;G>      chotcheey.chol.ol.chaiin.oteeaiin-{plant}chtchy.taiin!y-
+#
+<f42v.P.13;H>      sho.chey.teor.shey.checthhy.daiin-{plant}chokeey.daiin-
+<f42v.P.13;C>      sho.chey.teor.shey.checthey.daiin-{plant}chokeey.daiin-
+<f42v.P.13;F>      sho.chey.teor.shey.checthey.daiin-{plant}chokeey.daiin-
+#
+<f42v.P.14;H>      qoteey.chy.kchy.cthy.et!sees.choly-{plant}sarar.ar.al-
+<f42v.P.14;C>      qoteey.chy.kchy.cthy.et!shes.choly-{plant}sarar.ar.al-
+<f42v.P.14;F>      qoteey.chy.kchy.cthy.cthsees.choly-{plant}sarar.ar!al-
+#
+<f42v.P.15;H>      chokey.chol.okey=
+<f42v.P.15;C>      chokey.chol.okey=
+<f42v.P.15;F>      chokey.chol.okey=
+#

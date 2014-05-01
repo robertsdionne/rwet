@@ -1,0 +1,53 @@
+## <f87r.P> {}
+# text
+# Last edited on 1998-12-10 06:17:48 by stolfi
+#
+<f87r.P.1;H>       poal!shsal.shocphor.ypcho!cpheo!saiin.oteodal.saiin-{plant}
+<f87r.P.1;F>       poal.shsal.shocphor.ypcho.cpheo.saiin.oteodal.saiin-{plant}
+#
+<f87r.P.2;H>       dchee!ckhos.chety.cthodal.yteodam.cpheckhy.syty-
+<f87r.P.2;F>       dchee.ckhos.chety.cthodal.yteodam.cphecthy.syty-
+#
+<f87r.P.3;H>       tchos.oteedy.ykeey.ctheody.keos.shee.kchey.saiidy-{plant}
+<f87r.P.3;F>       tchos.oteedy.ykeey.ctheody.keos.shee.kchey.saindy-{plant}
+#
+<f87r.P.4;H>       soraiin.qockhos.cheodor.ckheokey.chcthody.s.odar-{plant}
+<f87r.P.4;F>       soraiin.qockhos.cheodor.ckheokey.chcthody.s.odas-{plant}
+#
+<f87r.P.5;H>       daiin.ctheey.ckheckhy.cthody.chor.sal.dar.chor-{plant}
+<f87r.P.5;F>       daiin.ctheey.ckheckhy.cthody.chor.sal.dar.chor-{plant}
+#
+<f87r.P.6;H>       tos.she.keodaiin.fcheos.sheo.so.shkeody.soraiin-{plant}
+<f87r.P.6;F>       tos.she.keodaiin.pcheos.sheo.so.shkeody.soraiin-{plant}
+#
+<f87r.P.7;H>       yteeodal.cho!keeody.shy.kol.sals.chekol-{plant}
+<f87r.P.7;F>       yteeodal.cho.keeady.shy.kol.sals.chekal-{plant}
+#
+<f87r.P.8;H>       sol.sheor.ysaiin.chor.cheory.kchody-{plant}
+<f87r.P.8;F>       sol.sheor.ysaiin.chor.cheory.kchody-{plant}
+#
+<f87r.P.9;H>       sor.sho!cthey.oteody.dchol.soraiin-{plant}
+<f87r.P.9;F>       sor.sho.cthey.oteody.dchol.saraiin-{plant}
+#
+<f87r.P.9a;H>      sho.cthos.cheodal.ctheody.qoty={plant}
+<f87r.P.9a;F>      sho.cthos.cheodal.ctheody.qoty={plant}
+#
+<f87r.P.10;H>      psheodshy.dal.shee.saldal.shol.aldy-{plant}
+<f87r.P.10;F>      psheodshy.dal.shee.saldal.shol.aldy-{plant}
+#
+<f87r.P.11;H>      ysheees.chetchy.teodar.otcheol.tockhy-{plant}
+<f87r.P.11;F>      ysheees.chetchy.teodar.otsheol.tockhy-{plant}
+#
+<f87r.P.12;H>      keor.ckheey.shody.qoeeeety.schody.daiin-{plant}
+<f87r.P.12;F>      keor.ckheey.shody.qoeee!ty.schody.daiin-{plant}
+#
+<f87r.P.13;H>      daiin.shol.cthey.okeol.cheor.okeeo.daiim-{plant}
+<f87r.P.13;F>      daiin.shol.cthey.okeol.cheor.okeeo.daiim-{plant}
+#
+<f87r.P.14;H>      shos.cheol.cheos.ckhey.saiin.qockheol.daiin-{plant}
+<f87r.P.14;F>      shos.cheol.cheos.ckhey.saiin.qockheol.daiin-{plant}
+#
+<f87r.P.15;H>      yteeos.cheol.dcheeol=
+<f87r.P.15;U>      yteeos.cheol.dchchol=
+#
+#

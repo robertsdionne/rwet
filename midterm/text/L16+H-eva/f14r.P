@@ -1,0 +1,56 @@
+## <f14r.P> {}
+# text
+# Last edited on 1998-12-06 20:13:02 by stolfi
+#
+<f14r.P.1;H>       pcho!daiin.chopol.shoiin.daiin.dain-{plant}
+<f14r.P.1;C>       pcho!daiin.chopol.shoiin.daiin.dain-{plant}
+<f14r.P.1;F>       pcho.daiin.chopol.shoiin.daiin.dain-{plant}
+#
+<f14r.P.2;H>       o.ykeey.soiiin.chok.qokchy.da.okol-{plant}
+<f14r.P.2;C>       o!ykeey.soiiin.chok.qokchy.da.okol-{plant}
+<f14r.P.2;F>       o!ykeey.soiiin.chok.qokchy.da.okol-{plant}
+#
+<f14r.P.3;H>       ydaiin.ol!chy.kchor.daiin.olol-{plant}
+<f14r.P.3;C>       ydaiin.ol.chy.kchor.daiin.olol-{plant}
+<f14r.P.3;F>       ydaiin.ol!chy.kchor.daiin.olol-{plant}
+#
+<f14r.P.4;H>       ochkchar.kol.shy.daiin.dorody-{plant}
+<f14r.P.4;C>       ochkchor.kol.shy.daiin.dorody-{plant}
+<f14r.P.4;F>       ochkchar.kol.shy.daiin.dorody-{plant}
+#
+<f14r.P.5;H>       qokchol.dar.dala.qotolo-{plant}
+<f14r.P.5;C>       qokchol.dar.dalo.qotolo-{plant}
+<f14r.P.5;F>       qokchol.dar.dala.qotolo-{plant}
+#
+<f14r.P.6;H>       ychol.oir.okor.choor.ockhy-{plant}
+<f14r.P.6;C>       ychol.oir.okor.choor.ockhy-{plant}
+<f14r.P.6;F>       ychol.oir.okor.choor.ockhy-{plant}
+#
+<f14r.P.7;H>       otcho.dain.chckhy=
+<f14r.P.7;C>       otcho.dain.chckhy=
+<f14r.P.7;F>       otcho.dain.chckhy=
+#
+<f14r.P.8;H>       soshy.fchol.shor.cheor.ykaiin.s-{plant}
+<f14r.P.8;C>       soshy.*chol.shor.cheor.ykaiin.s-{plant}
+<f14r.P.8;F>       soshy.*chol.shor.cheor.ykaiin.s-{plant}
+#
+<f14r.P.9;H>       sody.chody.otchody.qotchy.koiin.sy-{plant}sho!ty.dy-
+<f14r.P.9;C>       sody.chody.otchody.qotchy.koiin.sy-{plant}sho.ty.dy-
+<f14r.P.9;F>       sody.chody.otchody.qotchy.koiin.sy-{plant}sho!ty.dy-
+#
+<f14r.P.10;H>      qotchor.chod.shoty.chody.dol.dy.dy-{plant}okchy.d!y-
+<f14r.P.10;C>      qotchor.chod.shoty.chody.dol.dy.dy-{plant}okche!d!y-
+<f14r.P.10;F>      qotchor.chod.shoty.chody.dol.dy.dy-{plant}okchy!d!y-
+#
+<f14r.P.11;H>      dcho!kchy.schol.dy.shey.dar.qoty-{plant}ykeey.ky-
+<f14r.P.11;C>      dcho!kchy.schol.dy.shey.dar.qoty-{plant}ykeey!ky-
+<f14r.P.11;F>      dcho.kchy.schol.dy.shey.dar.qoty-{plant}ykeey!ky-
+#
+<f14r.P.12;H>      oeeen.chey.teor.chey.tchy.ky-{plant}chodalg-
+<f14r.P.12;C>      oeee*.chey.keor.chey.tchy!ky-{plant}chodalg-
+<f14r.P.12;F>      oeeen.chey.teor.chey.tchy.ky-{plant}chodalm-
+#
+<f14r.P.13;H>      sodaiin.chy.kchy.kchy.ykeody={plant}
+<f14r.P.13;C>      sodaiin.chy.kchy.kchy.ykeody={plant}
+<f14r.P.13;F>      sodaiin.chy.kchy.kchy.ykeody={plant}
+#

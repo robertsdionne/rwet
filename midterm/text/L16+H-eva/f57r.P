@@ -1,0 +1,48 @@
+## <f57r.P> {}
+# text
+# Last edited on 1998-12-08 02:14:23 by stolfi
+#
+<f57r.P.1;H>       poeeo.ckhey.odai!n.cheop.sheody.shocfhey.dy.sheep.cheody.yodam-
+<f57r.P.1;C>       poeeo!ckhey.odai!n.cheop.sheody.shocfhey.dy.sheep.sheody.!odam-
+<f57r.P.1;F>       poeeo.ckhey.odaiin.cheop.sheody.shocph!y.dy.sheep.che*dy.yodam-
+#
+<f57r.P.2;H>       daiir.air.chety.cheo.ckhy.chockhy.cheotey.shkchey.s.odaiin.shey-
+<f57r.P.2;C>       daiir.air.chety.cheo.ckhy.chockhy.cheotey.shkchey.s.odaiin.shey-
+<f57r.P.2;F>       dai!r.a!r.chety.cheo.ckhy.checkhy.cheotey.shkchey.s.odaiin.shey-
+#
+<f57r.P.3;H>       qykeeody.cheooky.qokeody.sheey.okeody.cheody.cheeody.chee!keody-
+<f57r.P.3;C>       qokeeody.cheo!ky.qokeody.sheey.okeody.cheody.cheeody.chee!keody-
+<f57r.P.3;F>       qokeeody.cheooky.qokeody.cheey.okeody.cheody.che*!dy.cheo.kchdy-
+#
+<f57r.P.4;H>       dchos.cheocthy.cheody.qotchody.octhody.okeeody.chteody.cheody.s-
+<f57r.P.4;C>       deeos.cheocthy.cheody.qoteeody.octhody.okeeody.chteody.cheody.s-
+<f57r.P.4;F>       dchos.cheocthy.cheody.qotchody.octhody.okeeody.chteody.cheody!s-
+#
+<f57r.P.5;H>       qokcho.daiin.cheeo!dam=
+<f57r.P.5;C>       qokeeo.daiin.cheeo!dam=
+<f57r.P.5;F>       qokcho.daiin.cheeo.dam=
+#
+<f57r.P.6;H>       tsheodal.okam.chckhey.okchdy.doctho.opchey.dy.kodai!n.oforam-
+<f57r.P.6;C>       tcheodal.okam.chckhey.okchdy.doctho.opchey.dy.kedaiin.oforam-
+<f57r.P.6;F>       tcheodar.okam.chckhey.okchdy.doctho.opchey.dy.kedaiin.oforam-
+#
+<f57r.P.7;H>       daiis.sheedy.qokeedy.chctey-{plant}otchod.shekey.tedy.okoldm-
+<f57r.P.7;C>       daiir.sheedy.qokeedy.chetey-{plant}oteeod.shekey.tedy.okaldg-
+<f57r.P.7;F>       daiin.sheedy.qokeedy.chetey-{plant}ote!od.shekey.tedy.okaldm-
+#
+<f57r.P.8;H>       tai!r.sheedy.lchedy.ckhchdy-{plant}okchy.chedy.dal.qokedam-
+<f57r.P.8;C>       tai!r.sheedy.ochedy.ckheedy-{plant}okchy.chedy.dal.qokedam-
+<f57r.P.8;F>       taiin.she!dy.*chedy.ok!e!dy-{plant}okchy.chedy.dal.qoked*m-
+#
+<f57r.P.9;H>       odair.sheeo.ckhy.sar.al.daii!dy-{plant}dcheckhey.daiin.chedy.cthedy-
+<f57r.P.9;C>       odair.sheeo.ckhy.sar.al.daii!jy-{plant}dcheckhey.daiin.chedy.cthedy-
+<f57r.P.9;F>       odair.sheeo!ckhy.sar.al.daiindy-{plant}dcheckhey.daiin.chedy.cthedy-
+#
+<f57r.P.10;H>      qoctchey.kedy.shedaiin-{plant}s.cheos.ykeos.qcth!hy.tcfhy-
+<f57r.P.10;C>      qoetchey.kedy.shedaiin-{plant}s!cheos.ykeos.acthe!y.tcfhy-
+<f57r.P.10;F>      qo!cthey.kedy.shedaiin-{plant}s!ch!os.ykeos.qcthchy.tcfhy-
+#
+<f57r.P.11;H>      dshedy.ctechy.cphedom={plant}
+<f57r.P.11;C>      d!aedy.ctheey.cphedam={plant}
+<f57r.P.11;F>      dshedy.!techy.cphedam={plant}
+#

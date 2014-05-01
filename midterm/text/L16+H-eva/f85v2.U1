@@ -1,0 +1,38 @@
+## <f85v2.U1> {}
+# Labels on Northwest rosette and its S,SE,E connections
+# Last edited on 1998-12-27 05:54:42 by stolfi
+#
+# NW rosette, inside text ring, inner shell 
+<f85v2.U1.1;V>     okchdarar=
+<f85v2.U1.1;U>     okchdarar=
+#
+# road between NW and N rosettes, bottom
+<f85v2.U1.21;V>    daldar=
+<f85v2.U1.21;U>    daldar=
+#
+# next to road between NW and N rosettes, East side
+<f85v2.U1.22;V>    saiindy=
+<f85v2.U1.22;U>    saiindy=
+#
+# road between NW and N rosettes, middle
+<f85v2.U1.23;V>    ddsschx=
+<f85v2.U1.23;U>    d*sschx=
+#
+# next to road between NW and N rosettes, West side 
+<f85v2.U1.24;V>    opardy=
+<f85v2.U1.24;U>    opardy=
+#
+# road between NW and N rosettes, top
+<f85v2.U1.25;V>    yt*dar=
+<f85v2.U1.25;U>    otedar=
+#
+# five tubes from NW rosette towards central rosette
+<f85v2.U1.31;V>    orarol=
+<f85v2.U1.31;U>    orarol=
+#
+# next to road between NW and N rosettes, South side
+<f85v2.U1.41;V>    daraldy=
+<f85v2.U1.41;U>    daraldy=
+#
+# next to road between NW and N rosettes, North side
+<f85v2.U1.42;U>    daldal=

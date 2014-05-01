@@ -1,0 +1,76 @@
+## <f40v.P> {}
+# text
+# Last edited on 1998-12-07 07:00:28 by stolfi
+#
+<f40v.P.1;H>       pchedain.chefaiin.oldy-{plant}
+<f40v.P.1;C>       pchedain.chefaiin.oldy-{plant}
+<f40v.P.1;F>       pchedain.chefaiin.oldy-{plant}
+#
+<f40v.P.2;H>       todar.qokaiin.ol.aram-{plant}
+<f40v.P.2;C>       todar.qokaiin.ol.aram-{plant}
+<f40v.P.2;F>       todar.qokaiin.ol.aram-{plant}
+#
+<f40v.P.3;H>       s.air.ain.okaiin.okam-{plant}
+<f40v.P.3;C>       s!air.ain.okaiin.okam-{plant}
+<f40v.P.3;F>       s!air!ain.okaiin.okam-{plant}
+#
+<f40v.P.4;H>       taraiin.okaiin.chckhy-{plant}
+<f40v.P.4;C>       taraiin.okaiin.chckhy-{plant}
+<f40v.P.4;F>       taraiin!okaiin.chcfhy-{plant}
+#
+<f40v.P.5;H>       solaiin.okar.oly.chckhy-{plant}
+<f40v.P.5;C>       solaiin.okar.oly.chckhy-{plant}
+<f40v.P.5;F>       solaiin.okar.oly.chckhy-{plant}
+#
+<f40v.P.6;H>       qoeed.aiin.ol.eeedy.daiin-{plant}
+<f40v.P.6;C>       qoeed!aiin.ol.chedy.daiin-{plant}
+<f40v.P.6;F>       qoeed!aiin.ol.chedy.daiin-{plant}
+#
+<f40v.P.7;H>       shody.qokol.chedy.s.ar-{plant}
+<f40v.P.7;C>       shody.qokol.chedy.s!al-{plant}
+<f40v.P.7;F>       shody.qokol.chedy.s!ar-{plant}
+#
+<f40v.P.8;H>       chodaiin.chkal.ykedy.okal-{plant}
+<f40v.P.8;C>       chodaiin.chkal.ykedy.okal-{plant}
+<f40v.P.8;F>       chodaiin.chkal!ykedy.okal-{plant}
+#
+<f40v.P.9;H>       tchy.pchody.pchdy.kor.ol-{plant}
+<f40v.P.9;C>       tchy.pchody.pchdy.kor.ol-{plant}
+<f40v.P.9;F>       tchy.pchody.pchdy.kor.ol-{plant}
+#
+<f40v.P.10;H>      tchkaiin.tchedy.qokaiin.oraiin-{plant}
+<f40v.P.10;C>      tchkaiin.tchedy.qokaiin.oraiin-{plant}
+<f40v.P.10;F>      tchkaiin.tchedy.qokaiin.oraiin-{plant}
+#
+<f40v.P.11;H>      schedy.qokol.chedy.dalor.aithy-{plant}
+<f40v.P.11;C>      rchedyoqokol.chedy.dalor.acthy-{plant}
+<f40v.P.11;F>      schedy.qokol.chedy.dalor.acthy-{plant}
+#
+<f40v.P.12;H>      ycheekeey.daiin.okaiin=
+<f40v.P.12;C>      ycheekeey.daiin.okaiin=
+<f40v.P.12;F>      ycheekeey.daiin.okaiin=
+#
+<f40v.P.13;H>      toees.chedy.kedy.olfchedy.qokedy-{plant}daiin.chefain-
+<f40v.P.13;C>      toees.chedy.kedy.olfchedy.qokedy-{plant}daiin.chefain-
+<f40v.P.13;F>      toees.chedy.kedy.olfchedy.qokedy-{plant}daiin.chefain-
+#
+<f40v.P.14;H>      saiin.o.lchey.kchedy.okar.qokchdy.dy-{plant}qokees.am.chdy-
+<f40v.P.14;C>      saiin.o!lchey.kchedy.okar.qokchdy.dy-{plant}qokees.am.chdy-
+<f40v.P.14;F>      saiin.o!lchey.kchedy.okar.qokchdy.dy-{plant}qokees.am.chdy-
+#
+<f40v.P.15;H>      qokchey.qody.or.aiiin.okaiin.o.ckhy-{plant}sheod.faim!y-
+<f40v.P.15;C>      qokchey.qody.or.aiiin.okaiin.o!ckhy-{plant}sheod.faim!y-
+<f40v.P.15;F>      qokchey.qody.or.aiiin.okaiin.o!ckhy-{plant}sheod.faiily-
+#
+<f40v.P.16;H>      shol.kedy.lor.ar.okar.qoky.kedy.r-{plant}yteey.qokaim-
+<f40v.P.16;C>      shol.kedy.lor.ar.okar.qoky!kedy.r-{plant}yteey.qoka!m-
+<f40v.P.16;F>      shol.kedy.lor.ar.okar.qoky.kedy.r-{plant}yteey.qokaim-
+#
+<f40v.P.17;H>      tochey.qokeedy.qokaiin.okeor.qokar-{plant}okees.ar.oky-
+<f40v.P.17;C>      tochey.qokeedy.qokaiin.okeor.qokar-{plant}okees.ar.oky-
+<f40v.P.17;F>      tochey.qokeedy.qokaiin.okeor.qokar-{plant}okees!ar.o*y-
+#
+<f40v.P.18;H>      saiin.otain.chckhy.okal.okair.arol-{plant}qokey.okary=
+<f40v.P.18;C>      saiin.otain.chckhy.okal.okair.arol-{plant}qokey.okary=
+<f40v.P.18;F>      saiin.otain.chckhy.okal.okair.arol-{plant}qokey.okary=
+#

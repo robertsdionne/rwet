@@ -1,0 +1,5 @@
+*.bin
+*.dat
+*.gz
+*.txt
+temp/

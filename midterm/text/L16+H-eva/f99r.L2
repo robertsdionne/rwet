@@ -1,0 +1,58 @@
+## <f99r.L2> {}
+# Labels - second row
+# Last edited on 1998-12-10 08:16:08 by stolfi
+#
+# There are 7 plants and 8 labels - not clear how to pair them up
+#
+# container - label on lid
+<f99r.L2.0;H>      op!ara!l=
+<f99r.L2.0;U>      ***arch*=
+#
+# root [2,1] - dark
+#
+<f99r.L2.1;H>      oaro=
+<f99r.L2.1;V>      oalo=
+<f99r.L2.1;U>      oaro=
+#
+# root [2,2] - light
+#
+<f99r.L2.2;H>      aloly=
+<f99r.L2.2;V>      aloly=
+<f99r.L2.2;U>      alolo=
+#
+# root [2,3] - dark
+#
+<f99r.L2.3;H>      ooror=
+<f99r.L2.3;V>      oarar=
+<f99r.L2.3;U>      aorar=
+#
+# root [2,4] - diagonal bands
+#
+<f99r.L2.4;H>      choky=
+<f99r.L2.4;V>      choky=
+<f99r.L2.4;U>      choky=
+#
+# root [2,5] - dark, spikes
+#
+<f99r.L2.5;H>      oky-{spikes}
+<f99r.L2.5;V>      oky-{spikes}
+<f99r.L2.5;U>      oky-{spikes}
+#
+# spikes of root [2,5]
+#
+<f99r.L2.5a;H>     okeoly=
+<f99r.L2.5a;V>     okeoly=
+<f99r.L2.5a;U>     okeoly=
+#
+# root [2,6] - light bulb with dark spot
+#
+<f99r.L2.6;H>      yteold=
+<f99r.L2.6;V>      ykeolm=
+<f99r.L2.6;U>      yteold=
+#
+# root [2,7] - light, large bulb
+#
+<f99r.L2.7;H>      cheotchy=
+<f99r.L2.7;V>      cheotchy=
+<f99r.L2.7;U>      cheotchy=
+#

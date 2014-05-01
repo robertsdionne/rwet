@@ -1,0 +1,81 @@
+## <f15r.P> {}
+# text
+# Last edited on 1998-12-19 18:55:16 by stolfi
+#
+#  "U" transcription by J. Stolfi from scanned image
+#
+<f15r.P.1;H>       tshor.shey.tchaly-{plant}shy.chtols.shey-{plant}daiin-
+<f15r.P.1;C>       tshor.shey.tchaly-{plant}shy.chtols.shey-{plant}daiin-
+<f15r.P.1;F>       tshor.shey.tchaly-{plant}shy.chtols.shey-{plant}daiin-
+<f15r.P.1;U>       tshor.shey.tchaly-{plant}shy.chtols,shey-{plant}daiin-
+#
+<f15r.P.2;H>       otchor.qokchor.oly-{plant}okor.shy.koly-{plant}
+<f15r.P.2;C>       otchor.qokchor.oly-{plant}okor.shy.koly-{plant}
+<f15r.P.2;F>       otchor.qokchor.oly-{plant}okor.shy.koly-{plant}
+<f15r.P.2;U>       otchor.qokchor.oly-{plant}okor.shy.koly-{plant}
+#
+<f15r.P.3;H>       qokaiin.qotchy.tydy-{plant}daiin.chol.cthy-{plant}
+<f15r.P.3;C>       qokaiin.qotchy!tydy-{plant}daiin.chol.cthy-{plant}
+<f15r.P.3;F>       qokaiin.qotchy.tydy-{plant}daiin.chol.cthy-{plant}
+<f15r.P.3;U>       qokaiin.qotchy.tydy-{plant}daiin.chol.cthy-{plant}
+#
+<f15r.P.4;H>       scheaiin.chodaiin.chl-{plant}sol.ckhaiin.sal-{plant}
+<f15r.P.4;C>       scheaiin.chodaiin.chl-{plant}sol.ckhaiin.sal-{plant}
+<f15r.P.4;F>       scheaiin.chodaiin.chl-{plant}sol.ckhaiin.sal-{plant}
+<f15r.P.4;U>       scheaiin.chodaiin.chl-{plant}sol.ckhaiin.sal-{plant}
+#
+<f15r.P.5;H>       qotchy.r.shor.cthy-{plant}daiin.cthy.dy-{plant}
+<f15r.P.5;C>       qotchy.r.shor.cthy-{plant}daiin.cthy.dy-{plant}
+<f15r.P.5;F>       qotchy.r!shor.cthy-{plant}daiin.cthy.dy-{plant}
+<f15r.P.5;U>       qotchy.r,shor.cthy-{plant}daiin.cthy,dy-{plant}
+#
+<f15r.P.6;H>       dchy.ko!kaiin.chdy-{plant}saiin.okear-{plant}
+<f15r.P.6;C>       ochy.ko!kaiin.chdy-{plant}saiin.okear-{plant}
+<f15r.P.6;F>       dchy.ko.kaiin.chdy-{plant}saiin.okear-{plant}
+<f15r.P.6;U>       dchy.ko.kaiin.chdy-{plant}saiin.okear-{plant}
+#
+<f15r.P.7;H>       daiin.shkaiin.cthy-{plant}sho.keocthy-{plant}
+<f15r.P.7;C>       daiin.shkaiin.cthy-{plant}sho.keocthy-{plant}
+<f15r.P.7;F>       daiin.shkaiin.cthy-{plant}sho!keocthy-{plant}
+<f15r.P.7;U>       daiin.shkaiin.cthy-{plant}sho,keocthy-{plant}
+#
+<f15r.P.8;H>       shocthy.tol.kaiin.s-{plant}dain.ctholy-{plant}
+<f15r.P.8;C>       chocthy.tol.kaiin.s-{plant}dain.ctholy-{plant}
+<f15r.P.8;F>       shocthy.tol.kaiin.s-{plant}dain.ctholy-{plant}
+<f15r.P.8;U>       shocthy.tol,kaiin,s-{plant}dain.ctholy-{plant}
+#
+<f15r.P.9;H>       octhain.qokaiin.chos-{plant}odaiin.cthl.s.y-{plant}
+<f15r.P.9;C>       octhain.qokaiin.chos-{plant}odaiin.cthl.s.y-{plant}
+<f15r.P.9;F>       octhain.qokaiin.chos-{plant}odaiin.cthl!s!y-{plant}
+<f15r.P.9;U>       octhain.qokaiin.chos-{plant}odaiin.cthl!s,y-{plant}
+#
+<f15r.P.10;H>      ychain.chckhhy.okshy-{plant}saiiin.dol!chds-{plant}
+<f15r.P.10;C>      ychain.ch**!!y.okesy-{plant}saiiin.dol.chds-{plant}
+<f15r.P.10;F>      ychain.chckhey.okshy-{plant}saiiin.dol.chds-{plant}
+<f15r.P.10;U>      ychain.chckhey.okshy-{plant}saiiin.dol.chds-{plant}
+#
+<f15r.P.11;H>      okaiin.otaiin.chl.s!y-{plant}chor.choross-{plant}
+<f15r.P.11;C>      %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-{plant}
+<f15r.P.11;F>      okaiin.otaiin.chl.s!y-{plant}chor.choross-{plant}
+<f15r.P.11;U>      okaiin.otaiin.chl.s,y-{plant}chor.choross-{plant}
+#
+<f15r.P.11a;H>     qotor.shor.tcheor.chy-{plant}cthaiin-{plant}shan-
+<f15r.P.11a;C>     qotor.shor.tcheor.chy-{plant}cthaiin-{plant}shan-
+<f15r.P.11a;F>     qotor.shor.tcheor.chy-{plant}cthaiin-{plant}shan-
+<f15r.P.11a;U>     qotor.shor.tcheor.chy-{plant}cthaiin-{plant}shan-
+#
+<f15r.P.12;H>      ykshol.dor.sheey.cthy.dain-{plant}sky-{plant}shor.shoty-
+<f15r.P.12;C>      ykshol.dor.sheey.!!*y.dain-{plant}sky-{plant}shor.shoty-
+<f15r.P.12;F>      ykshol.dor.sheey.cthy.dain-{plant}sky-{plant}shor.shoty-
+<f15r.P.12;U>      ykshol.dor.sheey.cthy.dain-{plant}sky-{plant}shor.shoty-
+#
+<f15r.P.13;H>      otcho.kchy.chol.daiin.cthar-{plant}ytol.dor.dom-
+<f15r.P.13;C>      otcho.kchy.chol.daiin.!!*ar-{plant}ytol.dor.dom-
+<f15r.P.13;F>      otcho.kchy.chol.daiin.cthar-{plant}ytol.dor.dom-
+<f15r.P.13;U>      otcho.kchy.chol.daiin.cthar-{plant}ytol.dor.dam-
+#
+<f15r.P.14;H>      qotchor.chaiin.chy.kol!daky={plant}
+<f15r.P.14;C>      qotchor.chaiin.chy.kol.daky={plant}
+<f15r.P.14;F>      qotchor.chaiin.chy.kol.daky={plant}
+<f15r.P.14;U>      qotchor.chaiin.chy.kol.daky={plant}
+#

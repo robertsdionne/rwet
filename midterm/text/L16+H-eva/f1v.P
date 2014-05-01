@@ -1,0 +1,46 @@
+## <f1v.P> {}
+# text
+# Last edited on 1998-12-11 12:26:13 by stolfi
+#
+<f1v.P.1;H>        kchsy.chadaiin.ol-{plant}oltchey.char.cfhar.am-
+<f1v.P.1;C>        kchsy.chadaiin.ol-{plant}oltchey.char.cfhar.aj-
+<f1v.P.1;F>        kchry.chodaiin.ol-{plant}oltchey.char.cfhar.am-
+#
+<f1v.P.2;H>        yteeay.char.or.ochy-{plant}dcho.lkody.okodar.chody-
+<f1v.P.2;C>        yteeay.char.or!ochy-{plant}dcho.lkody.okodar.chody-
+<f1v.P.2;F>        yteeay.char.or.ochy-{plant}dcho.lkody.okodar.chody-
+#
+<f1v.P.3;H>        d!o.ckhy.ckho.ckhy.shy-{plant}dksheey.cthy.kotchody.dal-
+<f1v.P.3;C>        dao.ckhy.ckho.ckhy.shy-{plant}dksheey.cthy.kotchody.dal-
+<f1v.P.3;F>        dao.ckhy.ckho.ckhy.shy-{plant}dksheey.cthy.kotchody.dal-
+#
+<f1v.P.4;H>        dol.chokeo.dair.dam-{plant}sochey.chokody=
+<f1v.P.4;C>        dol.chokeo.dair.dam-{plant}sochey.chokody=
+<f1v.P.4;F>        dol.chokeo.dair.dam-{plant}sochey.chokody=
+#
+<f1v.P.5;H>        potoy.shol.dair.cphoal-{plant}dar.chey.tody.otoaiin.shoshy-
+<f1v.P.5;C>        potoy.shol.dair.cphoal-{plant}dar.chey.tody.otoaiin.shoshy-
+<f1v.P.5;F>        potoy.shol.dair.cphoal-{plant}dar.chey.tody.otoaiin.shoshy-
+#
+<f1v.P.6;H>        choky.chol.cthol.shol.okal-{plant}dolchey.chodo.lol.chy.cthy-
+<f1v.P.6;C>        choky.chol.cthol!shol.okal-{plant}dolchey.chodo.lol.chy.cthy-
+<f1v.P.6;F>        choky.chol.cthol.shol.okal-{plant}dolchey.chodo.lol.chy.cthy-
+#
+<f1v.P.7;H>        qo.ol.choeee.cheol.dol.cthey-{plant}ykol.dol.dolo.ykol.do.l!ch!!ody-
+<f1v.P.7;C>        qo.ol!choies.cheol.dol.cthey-{plant}ykol.dol.dolo.ykol.do!l!chieody-
+<f1v.P.7;D>        qo.ol!choees.cheol.dol.cthey-{plant}ykol.dol.dolo.ykol.do!l!ch!*ody-
+<f1v.P.7;F>        qo.ol.choies.cheol.dol.cthey-{plant}ykol.dol.dolo.ykol.do!l.ch!!ody-
+#
+<f1v.P.8;H>        okol.shol.kol.kechy.chol.ky-{plant}chol.cthol.chody.chol.daiin-
+<f1v.P.8;C>        okol!shol.kol!kechy.chol!ky-{plant}chol.cthol.chody.chol.daiin-
+<f1v.P.8;D>        akol!shol.kol!kecha.chol!ky-{plant}chol.cthol.chody.chol.daiin-
+<f1v.P.8;F>        okol.shol.kol.kechy.chol.ky-{plant}chol.cthol.chody.chol.daiin-
+#
+<f1v.P.9;H>        shor.okol.chol.dol.ky.dar-{plant}shol.dchor.otcho.dar.shody-
+<f1v.P.9;C>        shor.okol.chol.dol.ky.dar-{plant}shol.dchor.otcho.dar.shody-
+<f1v.P.9;F>        shor.okol.chol.dol.ky.dar-{plant}shol.dchor.otcho.dar.shody-
+#
+<f1v.P.10;H>       taor.chotchey.dal.chody-{plant}schody.pol.chodar=
+<f1v.P.10;C>       taor.chotchey.dal.chody-{plant}schody.pol.chodar=
+<f1v.P.10;F>       taor.chotchey.dal.chody-{plant}schody.pol.chodar=
+#

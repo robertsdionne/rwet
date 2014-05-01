@@ -1,0 +1,46 @@
+## <f27v.P> {}
+# text
+# Last edited on 1998-12-19 18:56:30 by stolfi
+#
+# "U" transcription by J. Stolfi from Jacques Guy's scanned image.
+#
+<f27v.P.1;H>       fochof.chof.cho.sho.s!oly.shol.ytcho!r.ofchory.kchor!chor-
+<f27v.P.1;C>       !ochof.chof.cho.sho.sholy.shol.ytchail.opchory.kchor.chor-
+<f27v.P.1;F>       fochof.chof.cho!sho.s!oly.shol.ytcho!r.opchory.kchor.chor-
+<f27v.P.1;U>       fochof.chof.cho!sho.s!oly.shol.ytcha!r.opchory.kchor.chor-
+#
+<f27v.P.2;H>       dchy.chkar.otchy.shy.shy.dchy.dshy.kchy.cheo.da.dy.dchy-
+<f27v.P.2;C>       dchy.chkar.otchy.shy.shy.dchy.dshy.kchy.cheo.daijy.dchy-
+<f27v.P.2;F>       dchy.chkar.otchy.shy.shy.dchy.dshy.kchy.cheo.daidy.dchy-
+<f27v.P.2;U>       dchy.chkar.otchy.shy.shy.dchy.dshy.kchy.cheo.daidy.dchy-
+#
+<f27v.P.3;H>       kchey.kchy.dcho!kchy.dsho.dchir.cho!dchy.etcheody.shl!d-
+<f27v.P.3;C>       kchey.kchy.dcho!kchy.dsho.dchar.cho.dchy.etcheody.shl.d-
+<f27v.P.3;F>       kchey.kchy.dcho.kchy.dsho.dchir.cho!dchy.ctheeody.shl!d-
+<f27v.P.3;U>       kchey.kchy.dcho!kchy.dsho.dchir.cho!dchy.ctcheody.shl!d-
+#
+<f27v.P.4;H>       okcho.chy.kcheed.chl.chol.kod-{plant}o.oksho.do!eeees!m-
+<f27v.P.4;C>       okcho.chy.kcho!d.chl.chol.kod-{plant}o.oksho.do.chees.g-
+<f27v.P.4;F>       okcho.shy.kch*!d.chl.chol.kod-{plant}o.oksho.do!chees!m-
+<f27v.P.4;U>       otcho.chy.kcheed.chl.chol.kod-{plant}o.oksho.do!chees!m-
+#
+<f27v.P.5;H>       qoky.shkeeo.s!chod!ar.shkol-{plant}chotchy.ctho!dol-
+<f27v.P.5;C>       %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-
+<f27v.P.5;F>       qoky.shkeeo.r!chod.ar.shkof-{plant}chotchy.ctho.dol-
+<f27v.P.5;U>       qoky.shkeeo,s.chod!ar.shkol-{plant}choteey.ctho!dol-
+#
+<f27v.P.6;H>       dsho.kchrrr.okeedy-{plant}dchschy-{plant}s!otchdy-
+<f27v.P.6;C>       dsho.kchrrr.okeedy-{plant}dchrchy-{plant}shotchdy-
+<f27v.P.6;F>       dsho.kchrrr.okeedy-{plant}dchrchy-{plant}s!otchdy-
+<f27v.P.6;U>       dsho.kchrrs.okeedy-{plant}dchrchy-{plant}s!otchdy-
+#
+<f27v.P.7;H>       sho.sho.y!kcho.shdy-{plant}dchd-{plant}chschsa-{plant}otchdy-
+<f27v.P.7;C>       sho.sho!y!kcho.shdy-{plant}dchd-{plant}chschsy-{plant}otchdy-
+<f27v.P.7;F>       sho.sho!y.kcho.shdy-{plant}dchd-{plant}chrchra-{plant}otchdy-
+<f27v.P.7;U>       sho.sho!y!kcho.shdy-{plant}dchd-{plant}chrchry-{plant}otchdy-
+#
+<f27v.P.8;H>       okshes.okcho!kshy={plant}
+<f27v.P.8;C>       okshes.okcho.kshy={plant}
+<f27v.P.8;F>       okshes.okcho.kshy={plant}
+<f27v.P.8;U>       okshes.okcho,kshy={plant}
+#

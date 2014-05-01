@@ -1,0 +1,184 @@
+## <f116v>          {$I=S $Q=T $P=X}
+# Last edited on 1998-12-04 02:40:59 by stolfi
+#
+# Identification:
+#
+#   Title: "Last page" 
+#   Page: f116v = TX (Rene) = p234 (Stolfi)
+#   Folio: f116
+#   Panels: f116v
+#   Bifolio: bT1 = f103+f116
+#   Quire: T (Rene) = XVIII (Beinecke)
+#
+#   Shown in Plate 15 of Tiltman's article 
+#   [item 10 in Jim Reeds's bibliography].
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: S (Rene), xxx (Stolfi)
+#   Colors: ??? (Reeds)
+#
+# Description:
+#
+#   This page is blank except for four lines of text at the top
+#   (numbered "0" to "3") and some drawings at the top left corner. 
+#   
+#   The text is rougly justified against the left margin, and ragged
+#   on the right. Line 0 is flush against the top edge of the vellum,
+#   lines 1-3 lie about 1/2 inch below it, with normal interline
+#   spacing. Except for two Voynichese words at the beginning of line
+#   3, the text is written in a peculiar script ("Michitonese") that
+#   seems to be intermediate between ordinary (Latin) alphabet and the
+#   VMs script. The handwriting is irregular and not very readable.
+#   The letters in line 0 is somewhat smaller but apparently in the
+#   same handwriting as the rest.
+#
+#   The area next to the upper left corner is hevily stained and
+#   wrinkled. There is a large hole in the vellum, 2-3mm wide, near
+#   the upper left corner, about 2cm from the edges. Lines 1 and 2
+#   of the text start right next to the hole.
+#
+#   In the dark region between the hole and the left edge, roughly
+#   aligned with text line #2, there is the drawing of a four-legged
+#   animal, resembling a dog with round ears, short hais, and a fat
+#   but pointed tail. The animal is facing left, with the snout right 
+#   against the vellum's edge.
+#
+#   Below the animal is a female nymph (with breasts), naked except for some
+#   simple hat.  She is facing seems to be seated on a sloping surface,
+#   right at the edge of the dark area, with arms stretched sideways
+#   and down.
+#
+#   Above the anumal there is a drawing of an unidentified bulbous object.
+#
+#   There is a large question mark at the right margin, aligned with 
+#   line 3 but well beyound its end.  It shows up in Newbold's reproduction.
+#
+#   In one reproduction of this page there is a very faint line of modern-style
+#   digits below part of the first line. Each letter (but not the "+"
+#   signs) has a single digit below it; except that one can see also
+#   the numerals "10" and "13", each squeezed under a single letter.
+#   (Part of the line is unreadable, so "11" and "12" could be there
+#   too.) However these digits were probably scribbled on the copy,
+#   since they do not show up in Newbold's reproduction.
+#
+# Comments:
+#
+#   THE SCRIPT
+#
+#   Jacques Guy [] mentions the Michitonese script resembles that of a
+#   1460 German manuscript in Latin reproduced in [1, p.78]. In that
+#   sample, there are letters that look like Voynich 8, but they stand
+#   for "d" not "s". Final "s" is written like the modern "es-zet".
+#
+#   Jacques [29 Mar 1996] also suggest that "ct" coudl be a "t" as
+#   found in Benaventan and Visigothic manuscripts, and "9" could
+#   be "us".
+#
+#   Rene Zandbergen [27 Mar 1996] confirms similarity of Michitonese
+#   with another German manuscript from 1440, in German [2]. In that
+#   sample too `d' was written as `8', `so' was written "just like in
+#   the VMS(?)", and `Venus' was written `Ven9'. He adds later [28 Oct
+#   98] that the f116v text "looks more like a German hand than
+#   anything else. Not Kircher's, not Marci's but earlier."
+# 
+#   Some of the "Michitonese" letters seem purposefully distorted to
+#   resemble Voynichese letters.
+#
+#   Denis Mardle [19 Apr 97] notes that the Michitonese writing is
+#   "not unlike" the small extraneous writing on f17r.
+#
+#   Stolfi [01 Nov 98] notes that the Michitonese script resembles
+#   that of the "month names" in the center of the "zodiac" diagrams.
+#   For example, the last character of line 1 is similar to the first
+#   character of the Pisces label (f70v2). If the two sets are indeed
+#   by the same hand, then the month names give valuable clues on the
+#   Michitonese alphabet.
+#
+#   THE TEXT
+#
+#   Before seeing what the text actually looks like, Stolfi [5 Feb
+#   1998] conjectured that the text could be an anagram, given that it
+#   resembles a "Scrabble end-game". Unfortunately anagrams of that
+#   size are practically unsolvable without a clue.
+#
+#   Common opinion is that the f116v text is scribblings by a would-be
+#   decipherer. However this theory does not seem compatible with the
+#   "ordinary" appearance of the text, and does not explain the
+#   normal-looking Voynichese words ("oror sheey" in EVA) inserted in
+#   the text.
+#
+#   Rene [5 Feb 1998] conjectures that the "would-be decipherer" is
+#   the same person who wrote the character tables on f1r. Rene also
+#   remarks that one can exclude Dee, Kelley, Askham, Ricci, and
+#   Bacon, since the third line is very likely German.
+#
+#   Andras Kornai [25 Nov 1998] says that says that "-d" is the 2nd
+#   person posessive ending in Hungarian, but the text does not seem
+#   to be Hungarian.
+#
+#   Newbold [1921] reads the first line, rather arbitrarily, as "michiton
+#   oladabas multos te tccr cerc portas" (and ignores the other three).
+#   After many arbitrary manipulations he gets a "cipher key" out of it.
+#
+#   Brumbaugh reads the text as "(...)con olada ba", interprets
+#   "con...ba" as an anagram of "bacon", and turns "olada" into
+#   'rodgd' by adding 3 to each letter. Brumbaugh then says "rodgd"
+#   means "roger"; but he concludes that this evidence was planted by
+#   Dee/Kelly. (Reported by Rene [2 Feb 1998].)
+#
+#   Jim Reeds [15 Apr 94] quotes Erwin Panofsky [4] who reads the
+#   second line as "so nim geismi[l]ch o", meaning, "... take goats
+#   milk, or..."
+#
+#   Jacques Guy [] remarks that the the word that Newbold and others
+#   read "valst" or "valsch" is actually "valde" ("strongly, very") in
+#   the 1460 german manuscript [1, p.78].
+#
+#   Rene, tongue in cheek [15 Apr 1998], notes that the mapping
+#   {ol->d, m->p, ch->e, d->b, b->n} turns "michiton oladabas" into
+#   "pieiton d abanas", i.e. "Pietro d'Abano" modulo transcriber
+#   errors.
+#
+#   Rene [07 Feb 96], looking at D'Imperio's photocopy, thinks that
+#   there might be at least one (unreadable) letter before "michiton".
+#
+#   Rene [13 Mar 1996] noted that the text begins with "mich" and ends
+#   with "nich", suggesting it was written by "MICHael voyNICH".
+#
+#   Rene [5 Feb 1998] notes that some Voynichese words are similar to 
+#   "oladabas", e.g. the label on the NE corner of f67v2 ("otararain").
+#   Dennis [28 Oct 1998] suggests "otardar" from f67r1 (outer circle,
+#   at 11:00).  
+#
+#   Rene [28 Oct 1998] also suggests f76v.P.19 ("orar.sheey") as a
+#   possible source for line 3.  Stolfi observes that there is also
+#   an "aror.sheey" on f104r.P.28.
+#
+#   Stolfi [] remarks that "Olazabal" or "Olazábal" is a common mame 
+#   in Spanish-speaking areas, probably of Basque origin.
+#
+#   THE DRAWINGS
+#
+#   Rene [18 Sep 1997] thinks the animal looks like a horse. Stolfi []
+#   thought it could be a dog.
+#
+#   Rene also observes [] that the nymph on f116v looks very much like the
+#   "dead" nymph on page ???---which also has extraneous writing, possibly
+#   by the same hand.
+#
+# References:
+#
+# [1] Joyce Whalley "The Art of Calligraphy -- Western Europe and America"
+# Bloomsbury Books, London 1980
+#
+# [2] Manuscript Palat. Lat. 1369. Cited in [3].
+#
+# [3] Fritz Saxl, book about astronomical and astrological images in medieval 
+# manuscripts.
+#
+# [4] Erwin Panofsky, in a letter to W. F. Friedman, 19 March 1954,
+# now in Marshall Library.
+#

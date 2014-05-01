@@ -1,0 +1,52 @@
+## <f21r.P> {}
+# text
+# Last edited on 1998-12-06 21:14:04 by stolfi
+#
+<f21r.P.1;H>       pchor.oeeockhy.o!fychey.ypchey.qopcheody.otaiin.chan-
+<f21r.P.1;C>       pchor.oeeockhy.o.fychey.ypchey.qopcheody.otaiin.chan-
+<f21r.P.1;F>       pchor.oeeockhy.o!fychey.ypchey.qopcheody.otaiin.chan-
+#
+<f21r.P.2;H>       saiin.chcphy.oky.sheaiin.qotchol.oteos.sheey.cthy.daiin-
+<f21r.P.2;C>       saiin.chcphy.oky.sheaiin.qotchol.oteos.sheey.cthy.daiin-
+<f21r.P.2;F>       saiin.chcphy.oky.sheaiin.qotchol.oteos.sheey.cthy.daiin-
+#
+<f21r.P.3;H>       qotol.shy.ol.cheor.chy.qokchey.chey.keey.dy=
+<f21r.P.3;C>       qotyl.shy.ol.cheor.chy.qokchey.chey.keey.dy=
+<f21r.P.3;F>       qotol.shy.ol.cheor.chy.qokchey.chey.keey.dy=
+#
+<f21r.P.4;H>       pchofy!chy.daiin.cthain.otolosheey.qocthey.tol!chory-
+<f21r.P.4;C>       pchofy!chy.daiin.cthain.otolosheey.qocthey.tol.chory-
+<f21r.P.4;F>       pchofy.chy.daiin.cthain.otolosheey.qocthey.tol.chory-
+#
+<f21r.P.5;H>       ykeey.daiin.chosy.qokoiin.otol.chol.qot!cheol.okeoaiin-
+<f21r.P.5;C>       okeey.daiin.chosy.qokoiin.otol.chol.qot.cheol.okeoaiin-
+<f21r.P.5;F>       ykeey.daiin.chosy.qokoiin.otol.chol.qot!cheol.okeoaiin-
+#
+<f21r.P.6;H>       dchor.y.koly!ky.chol.kol.qokeol.chol!ol.qoteeol.dady-
+<f21r.P.6;C>       dchor.y.koly.ky.chol.tol.qokeol.chol.ol.qoteeol.dady-
+<f21r.P.6;F>       dchor.y.koly!ky.chol.kol.qokeal.chol!ol.qoteeol.dady-
+#
+<f21r.P.7;H>       shoeor.cheor.chokeody.cho.cthor.shy=
+<f21r.P.7;C>       shoeor.cheor.chokeody.cho!cthor.shy=
+<f21r.P.7;F>       shoeor.cheor.chokeody.cho.cthor.shy=
+#
+<f21r.P.8;H>       fcho!kshy.otor.cheol.ocphal.o!p!cheas.cthodaiin.oty-
+<f21r.P.8;C>       fcho!kshy.otor.sheol.ocphal.ocphsheas.cthodaiin.oty-
+<f21r.P.8;F>       fcho.kshy.otor.sheol.ocphal.o!p!sheas.cthodaiin.oty-
+#
+<f21r.P.9;H>       okaiin.sho.tshaiin.chkaiin.shcthey.cthody.cthy.s-
+<f21r.P.9;C>       okaiin.sho.tshaiin.chkaiin.shcthey.cthody.cthy.s-
+<f21r.P.9;F>       okaiin.sho.tshaiin.chkaiin.shcthey.cthody.cthy!s-
+#
+<f21r.P.10;H>      totchy.keor.chy.ky.qotaiin.qotchol.ty.ctheey.otaiin-
+<f21r.P.10;C>      totchy.keor.chy.ky.qotaiin.qotchol.ty.ctheey.otaiin-
+<f21r.P.10;F>      totchy.keor.chy!ky.qotaiin.qotchol.ty.ctheey.otaiin-
+#
+<f21r.P.11;H>      shol.chol.shol.tchol.chcthy.otyky.shey.yteol.shody-
+<f21r.P.11;C>      shol.chol.shol.tchol.chcthy.otyky.shey.yteol.shody-
+<f21r.P.11;F>      shol.chol.shol.tchol.chcthy.otyky.shey.yteol.shody-
+#
+<f21r.P.12;H>      ykeea.chor.sheey.ysheol.chor.chol.daiin.chkaiin=
+<f21r.P.12;C>      ykeey.chor.sheey.ysheol.chor.chol.daiin.chkaiin=
+<f21r.P.12;F>      ykeey.chor.sheey.ysheol.chor.chol.daiin.chkaiin=
+#

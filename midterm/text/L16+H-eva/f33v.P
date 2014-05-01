@@ -1,0 +1,61 @@
+## <f33v.P> {}
+# text
+#Last edited on 1998-12-07 06:06:28 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+<f33v.P.1;H>       tar.ar.daiin-{plant}ydain.cthey.dol!r-{plant}sheky.ar.aiin.cs-
+<f33v.P.1;C>       tar!ar.daiin-{plant}ydain.cthey.dol.s-{plant}sheky.ar!aiin.sh-
+<f33v.P.1;F>       tar.ar.daiin-{plant}ydain.cthey.dol!r-{plant}sheky.ar!aiin.es-
+<f33v.P.1;U>       tar,ar,daiin-{plant}ydain.cthey.dol!r-{plant}sheky.ar!aiin.cs-
+#
+<f33v.P.2;H>       kchdy.dam.dy-{plant}oky-{plant}otal.dain.chdy-{plant}ytam.otam.cham-
+<f33v.P.2;C>       kchdy.dam.dy-{plant}oky-{plant}otal.dain.chdy-{plant}ytam.otam.cham-
+<f33v.P.2;F>       kchdy.dam.dy-{plant}oky-{plant}otal.dain.chdy-{plant}ytam.otam.cham-
+<f33v.P.2;U>       kchdy.dam.dy-{plant}oky-{plant}otal.dain.chdy-{plant}ytam.otam.cham-
+#
+<f33v.P.3;H>       dar.chckhy.dy-{plant}dy!ky-{plant}ckhdy.oky.dam-{plant}okar!dy.kom!dy-
+<f33v.P.3;C>       dar.chckhy.dy-{plant}dy.ky-{plant}ckhdy.oky.dam-{plant}okar.dy.kam.dy-
+<f33v.P.3;F>       dar.chckhy.dy-{plant}dy!ky-{plant}ckhdy.oky.dam-{plant}okar!dy.kam!dy-
+<f33v.P.3;U>       dar.chckhy.dy-{plant}dy!ky-{plant}ckhdy.oky.dam-{plant}okar,dy.kam,dy-
+#
+<f33v.P.4;H>       tokar.shdy.dal-{plant}qokor.shd-{plant}otody.chedy-{plant}ykedy.dodl.da!in-
+<f33v.P.4;C>       tokar.shdy.dal-{plant}qokar.shd-{plant}otody.chedy-{plant}ykedy.dodl.da!in-
+<f33v.P.4;F>       tokar.shdy.dal-{plant}qokar.shd-{plant}otody.chedy-{plant}ykedy.dodl.daiin-
+<f33v.P.4;U>       tokar.shdy.dal-{plant}qokar.shd-{plant}otody.chedy-{plant}ykedy.dodl.da!in-
+#
+<f33v.P.5;H>       tchdy.chody.okaiin-{plant}chckhy.dor.arl-{plant}cthy.dy.ty.dy-{plant}ykar.cheky.dy-
+<f33v.P.5;C>       tchdy.chody.okaiin-{plant}chckhy.dor.arl-{plant}cthy.dy.ty.dy-{plant}ykar.cheky.dy-
+<f33v.P.5;F>       tchdy.chody.okaiin-{plant}chckhy.dor.arl-{plant}cthy.dy!ty.dy-{plant}ykar.cheky.dy-
+<f33v.P.5;U>       tchdy.chody.okaiin-{plant}chckhy.dor.arl-{plant}cthy.dy,ty,dy-{plant}ykar.cheky.dy-
+#
+<f33v.P.6;H>       ycheo.dor.olaiin.okar.chdy.chdy.oldy-{plant}okar.chdy={plant}
+<f33v.P.6;C>       ycheo.dar.olaiin.okar.chdy.chdy.oldy-{plant}okar.chdy={plant}
+<f33v.P.6;F>       ycheo.dar.olaiin.okar.chdy.chdy.oldy-{plant}okar.chdy={plant}
+<f33v.P.6;U>       ycheo.dar.olaiin.okar.chdy.chdy.oldy-{plant}okar.chdy={plant}
+#
+<f33v.P.7;H>       tshdy.shefchdy.shckhdy.oltedy.daiin.oky-{plant}cheol.orain-{plant}chdy!shdy.porar-
+<f33v.P.7;C>       tshdy.shefchdy.shckhdy.oltedy.daiin.oky-{plant}cheol.orain-{plant}chdy.shdy.porar-
+<f33v.P.7;F>       tshdy.shefchdy.shckhdy.oltedy.daiin.oky-{plant}cheol.orain-{plant}chdy!shdy.porar-
+<f33v.P.7;U>       tshdy.shcfchdy.shckhdy.oltedy.daiin.oky-{plant}cheol.orain-{plant}chdy!shdy.porar-
+#
+<f33v.P.8;H>       dar!ar.sheey.keedy.okchy.okar.okedy.chy-{plant}daiin.dy.dy-{plant}dar.aiin.okary-
+<f33v.P.8;C>       dar!ar.sheey.keedy.okchy.okar.okeoy.chy-{plant}daiin.ds.dy-{plant}dar.aiin.okary-
+<f33v.P.8;F>       dar!ar.sheey.keedy.okchy.okar.okedy.chy-{plant}daiin.dy!dy-{plant}dar.aiin.okary-
+<f33v.P.8;U>       dar,ar.sheey.keedy.okchy.okar.okedy.chy-{plant}daiin.dy,dy-{plant}dar,aiin.okary-
+#
+<f33v.P.9;H>       sar.or.aiin.chor.or.shkair.shol.or.chckhy-{plant}ar.aiin-{plant}okain.dal.dy-
+<f33v.P.9;C>       sar.or!aiin!chor.ar.shkair.shol.or.chckhy-{plant}ar.aiin-{plant}okain.dal.dy-
+<f33v.P.9;F>       sar.or!aiin.chor.or.shkair.shol.or.chckhy-{plant}ar!aiin-{plant}okain.dal.dy-
+<f33v.P.9;U>       sar.or!aiin.chor.or.shkair.shol.or.chckhy-{plant}ar!aiin-{plant}okain.dal.dy-
+#
+<f33v.P.10;H>      lchoar.or.chey.lodaiin.o!or.okeedy.okaly-{plant}
+<f33v.P.10;C>      lchoar.or.chey.lodaiin.o!or.okeedy.okaly-{plant}
+<f33v.P.10;F>      lchoar.or!chey.lodaiin.o!or.okeedy.okaly-{plant}
+<f33v.P.10;U>      lchoar.or,chey.lodaiin.o,or.okeedy.okaly-{plant}
+#
+<f33v.P.11;H>      tar.al.keey.oram=
+<f33v.P.11;C>      tar.al.keey.oram=
+<f33v.P.11;F>      tar!al.keey!oram=
+<f33v.P.11;U>      tar,al.keey.oram=
+#

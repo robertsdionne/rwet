@@ -1,0 +1,202 @@
+## <f93r.P> {}
+# text
+# Last edited on 1998-12-19 22:50:09 by stolfi
+#
+# "U" transcription by J. Stolfi from Jacques Guy's scanned image.
+# "V" transcription by John Grove, posted 04-may-1998.
+# Some of Grove's [kt] restored to [pf] based on other versions -JS.
+# 
+# Lines 25a, 26, 27 renumbered 26, 27, 28 by J. Stolfi 05 may 1998.
+# 
+<f93r.P.1;H>       kodshol.oto!l!sheeos.octhodaly.opalefom.oepch!ksheey.qotodai!n.s.oar-
+<f93r.P.1;C>       kodshol.oto!l!sheeos.octhodaly.opalepam.oepch.ksheey.qotodai!n.s.oar-
+<f93r.P.1;F>       kodshol.oto!l.sheeos.octhodaly.opalefam.oepch.ksheey.qotodaiin.s.oar-
+<f93r.P.1;U>       kodshol.oto!l.sheeos.octhodaly.opalcfom.ocpho!ksheey.qotodai!n.s.oar-
+<f93r.P.1;V>       kodshol.oto.l.sheeos.octhodaly.opalefam.oepch!ksheey.qotodai!n.s.oar-
+#
+<f93r.P.2;H>       ycham.s.chol.chotom.cthodar.sheo!.s.oteo!dal.s-{plant}ofcho!shy.cthoshol-
+<f93r.P.2;C>       ycham.s.chol.chotoj.cthodar.sheo*.s.oteo!dal.r-{plant}opcho!shy.ckhashol-
+<f93r.P.2;F>       ycham.r.chol.chotom.cthodar.sh!o!.s.oteo!dal!s-{plant}ofcho.shy.cthoshol-
+<f93r.P.2;U>       ycham.s.chol.chotom.cthodar.sheo!.s.otea!dal.s-{plant}ofcho!shy.cthoshol-
+<f93r.P.2;V>       ycham.r.chol.chotom.cthodar.sheo!.s.oteo.dal.s-{plant}ofcho!shy.cthoshol-
+#
+<f93r.P.3;H>       dsho.dal.dalody.ytchchy.dam.chody.dal.ol-{plant}s!chodchy.qotchd-
+<f93r.P.3;C>       dsho.dal.dalody.ytchchy.dam.chody.dal.ol-{plant}s!chodchy.qoteed-
+<f93r.P.3;F>       dsho.dal.dalody.ytchchy.dam.chody.dal!ol-{plant}s!chodchy.qotchd-
+<f93r.P.3;U>       dsho.dal.dalody.ytchchy.dam.chody.dal!ol-{plant}s.chodchy.qotchd-
+<f93r.P.3;V>       dsho.dal.dalody.ytchchy.dam.chody.dal!ol-{plant}s.chodchy.qotchd-
+#
+<f93r.P.4;H>       sol.shotol.qokchodal.shody.chotol!s-{plant}otol.ykchdg-
+<f93r.P.4;C>       sol.shotol.qokchddal.shody.chotol.s%%%%%%%%%%%%%%%%%%%-
+<f93r.P.4;F>       sol.shotol.q!kchodal.shody.chotol!s-{plant}otol.ykchdm-
+<f93r.P.4;U>       sol.shotol.qokchodal.shody.chotol.s-{plant}otol.ykchdm-
+<f93r.P.4;V>       sol.shotol.qakchodal.shody.chotol!s-{plant}otol.ykchdm-
+#
+<f93r.P.5;H>       ol.chody.cfhol.dol.qokol.otodar-{plant}chodain-
+<f93r.P.5;C>       ol.chody.ckhol.dod.qokol.otodar-{plant}chodain-
+<f93r.P.5;F>       ol.chody.cfhol.dol.qokol.otodar-{plant}chodain-
+<f93r.P.5;U>       ol.chody.ckhol.dol.qokol.otodar-{plant}chodain-
+<f93r.P.5;V>       ol.chody.ckhol.dol.qokol.otodar-{plant}chodain-
+#
+<f93r.P.6;H>       tor.otor.s.cho.s.chol.sheoees-{plant}
+<f93r.P.6;C>       tar.otor.s.cho.s.chol.sheoeer-{plant}
+<f93r.P.6;F>       tor.otor.s!cho.s.chol.sheoa!s-{plant}
+<f93r.P.6;U>       tar.otar.s.sho.s.chol.sheoees-{plant}
+<f93r.P.6;V>       tor.otor.s.cho.s.chol.sheoees-{plant}
+#
+<f93r.P.7;H>       shor.sh!ol.ody.cheodaiin.s-{plant}
+<f93r.P.7;C>       shor.sh!ol.ody.cheodoi!n.s-{plant}
+<f93r.P.7;F>       shor.sh.ol.ody.cheodaiin.s-{plant}
+<f93r.P.7;U>       shor.sh!ol.ody.cheodaiin.s-{plant}
+<f93r.P.7;V>       shor.sh!ol.ody.cheodaiin.s-{plant}
+#
+<f93r.P.8;H>       lor.sheeody.chodaiin.s!odar-{plant}
+<f93r.P.8;C>       lo*!sheeody.chodaiin.!!odar-{plant}
+<f93r.P.8;F>       lor!sheeody.chodaiin.s!odar-{plant}
+<f93r.P.8;U>       lor.sheeody.chodaiin.s.odar-{plant}
+<f93r.P.8;V>       lor.sheeody.chodaiin.s.odar-{plant}
+#
+<f93r.P.9;H>       shodam.okcheody.ctho!.ckhol-{plant}
+<f93r.P.9;C>       shodaj.okcheody.ctho!!cthol-{plant}
+<f93r.P.9;F>       shodam.okcheody.ctho!.ckhol-{plant}
+<f93r.P.9;U>       shodam.okcheody.cth**.ckhol-{plant}
+<f93r.P.9;V>       shodam.okcheody.ctho!!ckhol-{plant}
+#
+<f93r.P.10;H>      ychor.chey.keol.cheol.ckhody-{plant}
+<f93r.P.10;C>      yeeos.chey.keol.eteol.cthody-{plant}
+<f93r.P.10;F>      ychor.chey.keol.cheol.ckhody-{plant}
+<f93r.P.10;U>      ychos.chey.keol.ch***.ckhody-{plant}
+<f93r.P.10;V>      ychor.chey.keol.cheol.ckhody-{plant}
+#
+<f93r.P.11;H>      okeol.oteol.s!odal.sheo.al.s!al-
+<f93r.P.11;C>      okeol.oteol.s!odam.sheo!al.s!al-
+<f93r.P.11;F>      okeol.oteol.s!odal.sheo!al.s!al-
+<f93r.P.11;U>      ckhol.oteol.s.odal.chee!ol.s.al-
+<f93r.P.11;V>      okeol.oteol.s.odal.sheb.al.s.al-
+#
+<f93r.P.12;H>      qokor.shey.okcheor.sheedom-{plant}
+<f93r.P.12;C>      qokor.shey.okcheor.sheodom-{plant}
+<f93r.P.12;F>      qokor.shey.okcheor.she.dam-{plant}
+<f93r.P.12;U>      qokor.shey.oksheor.ch**dom-{plant}
+<f93r.P.12;V>      qokor.shey.okcheor.sheodam-{plant}
+#
+<f93r.P.13;H>      shodaiin.qotchy.kchol.s-{plant}
+<f93r.P.13;C>      shodaiin.qotchy.kchol!r-{plant}
+<f93r.P.13;F>      shodaiin.qotchy.kchol.s-{plant}
+<f93r.P.13;U>      shodaiin.qotchy.kchol.s-{plant}
+<f93r.P.13;V>      shodaiin.qotchy.kchol.s-{plant}
+#
+<f93r.P.14;H>      ychey.ckhos.okcheod.chs-{plant}
+<f93r.P.14;C>      ychey.ckhor.otcheod.chr-{plant}
+<f93r.P.14;F>      ychey.ckhos.okcheod.chs-{plant}
+<f93r.P.14;U>      ychey.ckhos.otch*or.ch*-{plant}
+<f93r.P.14;V>      ychey.ckhos.okcheod.chs-{plant}
+#
+<f93r.P.15;H>      ochol.sho!dal.dol.cheo!dam-{plant}
+<f93r.P.15;C>      *chol.sho!dal.dol.cheo!dam-{plant}
+<f93r.P.15;F>      !chol.sho.dal.dal.cheo.dam-{plant}
+<f93r.P.15;U>      ochol.sho!dal.dol.cheo!dam-{plant}
+<f93r.P.15;V>      ochol.sho!dal.dal.cheo!dam-{plant}
+#
+<f93r.P.16;H>      choshy.qokor.chckhs-{plant}
+<f93r.P.16;C>      choshy.qokar.chckhr-{plant}
+<f93r.P.16;F>      choshy.qokor.chckhs-{plant}
+<f93r.P.16;U>      choshy.qokor.chckhs-{plant}
+<f93r.P.16;V>      choshy.qokor.chckhs-{plant}
+#
+<f93r.P.17;H>      tcheo.l.cho.l!ch.!cthody-
+<f93r.P.17;C>      tcheo.l.cho!l!ch!ecthody-
+<f93r.P.17;F>      tcheo.l!cho.*!ch.!cthody-
+<f93r.P.17;U>      tcheo!l.cho!l.ch!ecthody-
+<f93r.P.17;V>      tcheo.l.cho.l!ch!eithody-
+#
+<f93r.P.18;H>      olkees.shodaiin.shody-
+<f93r.P.18;C>      olkeer.shodaiin.shody-
+<f93r.P.18;F>      olkees.shodaiin.shody-
+<f93r.P.18;U>      olkees.shodaiin.shody-
+<f93r.P.18;V>      olkees.shodaiin.shody-
+#
+<f93r.P.19;H>      tchor.shol.s.sheoky-{plant}
+<f93r.P.19;C>      tchor.shol.s.sheoky-{plant}
+<f93r.P.19;F>      tchor.shol.s.sh!oky-{plant}
+<f93r.P.19;U>      tchor.shol.s.sheoky-{plant}
+<f93r.P.19;V>      tchor.shol.s.sheoky-{plant}
+#
+<f93r.P.20;H>      y!chockhy.cthol.os!os-{plant}
+<f93r.P.20;C>      y!chockhy.cthol.os!os-{plant}
+<f93r.P.20;F>      y!chockhy.cthol.oe!os-{plant}
+<f93r.P.20;U>      y!chockhy.cthol.os.os-{plant}
+<f93r.P.20;V>      y.chockhy.cthol.os!os-{plant}
+#
+<f93r.P.21;H>      dol.shol.daiin.shcthy-{plant}
+<f93r.P.21;C>      dol.shol.daiin.shcthy-{plant}
+<f93r.P.21;F>      dol.shol.daiin.shcthy-{plant}
+<f93r.P.21;U>      dol.shol.daiin.shcthy-{plant}
+<f93r.P.21;V>      dol.shol.daiin.shcthy-{plant}
+#
+<f93r.P.22;H>      kchor.cthy.chokal.daiin-{plant}
+<f93r.P.22;C>      kchor.cthy.chakal.daiin-{plant}
+<f93r.P.22;F>      kchor.cthy.chokal.daiin-{plant}
+<f93r.P.22;U>      kchor.cthy.chokal.daiin-{plant}
+<f93r.P.22;V>      kchor.cthy.chokal.daiin-{plant}
+#
+<f93r.P.23;H>      o!ain.okor.shody.teol!s-{plant}
+<f93r.P.23;C>      o!ain.okor.shody.teol!s-{plant}
+<f93r.P.23;F>      o!ain.okar.shody.teol!s-{plant}
+<f93r.P.23;U>      o!ain.okor.shody.teol.s-{plant}
+<f93r.P.23;V>      o.ain.okar.shody.teol!s-{plant}
+#
+<f93r.P.24;H>      y!chocthy.chotey.teey!s-{plant}
+<f93r.P.24;C>      y!chocthy.chotey.teey!r-{plant}
+<f93r.P.24;F>      y!chocthy.chotey.teey!s-{plant}
+<f93r.P.24;U>      y!chocthy.chotey.teey.s-{plant}
+<f93r.P.24;V>      y.chocthy.chotey.teey!s-{plant}
+#
+<f93r.P.25;H>      ys!aiin.chotar.shody-{plant}
+<f93r.P.25;C>      yo!aiin.chotar.ch**!-{plant}
+<f93r.P.25;F>      ys!aiin.chotar.shody-{plant}
+<f93r.P.25;U>      yr!aiin.chotar.shody-{plant}
+<f93r.P.25;V>      ys.aiin.chotar.shody-{plant}
+#
+<f93r.P.26;H>      ocheodaiin.tchos.sor-{plant}
+<f93r.P.26;C>      %%%%%%%%%%%%%%%%%%%%-{plant}
+<f93r.P.26;F>      ocheodaiin.tchor.sor-{plant}
+<f93r.P.26;U>      ocheodaiin.tshos.sor-{plant}
+<f93r.P.26;V>      ocheodaiin.tchor.sor-{plant}
+#
+<f93r.P.27;H>      qokor.cheo.los.ckheo!dy-{plant}
+<f93r.P.27;C>      qokor.cheo.los.ckh!o!dy-{plant}
+<f93r.P.27;F>      qokor.cheo.los.ckh!o!dy-{plant}
+<f93r.P.27;U>      qokor.cheo.los.ckheo!dy-{plant}
+<f93r.P.27;V>      qokor.cheo.los.ckheo.dy-{plant}
+#
+<f93r.P.28;H>      ychor.odol.cho.daiin.s-{plant}
+<f93r.P.28;C>      ychor.odol.cho!dai!n.s-{plant}
+<f93r.P.28;F>      ychor.odol.cho!daiin.s-{plant}
+<f93r.P.28;U>      ychor.odol.cho!daiin.s-{plant}
+<f93r.P.28;V>      ychor.odol.cho!daiin.s-{plant}
+#
+<f93r.P.29;H>      dai!n.ck!cho.ctho.cthos!m-{plant}
+<f93r.P.29;C>      dai!n.et!cho.ctho.cthoe!y-{plant}
+<f93r.P.29;F>      daiin.ckhcho.ctho.cthoe!m-{plant}
+<f93r.P.29;U>      dai!n.ck!cho.ctho.cthos.m-{plant}
+<f93r.P.29;V>      dai!n.ck!cho.ctho.cthoe.m-{plant}
+#
+<f93r.P.30;H>      shodaiin.qokcho.cthol-{plant}
+<f93r.P.30;C>      shodaiin.qokchy.cthol-{plant}
+<f93r.P.30;F>      shodaiin.qokcho.cthol-{plant}
+<f93r.P.30;U>      shodaiin.qokcho.cthol-{plant}
+<f93r.P.30;V>      shodaiin.qokcho.cthol-{plant}
+#
+<f93r.P.31;H>      ol.chol.cthol.olchod-{plant}
+<f93r.P.31;C>      ol.chal.cthol.olchod-{plant}
+<f93r.P.31;F>      ol.chol.cthol.olchod-{plant}
+<f93r.P.31;U>      ol.chol.cthol.olchod-{plant}
+<f93r.P.31;V>      ol.chol.cthol.olchod-{plant}
+#
+<f93r.P.32;H>      dol.chokal.schos=
+<f93r.P.32;C>      dol.chokal.schos=
+<f93r.P.32;F>      dol.chokal.schos=
+<f93r.P.32;U>      dol.chokal.schos=
+<f93r.P.32;V>      dol.chokal.schos=
+#

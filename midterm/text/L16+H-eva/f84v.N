@@ -1,0 +1,16 @@
+## <f84v.N> {}
+# Small paragraph above top pond
+# Last edited on 1998-12-24 23:59:09 by stolfi
+#
+# "V" transcription by John Grove, posted 09-may-1998.
+# Some of Grove's [kt] restored to [pf] based on other versions -JS.
+#
+# Above top pond
+#
+<f84v.N.1;H>       otdy.dar.chdy.dar.or!am-{figure}
+<f84v.N.1;F>       otdy.dar.chdy.dar!or!am-{figure}
+<f84v.N.1;V>       otdy.dar.chdy.dar.or.am-{figure}
+# 
+<f84v.N.2;H>       s!oiin.okeeey.s!ol.okal!y={figure}
+<f84v.N.2;F>       s!aiin.okiiny.s!ol.okal!y={figure}
+<f84v.N.2;V>       s.oiin.okeeey.s.ol.okal.y={figure}

@@ -1,0 +1,83 @@
+## <f101v2.R1> {}
+# Plant labels - first row
+# Last edited on 1998-12-12 15:54:47 by stolfi
+#
+# "V" transcription by John Grove
+# "U" transcription by J. Stolfi from scanned image
+# Joined with f101v1.R1 by J. Stolfi
+#
+#
+# Container
+#
+# Label location unknown; container?
+<f101v2.R1.0;V>    ***={Grove's X.1}
+#
+# plant [1,1] - folded root, "circular saw" leaves
+#
+# Label near top, between plants [1,1] and [1,2]
+<f101v2.R1.1;H>    sairaly=
+<f101v2.R1.1;V>    sairaly={Grove's X.8}
+<f101v2.R1.1;U>    *******=
+#
+# plant [1,2] - fat pointy root, drooping leaves, flower?
+#
+# Label near top, between plants [1,2] and [1,3]
+<f101v2.R1.2;H>    otaldy={plant}
+<f101v2.R1.2;V>    otaldy={plant}{Grove's X.6}
+<f101v2.R1.2;U>    ***ldy={plant}
+#
+# plant [1,3] - inverted-U root, cone-shaped leaves
+#
+# Label near top, between plants [1,3] and [1,4]
+<f101v2.R1.3;H>    otal={plant}
+<f101v2.R1.3;V>    otal={plant}{Grove's X.7}
+<f101v2.R1.3;U>    otal={plant}
+#
+# plant [1,4] - pointy leaves with four lobes, triple root
+#
+# Label at mid-height, over fold, between plants [1,4] and [1,5]
+<f101v2.R1.4;H>    yta=
+<f101v2.R1.4;V>    yty={Grove's X.9}
+<f101v2.R1.4;U>    yt*=
+#
+# plant [1,5] - dark fuzzy root?, dark bunny-ear leaves, faded picture
+#
+# Label at mid-height, between plants [1,5] and [1,6]
+<f101v2.R1.5;H>    dokor={plant}
+<f101v2.R1.5;C>    dokor={plant}{was <f101v1.R1.1;C>, <f100v.T.1;C>}
+<f101v2.R1.5;V>    dokor={plant}{was <f101v1.R1.1;V>}
+<f101v2.R1.5;U>    dokor={plant}
+#
+# plant [1,6] - dark triangular leaves, crossed-leg roots
+#
+# Label near top, between plants [1,6] and [1,7]
+<f101v2.R1.6;H>    orar=
+<f101v2.R1.6;C>    orar={was <f101v1.R1.2;C>}
+<f101v2.R1.6;V>    orar={was <f101v1.R1.2;V>}
+<f101v2.R1.6;U>    ****=
+#
+# plant [1,7] - large dark leaves, light stem, many thin roots
+#
+# Label near top, between plants [1,7] and [1,8]
+<f101v2.R1.7;H>    otorar=
+<f101v2.R1.7;C>    otarar={was <f101v1.R1.3;C>, <f100v.T.2;C>}
+<f101v2.R1.7;V>    otarar={was <f101v1.R1.3;V>}
+<f101v2.R1.7;U>    ot****=
+#
+# plant [1,8] - dark flower, long drooping leaves, bifurcated root
+#
+# Label near top, between plants [1,8] and [1,9]
+<f101v2.R1.8;H>    otala={plant}
+<f101v2.R1.8;C>    otala={plant}{was <f101v1.R1.4;C>}
+<f101v2.R1.8;D>    otoly={plant}{was <f100v.T.3;C>}
+<f101v2.R1.8;V>    otoly={plant}{was <f101v1.R1.4;V>}
+<f101v2.R1.8;U>    **ol*={plant}
+#
+# plant [1,9] - fan of dark leaves, doubly-bifurcated roots
+#
+# Label near top, to the right of plant [1,9]
+<f101v2.R1.9;H>    soraly=
+<f101v2.R1.9;C>    sorala={was <f101v2.R1.5;C>}
+<f101v2.R1.9;D>    soraly={was <f100v.T.4;C>}
+<f101v2.R1.9;V>    soraly={was <f101v2.R1.5;V>}
+#

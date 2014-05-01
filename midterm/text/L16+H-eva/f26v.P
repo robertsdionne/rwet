@@ -1,0 +1,51 @@
+## <f26v.P> {}
+# text
+# Last edited on 1998-12-07 04:24:40 by stolfi
+#
+# "U" transcription by J. Stolfi from Jacques Guy's scanned image.
+#
+<f26v.P.1;H>       pchedar.qodary.o*iiin.pcheety.s!air.shedy.ypchedy.ypchdy.qopy.shdy-
+<f26v.P.1;C>       pchedar.qodary.daiiin.pcheety.s!air.shedy.ypchedy.ypchdy.qopy.shdy-
+<f26v.P.1;F>       pchedar.qodary.d!*rin.pcheety.s!air.shedy.ypchedy.ypchdy.qopy.shdy-
+<f26v.P.1;U>       pchedar.qodary.o**iin.fcheety.s,air.shedy.ypchedy.ypchdy.qopy.shdy-
+#
+<f26v.P.2;H>       s!araiir.chekedy.qokedy.otedy.sar.y.etedy.qokedy.or.aree.alys.chedy=
+<f26v.P.2;C>       s!araiir.chekedy.qokedy.otedy.sar!y.etedy.qokedy.or.ashe!alys.chedy=
+<f26v.P.2;F>       s!araiir.chekedy.qokedy.otedy.sar!y.cthdy.qokedy.or.aree.alys.chedy=
+<f26v.P.2;U>       s.araiir.chekedy.qokedy.otedy.sar!y.cthdy.qokedy.or.ar**.alys.chedy=
+#
+<f26v.P.3;H>       pchdar.opar.dar.cheeol.ofchdy.otedy.ckhdy.odar.chedy.ytedy.okchdy.g-
+<f26v.P.3;C>       pchdar.opar.dar.cheeol.ofchdy.otedy.ckhdy.odar.chedy.ytedy.okchdy.g-
+<f26v.P.3;F>       pchdar.opar.dar.cheeol.ofchdy.otedy.ckhdy.odar.chedy.ytedy.okchdy!m-
+<f26v.P.3;U>       pchdar.opar.dar.cheeol.ofchdy.otedy.ckhdy.odar.chedy.ytedy.okchdy.m-
+#
+<f26v.P.4;H>       yckheody.qokedy.deey.saldy.okedor.or.eeeos.oraiin.okeo.chekaiin=
+<f26v.P.4;C>       yckheody.qokedy.deey.saldy.okedor.or.cheos.oraiin.okeo.chekaiin=
+<f26v.P.4;F>       yckheody.qokedy.deey.saldy.okedor.or.cheos.oraiin.okea.chekaiin=
+<f26v.P.4;U>       yckheody.qokedy.deey.saldy.okedor.or.cheos.oraiin.okeo.chekaiin=
+#
+<f26v.P.5;H>       deeol.eeeody.qoteedy.qokody.qotedy.qotedy.opchedy.ofchy.chs.ar-
+<f26v.P.5;C>       dchol.cheody.qoteedy.qokody.qotedy.qotedy.opchedy.ofchy.chs.ar-
+<f26v.P.5;F>       deeol.cheody.qoteedy.qokody.qotedy.qotedy.!pchedy.ofchy.chs.ar-
+<f26v.P.5;U>       deeol.eeeody.qoteedy.qokody.qotedy.qotedy.opchedy.ofchy.chs.ar-
+#
+<f26v.P.6;H>       toeedy.keody.shedy.dar.chedy.sches.or.cheeky.dar.chey.cheky.ytchdy=
+<f26v.P.6;C>       toeedy.keody.shedy.dar.chedy.shees.or.cheeky.dar.chey.cheky.yteedy=
+<f26v.P.6;F>       toeedy.keody.shedy.dar.chedy.sches.or.ch*!ky.dar.chey.cheky.ytchdy=
+<f26v.P.6;U>       toeedy.keody.shedy.dar.chedy.sches.or.eeeeky.dar.chey.cheky.ytchdy=
+#
+<f26v.P.7;H>       pchedy.dar.cheoet.chy.sair.chees.odaiiin.chkeeey.ykey.sheey-
+<f26v.P.7;C>       pchedy.dar.cheoet!chy.sair.chees.odaiiin.chkeeey.ykey.sheey-
+<f26v.P.7;F>       pchedy.dar.cheoet.chy.sair.chees.odaiiin.chkeeey.ykey.sheey-
+<f26v.P.7;U>       pchedy.dar.cheoet.chy.sair.chees.odaiiin.chkeeey.ykey.sheey-
+#
+<f26v.P.8;H>       teeedy.okeeos.cheeos.ysaiin.okcheey.keody.s!aiin.cheeos.qokes.ory-
+<f26v.P.8;C>       tchedy.okeeos.cheeos.ysaiin.okcheey.keody.s!aiin.cheeos.qokes.ory-
+<f26v.P.8;F>       tchedy.okeeos!cheeos.ysaiin.okcheey.keody.s!aiin.cheeos.qokes.ory-
+<f26v.P.8;U>       teeedy.okeeos.cheeos.ysaiin.okcheey.keody.s.aiin.cheeos.qokes.ory-
+#
+<f26v.P.9;H>       ysheey.okeshy.shody!pshey.tody!dy={plant}
+<f26v.P.9;C>       ysheey.okeshe.shody.peshy.tody.dy={plant}
+<f26v.P.9;F>       ysheey.okeshy.shody.pshey.tody!dy={plant}
+<f26v.P.9;U>       ysheey.okeshy.shody.pshey.tody!dy={plant}
+#

@@ -1,0 +1,60 @@
+## <f36v.P> {}
+# text
+# Last edited on 1998-12-07 06:34:45 by stolfi
+#
+<f36v.P.1;H>       pcharasy.qoforom.shoaiin.tchey.chckhhy.otaiin.cphar.daiin-
+<f36v.P.1;C>       pcharary.qoforom.shoaiin.tchey.chckhey.otaiin.cphar.daiin-
+<f36v.P.1;F>       pcharasy.qoforom.shoaiin.tchey.chckhey.otaiin.cphar.daiin-
+#
+<f36v.P.2;H>       qotar.chol.daiin.otaiin.qotor.ytar.ochor.chety.ckhor.dom-
+<f36v.P.2;C>       qotar.chol.daiin.otaiin.qotar.ytar.ochor.chety.ckhor.dom-
+<f36v.P.2;F>       qotar.chol.daiin.otaiin.qotor.ytar.ochor.chety.ckhor.dom-
+#
+<f36v.P.3;H>       dchytchy.ytor.s-{plant}otaiin.qopchor.otar.otchaiin.s-
+<f36v.P.3;C>       dchytchy.ytor.s-{plant}otaiin.qopchor.otar.otchaiin.s-
+<f36v.P.3;F>       dchytchy.ytor!s-{plant}otaiin.qopchor.otar.otchaiin.s-
+#
+<f36v.P.4;H>       qotchor.yky.ty.dy-{plant}daiin.cthor=
+<f36v.P.4;C>       qotchor.yky.ty.dy-{plant}daiin.cthor=
+<f36v.P.4;F>       qotchor.yky!ty.dy-{plant}daiin.cthor=
+#
+<f36v.P.5;H>       {plant}tchor.ckhoiin.daiin.cphchar-
+<f36v.P.5;C>       {plant}tchor.ckhaiin.daiin.cphchar-
+<f36v.P.5;F>       {plant}tchor.ckhoiin.daiin.cphchar-
+#
+<f36v.P.6;H>       {plant}daiin.cthor.daiin.dal.dys-
+<f36v.P.6;C>       {plant}daiin.cthor.daiin.dal.dys-
+<f36v.P.6;F>       {plant}daiin.cthor.daiin.dal.dys-
+#
+<f36v.P.7;H>       {plant}qoky.keol.okchor.os.cho.shan-
+<f36v.P.7;C>       {plant}qoky.keol.okchor.os.chy.chan-
+<f36v.P.7;F>       {plant}qoky.keol.okchor.os.chy.shan-
+#
+<f36v.P.8;H>       {plant}ykshy.ytchy.dol.yty!dy.yky-
+<f36v.P.8;C>       {plant}ykshy.ytchy.dol.yty.dy.yky-
+<f36v.P.8;F>       {plant}ykshy.ytchy.dol.yty!dy.yky-
+#
+<f36v.P.9;H>       {plant}okaiin.ykcholqod.chory-
+<f36v.P.9;C>       {plant}okaiin.ykcholqod.chory-
+<f36v.P.9;F>       {plant}okaiin.ykcholqod.chory-
+#
+<f36v.P.10;H>      {plant}ykcho!tchy.daiin.daii!l!d-
+<f36v.P.10;C>      {plant}ykcho!tchy.daiin.dai!!l.d-
+<f36v.P.10;F>      {plant}ykcho.tchy.daiin.daiinl!d-
+#
+<f36v.P.11;H>      {plant}oty.chcthy.ytoryd-
+<f36v.P.11;C>      {plant}oty.chcthy.ytoryd-
+<f36v.P.11;F>      {plant}oty!chcthy.ytoryd-
+#
+<f36v.P.12;H>      {plant}ytol.kchy.oty.chd-
+<f36v.P.12;C>      {plant}ytol.kchy.oty.chd-
+<f36v.P.12;F>      {plant}ytol.kchy.oty.chd-
+#
+<f36v.P.13;H>      {plant}oky.she.cthol.oty-
+<f36v.P.13;C>      {plant}oky.she.cthol.oty-
+<f36v.P.13;F>      {plant}oky.she.cthol.oty-
+#
+<f36v.P.14;H>      {plant}soiin.chtain=
+<f36v.P.14;C>      {plant}soiin.chtain=
+<f36v.P.14;F>      {plant}soiin.chtain=
+#

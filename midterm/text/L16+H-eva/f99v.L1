@@ -1,0 +1,58 @@
+## <f99v.L1> {}
+# Labels - top row
+# Last edited on 1998-12-10 08:28:56 by stolfi
+#
+# Label on container
+<f99v.L1.0;H>      otaramy=
+<f99v.L1.0;U>      *******=
+#
+<f99v.L1.1;H>      otoldy=
+<f99v.L1.1;V>      otoldy=
+<f99v.L1.1;U>      otoldy=
+#
+# root [1,1] - light
+#
+# Label broken by stem of plant [1,2]
+<f99v.L1.2;H>      otor-{plant}chy=
+<f99v.L1.2;V>      otos-{plant}chy=
+<f99v.L1.2;U>      otor-{plant}chy=
+#
+# root [1,2] - light, S-shaped stem
+#
+<f99v.L1.3;H>      oldy=
+<f99v.L1.3;V>      oldy=
+<f99v.L1.3;U>      oldy=
+#
+# root [1,3] - bulb with fingers
+#
+# plant [1,4] - dark table-fork root, big leaf
+#
+# Label around plant [1,4]
+<f99v.L1.4;H>      dar-{plant}ary=
+<f99v.L1.4;V>      dar-{plant}ary=
+<f99v.L1.4;U>      dar-{plant}ary=
+#
+<f99v.L1.5;H>      otaly=
+<f99v.L1.5;V>      otaly=
+<f99v.L1.5;U>      otaly=
+#
+# root [1,5] - pitchfork root
+#
+<f99v.L1.6;H>      olsy=
+<f99v.L1.6;V>      olsy=
+<f99v.L1.6;U>      olsy=
+#
+# root [1,6] - knobby, three legs
+#
+<f99v.L1.7;H>      arol=
+<f99v.L1.7;V>      arol=
+<f99v.L1.7;U>      arol=
+#
+# root [1,7] - dark, bifurcated
+#
+<f99v.L1.8;H>      otoky=
+<f99v.L1.8;V>      otoky=
+<f99v.L1.8;U>      otoky=
+#
+# root [1,8] - light, big, kohlrabi-like, hairy
+#

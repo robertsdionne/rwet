@@ -1,0 +1,32 @@
+## <f95v2.P> {}
+# text
+# Last edited on 1998-12-19 22:51:02 by stolfi
+#
+<f95v2.P.1;H>      tchody.podar.shody.qofaiin.ofchdy.otedy.qotedaiin.shor.olsai!n-
+<f95v2.P.1;F>      tchody.podar.shody.qofaiin.ofchdy.otedy.qotedaiin.shor.olsaiin-
+<f95v2.P.1;U>      tchody.podar.shody.qofaiin.ofchdy.otedy.qotedaiin.shor.olsai!n-
+#
+<f95v2.P.2;H>      sol.shedy.qotchey.olor.chdy.ty.olor.okody.chody.qotaiin.y!kaipy-
+<f95v2.P.2;F>      sol.shedy.qotchey.alor.chdy.ty.olor.okod%%%%%%%%%%%%%%%%%%%%%%%-
+<f95v2.P.2;U>      sol.shedy.qotchsy.olor.chdy,ty.olor.okady.chody.qotaiin.y.kaipy-
+#
+<f95v2.P.2a;H>     arcsy.taiin.shekai!n.okar.or.aiin.chckhy.okal.otai!n.okal.ody-
+<f95v2.P.2a;F>     %%%%%%%%%%%%%%ekaiin.okar.or.aiin.chckhy.okal.otaiin.okal.ody-
+<f95v2.P.2a;U>     archy,taiin.chekaiin.okar.or.aiin.chckhy.okal.otai!n.okal,ody-
+#
+<f95v2.P.3;H>      daiin.o!l!kai!n.qokan.shar.sheky!dy.dai!n.alkai!n-{plant}okal.aiin.s-
+<f95v2.P.3;F>      daiin.ool.kaiin.qokan.shar.sheky.dy.daiin.alkaiin-{plant}okal!aiin!s-
+<f95v2.P.3;U>      daiin.!ol.kaiin.qokan.shar.sheky.dy.daiin.alkai!n-{plant}okal,aiin,s-
+#
+<f95v2.P.4;H>      tar.fcheey.shos.aiin.okar.olkaiin.otalai!n-{plant}okaiin.ar-
+<f95v2.P.4;F>      tar.fcheey.shos.aiin.okar.olkaiin.otalaiin-{plant}okaiin.ar-
+<f95v2.P.4;U>      tar.fcheey.shos.aiin.okar.olkaiin.otalai!n-{plant}okaiin.ar-
+#
+<f95v2.P.5;H>      dai!n.ykaly.chals-{plant}shedai!n.olaiin.y-{plant}okai!n.ldy-
+<f95v2.P.5;F>      daiin.ykaly.chals-{plant}shedaiin.olaiin!y-{plant}okaiin.ldy-
+<f95v2.P.5;U>      dai!n.ykaly.chols-{plant}shedai!n.olaiin.y-{plant}okai!n.ldy-
+#
+<f95v2.P.6;H>      qokeey.dar.chdy.kai!n-{plant}ytas!al.otai!n=
+<f95v2.P.6;F>      qokeey.dar.chdy.koiin-{plant}ytas!al.otaiin=
+<f95v2.P.6;U>      qokeey.dar.chdy!kai!n-{plant}ytar,al.otaiin=
+#

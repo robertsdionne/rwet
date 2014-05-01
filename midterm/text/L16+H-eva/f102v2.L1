@@ -1,0 +1,42 @@
+## <f102v2.L1> {}
+# Plant labels, top row
+# Last edited on 1998-12-02 00:57:34 by stolfi
+# 
+# The first three labels may be attached to the leaf at left
+# and not at right.
+#
+# leaf [1,1] - heart-shaped leaf
+<f102v2.L1.1;H>    oror=
+<f102v2.L1.1;V>    orar={was <f102v2.X.18;V>}
+<f102v2.L1.1;U>    oror=
+# 
+# leaf [1,2] - oblong three-lobed leaf
+<f102v2.L1.2;H>    eeor=
+<f102v2.L1.2;V>    chor={was <f102v2.X.4;V>}
+<f102v2.L1.2;U>    eeor=
+# 
+# leaf [1,3] - long wing-shaped leaf, triangular root?
+<f102v2.L1.3;H>    sachy=
+<f102v2.L1.3;V>    sachy={was <f102v2.X.25;V>}
+<f102v2.L1.3;U>    sachy=
+# 
+# item [1,4] - "cube root" - one dark side, three light sides
+<f102v2.L1.4;H>    okeos=
+<f102v2.L1.4;V>    oteos={was <f102v2.X.21;V>}
+<f102v2.L1.4;U>    okeor=
+# 
+# leaf [1,5] - short wing-shaped leaf - dark,light edges
+<f102v2.L1.5;H>    otol=
+<f102v2.L1.5;V>    otol={was <f102v2.X.22;V>}
+<f102v2.L1.5;U>    otol=
+# 
+# leaf [1,6] - "spatula" leaf  (head?)
+<f102v2.L1.6;H>    otory=
+<f102v2.L1.6;V>    otory={was <f102v2.X.23;V>}
+<f102v2.L1.6;U>    otory=
+# 
+# leaf [1,7] - oblong many-fingered leaf
+<f102v2.L1.7;H>    ok**=
+<f102v2.L1.7;V>    ot**={was <f102v2.X.20;V>}
+<f102v2.L1.7;U>    o***=
+#

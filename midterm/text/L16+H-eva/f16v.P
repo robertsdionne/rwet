@@ -1,0 +1,56 @@
+## <f16v.P> {}
+# text
+# Last edited on 1998-12-06 20:30:15 by stolfi
+#
+<f16v.P.1;H>       pchraiin.otchor.chpchol.chpchey.s.pchoct!y-{plant}
+<f16v.P.1;C>       pchroiin.otchor.chpchol.chpchey.s.pcho*!!y-{plant}
+<f16v.P.1;F>       pchraiin.otchor.chpchol.chpchey.s!pchocthy-{plant}
+#
+<f16v.P.2;H>       ytchor.y.ky.chokchy.qokcho!cthor.shory-{plant}
+<f16v.P.2;C>       ytchor.y.ky.chokchy.qokcho!cthor.shory-{plant}
+<f16v.P.2;F>       ytchor.y!ky.chokchy.qokcho.cthor.shory-{plant}
+#
+<f16v.P.3;H>       ykchy.dy.choy.qoty.chy.kchy.koshet-{plant}
+<f16v.P.3;C>       ykchy.dy.choy.qoty.chy!kchy.koshet-{plant}
+<f16v.P.3;F>       ykchy.dy.choy.qoty.chy.kchy.koshet-{plant}
+#
+<f16v.P.4;H>       dchol.chcthody.cphod.chotol.dal-{plant}
+<f16v.P.4;C>       dchol.chcthody.cphod.chotol.dal-{plant}
+<f16v.P.4;F>       dchol.chcthody.cphod.chotol.dal-{plant}
+#
+<f16v.P.5;H>       ytchy.chyty.chor.chol.ytchy.dan-{plant}
+<f16v.P.5;C>       ytchy.chyty.chor.chol.ykchy.dan-{plant}
+<f16v.P.5;F>       ytchy.chyty.chor.chol.ytchy.dan-{plant}
+#
+<f16v.P.6;H>       sor.chkar.oty.chkar.chol.dairin={plant}
+<f16v.P.6;C>       sor.chkar.oty.chkar.chol.dairin={plant}
+<f16v.P.6;F>       sor.chkar.oty.chkar.chol.dairin={plant}
+#
+<f16v.P.7;H>       pchocthy.chypchy.qotchy.chcfhhy.sy-{plant}
+<f16v.P.7;C>       pchocth!.chypchy.qotchy.ch*y!!!.sy-{plant}
+<f16v.P.7;F>       pchocthy.chypchy.qotchy.chcfhey.sy-{plant}
+#
+<f16v.P.8;H>       daiin.chol.y.daiin.chcthy.qot!char.chor.sholo-{plant}
+<f16v.P.8;C>       daiin.chol.y.daiin.chcthy.qot.char.chor.sholo-{plant}
+<f16v.P.8;F>       daiin.chol.y!daiin.chcthy.qot!char.chor.sholo-{plant}
+#
+<f16v.P.9;H>       dshy.okaiin.okaiin.chol.chor.cthor.ty.chody-{plant}
+<f16v.P.9;C>       dshy.okaiin.okaiin.chol.chor.cthor.ty.chody-{plant}
+<f16v.P.9;F>       dshy.okaiin.okaiin.chol.chor.cthor.ty.chody-{plant}
+#
+<f16v.P.10;H>      qokchy.chy!dy.ykchy.chckhy.otain.cthor.cthy-{plant}
+<f16v.P.10;C>      qokchy.chy.dy.ykchy.chckhy.otain.cthor.*!!y-{plant}
+<f16v.P.10;F>      qokchy.chy!dy.ykchy.chckhy.otain.cthor.cthy-{plant}
+#
+<f16v.P.11;H>      okytaiin.chkchy.saiin-{plant}
+<f16v.P.11;C>      okytaiin.chkchy.saiin-{plant}
+<f16v.P.11;F>      okytaiin.chkchy.saiin-{plant}
+#
+<f16v.P.12;H>      daiin.yky.otor.chody-{plant}
+<f16v.P.12;C>      daiin.yky.otor.chody-{plant}
+<f16v.P.12;F>      daiin.yky.otor.chody-{plant}
+#
+<f16v.P.13;H>      sokar.oaorar=
+<f16v.P.13;C>      sokar.oaoror=
+<f16v.P.13;F>      sokar.oaorar=
+#

@@ -1,0 +1,28 @@
+## <f90r2.P> {}
+# text
+# Last edited on 1998-12-10 07:37:45 by stolfi
+#
+<f90r2.P.1;H>      toealchs.shokol.sheo.qoekeey-{plant}soeeol.qoteody-
+<f90r2.P.1;F>      toealchs.shakol.sheo.qockhey-{plant}soeeol.qoteody-
+<f90r2.P.1;L>      to*alchs.shokol.sheo.qo*keey-{plant}soeeol.qoteody-
+#
+<f90r2.P.2;H>      saiin.ckheo.saiin.qockhey.s.ykeeody-{plant}s.cheey.chor.ckhs-
+<f90r2.P.2;F>      saiin.ckheo.saiin.qockhey.s.ykeeody-{plant}s!cheey.chor.ckhs-
+<f90r2.P.2;L>      saiin.ckheo.saiin.qockhey.s.ykeeody-{plant}s.cheey.chor.ckhs-
+#
+<f90r2.P.3;H>      dsheeor.qokeod.qokeo.chol.ol.okal-{plant}saiin.ctheo.s.ar-
+<f90r2.P.3;F>      dsheeos.qokeod.qokeo.chol.ol.okal-{plant}saiin.ctheo!s.ar-
+<f90r2.P.3;L>      dsheeor.qokeod.qokeo.chol.ol.okal-{plant}saiin.ctheo.s.ar-
+#
+<f90r2.P.4;H>      al.s.ain.cheo.ro.sokeey.qokeeos-{plant}al.ar!al.oys-
+<f90r2.P.4;F>      al.saiin.cheo.ro.sokeey.qokeear-{plant}al.ar.al.oyr-
+<f90r2.P.4;L>      al.s.ain.cheo.ro.sokeey.qokeeos-{plant}al.ar!al.oys-
+#
+<f90r2.P.5;H>      ychor.ckhor.qoeeor.okaiin.dom-{plant}ol.cheo.ro.daiin-
+<f90r2.P.5;L>      ychor.ckhor.qoeeor.okaiin.dom-{plant}ol!cheo.so!daiin-
+<f90r2.P.5;F>      ychor.ckhor.qoeeor.okaiin.dom-{plant}ol.cheo.ro.daiin-
+#
+<f90r2.P.5a;H>     daiin.qokor.o!koiin.daiin=
+<f90r2.P.5a;L>     daiin.qokor.ookoiin.daiin=
+<f90r2.P.5a;F>     daiin.qokor.o!koiin.daiin=
+#

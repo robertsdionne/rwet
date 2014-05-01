@@ -1,0 +1,59 @@
+## <f100r.L2> {}
+# panel 100r, second row of plants and labels
+# Last edited on 1998-12-24 23:22:51 by stolfi
+#
+# label above plant [2,1]
+<f100r.L2.1;H>     os!aro=
+<f100r.L2.1;C>     os!aro=
+<f100r.L2.1;K>     os!ano={From photo in Brumbaugh}{was <f100r.20A;K>}
+<f100r.L2.1;P>     or!aro={from Petersen, reported by K. Kluge}
+<f100r.L2.1;V>     or.aro=
+<f100r.L2.1;U>     or,aro=
+#
+# plant [2,1] - dark leaves
+#
+# plant [2,2] - dark leaves on left side of stem only
+#
+# LAbel under plant [2,2]
+<f100r.L2.2;H>     chalsain=
+<f100r.L2.2;C>     chalsain=
+<f100r.L2.2;K>     chalsain={was <f100r.21A;K>}
+<f100r.L2.2;V>     chalsain=
+<f100r.L2.2;U>     chalsain=
+#
+# plant [2,3] - dark leaf(?) with white teeth
+#
+# Label under plant [2,3]
+<f100r.L2.3;H>     s!oity=
+<f100r.L2.3;C>     choity=
+<f100r.L2.3;K>     !soity={was <f100r.22A;K>}
+<f100r.L2.3;V>     !soity=
+<f100r.L2.3;U>     !soity=
+#
+# plant [2,4] - dark "closed umbrella" leaf?
+#
+<f100r.L2.4;H>     s!osam=
+<f100r.L2.4;C>     choram=
+<f100r.L2.4;K>     s!osam={From photo in Brumbaugh}{was <f100r.23A;K>}
+<f100r.L2.4;P>     s!ysam={From Petersen, reported by K. Kluge}
+<f100r.L2.4;V>     s!osam=
+<f100r.L2.4;U>     s!osam=
+#
+# plant [2,5] - dark leaves
+#
+<f100r.L2.5;H>     dakocth=
+<f100r.L2.5;C>     dakocth=
+<f100r.L2.5;K>     dakocth={was <f100r.24A;K>}
+<f100r.L2.5;V>     dakock!=
+<f100r.L2.5;U>     dakocth=
+#
+# plant [2,6] - huge dark drooping leaves, leg-shaped roots
+#
+# Label above plant [2,6]
+<f100r.L2.6;H>     sofal=
+<f100r.L2.6;C>     sofal=
+<f100r.L2.6;K>     !!!!!={missing in interlin16.evt?}
+<f100r.L2.6;V>     sofam=
+<f100r.L2.6;U>     sofam=
+#
+#

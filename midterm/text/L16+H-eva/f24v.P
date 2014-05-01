@@ -1,0 +1,87 @@
+## <f24v.P> {}
+# text
+# Last edited on 1998-12-12 17:20:50 by stolfi
+#
+# "U" transcription by J. Stolfi from Jacques Guy's scanned image.
+#
+<f24v.P.1;H>       tchodar.chocfhhg.opom.shod.chcphy.opshody.ocphoraii!n.ok!ok!!!!!!om-
+<f24v.P.1;C>       tchodar.chocfhey.opod.shod.chcphy.opshody.o!p!oraii!n.ok.ok!!!!!!am-
+<f24v.P.1;F>       tchodar.chocfh!y.opom.shod.chcphy.opshody.ocpho.raiin.ok!o*!!!!!!am-
+<f24v.P.1;U>       tchodar.chocfhey.opam.shod.chcphy.opshody.ocphoraii!n.ok!o*{&146}am-
+#
+<f24v.P.2;H>       ydals.ckhor.shy.cho.dchar.otol.otaiir.otchos.okchom.okcho-
+<f24v.P.2;C>       yd**s.ckhor.shy.cho.dchor.otol.otaiir.otchos.okchom.okcho-
+<f24v.P.2;F>       ydals.ckhor.shy.cho.dchar.otol.otaiir.otchos.okchom.okcho-
+<f24v.P.2;U>       ydals.ckhor.shy.cho.dchor.otol.otaiir.otchos.okchom.okcho-
+#
+<f24v.P.3;H>       octhol.odchees.oesear!ees.okam.chcth-{plant}
+<f24v.P.3;C>       ***!!*.!dchees.o!sear.ear.okam.chcth-{plant}
+<f24v.P.3;F>       octhol.odchees.o!sear!ies.okam.chcth-{plant}
+<f24v.P.3;U>       octhol.odchees.o!sear!ees.okam.chcth-{plant}
+#
+<f24v.P.4;H>       yd!al.sh.okol.okaiin.odaiin.dlos-{plant}
+<f24v.P.4;C>       yd.al.sh.okol.okaiin.odaiin.dlor-{plant}
+<f24v.P.4;F>       yd!al.sh.okol.okaiin.odaiin.dlos-{plant}
+<f24v.P.4;U>       yd!al.sh.okol.okaiin.odaiin.dlor-{plant}
+#
+<f24v.P.5;H>       oeor.oraiin.tchar.oro={plant}
+<f24v.P.5;C>       *!*r.oraiin.tchar.oro={plant}
+<f24v.P.5;F>       oeor.oraiin.tchar.oro={plant}
+<f24v.P.5;U>       olor.oraiin.tchar.oro={plant}
+#
+# The final <s> is over the preceding <a>
+<f24v.P.6;H>       tochol.chor.cf!ar!asr-{plant}
+<f24v.P.6;C>       tochol.shor.!!*ar.!*r-{plant}
+<f24v.P.6;F>       tochol.chor.cfhar!a!r-{plant}
+<f24v.P.6;U>       tochol.chor.cfhar!asr-{plant}
+#
+<f24v.P.7;H>       ycheol.daid.dar.olom-{plant}
+<f24v.P.7;C>       ycheol.daid.dar.olom-{plant}
+<f24v.P.7;F>       ycheol.daid.dar.olom-{plant}
+<f24v.P.7;U>       ycheol.daid.dar.olom-{plant}
+#
+<f24v.P.8;H>       kochky.chcthy.shol.sain-{plant}
+<f24v.P.8;C>       kochky.chcthy.shol.sain-{plant}
+<f24v.P.8;F>       kochky.chcthy.shol.sain-{plant}
+<f24v.P.8;U>       kochky.chcthy.shol.sain-{plant}
+#
+<f24v.P.9;H>       y!chol.chol.or.chor!om-{plant}
+<f24v.P.9;C>       y.chol.chol.or.chor.om-{plant}
+<f24v.P.9;F>       y!chol.chol.or.chor!om-{plant}
+<f24v.P.9;U>       y!chol.chol.or.chor!om-{plant}
+#
+<f24v.P.10;H>      okoeos.ckheod.choy.keol-{plant}
+<f24v.P.10;C>      okoeor.ctheod.choy.keol-{plant}
+<f24v.P.10;F>      okoeos.ckheod.choy.keol-{plant}
+<f24v.P.10;U>      okoeor.ctheod.choy.keol-{plant}
+#
+<f24v.P.11;H>      ydaiin.cheor.qodom.okodaiin={plant}
+<f24v.P.11;C>      ydaiin.cheor.qodom.okodaiin={plant}
+<f24v.P.11;F>      ydaiin.chear.qodom.okodaiin={plant}
+<f24v.P.11;U>      ydaiin.cheor.qodom.okodaiin={plant}
+#
+<f24v.P.12;H>      ksho.foar.ct!o.sho.qokch.ok!okchal-{plant}
+<f24v.P.12;C>      ksho.foar.*t!o.sho.qok*!.ok.okchal-{plant}
+<f24v.P.12;F>      ksho.foar.ctho.sho.qokch.ok!okchal-{plant}
+<f24v.P.12;U>      ksho.foar.ct!o.sho.qokch.ok.okchal-{plant}
+#
+<f24v.P.13;H>      oeeey.cheol.chol.odor.sho.do.ot!olodal-{plant}
+<f24v.P.13;C>      oeeey.cheol.chol.odor.sho.do.ot.olodal-{plant}
+<f24v.P.13;F>      oeeey.cheol.chol.odor.sho.do.ot!olodal-{plant}
+<f24v.P.13;U>      oeeey.cheol.chol.odor.sho.do.ot!olodal-{plant}
+#
+<f24v.P.14;H>      doiir.cheekdam.sho.sho.dy-{plant}
+<f24v.P.14;C>      doa!r.cheeodam.sho.sho.dy-{plant}
+<f24v.P.14;F>      doiir.cheekdam.sho.sho.dy-{plant}
+<f24v.P.14;U>      doiir.cheeodam.sho.sho.dy-{plant}
+#
+<f24v.P.15;H>      dchey.kchod.dchol.ochdy-{plant}
+<f24v.P.15;C>      dchey.kchod.dchal.ochdy-{plant}
+<f24v.P.15;F>      dchey.kchod.dchal.ochdy-{plant}
+<f24v.P.15;U>      dchey.kchod.dchal.ochdy-{plant}
+#
+<f24v.P.16;H>      otchol.odaiim=
+<f24v.P.16;C>      otchol.odaiim=
+<f24v.P.16;F>      otchol.odaiim=
+<f24v.P.16;U>      otchol.odaiim=
+#

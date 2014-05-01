@@ -1,0 +1,51 @@
+## <f100r.L1> {}
+# panel 100r, top row of plant labels
+# Last edited on 1998-12-24 23:55:30 by stolfi
+#
+# There are 5 or 6 labels and 5 plants
+#
+# Label above plant [1,1]
+<f100r.L1.1;H>     chos!aroshol=
+<f100r.L1.1;C>     ches.aroshol=
+<f100r.L1.1;K>     chos!aroshol={was <f100r.15A;K>}
+<f100r.L1.1;V>     chos.aroshol=
+<f100r.L1.1;U>     chos.aroshol=
+#
+# plant [1,1] - dark bulbs
+#
+# Label above plant [1,2]
+<f100r.L1.2;H>     sochorcfhy=
+<f100r.L1.2;C>     socharcfh!=
+<f100r.L1.2;K>     sochorcfhy={was <f100r.16A;K>}
+<f100r.L1.2;V>     sochorcfhy=
+<f100r.L1.2;U>     sochorcfhy=
+#
+# plant [1,2] - dark arrow shaped leaves left of stem only
+#
+# Label above plant [1,3]
+<f100r.L1.3;H>     otear=
+<f100r.L1.3;C>     otear=
+<f100r.L1.3;K>     otear={was <f100r.17A;K>}
+<f100r.L1.3;V>     otear=
+<f100r.L1.3;U>     otear=
+#
+# plant [1,3] - dark triangular leaves
+#
+# Label abov eplant [1,4]
+<f100r.L1.4;H>     chofary=
+<f100r.L1.4;C>     chofora=
+<f100r.L1.4;K>     chofany={was <f100r.18A;K>}
+<f100r.L1.4;V>     chofary=
+<f100r.L1.4;U>     chofary=
+#
+# plant [1,4] - dark leaves
+#
+# Label above plant [1,5] - split by leaf of plant
+<f100r.L1.5;H>     sar.char-{stem}daiindy=
+<f100r.L1.5;C>     sar.chas-{stem}daiind!=
+<f100r.L1.5;K>     sar.char-{stem}daiindy={was <f100r.19A;K>}
+<f100r.L1.5;V>     sar!char-{stem}daiindy=
+<f100r.L1.5;U>     sar,char-{stem}daiindy=
+#
+# plant [1,5] - dark flowers, Brumbaugh's pepper
+#

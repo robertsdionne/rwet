@@ -1,0 +1,75 @@
+## <f34r.P> {}
+# text
+# Last edited on 1998-12-12 13:11:17 by stolfi
+#
+# In this file, the alignment between the right and left halves of the
+# second paragraph is based on line count, even though the lines on
+# the right are shifted down by a varying amount (from 0.5 to 1.5
+# baseline spacing). The misalignment is indicated by "{\} comments.
+#
+# The original C and F transcriptions used an alignment based on line
+# position, where the right half of lines 4 through 9 were shifted
+# down one line, with the spill over being transcribed as line 10.
+#
+# A case could be made for the two halves being independent paragraphs.
+#
+<f34r.P.1;H>       pcheoepchy.olar.yl-{plant}yfody.okedody.shod.ololdy.dar.ytey-
+<f34r.P.1;C>       pcheoepchy.olar.yl-{plant}yfody.okedody.shod.ololdy.dar.ytey-
+<f34r.P.1;F>       pcheoepchy.olar!yl-{plant}yfody.okedody.shod.ololdy.dar.ytey-
+#
+<f34r.P.2;H>       ytar.sheody.olam-{plant}octhede.otedy.chdain.oltey.kchy.ty-
+<f34r.P.2;C>       ytar.sheody.olam-{plant}octhedy.otedy.chdain.oltey.keey.ty-
+<f34r.P.2;F>       ytar.sheody.olam-{plant}octhede.otedy.chdain.oltey.kchy.ty-
+#
+<f34r.P.3;H>       qotedy.chyty.chdaly-{plant}dar.chd.otedy.qotol.okedy.dody.ody.kam-
+<f34r.P.3;C>       qotedy.chyty.chdaly-{plant}dar.chd.otedy.qotol.okedy.dody.ody.tam-
+<f34r.P.3;F>       qotedy.chyty.chdaly-{plant}dar.chd.otedy.qotol.okedy.dody.ody.kam-
+#
+<f34r.P.4;H>       ytedy.daiin.chey.aiin-{plant}shy.chckhy-{plant}{\}oltchedy.otedy.dam.checthy-
+<f34r.P.4;C>       ytedy.daiin.chey.aiin-{plant}shy.chckhy-{plant}{\}oltchedy.otedy.dam.checthy-
+<f34r.P.4;F>       ytede.daiin.chey.aiin-{plant}shy.chckhy-{plant}{\}oltchedy.otedy.dam.checthy-
+#
+<f34r.P.5;H>       qoteedy.shedy.shedy.ol-{plant}okes.ar-{plant}{\}ykeedl.chedy.otey.okaiin-
+<f34r.P.5;C>       qoteedy.shedy.shedy.ol-{plant}okes.ar-{plant}{\}ykeedl.chedy.otey.okaiin-
+<f34r.P.5;F>       qoteedy.shedy.shedy.ol-{plant}okes.ar-{plant}{\}ykeedl!chedy.otey.okaiin-
+#
+<f34r.P.6;H>       oteol.chekey.chetey.oll-{plant}chesy-{plant}{\}daiin.cheky.fchs.aiir.am!g-
+<f34r.P.6;C>       oteol.chekey.chetey.oll-{plant}chesy-{plant}{\}daiin.cheky.fa!r.aiir.am.g-
+<f34r.P.6;F>       oteol.chekey.chetey.oll-{plant}chesy-{plant}{\}daiin.cheky.fchs.aiir.am!m-
+#
+<f34r.P.7;H>       qokedy.dal.chdy-{plant}olchy-{plant}ykche!g-{plant}{\}ykedy.qokchdy.s.ar.oldam-
+<f34r.P.7;C>       qokedy.dal.chdy-{plant}olchy-{plant}ykch!!y-{plant}{\}ykedy.qokchdy.s!ar.oldam-
+<f34r.P.7;F>       qokedy.dal.chdy-{plant}olchy-{plant}ykche.y-{plant}{\}!kedy.qokchdy.s!ar.oldam-
+#
+<f34r.P.8;H>       shotchy.qoky-{plant}olk-{plant}checkhy-{plant}{\}ysair.air.chodar!!.tam-
+<f34r.P.8;C>       shotchy.qoky-{plant}olk-{plant}checkhy-{plant}{\}ysair.air.chodar!!.tam-
+<f34r.P.8;F>       shotchy.qoky-{plant}olk-{plant}checkhy-{plant}{\}ysair.air.chodaiin.tam-
+#
+<f34r.P.9;H>       ykchdy.qod-{plant}ar-{plant}chct{&T}-{plant}a!ikhy-{plant}{\}or!lchey.todaly.okaiin.dardy=
+<f34r.P.9;C>       ykchdy.qod-{plant}ar-{plant}chcth!!!-{plant}a!ckhy-{plant}{\}or.lchey.todaly.okaiin.dardy=
+<f34r.P.9;F>       ykchdy.qod-{plant}ar-{plant}chcth!!!-{plant}aickhy-{plant}{\}or.lchey.todaly.okaiin.dardy=
+#
+<f34r.P.11;H>      tcheo.olchckhy.oly-{plant}otchdy.chefal!!as-
+<f34r.P.11;C>      tcheo.olchckhy.oly-{plant}otchdy.chefal.chs-
+<f34r.P.11;F>      tcheo.olchckhy.oly-{plant}otchdy.ch!fal!!as-
+#
+<f34r.P.12;H>      qokeey.sh.kal!daiin-{plant}cheky.cthdaly-{plant}otchedy.chty.saiin-
+<f34r.P.12;C>      qokeey.sh!kal.daiin-{plant}cheky.cthdaly-{plant}otchedy.chty.saiin-
+<f34r.P.12;F>      qokeey.sh.kal!daiin-{plant}cheky.cthdaly-{plant}otchedy.chty.saiin-
+#
+<f34r.P.13;H>      char.aiin.okor.ar.tol-{plant}qokar.chckhy.chdal.ked.qokar.ar.daiin.dam-
+<f34r.P.13;C>      char.aiin.okor.ar.tol-{plant}qokar.chckhy.chdal.ked.qokar.ar.daiin.dam-
+<f34r.P.13;F>      char.aiin.okor!ar.tol-{plant}qokar.chckhy.chdal.ked.qokar.ar.daiin.dam-
+#
+<f34r.P.14;H>      ykeo.lor.ochey.oly-{plant}okaly.kechdy.qokchdy.chor.ar.aiiin.daly-
+<f34r.P.14;C>      ykeo.lor.ochey.oly-{plant}okaly.kechdy.qokchdy.chor.ar.aiiin.daly-
+<f34r.P.14;F>      ykeo.lor.ochey.oly-{plant}okaly.kechdy.qokchdy.chor.ar.aiiin.daly-
+#
+<f34r.P.15;H>      or.ar.y.kar.ol.al.oky-{plant}chody.qokal.chedy.chcthedy.cheky.daram-
+<f34r.P.15;C>      or.ar.y!kar.ol.al.oky-{plant}chody.qokal.chedy.chcthedy.chety.daram-
+<f34r.P.15;F>      or.ar.y!kar.ol.al.oky-{plant}chody.qokal.chedy.chcthedy.cheky.daram-
+#
+<f34r.P.16;H>      sair.chekar.cheky.shek-{plant}chol!chedy.qokedy.yk.cheol!chcthy=
+<f34r.P.16;C>      sair.chekar.cheky.shek-{plant}chol.chedy.qokedy.yk!cheol.chcthy=
+<f34r.P.16;F>      sair.chekar.cheky.shek-{plant}chol!chedy.qokedy.yk!cheol!chcthy=
+#

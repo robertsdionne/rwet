@@ -1,0 +1,31 @@
+## <f102v2.L3> {}
+# Plant labels, third row (between paras)
+# Last edited on 1998-12-11 07:43:05 by stolfi
+# 
+# plant [3,1] - small root, light stems, big horned  serrated leaves
+<f102v2.L3.1;H>    ora!!n=
+<f102v2.L3.1;V>    osaiin={was <f102v2.X.19;V>}
+<f102v2.L3.1;U>    orai!n=
+# 
+# plant [3,2] - dark roots, light stem
+<f102v2.L3.2;H>    oika=
+<f102v2.L3.2;V>    aiky={was <f102v2.X.2;V>}
+<f102v2.L3.2;U>    arky=
+# 
+# plant [3,3] - "carrot" plant - dark leaves, light stems, carrot
+<f102v2.L3.3;H>    okeeo!raiin=
+<f102v2.L3.3;V>    okeeo.raiin={was <f102v2.X.8;V>}
+<f102v2.L3.3;U>    okeeo!raiin=
+# 
+# plant [3,4] - round serrated leaf, bundle of long mousetail roots
+<f102v2.L3.4;H>    okockhy=
+<f102v2.L3.4;V>    okockhy={was <f102v2.X.11;V>}
+<f102v2.L3.4;U>    okockhy=
+#
+# plant [3,5] - round serrated leaf, bundle of long mousetail roots,
+# with crossed roots
+# label faded at edge of page
+<f102v2.L3.5;H>    e***ddy=
+<f102v2.L3.5;V>    ****!!!={was <f102v2.X.1;V>}
+<f102v2.L3.5;U>    o***!!!=
+#

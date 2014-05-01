@@ -1,0 +1,44 @@
+## <f41v.P> {}
+# text
+# Last edited on 1998-12-27 22:25:39 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image.
+#
+<f41v.P.1;H>       pcheody.qofcheepy.ofchdy.cfhekchdy-{plant}ypchedy.chepchefy.shdchdy.qotal.dar-
+<f41v.P.1;C>       pcheody.qofcheepy.ofchdy.cfhekchdy-{plant}ypchedy.chepchefy!shdchdy.qotal.dar-
+<f41v.P.1;F>       pcheody.qofcheepy.ofchdy.cfhekchdy-{plant}ypchedy.chepchefy.shdchdy.qotal.dar-
+<f41v.P.1;U>       pcheody.qofchecpy.ofchdy.cfhekchdy-{plant}ypchedy.chepchefy.shdchdy.qotal.dar-
+#
+<f41v.P.2;H>       dshedy.tchey.s.aiin.shekey.okedy.okaly-{plant}daiin.okedy.ykeeody.choy.keoy.dam-
+<f41v.P.2;C>       dshedy.tchey.s.aiin.shekey.okedy.okaly-{plant}daiin.okedy.ykeeody.choy!keoy.dam-
+<f41v.P.2;F>       dshedy.tchey.s!aiin.shekey.okedy.okaly-{plant}daiin.okedy.ykeeody.choy.keoy.dam-
+<f41v.P.2;G>       dshedy.tchey.s!aiin.shekey.okedy.okaly-{plant}daiin.okedy.ykeeody.choy.teoy.dam-
+<f41v.P.2;U>       dshedy.tchey.s,aiin.shekey.okedy.okaly-{plant}daiin.okedy.ykeeody.choy,keoy.dam-
+#
+# "F" line corrected by GL
+<f41v.P.3;H>       qokeody.okey.qokeody.oleeol.lkedy-{plant}lkeeody.qokeedy.okeey.qokol.sheol!s-
+<f41v.P.3;C>       qokeody.okey.qokeody.oleeol.lkedy-{plant}lkeeody.qokeedy.okeey.qokol.sheol.s-
+<f41v.P.3;F>       qokeody.okey.qokeody.oleeol.lkedy-{plant}lkeeody.qokeedy.okeey.qokol.sheol!s-
+<f41v.P.3;U>       qokeody.okey.qokeody.oleeol.lkedy-{plant}lkeeody.qokeedy.okeey.qotol.sheol!s-
+#
+<f41v.P.4;H>       ycheos.olchey.daiin.or.chol.ol.aiin-{plant}oteedy.qoteol.oteodar.orain-
+<f41v.P.4;C>       ycheos.olchey.daiin.or.chol.ol.aiin-{plant}oteedy.qoteol.oteodar.orain-
+<f41v.P.4;F>       ycheos.olchey.daiin.or.chol.al!aiin-{plant}oteedy.qoteol.oteodar.orain-
+<f41v.P.4;U>       ycheos.olchey.daiin.or.chol,ol!aiin-{plant}oteedy.qoteol.oteodar.orain-
+#
+<f41v.P.5;H>       todaiin.ol.cheos.yteedy.okal.old-{plant}oteol.qokal.or.oteody-
+<f41v.P.5;C>       taraiin.ol.cheos.yteedy.okal.old-{plant}oteol.qokal.or.oteody-
+<f41v.P.5;F>       tadaiin.ol!cheos.yteedy.okal.old-{plant}oteol.qokal.or.oteody-
+<f41v.P.5;G>       tadaiin.ol!cheor.yteedy.okal.ald-{plant}oteol.qokal.or.oteody-
+<f41v.P.5;U>       tadaiin.ol,cheor.yteedy.okal.old-{plant}oteol.qokal.or.oteody-
+#
+<f41v.P.6;H>       ykeey.okey.ykeeol.ckhdy.chdal-{plant}ykeo.aiin.okeody.oly-
+<f41v.P.6;C>       ykeey.okey.ykeeol.ckhdy.chdal-{plant}ykeo!aiin.okeody.oly-
+<f41v.P.6;F>       %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-
+<f41v.P.6;U>       ykeey.okey.ykeeol.ckhdy.chdal-{plant}ykeo,aiin.okeody.oly-
+#
+<f41v.P.7;H>       daiin.olkeeo.lkol.chedy.okeey={plant}
+<f41v.P.7;C>       daiin.olkeeo.lkol.chedy.okeey={plant}
+<f41v.P.7;F>       daiin.olkeeo.lkol.chedy.okeey={plant}
+<f41v.P.7;U>       daiin.olkeeo.lkol.chedy.okeey={plant}
+#

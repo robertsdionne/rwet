@@ -1,0 +1,66 @@
+## <f27r.P> {}
+# text
+# Last edited on 1998-12-19 18:56:12 by stolfi
+#
+# "U" transcription by J. Stolfi from scanned image
+#
+<f27r.P.1;H>       ksor.shey.shoteo.chfo!raiin.shy-{plant}shod.chary-
+<f27r.P.1;C>       ksor.shey.shoteo.chfo!raiin.shy-{plant}shod.chary-
+<f27r.P.1;F>       ksor.shey.shoteo.chfo.raiin.shy-{plant}shod.chary-
+<f27r.P.1;U>       ksor.shey.shoteo.chfo!raiin.shy-{plant}shod.chary-
+#
+<f27r.P.2;H>       dy.coain.shol.dain.dar.shokyd-{plant}dchol.cthey.ds-
+<f27r.P.2;C>       dy.chain.shol.dain.dar.shokyd-{plant}dchol.cthey.ds-
+<f27r.P.2;F>       dy.chain.shol.dain.dar.shokyd-{plant}dchol.cthey!ds-
+<f27r.P.2;U>       dy.chain.shol.dain.dar.shokyd-{plant}dchol.cthey,ds-
+#
+<f27r.P.3;H>       chol.shy.keol.chol.shy.shol.chy-{plant}daiin.chey.dam-
+<f27r.P.3;C>       chok.shy.keol.chol.chy.shol.chy-{plant}daiin.chey.dam-
+<f27r.P.3;F>       chol.shy.keol.chol.shy.shol.chy-{plant}daiin.chey.dam-
+<f27r.P.3;U>       chol.shy.keol.chol.chy.shol.chy-{plant}daiin.chey.dam-
+#
+<f27r.P.4;H>       qokey.chor.char.chy.dchy.keey-{plant}chos.cthody-
+<f27r.P.4;C>       qokey.chor.char.chy.dchy.keey-{plant}chos.cthody-
+<f27r.P.4;F>       qokey.chor.char.chy.dchy.keey-{plant}chos.cthody-
+<f27r.P.4;U>       qokey.chor.char.chy.dchy.keey-{plant}chos.cthody-
+#
+<f27r.P.5;H>       dor.chees.ctho.shy.cphary-{plant}daiin.dair-
+<f27r.P.5;C>       dor.chees.ctho.shy.cphary-{plant}daiin.dair-
+<f27r.P.5;F>       dor.chees.ctho.shy.cphary-{plant}daiin.dair-
+<f27r.P.5;U>       dor.chees.ctho,shy.cphary-{plant}daiin.dair-
+#
+<f27r.P.6;H>       chy.tchols.chor.chol.chaiin-{plant}shy.kchal!dy=
+<f27r.P.6;C>       chy.tchols.chor.chol.chaiin-{plant}shy.kchal.dy=
+<f27r.P.6;F>       chy.tchols.chor.chol.chaiin-{plant}shy.kchal!dy=
+<f27r.P.6;U>       chy.tchols.chor.chol.chaiin-{plant}shy.kchal!dy=
+#
+<f27r.P.7;H>       kchey.chey.kcheol.pchy.schey.ly-{plant}chals.cham-{plant}
+<f27r.P.7;C>       kchoy.chey.kcheol.pcho.schey.ly-{plant}chals.cham-{plant}
+<f27r.P.7;F>       kchey.chey.kcheol.pchy.schey.ly-{plant}chals.cham-{plant}
+<f27r.P.7;U>       kchey.chey.kcheol.pchy.schey.ly-{plant}chals.cham-{plant}
+#
+<f27r.P.8;H>       ytchy.chy.tchol.dy.tchey.dain-{plant}chol.dal-{plant}
+<f27r.P.8;C>       ytchy.chy.tchol.dy.tchey.dain-{plant}chol.dal-{plant}
+<f27r.P.8;F>       ytchy.chy.tchol.dy.tchey.dain-{plant}chol.dal-{plant}
+<f27r.P.8;U>       ytchy.chy.tchol.dy,tchey.dain-{plant}chol.dal-{plant}
+#
+<f27r.P.9;H>       dchey.keeod.sho.tchey.chol.oty-{plant}chy.tolm!!-{plant}
+<f27r.P.9;C>       dchey.keeod.sho!tchey.chol.oty-{plant}chy!tolcth-{plant}
+<f27r.P.9;F>       dchey.keeod.sho.tchey.chol.oty-{plant}chy.tolm!!-{plant}
+<f27r.P.9;U>       dchey.keeod.sho!tchey.chol.oty-{plant}chy,tolm!!-{plant}
+#
+<f27r.P.10;H>      qotchey.shes.s.y.chy.tchey.dy-{plant}
+<f27r.P.10;C>      qotchey.shes.s!y.chy.tchey.dy-{plant}
+<f27r.P.10;F>      qotchey.shes.s!y.chy.tchey.dy-{plant}
+<f27r.P.10;U>      qotchey.shes.s,y.chy.tchey.dy-{plant}
+#
+<f27r.P.12;H>      chol.daiiin.chees.chos.ctey.dan-{plant}
+<f27r.P.12;C>      %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-{plant}
+<f27r.P.12;F>      chol.daiiin.chees.chos.cthy.dan-{plant}
+<f27r.P.12;U>      chol,daiiin.chees.chos.cthy.dan-{plant}
+#
+<f27r.P.12a;H>     dain.cheokeey.chey.cthey.otal={plant}
+<f27r.P.12a;C>     dain.cheokeey.chey.cthey.otal={plant}
+<f27r.P.12a;F>     dain.cheokeey.chey.cthey.otal={plant}
+<f27r.P.12a;U>     dain.cheokeey.chey.cthey.otal={plant}
+#

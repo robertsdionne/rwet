@@ -1,0 +1,28 @@
+## <f25r.P> {}
+# text
+# Last edited on 1998-12-07 04:12:52 by stolfi
+#
+<f25r.P.1;H>       fcholdy.soshy.daiin.ck!y.shody.daiin.ocholdy.cpholdy.sy-
+<f25r.P.1;C>       fcholdy.soshy.daiin.*i!n.shody.daiin.ocholdy.cpholdy.sy-
+<f25r.P.1;F>       fcholdy.soshy.daiin.ckhy.shody.daiin.ocholdy.cpholdy.sy-
+#
+<f25r.P.2;H>       otor.chor.chrky.chotchy.shair.qod.sho.chy.kchy.chkain-
+<f25r.P.2;C>       otor.chor.chsky.chotchy.shain.qod.sha!chy.kchy.chkain-
+<f25r.P.2;F>       otor.chor.chrky.chotchy.shair.qod.sho.chy.kchy.chkain-
+#
+<f25r.P.3;H>       qotchy.qotshy.cheesees.sheear.s.chain.daiin.chain.dein-
+<f25r.P.3;C>       qotchy.qotshy.cheesees.sheear.s.chain.daiin.chain.da!n-
+<f25r.P.3;F>       qotchy.qotshy.cheesees.sheear.s.chain.daiin.chain.dain-
+#
+<f25r.P.4;H>       dchckhy.shocthy.ytchey.cthor.s.chan.chaiin.qotchain-
+<f25r.P.4;C>       dchckhy.shocthy.ytchey.cthor.s.chan.chaiin.qotchain-
+<f25r.P.4;F>       dchckhy.shocthy.ytchey.cthor.s.chan.chaiin.qotchain-
+#
+<f25r.P.5;H>       qotcheaiin.dchain.cthain.daiin.daiin.cthain.qotaiin-
+<f25r.P.5;C>       qotcheaiin.dchain.cthain.daiin.daiin.cthain.qotaiin-
+<f25r.P.5;F>       qotcheaiin.dchain.cthain.daiin.daiin.cthain.qotaiin-
+#
+<f25r.P.6;H>       okal.chotaiin=
+<f25r.P.6;C>       okal.chotaiin=
+<f25r.P.6;F>       okal.chotaiin=
+#

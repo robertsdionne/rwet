@@ -1,0 +1,56 @@
+## <f0.A> {}
+# Last edited on 1998-12-05 11:22:03 by stolfi
+#
+# AN INTERLINEAR ARCHIVE OF VOYNICH MANUSCRIPT TRANSCRIPTIONS IN EVA
+# ==================================================================
+#
+# OVERVIEW
+#
+# Edited by J. Stolfi
+# Release 1.6e6 - ?? Dec 1998
+#
+# This file was derived mainly from 
+#
+#   INTERLN.EVT file version 1.6, by Gabriel Landini (27 Sep 1996)
+#
+#   Partial transcriptions by John Grove, posted to the Voynich mailing list.
+#
+#   Partial transcriptions by Jorge Stolfi.
+#
+#   A COMPLETE transcription by Takeshi Takahashi (25 Nov 1998).
+#
+# The bulk of the text taken from INTERLN.EVT consisted of the
+# historical (punchcard) transcriptions by W. Friedman, M. D'Imperio,
+# C. Currier, and others, re-typed, edited and published by Jim Reeds,
+# Jim Guillogly and Jacques Guy. See sections <f0.I> and <f0.J> for more
+# details.
+#
+# The version by T. Takahashi was fetched from his site on 25 Nov
+# 1998. It is the first complete transcription of the VMS, and the
+# only one in this file that uses the full EVA encoding (including
+# "weirdos").
+#
+# Extensive edits were made to the above files by J. Stolfi, mostly
+# affecting comments, line and paragraph breaks, and line numbering.
+# Here is a quick summary:
+#
+#   Split into separate files (one per textual unit).
+#
+#   Added "text unit" codes (usually ".P") to main text lines.
+#
+#   Mapped to the EVA encoding.
+#
+#   Unfolded  '[|]' choices into separate lines.
+#
+#   Added many new transcriptions and comments.
+#
+#   Corrected many line-breaking errors in the interlinear file.
+#
+#   Abolished the "astro"/"cosmo" distinction; it is all "cosmo" now.
+#
+#   Added unit header lines "<fNNN.UU> {...}" besides page headers.
+#
+# On the other hand, no text characters or word breaks were
+# (consciously) changed. More details about the edits can be found in
+# the other parts of this introduction (sections <f0.*>).
+#

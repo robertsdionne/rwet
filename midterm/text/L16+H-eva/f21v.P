@@ -1,0 +1,46 @@
+## <f21v.P> {}
+# text
+# Last edited on 1998-12-06 21:15:35 by stolfi
+#
+# "U" transcription by J. Stolfi from Jacques Guy's scanned image.
+#
+<f21v.P.1;H>       toldshy.chofchy.qofshey.shckhol.odaiin.shey.ckholy-
+<f21v.P.1;C>       toldshy.chofchy.qofshey.shckhol.odaiin.shey.ckholy-
+<f21v.P.1;F>       toldshy.chofchy.qofshey.shckhal.odaiin.shey.ckholy-
+<f21v.P.1;U>       toldshy.chofchy.qofshey.shckhol.odaiin.shey.ckholy-
+#
+<f21v.P.2;H>       oeeesoy.qokchy.chody.qotchy.qokchy.choty.tchol.daiin-
+<f21v.P.2;C>       oeeesoy.qokchy.chody.motchy.qokchy.choty.tchol.daiin-
+<f21v.P.2;F>       oeeesoy.qokchy.chody.qotchy.qokchy.choty.tchol.daiin-
+<f21v.P.2;U>       oeeesoy.qokchy.chody.qotchy.qokchy.choty.tchol.daiin-
+#
+<f21v.P.3;H>       qotol.keeees.chotchy.tcho.choty.chor.qotol.daiin.dal-
+<f21v.P.3;C>       qotal.keeees.chotchy.tcho.choty.chor.qotol.daiin.dal-
+<f21v.P.3;F>       qotof.keeees.chotchy.tcho.choty.chor.qotol.daiin.dal-
+<f21v.P.3;U>       qotol.keeees.chotchy.tcho.choty.chor.qotol.daiin.dal-
+#
+<f21v.P.4;H>       sho.chodaiin.choty.chol.daiin.daiin.chty.chtol-
+<f21v.P.4;C>       sho.chodaiin.choty.chol.daiin.daiin.chty-chtol-
+<f21v.P.4;F>       sho.chodaiin.choty.chol.daiin.daiin.chty-chtol-
+<f21v.P.4;U>       sho.chodaiin.choty.chol.daiin.daiin.chty-chtol-
+#
+<f21v.P.5;H>       osho.deey.ctho.l.sho.cthy.daiin.dait.oky-{plant}
+<f21v.P.5;C>       ysho.deey.ctho.l.sho.cthy.daiin.dait.oky-{plant}
+<f21v.P.5;F>       oshy.deey.ctho!l.sho!cthy.daiin.dait!oky-{plant}
+<f21v.P.5;U>       osho.deey.ctho!l.sho.cthy.daiin.dait!oky-{plant}
+#
+<f21v.P.6;H>       sho.tsho.chotshol.chol.todaiin.daiin-{plant}
+<f21v.P.6;C>       sho.tsho.chotshol.chol.todaiin.daiin-{plant}
+<f21v.P.6;F>       sho.tsho.chotshol.chol.todaiin.daiin-{plant}
+<f21v.P.6;U>       sho.tsho.chotshol.chol.todaiin.daiin-{plant}
+#
+<f21v.P.7;H>       ykcho.lchol.chol!chaiin.otchy.s.sheaiin-{plant}
+<f21v.P.7;C>       ykcho.lchol.chol.chaiin.otchy.s.sheaiin-{plant}
+<f21v.P.7;F>       ykcho.lchol.chol.chaiin.otchy.s.sheaiin-{plant}
+<f21v.P.7;U>       ykcho.lchol.chol!chaiin.otchy.s.sheaiin-{plant}
+#
+<f21v.P.8;H>       cho.l.kchochaiin=
+<f21v.P.8;C>       cho.l.kchochaiin=
+<f21v.P.8;F>       cho!l.kchochaiin=
+<f21v.P.8;U>       cho.l.kchochaiin=
+#

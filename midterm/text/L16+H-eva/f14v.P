@@ -1,0 +1,49 @@
+## <f14v.P> {}
+# text
+# Last edited on 1998-12-06 20:18:20 by stolfi
+#
+<f14v.P.1;H>       pdychoiin.yfodain.oty!shy.dy.ypchor.daiin.kol.ydain-
+<f14v.P.1;C>       pdychoiin.yfodain.oty.chy.dy.ypchor.daiin.kol.ydain-
+<f14v.P.1;F>       pdychoiin.yfodain.oty!shy.dy.ypchor.daiin.kol.ydain-
+<f14v.P.1;U>       pdychoiin.yfodain.oty!shy.dy.ypchor.daiin.kol!ydain-
+#
+<f14v.P.2;H>       okchor.d!chy.tshy.oky.chy.cthy.otchy.ty.chol.daiin-
+<f14v.P.2;C>       okchor.d.chy.tshy.oty.chy.cthy.otchy.ty.chol.daiin-
+<f14v.P.2;F>       okchor.d!chy.tshy.oky.chy.cthy.otchy.ty.chol.daiin-
+<f14v.P.2;U>       okchor.d!chy.tshy.oky.chy.cthy.otchy!ty.chol.daiin-
+#
+<f14v.P.3;H>       ychy.dy.daiin.chcthy.yky!kaiin.dytchy.ykchy.ky.dy-
+<f14v.P.3;C>       ychy.dy.daiin.chcthy.yky!!aiin.dytchy.ykchy.ky!dy-
+<f14v.P.3;F>       ychy.dy.daiin.chcthy.yky.kaiin.dytchy.ykchy.ky.dy-
+<f14v.P.3;U>       ychy.dy.daiin.chcthy.yky!kaiin.dytchy.ykchy!ky.dy-
+#
+<f14v.P.4;H>       ytychy.ksho.ykshy.shok!shor.yty.darody.dy!otyds-
+<f14v.P.4;C>       ytychy.ksho.ykshy.shok!shor.yty.darody.dy.otyds-
+<f14v.P.4;F>       ytychy.ksho.ykshy.shok.shor.yty.darody.dy!otyds-
+<f14v.P.4;U>       ytyshy.ksho.ykshy.shok!shor.yty.darody.dy.otyds-
+#
+<f14v.P.5;H>       okshy.daiin.okchor.chky.qotchy.daiin.cthor.oty-
+<f14v.P.5;C>       okshy.daiin.okchor.chky.qotchy.daiin.cthor.oty-
+<f14v.P.5;F>       okshy.daiin.okchor.chky.qotchy.daiin.cthor.oty-
+<f14v.P.5;U>       okshy.daiin.okchor.chky.qotchy.daiin.cthor.oty-
+#
+<f14v.P.6;H>       qoty.choky.cthy.chokchy.dy!dy!dy.chckhy.dchyd.n-
+<f14v.P.6;C>       qoty.choky.cthy.chokchy.dy.dy.dy.chckhy.dchyd.n-
+<f14v.P.6;F>       qoty.choky.cthy.chokchy.dy!dy!dy.chckhy.dchyd.n-
+<f14v.P.6;U>       qoty.choky.cthy.chokchy.dy.dy.dy.chckhy.dchyd.n-
+#
+<f14v.P.7;H>       oykshy.choty.dy!dy.odyd.otchy.o!kchy.dshy.dardy-
+<f14v.P.7;C>       oykshy.choky.dy.dy.odyd.otchy.o.kchy.dshy.dardy-
+<f14v.P.7;F>       oykshy.choty.dy!dy!odyd.otchy.o!kchy.dshy.dardy-
+<f14v.P.7;U>       oykshy.choty.dy.dy.odyd.otchy.o!kchy.dshy.dardy-
+#
+<f14v.P.8;H>       chokshor.daiin-{plant}okshody.daiin-{plant}dol.dair.dam-
+<f14v.P.8;C>       chokshor.daiin-{plant}okshydy.daiin-{plant}dol.dair.dam-
+<f14v.P.8;F>       chokshor.daiin-{plant}okshody.daiin-{plant}dol!dair.dam-
+<f14v.P.8;U>       chokshor.daiin-{plant}okshody.daiin-{plant}dol.dair.dam-
+#
+<f14v.P.9;H>       dykchy.ctholdg-{plant}dchckhy=
+<f14v.P.9;C>       dykchy.ctholdg-{plant}dchckhy=
+<f14v.P.9;F>       dykchy.ctholdm-{plant}dchckhy=
+<f14v.P.9;U>       dykshy.ctholdm-{plant}dchckhy=
+#

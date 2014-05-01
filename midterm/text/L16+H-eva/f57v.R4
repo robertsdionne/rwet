@@ -1,0 +1,22 @@
+## <f57v.R4> {}
+# Inner ring of text, clockwise from the wide NW gap.
+# Last edited on 1998-12-08 09:59:07 by stolfi
+#
+# "V" translation by John Grove
+# "U" tranlation by J. stolfi from unidentified scan.
+#
+# Weirdos:
+#
+#   &170 = like "h" with top detached (#13 of the 17-element sequence)
+#   &171 = gallows with three loops (#14 of the 17-element sequence)
+#   &I   = first half of "ih" (#16 of the 17-element sequence)
+#   &^   = top half of "y"
+#
+# The notation {#NN} means item NN of the 17-element sequence, i.e. <f57v.R2.NN;V>
+#
+# The first "o" actually lies just before the NW radial line
+#
+<f57v.R4.1;H>      o.v.l.r.m.aiin.d.*{&170}.c!!!!.f.s.y.l.k.x.l.r.*{&171}.ar.o.s.*!!!!.t.l.s!!!.d.y.!!ar.teodar.otodar.sheky.otchody.x!s!l=
+<f57v.R4.1;V>      o.v.l.r.m.aiin.d.*{&170}.c!!!!.f.s.y.l.k.x.l.r.*{&171}!ar.o.r.*!!!!.t.l.s{?}.d.y.d!ar.teodar.otadal.shcky!oteeody.x.r.l=
+<f57v.R4.1;U>      o.v.l.r.m.aiin.d.*{&170}.c{&I}.f.r.y.l.k.x.l.r.*{&171},ar.o,r.*{&^}.t.l.s!!!.d.y.d,ar.teodar.otadal.sheky.otchody.x.r.l=
+#

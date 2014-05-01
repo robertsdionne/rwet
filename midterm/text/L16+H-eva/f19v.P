@@ -1,0 +1,71 @@
+## <f19v.P> {}
+# text
+# Last edited on 1998-12-19 18:55:39 by stolfi
+#
+# "U" transcription by J. Stolfi from Jacques Guy's and another unidentified image.
+#
+<f19v.P.1;H>       pochaiin.cthor.chpcheos.opchey.py.kchy-{plant}
+<f19v.P.1;C>       pochaiin.cthor.chpcheor.opchey.py.kchy-{plant}
+<f19v.P.1;F>       pochaiin.cthor.chpcheos.opchey.py!kchy-{plant}
+<f19v.P.1;U>       pochaiin.cthor.chpcheos.opchey.py.kchy-{plant}
+#
+<f19v.P.2;H>       qokchy.kchol.sor.qokchos.ykchy.darom-{plant}
+<f19v.P.2;C>       qokchy.kchol.sor.qokchor.ykchy.darom-{plant}
+<f19v.P.2;F>       qokchy.kchol.sor.qokchos.ykchy.darom-{plant}
+<f19v.P.2;U>       qokchy.kchol.sor.qokchor.ykchy.darom-{plant}
+#
+<f19v.P.3;H>       otchy.chol.daiin.qotol.ytol.daii!n-{plant}
+<f19v.P.3;C>       otchy.chol.daiin.qotol.ytol.daiiin-{plant}
+<f19v.P.3;F>       otchy.chol.daiin.qotol.ytol.daii!n-{plant}
+<f19v.P.3;U>       otchy.chol.daiin.qotol.ytol.daiiin-{plant}
+#
+<f19v.P.4;H>       ytch.chcthy.qotol.daiin.daiin-{plant}
+<f19v.P.4;C>       ytch.chcthy.qotol.daiin.daiin-{plant}
+<f19v.P.4;F>       ytch.chcthy.qotol.daiin.daiin-{plant}
+<f19v.P.4;U>       ytch.chcthy.qotol.daiin.daiin-{plant}
+#
+<f19v.P.5;H>       qotchy.qo!teey.daiin.doty.qot-{plant}
+<f19v.P.5;C>       qotchy.qo!tchy.daiin.doty.qot-{plant}
+<f19v.P.5;F>       qotchy.qo!teey.daiin.doty.qot-{plant}
+<f19v.P.5;U>       qotchy.qocth*y.daiin.doty.qot-{plant}
+#
+<f19v.P.6;H>       ychoy.kchor.cthol.chocthy.s-{plant}
+<f19v.P.6;C>       %%%%%%%%%%%%%%%%%%%%%%%%%%%-{plant}
+<f19v.P.6;F>       ychoy.kchor.cthol.chocthy.s-{plant}
+<f19v.P.6;U>       ychoy.kchor.cthol.chocthy.s-{plant}
+#
+<f19v.P.6a;H>      ycho.r.chaiin.cthor=
+<f19v.P.6a;C>      ycho!r.chaiin.cthor=
+<f19v.P.6a;F>      ycho.r.chaiin.cthor=
+<f19v.P.6a;U>      ycho,r.chaiin.cthor=
+#
+<f19v.P.7;H>       toy.tchey.qo.dchol.qokchs.dom-{plant}
+<f19v.P.7;C>       toy.tchey.qo.dchol.qokchs.dom-{plant}
+<f19v.P.7;F>       toy.tchey.qo.dchol.qokchs.dom-{plant}
+<f19v.P.7;U>       toy.tchey.qo.dchol.qokchs.dom-{plant}
+#
+<f19v.P.8;H>       ychor.oky.chor.ytal.chol.oky.ddor-{plant}
+<f19v.P.8;C>       ychor.oky.chor.ytol.chol.oky.ddor-{plant}
+<f19v.P.8;F>       ychor.oky.chor.ytal.chol.oky!ddor-{plant}
+<f19v.P.8;U>       ychor.oky.chor.ytol.chol.oky,ddor-{plant}
+#
+<f19v.P.9;H>       daiin.chor.daiin.qokor.y.okchan-{plant}
+<f19v.P.9;C>       daiin.chor.daiin.qokoq.y.okchan-{plant}
+<f19v.P.9;F>       daiin.chor.daiin.qokor.y!okchan-{plant}
+<f19v.P.9;U>       daiin.chor.daiin.qoto*!y.okchan-{plant}
+#
+<f19v.P.10;H>      qotol.dar.okchor.daiin.cthor.otam-{plant}
+<f19v.P.10;C>      qotol.dor.okchor.daiin.cthor.otam-{plant}
+<f19v.P.10;F>      qotol.dar.okchor.daiin.cthor.otam-{plant}
+<f19v.P.10;U>      qotol.dor.okchor.daiin.cthor.otam-{plant}
+#
+<f19v.P.11;H>      otch.okchod!shy.daiin.or.otaiin.dais-{plant}
+<f19v.P.11;C>      otch.okchod!shy.daiin.or.otaiin.dair-{plant}
+<f19v.P.11;F>      otch.okchod.shy.daiin.or.otaiin.dair-{plant}
+<f19v.P.11;U>      otch.okchod!shy.daiin.or.otaiin.dair-{plant}
+#
+<f19v.P.12;H>      yees.ykchol.oty.ytor.ytar.ytchor.ytaiin={plant}
+<f19v.P.12;C>      yees.ykchol.oty.ytor.ytar.ytchor.ytaiin={plant}
+<f19v.P.12;F>      yees.ykchol.oty.ytor.ytar.ytchor.ytaiin={plant}
+<f19v.P.12;U>      yees.ykchol.oty.ytor.ytar.ytchor.ytaiin={plant}
+#

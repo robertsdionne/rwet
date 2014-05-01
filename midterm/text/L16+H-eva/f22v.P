@@ -1,0 +1,85 @@
+## <f22v.P> {}
+# text
+# Last edited on 1998-12-11 13:54:30 by stolfi
+#
+# "U" transcription by J. Stolfi from Jacques Guy's scanned image.
+#
+# Weirdos:
+#
+#  &o' = <o> with plume
+#
+<f22v.P.1;H>       pysaiinor.ofchar.oky.tchy.otdy-{plant}sor.shy.qo!!!!!d-
+<f22v.P.1;C>       posaiinor.ofchar.oky.tchy.otdy-{plant}sor.shy.q*!!!!!d-
+<f22v.P.1;F>       pysaiinor.ofchar.oky.tchy.otdy-{plant}sor.shy.qo!!!!!d-
+<f22v.P.1;U>       pysaiinor.ofchar.oky.tchy.otdy-{plant}sor.sho.qo{&o'}d-
+#
+<f22v.P.2;H>       daiin.ykaiin.qotchy.kchy.ytchyd-{plant}dshor.ychy-
+<f22v.P.2;C>       daiin.ykaiin.qotchy.kchy.otchyd-{plant}dshor.ychy-
+<f22v.P.2;F>       daiin.ykaiin.qotchy.kchy.otchyd-{plant}dshor.ychy-
+<f22v.P.2;U>       daiin.ykaiin.qotchy.kchy.otchyd-{plant}dshor.ychy-
+#
+<f22v.P.3;H>       qoky.kchorl.otchy.cthy.otchy!ky-{plant}ytchol.otam-
+<f22v.P.3;C>       qoky.kchorl.otchy.cthy.otchy!ky-{plant}ytchol.otam-
+<f22v.P.3;F>       qoky.kchorl.otchy.cthy.otchy.ky-{plant}ytchol.otam-
+<f22v.P.3;U>       qoky.kchorl.otchy.cthy.otchy!ky-{plant}otchol.otam-
+#
+<f22v.P.4;H>       otchaiin.shoty.qoky-{plant}saiin-{plant}odaiin.ytaiin-
+<f22v.P.4;C>       otchaiin.shoty.qoky-{plant}saiin-{plant}odaiin.ytaiin-
+<f22v.P.4;F>       otchaiin.shoty.qoky-{plant}saiin-{plant}odaiin.ytaiin-
+<f22v.P.4;U>       otchaiin.shoty.qoky-{plant}saiin-{plant}odaiin.ytaiin-
+#
+<f22v.P.5;H>       dor.ykcheor.daiin!={plant}
+<f22v.P.5;C>       dor.ykcheor.daiin!={plant}
+<f22v.P.5;F>       dor.ykcheor.daiin!={plant}
+<f22v.P.5;U>       dor.ykcheor.daii**={plant}
+#
+<f22v.P.6;H>       fshor.shy.tchor.otaiin-{plant}
+<f22v.P.6;C>       fshor.shy!tchor.otaiin-{plant}
+<f22v.P.6;F>       fshor.shy.tchor.otaiin-{plant}
+<f22v.P.6;U>       fshor.shy.tchor.otaiin-{plant}
+#
+<f22v.P.7;H>       ychor.chor.qokchol.chory-{plant}
+<f22v.P.7;C>       ychor.chor.qokchol.chory-{plant}
+<f22v.P.7;F>       ychor.chor.qokchol.chory-{plant}
+<f22v.P.7;U>       ychor.chor.qokchol.chory-{plant}
+#
+<f22v.P.8;H>       qotchy.cthy.qokol.daiin.dam-{plant}
+<f22v.P.8;C>       qotchy.cthy.qokol.daiin.dam-{plant}
+<f22v.P.8;F>       qotchy.cthy.qokol.daiin.dam-{plant}
+<f22v.P.8;U>       qotchy.cthy.qokol.daiin.dam-{plant}
+#
+<f22v.P.9;H>       okshor.shody.chol.teeol.otaiin.daiin-{plant}
+<f22v.P.9;C>       okshor.shody.chol.tchol.otaiin.daiin-{plant}
+<f22v.P.9;F>       okshor.shody.chol.teeol.otaiin.daiin-{plant}
+<f22v.P.9;U>       okshor.shody.chol.tchol.otaiin.daiin-{plant}
+#
+<f22v.P.10;H>      qokchy.daiin.s-{plant}or.ytal-{plant}
+<f22v.P.10;C>      qokchy.daiin.s-{plant}or.ytal-{plant}
+<f22v.P.10;F>      qokchy.daiin.s-{plant}or!ytal-{plant}
+<f22v.P.10;U>      qokchy.daiin.s-{plant}or.ytal-{plant}
+#
+<f22v.P.11;H>      sokaiin.oty.dy-{plant}
+<f22v.P.11;C>      sokaiin.oty.dy-{plant}
+<f22v.P.11;F>      sokaiin.oty.dy-{plant}
+<f22v.P.11;U>      sokaiin.oty!dy-{plant}
+#
+<f22v.P.12;H>      ychky.daiin.cthy-{plant}
+<f22v.P.12;C>      ykchy.daiin.cthy-{plant}
+<f22v.P.12;F>      ychky.daiin.cthy-{plant}
+<f22v.P.12;U>      ychky.daiin.cthy-{plant}
+#
+<f22v.P.13;H>      okchain.chkoldy.shotoly-{plant}
+<f22v.P.13;C>      okchain.chkoldy.shotoly-{plant}
+<f22v.P.13;F>      okchain.chkoldy.shotoly-{plant}
+<f22v.P.13;U>      okchain.chkoldy.shotoly-{plant}
+#
+<f22v.P.14;H>      qotchy.olshly.shol.daiin-{plant}
+<f22v.P.14;C>      qotchy.olshly.shol.daiin-{plant}
+<f22v.P.14;F>      qotchy.olshly.shol.daiin-{plant}
+<f22v.P.14;U>      qotchy.olshey.shol.daiin-{plant}
+#
+<f22v.P.15;H>      sho.cthy.chocthy.qokchy.dory={plant}
+<f22v.P.15;C>      sho.cthy.chocthy.qokchy.dory={plant}
+<f22v.P.15;F>      sho.cthy.chocthy.qokchy.dory={plant}
+<f22v.P.15;U>      sho.ctho.chocthy.qokchy.dory={plant}
+#

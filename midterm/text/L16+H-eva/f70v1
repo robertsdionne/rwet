@@ -1,0 +1,172 @@
+## <f70v1>          {$I=Z $Q=J $P=F}
+# Last edited on 1998-11-02 03:18:15 by stolfi
+#
+# Identification:
+#
+#   Title: "Aries dark"
+#   Page: f70v1 = JF (Rene) = p134 (Stolfi)
+#   Folio: f70
+#   Panels: f70v1
+#   Bifolio: bJ1 = f69+f70
+#   Quire: J (Rene) = X (Beinecke)
+#
+#   This page is the innermost verso panel of a six-panel fold-out.
+#
+#   Plate 1 of Tiltman's article.
+#
+# Attributes:
+#
+#   Language: ? (Currier)
+#   Hand: ? (Currier)
+#   Subsets: Z (Rene), zod (Stolfi)
+#   Subject: zodiac
+#   Colors: green(touches),yellow(touches) (Reeds)
+#
+# Description:
+#
+#   A circular diagram defined by three narrow concentric bands, each
+#   delimited by two faint, mechanically drawn circles.
+#
+#   The innermost band is quite narrow, and empty. The middle and
+#   outer bands contain each a ring of text, reading clockwise. The
+#   text in the middle band (unit "R1") has a slightly wider word gap
+#   at 06:00, and is interrupted at 08:30 by a black irregular spot.
+#   (The same spot appears on the facing page f71r, quod videt.) The
+#   text in the outer band (unit "R2") has a noticeably wider word gap
+#   at 03:45. Both rings are penetrated at 10:30 by "stars"---see
+#   below).
+#
+#   Inside the innermost band is a four-legged, hoofed animal
+#   resembling a beardless goat. The animal has short fur
+#   (dark-colored), sharp horns that curve packwards, and a short and
+#   chubby tail. It also seems to have a crest of short hairs running
+#   along the spine, from head to tip of tail.
+#
+#   The animal is nibbling at a bush, standing on a scalloped (rocky?)
+#   ground. Below the animal's belly is a non-Voynichese word.
+#
+#   In the broad space between the ouer and middle bands there are 10
+#   human figures, or "nymphs"; and 5 more in the space between the
+#   middle and inner bands---or 15 nymphs in total. Each nymph is
+#   standing (radially, with the head outwards) in frontal view, or
+#   slightly turned towards the corresponding "star" (see below). All
+#   nymphs look female; most have prominent breasts, and the two
+#   exceptions (in frontal view) are rather poorly drawn, so the lack
+#   of breasts is not conclusive.
+#
+#   Some of the nymphs are dressed, but the nipples and body outline
+#   often show threough the dress. Most nymphs, even naked ones, wear
+#   some kind of headgear (hat, veil, diadem, etc.)
+#
+#   Every nymph is standing inside an upright cylindrical container or
+#   "barrel". In proportion to the nymph, the barrel is about two feet
+#   wide, and has a "lip" a couple of inches wide. It usually reaches
+#   up to the nymph's pelvis---sometimes bit lower, sometimes up to
+#   her chest. Most of the barrels are decorated with distinctive
+#   patterns of bars, dots, hatchings, circles, scales, etc.; but two
+#   barrels have only a ring of dots, near the top edge, and three are
+#   undecorated. The base of the barrel is hidden by the text band.
+#
+#   Each nymph has a star or flower by her head; usually on the
+#   clockwise side, with four exceptions (inner 00:00, 02:30, 05:00,
+#   and outer 03:30). Some stars have wire-like tails or stems. The
+#   star at 10:30 in the inner band has a thicker, distinctive tail,
+#   like a banded snake. Moreover, the two stars at 10:30 (inner and
+#   outer) intrude slightly into the surrounding text ring.
+#
+#   Some nymphs are holding their stars (by a ray or by the tail);
+#   others are pointing at them; and some have both hands on the hips,
+#   usually hidden by the barrel.
+#
+#   Between every two nymphs there is a one- or two-word label (units
+#   "S1" and "S2"), reading clockwise. From the spacing, it would seem
+#   that every label refers to the preceding nymph, going clockwise.
+#
+#   The following table summarizes the nymph and star attributes. The
+#   "spos" column gives the position of the star relative to the
+#   nymph: "cw" if clockwise, "ccw" if counterclockwise. The "deco"
+#   column tells whether the barrel has "full" decoration, or just a
+#   ring of "dots", or "no" decoration at all. The "dres" and "brst"
+#   columns say whether the nymph is dressed and has visible female
+#   breasts, respectively. The "hold" column says whether the nymph is
+#   holding the star (by a ray, or by the tail if present).
+#
+#     band   label place deco dres brst spos tail hold notes
+#     ------ ----- ----- ---- ---- ---- ---- ---- ---- ------------------
+#     inner  S1.1  10:30 full no   ?    cw   yes  no?  striped star tail
+#     inner  S1.2  00:00 full no   yes  ccw  yes  no   
+#     inner  S1.3  02:30 dot  yes  ?    ccw  yes  no        
+#     inner  S1.4  04:00 no   yes  no   ccw  yes  no        
+#     inner  S1.5  08:00 dot  yes  yes  cw   yes  no   
+#     
+#     outer  S2.1  10:30 no   no   ?    cw   yes  yes  thicker star tail
+#     outer  S2.2  00:00 no   no   yes  cw   no   yes  
+#     outer  S2.3  01:30 full yes  no   cw   yes  no   
+#     outer  S2.4  02:45 full yes  no   cw   no   yes       
+#     outer  S2.5  03:45 full yes  ?    ccw  yes  no        
+#     outer  S2.6  04:45 full yes  yes  cw   yes  no   
+#     outer  S2.7  05:45 dot  yes  yes  cw   yes  no   
+#     outer  S2.8  07:00 full no   yes  cw   yes  no   
+#     outer  S2.9  08:00 full yes  yes  cw   no   yes  
+#     outer  S2.10 09:00 full no   yes  cw   no   yes  
+#    
+#   There is a mark "10^{mg}" at the lower right corner of the page. 
+#   It is certainly a gathering mark (quire number), "10th" in
+#   abbreviated Latin.
+#
+# Comments:
+#
+#   STYLE AND LAYOUT
+#
+#   The ram/goat is drawn very skillfully and looks quite realistic,
+#   except that the way its front legs bend looks wrong. (But I am 
+#   a city boy, what do I know...)
+#
+#   The barrels are drawn rather poorly: better than those of f71r
+#   (Aries light) but worse than those of f70v2 (Pisces). The width
+#   and height are quite variable. The perspective is minimally
+#   correct, but the top of the barrel is tilted at varying angles
+#   relative to the observer, from near edge-on (outer 08:00) to
+#   almost face-on (inner 02:30). In three cases (outer 02:45 and
+#   03:45, inner 08:00) the top is rendered as an eye, not an ellipse.
+#   
+#   The pattern on the inner barrel at 00:00 is rather peculiar.
+#   Unlike the other patterns it is neither symmetric nor repeating;
+#   it looks rather like a cubist painting. It looks as if the barrel
+#   is made of glass, so that the nymph's legs and hands are showing
+#   through. (Perhaps the pattern was drawn to hide a mistake, or 
+#   an artistic failure?)
+#
+#   THE CENTRAL EMBLEM
+#
+#   The central figure is widely believed to be a symbol of the sign
+#   Aries. The word below the animal could be "ab**il" in the Latin
+#   alphabet. It is traditionally read as some variant of the month
+#   name "April". Aries goes from ??? to ???.
+# 
+#   THE TEXT RINGS
+#
+#   There is no obvious starting place for the text rings. The wider
+#   breaks at 04:00 (outer) and 06:00 (inner) are not aligned, and do
+#   not seem to be natural choices for starting the text. The binding
+#   gutter at 03:00 is not it either, as the text was visibly squeezed
+#   to fit in that part of the ring. 
+#
+#   The most likely starting places, IMHO, are the places at 10:45
+#   where the stars intrude into the text bands. Note that the inner
+#   star has the special striped "tail", and the outer star is being
+#   held high up by the nymph. (However, the first star enters just
+#   before a "daiin", and the second one under a word; so there is
+#   reason to doubt.)
+#
+#   THE NYMPHS
+#
+#   Either the dresses are meant to be transparent, or they were added
+#   later, in an attempt to mask the naked bodies.
+#
+#   THE LABELS
+#
+#   The outer label at 08:30 (<f70v1.S1.9;U>) reads "otshshdy" in standard EVA.
+#   The two "sh" have quite different plumes---the first one is a closed
+#   drop-like loop, the second is a open hook.
+#

@@ -1,0 +1,54 @@
+## <f47r.P> {}
+# text
+# Last edited on 1998-12-07 11:18:03 by stolfi
+#
+<f47r.P.1;H>       pchair.oly.sheaiin.shol.daiin.chdy-{plant}
+<f47r.P.1;C>       pchair.oly.sheaiin.shol.daiin.chdy-{plant}
+<f47r.P.1;F>       pchair.oly.sheaiin.shol.daiin.chdy-{plant}
+<f47r.P.1;G>       pchair!oly.sheaiin.shol.daiin.chdy-{plant}
+#
+<f47r.P.2;H>       chokchol.chol.chol!dy.dair.chad.aiin-{plant}
+<f47r.P.2;C>       chokchol.chol.chol.dy.dair.chaj!aiin-{plant}
+<f47r.P.2;F>       chokchol.chol.chol!dy.dair.chad!aiin-{plant}
+#
+<f47r.P.3;H>       dor.chol.chy.chaiin.ckhey.chol.dai!n.okaiin-{plant}
+<f47r.P.3;C>       dor.chol.chy.chaiin.ckhey.chol.dai!n.okaiin-{plant}
+<f47r.P.3;F>       dor.chol.chy.chaiin.ckhey.chol.dai!n.okaiin-{plant}
+<f47r.P.3;G>       dor.chol.chy.chaiin.ckhey.chol.daiin.okaiin-{plant}
+#
+<f47r.P.4;H>       qokcheo.cthey.chokai!n.chol.daiin.kchdal-
+<f47r.P.4;C>       qokcheo.cthey.chokai!n.chol.daiin.kchdal-
+<f47r.P.4;F>       qokcheo.cthey.chokai!n.chol.daiin.kchdal-
+<f47r.P.4;G>       qokcheo.cthey.chokaiin.chol.daiin.kchdal-
+#
+<f47r.P.5;H>       dain.ol.shey.chokol!g=
+<f47r.P.5;C>       dain.ol!shey.chokol.g=
+<f47r.P.5;F>       dain.ol.shey.chokol!m=
+#
+<f47r.P.6;H>       folr.chey.so.chol.shol.aiin.shol.shol.chdy.cholol-{plant}
+<f47r.P.6;C>       folr.chey.so.chol.shol.aiin.shol.shol.chdy.cholol-{plant}
+<f47r.P.6;F>       folr.chey.so.chol.shol!aiin.shol.shol.chdy.cholol-{plant}
+#
+<f47r.P.7;H>       schesy.kchor.cthaiin.chol.chol.chol.chor.ckhhy-
+<f47r.P.7;C>       schesy.kchor.cthaiin.chol.chol.chol.chor.ckhey-
+<f47r.P.7;F>       schesy.kchor.cthaiin.chol.chol.chol.chor.ckhey-
+#
+<f47r.P.8;H>       shokeey.chy.tchod.choy.sho.chtchy!f.!char.ctham-{plant}
+<f47r.P.8;C>       shokeey.chy.tchod.choy.sho.chtchy.p!ach!r.ctham-{plant}
+<f47r.P.8;F>       shokeey.chy.tchod.choy.sho.chtchy.p!!char.ctham-{plant}
+<f47r.P.8;G>       shokeey.chy.tchod.cho*.sho.chtchy.p!!char.ctham-{plant}
+#
+<f47r.P.9;H>       qoko.kor.chaiin.okal.chol.daiin.okcho.kchor.sy-{plant}
+<f47r.P.9;C>       !oko.kor.chaiin.okal.chol.daiin.okcho.kchor.sy-{plant}
+<f47r.P.9;F>       qoko.kor.chaiin.okal.chol.daiin.okcho.kchor.sy-{plant}
+#
+<f47r.P.10;H>      shy.otcho.kee!!y.tor.chey.otchy.tchol.dai!n.dam-{plant}
+<f47r.P.10;C>      chy.otcho.kchchy.tor.chey.otchy.tchol.dai!n.dam-{plant}
+<f47r.P.10;F>      shy.otcho.kee!!y.tor.chey.otchm.tchol.dai!n.dam-{plant}
+<f47r.P.10;G>      chy.otcho.kee!!y.tor.chey.otchm.tchol.daiin.dam-{plant}
+#
+<f47r.P.11;H>      dsho.cphy.daiin.daiin.y={plant}
+<f47r.P.11;C>      dsho.cphy.daiin.daiin.y={plant}
+<f47r.P.11;F>      dsho.cphy.daiin.daiin!y={plant}
+<f47r.P.11;G>      dcho.cphy.daiin.daiin!y={plant}
+#

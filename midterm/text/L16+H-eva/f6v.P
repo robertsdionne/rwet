@@ -1,0 +1,117 @@
+## <f6v.P> {}
+# text
+# Last edited on 1998-12-06 13:24:03 by stolfi
+#
+<f6v.P.1;H>        koar.y.sar.oheekar.qoar.shor.chapchy.s.chear.char.otchy-
+<f6v.P.1;C>        koar!y!sar!oeeekar.qoad.shor.chapchy.s.chear.char.otchy-
+<f6v.P.1;D>        koar!y!sar!cheekar.qoad.shor.chapchy.s.chear.char.otchy-
+<f6v.P.1;F>        koar!y.sar.cheekar.qoor.shor.chapchy.s.chear.char.otchy-
+<f6v.P.1;U>        koar!y.sar.cheekar.qoar.shor.chapchy.s.chear.char.otchy-
+#
+<f6v.P.2;H>        oees.chor.chckhy.qoekchar.cheas.odaii!n.kchey.chor.chaiin-
+<f6v.P.2;C>        oees.chor.chckhy.qo!kchas.cheas.odaiiin.kchey.chor.chaiin-
+<f6v.P.2;F>        oees.chor.chckhy.qoekchar.cheas.odaii!n.kchey.chor.chaiin-
+<f6v.P.2;U>        oiir.chor.chckhy.qo!kchar.cheas.odaiiin.kchey.chor.chaiin-
+#
+<f6v.P.3;H>        qoair.ckhy.chol.oochockhy.chekchoy.ckhy.okol-{plant}rychos-
+<f6v.P.3;C>        qoeir.ckhy.chol.**e!ockhy.chekchoy.ckhy.okol-{plant}rychos-
+<f6v.P.3;F>        qoair.ckhy.chol.oochockhy.chekchoy.ckhy.okol-{plant}sychos-
+<f6v.P.3;U>        qoair.ckhy.chol.qochockhy.chetchoy.ckhy.okol-{plant}rychos-
+#
+<f6v.P.4;H>        y.shckhy.ytchoy.s!os.y.dady.dchy.dey.okody-{plant}ytody-
+<f6v.P.4;C>        y!shckhy.ykchoy.s.os.y.dajy.dchy.dey.okody-{plant}ytody-
+<f6v.P.4;D>        y!shckhy.ykchoy.s.os.y.jajy.dchy.dey.okody-{plant}ytody-
+<f6v.P.4;F>        y!chckhy.ytchoy.s!os.y.dady.dchy.dey.okody-{plant}ytody-
+<f6v.P.4;U>        y!shckhy.ytchoy.s!os.y.dady.dchy.dey.okody-{plant}ytody-
+#
+<f6v.P.5;H>        dair.cshe.chodam.dam.okor.oty.dol!dom=
+<f6v.P.5;C>        dain.**!!.chodam.dam.okor.oty.dol!dom=
+<f6v.P.5;F>        dain.sh**.chodam.dam.okor.oty.dol.dom=
+<f6v.P.5;U>        dair.!sha.chodam.dam.okor.oty-dol.dom=
+#
+<f6v.P.6;H>        tchody.shocthol.chocthey.s-{plant}
+<f6v.P.6;C>        tchody.shocthol.chocthey.s-{plant}
+<f6v.P.6;F>        tchody.shocthol.chocth!y.s-{plant}
+<f6v.P.6;U>        tchody.shocthol.chocthey.s-{plant}
+#
+<f6v.P.7;H>        ychos.ychol.daiin.cthol.dol-{plant}
+<f6v.P.7;C>        ychos.ychol.daiin.cthol.dol-{plant}
+<f6v.P.7;F>        ychos.ychol.daiin.cthol.dol-{plant}
+<f6v.P.7;U>        ychos.ychol.daiin.cthol.dol-{plant}
+#
+<f6v.P.8;H>        ychor.chor.okchey.qokom-{plant}
+<f6v.P.8;C>        ychor.chor.okchey.qokom-{plant}
+<f6v.P.8;D>        ychor.chor.okchey.qokog-{plant}
+<f6v.P.8;F>        ychor.chor.okchey.qokom-{plant}
+<f6v.P.8;U>        ychor.chor.okchey.qokom-{plant}
+#
+<f6v.P.9;H>        oeeo.dal.chor.cthom.s-{plant}
+<f6v.P.9;C>        oeeo!dal.chor.cthom.s-{plant}
+<f6v.P.9;F>        oeeo.dal.chor.cthom.s-{plant}
+<f6v.P.9;U>        oeeo.dal.chor.cthom.s-{plant}
+#
+<f6v.P.10;H>       qokche*.ychear.kchdy-{plant}
+<f6v.P.10;C>       qokchod.ychear.kchdy-{plant}
+<f6v.P.10;F>       qokchod.ychear.kchdy-{plant}
+<f6v.P.10;U>       qokchod.ychear.kchdy-{plant}
+#
+<f6v.P.11;H>       lor.char.otam.cthom.dy-{plant}
+<f6v.P.11;C>       lor!char.otam.ctho.mdy-{plant}
+<f6v.P.11;D>       lor!chor.otam.ctho.mdy-{plant}
+<f6v.P.11;F>       lor.char.otam.cthom.dy-{plant}
+<f6v.P.11;U>       lor.char.otam.cthom.dy-{plant}
+#
+<f6v.P.12;H>       ytchos.shy.qokam.cthy-{plant}
+<f6v.P.12;C>       ytchos.shy.qokam.cthy-{plant}
+<f6v.P.12;F>       ytchor.shy.qokam.cthy-{plant}
+<f6v.P.12;U>       ytchos.shy.qokam.cthy-{plant}
+#
+<f6v.P.13;H>       yodaiin.cthy.s.chor.oees.or-{plant}
+<f6v.P.13;C>       yodaiin.cthy.s.chor.oees.or-{plant}
+<f6v.P.13;D>       yodaiin.cthy.s.chos.oees.or-{plant}
+<f6v.P.13;F>       yodaiin.cthy.s.chor.oees.or-{plant}
+<f6v.P.13;U>       yodaiin.cthy.s.chor.oees.or-{plant}
+#
+<f6v.P.14;H>       qokor.chol.cthol.tchalody-{plant}
+<f6v.P.14;C>       qokor.chol.cthol.tchalody-{plant}
+<f6v.P.14;D>       qokor.chol.cthol.tcholody-{plant}
+<f6v.P.14;F>       qokor.chol.cthol.tchalody-{plant}
+<f6v.P.14;U>       qotor.chol.cthol.tchalody-{plant}
+#
+<f6v.P.15;H>       chockhy.s.os.chy.s!ain.or-{plant}
+<f6v.P.15;C>       chockhy.s.or.chy.s!ain.or-{plant}
+<f6v.P.15;F>       chockhy.s.os.chy.s!ain.or-{plant}
+<f6v.P.15;U>       chockhy.s.or.chy.s.ain.ar-{plant}
+#
+<f6v.P.16;H>       ochy.cthar.cthar.cthy-{plant}
+<f6v.P.16;C>       ochy.cthar.cthor.cthy-{plant}
+<f6v.P.16;D>       ochy.cthar.cthar.cthy-{plant}
+<f6v.P.16;F>       ochy.cthar.cthar.cthy-{plant}
+<f6v.P.16;U>       ochy.cthar.cthar.cthy-{plant}
+#
+<f6v.P.17;H>       y.chaiir.ckhal.cthodam.dy-{plant}
+<f6v.P.17;C>       y.chaiir.ckhal.cthodam.dy-{plant}
+<f6v.P.17;D>       y.chaier.ckhal.cthodam.da-{plant}
+<f6v.P.17;F>       y!chaiin.ckhal.cthodam.dy-{plant}
+<f6v.P.17;U>       y!chaiin.ckhal.cthodam.dy-{plant}
+#
+<f6v.P.18;H>       ytcho.cthol.ches.cthor-
+<f6v.P.18;C>       ytcho!cthol.ches.cthor-
+<f6v.P.18;F>       ytcho.cthol.ches.cthor-
+<f6v.P.18;U>       ytcho!cthol.ches.cthor-
+#
+<f6v.P.19;H>       ocholy.kchos.chy.dor-
+<f6v.P.19;C>       ocholy!kchos.chy.dor-
+<f6v.P.19;F>       ocholy.kchor.chy.dor-
+<f6v.P.19;U>       ocholy.kchor.chy.dor-
+#
+<f6v.P.20;H>       dchor.choldar.okol.daiin-
+<f6v.P.20;C>       dchor.choldar.okol.daiin-
+<f6v.P.20;F>       dchor.choldar.okol.daiin-
+<f6v.P.20;U>       dchor.choldar.okol.daiin-
+#
+<f6v.P.21;H>       ycheor.chor.octham=
+<f6v.P.21;C>       ycheor.chor.octham=
+<f6v.P.21;F>       ycheor.chor.octham=
+<f6v.P.21;U>       ycheor.chor.octham=
+#
