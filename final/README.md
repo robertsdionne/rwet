@@ -93,9 +93,9 @@ Four.
 
 ## prepare_data.py
 
-Process_voynich.py reads a Voynich manuscript transcription from standard input and extracts one
-transcription for each line to print to standard output, translating all special markers into
-spaces.
+Prepare_data.py reads in a word2vec vector database and outputs a text file representing the
+vocabulary of the database with one word per line. It also outputs a numpy 2d array that stores the
+vectors representing each word.
 
 ```bash
 $ ./prepare_data.py --help
@@ -116,16 +116,7 @@ optional arguments:
 ### Example
 
 ```bash
-$ ./process_voynich.py 
-<f1r.P1.1;H>       fachys.ykal.ar.ataiin.shol.shory.cth!res.y.kor.sholdy!-
-<f1r.P1.1;C>       fachys.ykal.ar.ataiin.shol.shory.cthorys.y.kor.sholdy!-
-#
-<f1r.P1.2;H>       sory.ckhar.o!r.y.kair.chtaiin.shar.are.cthar.cthar.dan!-
-<f1r.P1.2;C>       sory.ckhar.o.r.y.kain.shtaiin.shar.ar*.cthar.cthar.dan!-
-```
-```bash
-fachys ykal ar ataiin shol shory cth res y kor sholdy  
-sory ckhar o r y kair chtaiin shar are cthar cthar dan
+$ ./prepare_data.py --input vectors.bin --vocabulary vocabulary.txt --vectors vectors.dat
 ```
 
 ## translate.py
