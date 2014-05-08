@@ -119,13 +119,10 @@ optional arguments:
 $ ./prepare_data.py --input vectors.bin --vocabulary vocabulary.txt --vectors vectors.dat
 ```
 
-## translate.py
+## query.py
 
-Translate.py reads from standard input an ancient untranslated manuscript and prints to standard
-output a rhythmically plausible translation into English based on syllabic analysis. In addition to
-the ancient manuscript, the program reads a dictionary of pronunciations from the --dictionary
-argument and a source text providing possible translations from the --source argument. The output
-may be either text or HTML formatted.
+Query.py returns the words that most closely match the sum of the vectors of the words on each
+input line.
 
 ```bash
 $ ./query.py --help
@@ -145,19 +142,16 @@ optional arguments:
 ### Example
 
 ```bash
-$ ./translate.py --dictionary temp/cmudict07a.json --source temp/odyssey.txt
-fachys ykal ar ataiin shol shory cth res y kor sholdy  
-sory ckhar o r y kair chtaiin shar are cthar cthar dan
+$ ./query.py --vectors vectors.dat --vocabulary vocabulary.txt
+red fruit
 ```
-```bash
-fachys ykal ar ataiin shol shory cth res y kor sholdy
-ULYSSES ORDERED THEM ABOUT AND MADE THEM DO THEIR WORK QUICKLY, (10)
-
-sory ckhar o r y kair chtaiin shar are cthar cthar dan
-AND THE BOWLS IN WHICH HE WAS MIXING WINE FELL FROM HIS HANDS, (6)
+```
+red fruit flowers yellow white green dried purple colored chocolate
 ```
 
 ## sentences.py
+
+### Example
 
 ```bash
 $ ./sentences.py --help
