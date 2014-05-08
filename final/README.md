@@ -1,20 +1,20 @@
-# RWET Midterm Project
+# RWET/final Project
 
 Scripts:
 * setup.sh: creates a virtualenv environment and installs the editdistance module
 * run.sh: activates the virtualenv environment, preprocesses texts and generates poems.
 
 Four programs:
-* [distance.py](https://github.com/robertsdionne/rwet/tree/master/midterm#cleanup_textpy)
-    * [example](https://github.com/robertsdionne/rwet/tree/master/midterm#example)
-* [pair.py](https://github.com/robertsdionne/rwet/tree/master/midterm#cmudict_to_jsonpy)
-    * [example](https://github.com/robertsdionne/rwet/tree/master/midterm#example-1)
-* [prepare_data.py](https://github.com/robertsdionne/rwet/tree/master/midterm#process_voynichpy)
-    * [example](https://github.com/robertsdionne/rwet/tree/master/midterm#example-2)
-* [query.py](https://github.com/robertsdionne/rwet/tree/master/midterm#translatepy)
-    * [example](https://github.com/robertsdionne/rwet/tree/master/midterm#example-3)
-* [sentences.py](https://github.com/robertsdionne/rwet/tree/master/midterm#translatepy)
-    * [example](https://github.com/robertsdionne/rwet/tree/master/midterm#translatepy)
+* [distance.py](https://github.com/robertsdionne/rwet/tree/master/final#distancepy)
+    * [example](https://github.com/robertsdionne/rwet/tree/master/final#example)
+* [pair.py](https://github.com/robertsdionne/rwet/tree/master/final#pairpy)
+    * [example](https://github.com/robertsdionne/rwet/tree/master/final#example-1)
+* [prepare_data.py](https://github.com/robertsdionne/rwet/tree/master/final#prepare_datapy)
+    * [example](https://github.com/robertsdionne/rwet/tree/master/final#example-2)
+* [query.py](https://github.com/robertsdionne/rwet/tree/master/final#querypy)
+    * [example](https://github.com/robertsdionne/rwet/tree/master/final#example-3)
+* [sentences.py](https://github.com/robertsdionne/rwet/tree/master/final#sentencespy)
+    * [example](https://github.com/robertsdionne/rwet/tree/master/final#example-4)
 
 Generated poems:
 * [poems](http://robertsdionne.github.io/rwet/final/)
