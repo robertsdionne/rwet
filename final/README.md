@@ -7,23 +7,24 @@ Scripts:
 Four programs:
 * [distance.py](https://github.com/robertsdionne/rwet/tree/master/midterm#cleanup_textpy)
     * [example](https://github.com/robertsdionne/rwet/tree/master/midterm#example)
-* [cmudict_to_json.py](https://github.com/robertsdionne/rwet/tree/master/midterm#cmudict_to_jsonpy)
+* [pair.py](https://github.com/robertsdionne/rwet/tree/master/midterm#cmudict_to_jsonpy)
     * [example](https://github.com/robertsdionne/rwet/tree/master/midterm#example-1)
-* [process_voynich.py](https://github.com/robertsdionne/rwet/tree/master/midterm#process_voynichpy)
+* [prepare_data.py](https://github.com/robertsdionne/rwet/tree/master/midterm#process_voynichpy)
     * [example](https://github.com/robertsdionne/rwet/tree/master/midterm#example-2)
-* [translate.py](https://github.com/robertsdionne/rwet/tree/master/midterm#translatepy)
+* [query.py](https://github.com/robertsdionne/rwet/tree/master/midterm#translatepy)
     * [example](https://github.com/robertsdionne/rwet/tree/master/midterm#example-3)
+* [sentences.py](https://github.com/robertsdionne/rwet/tree/master/midterm#translatepy)
+    * [example](https://github.com/robertsdionne/rwet/tree/master/midterm#translatepy)
 
-Three generated poems:
-* [f1r_lightinaugust](http://robertsdionne.github.io/rwet/midterm/f1r_lightinaugust.html)
-* [f39v_rosettastone](http://robertsdionne.github.io/rwet/midterm/f39v_rosettastone.html)
-* [f81r_odyssey](http://robertsdionne.github.io/rwet/midterm/f81r_odyssey.html)
+Generated poems:
+* [poems](http://robertsdionne.github.io/rwet/final/)
 
 ## distance.py
 
-Cleanup_text.py reads a text from standard input, joins all lines together and then splits newlines
-after punctuation such as period (.), exclamation (!), question (?), comma (,), dash (-), colon (:)
-and semicolon (;), before printing the modified text to standard output.
+Distance.py is the main program which takes as input a couplet from a source text and then blends
+together each pair of words, one chosen from each line of the couplet, into a grid of new words to
+make a poem. It uses word vector data from the [word2vec](https://code.google.com/p/word2vec/)
+open source project to blend words together through vector addition.
 
 ```bash
 $ ./distance.py --help
@@ -48,11 +49,18 @@ optional arguments:
 ### Example
 
 ```bash
-$ echo 'What time. Such food.' | ./cleanup_text.py
+$ cat | ./distance.py --vocabulary vocabulary.txt --vectors vectors.dat
+Hello world.
+Where are you?
 ```
 ```
-What time.
-Such food.
+Hello world.
+Where are you?
+
+      Hello world.
+Where when when
+are   meleon these
+you?  yourself myself
 ```
 
 ## pair.py
