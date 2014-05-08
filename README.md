@@ -9,3 +9,4 @@ My blog has accompanying documentation: http://robertsdionne.tumblr.com/tagged/r
 * Homework #2: https://github.com/robertsdionne/rwet/tree/master/hw2#readme
 * Midterm: https://github.com/robertsdionne/rwet/tree/master/midterm#readme
 * Homework #3: https://github.com/robertsdionne/rwet/tree/master/hw3#readme
+* Final: https://github.com/robertsdionne/rwet/tree/master/final#readme
