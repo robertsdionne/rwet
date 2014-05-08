@@ -1,4 +1,4 @@
-# RWET/final Project
+# RWET Final Project
 
 Scripts:
 * prepare_virtualenv.sh: creates a virtualenv environment and installs the dependencies
