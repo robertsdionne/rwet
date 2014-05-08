@@ -1,10 +1,12 @@
 # RWET/final Project
 
 Scripts:
-* setup.sh: creates a virtualenv environment and installs the editdistance module
-* run.sh: activates the virtualenv environment, preprocesses texts and generates poems.
+* prepare_virtualenv.sh: creates a virtualenv environment and installs the dependencies
+* prepare_data.sh: downloads the word2vec project to obtain a small word vector database
+* prepare_data_big.sh: prompts the user to download [GoogleNews-vectors-negative300.bin.gz](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing)
+  and converts it to a very large (3.7 gigabyte) word vector database
 
-Four programs:
+Five programs:
 * [distance.py](https://github.com/robertsdionne/rwet/tree/master/final#distancepy)
     * [example](https://github.com/robertsdionne/rwet/tree/master/final#example)
 * [pair.py](https://github.com/robertsdionne/rwet/tree/master/final#pairpy)
@@ -16,8 +18,7 @@ Four programs:
 * [sentences.py](https://github.com/robertsdionne/rwet/tree/master/final#sentencespy)
     * [example](https://github.com/robertsdionne/rwet/tree/master/final#example-4)
 
-Generated poems:
-* [poems](http://robertsdionne.github.io/rwet/final/)
+## [Generated poems.](http://robertsdionne.github.io/rwet/final/)
 
 ## distance.py
 
