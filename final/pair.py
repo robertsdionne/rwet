@@ -6,7 +6,9 @@ import sys
 
 
 def main():
-  arguments = argparse.ArgumentParser(help = 'Chooses two neighboring non-empty lines at random.')
+  commands = argparse.ArgumentParser(
+      description = 'Chooses two neighboring non-empty lines at random.')
+  arguments = commands.parse_args()
 
   # read and strip all lines into a list
   lines = map(lambda line: line.strip(), sys.stdin.readlines())

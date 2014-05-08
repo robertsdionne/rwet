@@ -5,7 +5,7 @@ Scripts:
 * run.sh: activates the virtualenv environment, preprocesses texts and generates poems.
 
 Four programs:
-* [cleanup_text.py](https://github.com/robertsdionne/rwet/tree/master/midterm#cleanup_textpy)
+* [distance.py](https://github.com/robertsdionne/rwet/tree/master/midterm#cleanup_textpy)
     * [example](https://github.com/robertsdionne/rwet/tree/master/midterm#example)
 * [cmudict_to_json.py](https://github.com/robertsdionne/rwet/tree/master/midterm#cmudict_to_jsonpy)
     * [example](https://github.com/robertsdionne/rwet/tree/master/midterm#example-1)
@@ -19,20 +19,30 @@ Three generated poems:
 * [f39v_rosettastone](http://robertsdionne.github.io/rwet/midterm/f39v_rosettastone.html)
 * [f81r_odyssey](http://robertsdionne.github.io/rwet/midterm/f81r_odyssey.html)
 
-## cleanup_text.py
+## distance.py
 
 Cleanup_text.py reads a text from standard input, joins all lines together and then splits newlines
 after punctuation such as period (.), exclamation (!), question (?), comma (,), dash (-), colon (:)
 and semicolon (;), before printing the modified text to standard output.
 
 ```bash
-$ ./cleanup_text.py --help
-usage: cleanup_text.py [-h]
+$ ./distance.py --help
+usage: distance.py [-h] [--number NUMBER] --vocabulary VOCABULARY --vectors
+                   VECTORS [-p PROBABILITY] [--html]
 
-Cleans up a source text by splitting on punctuation instead of original lines
+Find the nearest words to sums of pairs of words from a couplet of an original
+text.
 
 optional arguments:
-  -h, --help  show this help message and exit
+  -h, --help            show this help message and exit
+  --number NUMBER       the number of similar words
+  --vocabulary VOCABULARY
+                        the input vocabulary text file
+  --vectors VECTORS     the input numpy vector binary file
+  -p PROBABILITY, --probability PROBABILITY
+                        the probability parameter for the geometric
+                        distribution for choosing words
+  --html                whether to output html
 ```
 
 ### Example
@@ -45,16 +55,16 @@ What time.
 Such food.
 ```
 
-## cmudict_to_json.py
+## pair.py
 
 Cmudict_to_json.py reads a cmudict specification from standard for word pronunciations from standard
 input and outputs equivalent JSON to standard output.
 
 ```bash
-$ ./cmudict_to_json.py --help
-usage: cmudict_to_json.py [-h]
+$ ./pair.py --help
+usage: pair.py [-h]
 
-Converts cmudict to JSON format
+Chooses two neighboring non-empty lines at random.
 
 optional arguments:
   -h, --help  show this help message and exit
@@ -83,20 +93,26 @@ WHATEVER W HH AE0 T EH1 V ER0
 }
 ```
 
-## process_voynich.py
+## prepare_data.py
 
 Process_voynich.py reads a Voynich manuscript transcription from standard input and extracts one
 transcription for each line to print to standard output, translating all special markers into
 spaces.
 
 ```bash
-$ ./process_voynich.py --help
-usage: process_voynich.py [-h]
+$ ./prepare_data.py --help
+usage: prepare_data.py [-h] --input INPUT --vocabulary VOCABULARY --vectors
+                       VECTORS
 
-Reads a single transcription from Voynich manuscript data files
+Converts word2vec data to a vocabulary text file and a numpy vector binary
+file.
 
 optional arguments:
-  -h, --help  show this help message and exit
+  -h, --help            show this help message and exit
+  --input INPUT         the word2vec data file
+  --vocabulary VOCABULARY
+                        the output vocabulary text file
+  --vectors VECTORS     the output numpy vector binary file
 ```
 
 ### Example
@@ -123,20 +139,18 @@ argument and a source text providing possible translations from the --source arg
 may be either text or HTML formatted.
 
 ```bash
-$ ./translate.py --help
-usage: translate.py [-h] -d DICTIONARY [--html] [-i IMAGE] [-s SOURCE]
+$ ./query.py --help
+usage: query.py [-h] [--number NUMBER] --vocabulary VOCABULARY --vectors
+                VECTORS
 
-Translates a manuscript into rhythmically plausible lines from source text
+Find the nearest words.
 
 optional arguments:
   -h, --help            show this help message and exit
-  -d DICTIONARY, --dictionary DICTIONARY
-                        the pronunciation dictionary
-  --html                output to html
-  -i IMAGE, --image IMAGE
-                        the html image to precede the text
-  -s SOURCE, --source SOURCE
-                        the source text
+  --number NUMBER       the number of similar words
+  --vocabulary VOCABULARY
+                        the input vocabulary text file
+  --vectors VECTORS     the input numpy vector binary file
 ```
 
 ### Example
@@ -152,4 +166,16 @@ ULYSSES ORDERED THEM ABOUT AND MADE THEM DO THEIR WORK QUICKLY, (10)
 
 sory ckhar o r y kair chtaiin shar are cthar cthar dan
 AND THE BOWLS IN WHICH HE WAS MIXING WINE FELL FROM HIS HANDS, (6)
+```
+
+## sentences.py
+
+```bash
+$ ./sentences.py --help
+usage: sentences.py [-h]
+
+Prints the sentences in the text on standard input.
+
+optional arguments:
+  -h, --help  show this help message and exit
 ```
