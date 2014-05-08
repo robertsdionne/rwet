@@ -151,7 +151,7 @@ red fruit flowers yellow white green dried purple colored chocolate
 
 ## sentences.py
 
-### Example
+Sentences.py reads in a file and outputs each sentence from the file in order using TextBlob.
 
 ```bash
 $ ./sentences.py --help
@@ -161,4 +161,16 @@ Prints the sentences in the text on standard input.
 
 optional arguments:
   -h, --help  show this help message and exit
+```
+
+### Example
+
+```bash
+$ cat | ./sentences.py
+I am going to the store. Would you like to come with me? Okay.
+```
+```
+I am going to the store.
+Would you like to come with me?
+Okay.
 ```
