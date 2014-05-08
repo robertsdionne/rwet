@@ -65,8 +65,7 @@ you?  yourself myself
 
 ## pair.py
 
-Cmudict_to_json.py reads a cmudict specification from standard for word pronunciations from standard
-input and outputs equivalent JSON to standard output.
+Pair.py prints two randomly selected neighboring lines from the input file.
 
 ```bash
 $ ./pair.py --help
@@ -81,24 +80,15 @@ optional arguments:
 ### Example
 
 ```bash
-$ ./cmudict_to_json.py 
-;;; this is a comment
-WHATEVER W HH AE0 T EH1 V ER0
+$ cat | ./pair.py 
+One.
+Two.
+Three.
+Four.
 ```
-```json
-{
-  "whatever": [
-    [
-      "W", 
-      "HH", 
-      "AE0", 
-      "T", 
-      "EH1", 
-      "V", 
-      "ER0"
-    ]
-  ]
-}
+```
+Three.
+Four.
 ```
 
 ## prepare_data.py
